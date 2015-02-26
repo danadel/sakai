@@ -786,6 +786,11 @@
 									#end
 								#end
 								#end
+								#if ( $userSubmission.changeGroup )
+									<div class="highlight">
+										$tlang.getString("gen.changeGroup")
+									</div>
+								#end
 							</td>
 							<td headers="submitted">
 									#if ($!submission)

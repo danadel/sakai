@@ -21,6 +21,7 @@
 
 package org.sakaiproject.assignment.api;
 
+import java.util.Collection;
 import java.util.List;
 
 import org.sakaiproject.entity.api.Entity;
@@ -287,6 +288,19 @@ public interface AssignmentSubmission extends Entity
      * @return error string, if any, returned from review service
      */
     public String getReviewError();
+    
+    /**
+     * 
+     * Access the groups defined for this assignment.
+     * 
+     * @return A Collection (String) of group refs (authorization group ids) defined for this message; empty if none are defined.
+     */
+    public Collection getGroups();
+    	
+    /**
+     * Method to set the groups allow the user when it sends this submission
+     */
+    public void setGroups(Collection groups);
 
 	/**
 	 * Return a list of objects containing the ContentReviewResults	--bbailla2

@@ -4736,6 +4736,28 @@ public abstract class BaseAssignmentService implements AssignmentService, Entity
 				// Step 1: get group if any that is selected
 				rvUsers = getSelectedGroupUsers(allOrOneGroup, contextString, a, allowAddSubmissionUsers);
 
+
+				// Step 1b: get all submissions made for this assignment, although the user's group has changed  
+				List<AssignmentSubmission> submissions = getSubmissions(a);
+									
+				for (AssignmentSubmission s : submissions) {
+					if (!s.getGroups().isEmpty()) {
+						Collection<String> groups = s.getGroups();
+						if (allOrOneGroup == null || "all".equals(allOrOneGroup) || groups.contains(allOrOneGroup)) {
+							User user;
+							try {
+								user = UserDirectoryService.getUser((String)s.getSubmitterIds().get(0));
+								if (!rvUsers.contains(user))
+									rvUsers.add(user);
+							} catch (UserNotDefinedException e) {
+								M_log.error(e.getMessage());
+							}
+							
+							break;
+						}
+					}
+				}
+
 				// Step 2: get all student that meets the search criteria based on previous group users. If search is null or empty string, return all users.
 				rvUsers = getSearchedUsers(searchString, rvUsers, true);
 			}
@@ -10104,6 +10126,9 @@ public abstract class BaseAssignmentService implements AssignmentService, Entity
 		protected String m_reviewStatus;
 		
 		protected String m_reviewIconUrl;
+		
+		/** The Collection of groups (authorization group id strings when the user did this submission). */
+		protected Collection m_groups = new ArrayList();
 
         protected String m_reviewError;
 		
@@ -10611,6 +10636,7 @@ public abstract class BaseAssignmentService implements AssignmentService, Entity
 			{
 				m_graded = Boolean.valueOf(graded).booleanValue();
 			}
+			m_groups = new ArrayList();
 		}
 
 		
@@ -10847,6 +10873,10 @@ public abstract class BaseAssignmentService implements AssignmentService, Entity
 						m_feedbackText = "";
 					}
 				}
+				// look for an group
+				else if (element.getTagName().equals("group")) {
+					m_groups.add(element.getAttribute("authzGroup"));
+				}
 			}
 
 		
@@ -11063,6 +11093,12 @@ public abstract class BaseAssignmentService implements AssignmentService, Entity
 							
 							entity = thisEntity;
 						}
+						else if (GROUP_LIST.equals(qName)) {
+							String groupRef = attributes.getValue(GROUP_NAME);
+							if (groupRef != null) {
+								m_groups.add(groupRef);
+							}
+						}
 					}
 				}
 			};
@@ -11197,6 +11233,16 @@ public abstract class BaseAssignmentService implements AssignmentService, Entity
 
 			if (M_log.isDebugEnabled()) M_log.debug(this + " BaseAssignmentSubmission: SAVED SUBMITTED ATTACHMENTS");
 
+			// add groups
+			if ((m_groups != null) && (m_groups.size() > 0)) {
+				for (Iterator i = m_groups.iterator(); i.hasNext();) {
+					String group = (String) i.next();
+					Element sect = doc.createElement("group");
+					submission.appendChild(sect);
+					sect.setAttribute("authzGroup", group);
+				}
+			}
+			
 			// SAVE THE PROPERTIES
 			m_properties.toXml(doc, stack);
 			stack.pop();
@@ -11249,6 +11295,7 @@ public abstract class BaseAssignmentService implements AssignmentService, Entity
 			m_honorPledgeFlag = submission.getHonorPledgeFlag();
 			m_properties = new BaseResourcePropertiesEdit();
 			m_properties.addAll(submission.getProperties());
+			m_groups = submission.getGroups();
                         
                         // SAK-17606
                         m_anonymousSubmissionId = submission.getAnonymousSubmissionId();
@@ -12071,6 +12118,20 @@ public abstract class BaseAssignmentService implements AssignmentService, Entity
 				return this.getId().substring(27) + " (" + anonTitle + ")";
 		}
 		
+		/**
+		 * @inheritDoc
+		 */
+		public Collection getGroups() {
+			return new ArrayList(m_groups);
+		}
+		
+		/**
+		 * @inheritDoc
+		 */
+		public void setGroups(Collection groups) {
+			m_groups.addAll(groups);
+		}
+
 	} // AssignmentSubmission
 	
 	/***************************************************************************

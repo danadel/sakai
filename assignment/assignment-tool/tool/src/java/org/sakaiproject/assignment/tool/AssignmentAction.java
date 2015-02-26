@@ -4710,7 +4710,6 @@ public class AssignmentAction extends PagedResourceActionII
 								}
 							}
 						}
-
 					}
 					else if ("remove".equals(updateRemoveSubmission))
 					{
@@ -5994,6 +5993,29 @@ public class AssignmentAction extends PagedResourceActionII
 									sEdit.addSubmittedAttachment((Reference) it.next());
 								}
 							}
+							
+							if (a.getGroups() != null && a.getGroups().size() > 0) 
+							{
+								// Get the groups in which is enrolled the user
+								Collection<String> groupRefs = new ArrayList();
+								try {
+									Site site = SiteService.getSite(contextString);
+									Collection<Group> groups = site.getGroups();
+									
+									for (Group group : groups) {
+										groupRefs.add(group.getReference());
+									}
+										
+									// ask the authzGroup service to filter them down based on function
+									groupRefs = AuthzGroupService.getAuthzGroupsIsAllowed(u.getId(), 
+											AssignmentService.SECURE_ADD_ASSIGNMENT_SUBMISSION, groupRefs);
+									
+								} catch (IdUnusedException e) {
+									M_log.error("Error getting the site: " + e.getMessage());
+								}
+								
+								sEdit.setGroups(groupRefs);
+							}
 						}
 
 						// SAK-26322 - add inline as an attachment for the content review service	--bbailla2
@@ -6043,6 +6065,29 @@ public class AssignmentAction extends PagedResourceActionII
 							edit.setTimeSubmitted(TimeService.newTime());
 							edit.setSubmitted(post);
 							edit.setAssignment(a);
+							if (!AssignmentService.allowAddAssignment(contextString)
+									&& a.getGroups() != null && a.getGroups().size() > 0) 
+							{
+								// Get the groups in which is enrolled the user
+								Collection<String> groupRefs = new ArrayList();
+								try {
+									Site site = SiteService.getSite(contextString);
+									Collection<Group> groups = site.getGroups();
+									
+									for (Group group : groups) {
+										groupRefs.add(group.getReference());
+									}
+										
+									// ask the authzGroup service to filter them down based on function
+									groupRefs = AuthzGroupService.getAuthzGroupsIsAllowed(u.getId(), 
+											AssignmentService.SECURE_ADD_ASSIGNMENT_SUBMISSION, groupRefs);
+									
+								} catch (IdUnusedException e) {
+									M_log.error("Error getting the site: " + e.getMessage());
+								}
+								
+								edit.setGroups(groupRefs);
+							}
 	                        ResourcePropertiesEdit sPropertiesEdit = edit.getPropertiesEdit();
 	
 							// add attachments
@@ -12282,11 +12327,16 @@ public class AssignmentAction extends PagedResourceActionII
 		 * the AssignmentSubmission object
 		 */
 		User m_submittedBy = null;
-
-		public SubmitterSubmission(User u, AssignmentSubmission s)
-		{
+		
+		/**
+		 * flag set when the user has changed your group
+		 */
+		boolean m_changeGroup = false;
+						
+		public SubmitterSubmission(User u, AssignmentSubmission s, boolean c)		{
 			m_user = u;
 			m_submission = s;
+			m_changeGroup = c;
 		}
 
 		public SubmitterSubmission(Group g, AssignmentSubmission s)
@@ -12336,6 +12386,14 @@ public class AssignmentAction extends PagedResourceActionII
 		    m_multi_group = _multi;
 		}
 
+		/**
+		 * Returns if the user did this submission when he was in other group
+		 */
+		public boolean getChangeGroup() 
+		{
+			return m_changeGroup;
+		}
+		
 		public String getGradeForUser(String id) {
 		    String grade = getSubmission() == null ? null: getSubmission().getGradeForUser(id);
 		    if (grade != null 
@@ -13513,7 +13571,7 @@ public class AssignmentAction extends PagedResourceActionII
 												if (member != null && member.isActive()) {
 													// only include the active student submission
 													// conder TODO create temporary submissions
-													SubmitterSubmission _new_sub = new SubmitterSubmission(_users[m], s);
+													SubmitterSubmission _new_sub = new SubmitterSubmission(_users[m], s, false);
 													_new_sub.setGroup(site.getGroup(s.getSubmitterId()));
 													if (_dupUsers.size() > 0 && _dupUsers.contains(_users[m].getId())) {
 														_new_sub.setMultiGroup(true);
@@ -13530,7 +13588,7 @@ public class AssignmentAction extends PagedResourceActionII
 													// only include the active student submission
 													try
 													{
-														SubmitterSubmission _new_sub = new SubmitterSubmission(UserDirectoryService.getUser(s.getSubmitterId()), s);
+														SubmitterSubmission _new_sub = new SubmitterSubmission(UserDirectoryService.getUser(s.getSubmitterId()), s, false);
 														submissions.add(_new_sub);
 													}
 													catch (UserNotDefinedException e)
@@ -13610,13 +13668,40 @@ public class AssignmentAction extends PagedResourceActionII
 			        //List<String> submitterIds = AssignmentService.getSubmitterIdList(searchFilterOnly.toString(), allOrOneGroup, search, aRef, contextString);
 					Map<User, AssignmentSubmission> submitters = AssignmentService.getSubmitterMap(searchFilterOnly.toString(), allOrOneGroup, search, aRef, contextString);
 
+					// Get the site's groups in which is enrolled the user
+					Collection<String> groupRefsSite = new ArrayList();
+					
+					try {
+						Site site = SiteService.getSite(contextString);
+						Collection<Group> groups = site.getGroups();
+						
+						for (Group group : groups) {
+							groupRefsSite.add(group.getReference());
+						}
+					} catch (IdUnusedException e1) {
+						M_log.warn(this + ".sizeResources: looking for submission for unused assignment id " + aRef + e1.getMessage());
+					}
+					
 			        // construct the user-submission list
 					for (User u : submitters.keySet())
 					{
 						String uId = u.getId();
 
 						AssignmentSubmission sub = submitters.get(u);
-						SubmitterSubmission us = new SubmitterSubmission(u, sub);
+						
+						boolean changeGroup = false;
+						
+						// Get the groups in which is enrolled the user. Ask the authzGroup service to filter them down based on function
+						Collection<String> groupRefs = new ArrayList();
+						groupRefs = AuthzGroupService.getAuthzGroupsIsAllowed(uId, 
+								AssignmentService.SECURE_ADD_ASSIGNMENT_SUBMISSION, groupRefsSite);
+						
+						if (!sub.getGroups().isEmpty() && !sub.getGroups().contains(groupRefs)) {
+							changeGroup = true;
+						}
+																				
+						SubmitterSubmission us = new SubmitterSubmission(u, sub, changeGroup);
+						
 						String submittedById = (String)sub.getProperties().get(AssignmentSubmission.SUBMITTER_USER_ID);
 						if ( submittedById != null) {
 							try {
