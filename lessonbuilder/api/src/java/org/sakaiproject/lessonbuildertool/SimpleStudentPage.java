@@ -27,6 +27,10 @@ public interface SimpleStudentPage {
     // no longer used, but left in to ease transitions
 
 //prueba para el commit
+
+//prueba para el commit 2
+
+
         public boolean isGroupOwned();
         public void setGroupOwned(Boolean g);
 
