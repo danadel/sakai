@@ -498,9 +498,13 @@ a.hideDivision {
 }
 
 .mcAnswerText {
-	/*display:inline-table;*/
+	display:inline-table;
 	width: 80%;
 	float:unset;
+}
+/* Someone put a paragraph in a multiple choice answer */
+.mcAnswerText p {
+    margin: 0 0 1em 0;
 }
 
 .mcColumn1 {
@@ -1001,6 +1005,10 @@ div.collapse {
     background: url('/library/image/sakai/expand.gif') no-repeat left !important;
 }
 
+div.multiple_editor {
+	float:right;
+  	clear:left;
+}
 td.releaseTo div.alertMessage {
     width: auto;
 }
