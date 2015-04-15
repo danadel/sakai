@@ -288,12 +288,12 @@ public abstract class DbAuthzGroupService extends BaseAuthzGroupService implemen
 	{
 		refreshScheduler.shutdown();
 
-		authzUserGroupIdsCache.destroy();
+		authzUserGroupIdsCache.close();
 
 		// done with event watching
 		eventTrackingService().deleteObserver(this);
 
-        maintainRolesCache.destroy();
+        maintainRolesCache.close();
 
 		M_log.info(this +".destroy()");
 	}
@@ -2390,7 +2390,7 @@ public abstract class DbAuthzGroupService extends BaseAuthzGroupService implemen
 		/**
 		 * {@inheritDoc}
 		 */
-		public void refreshUser(String userId, Map providerGrants)
+		public void refreshUser(String userId, Map<String, String> providerGrants)
 		{
 			if (userId == null) return;
 
@@ -2475,9 +2475,8 @@ public abstract class DbAuthzGroupService extends BaseAuthzGroupService implemen
 				sql = dbAuthzGroupSql.getSelectRealmProviderSql(orInClause(providerGrants.size(), "SRP.PROVIDER_ID"));
 				Object[] fieldsx = new Object[providerGrants.size()];
 				int pos = 0;
-				for (Iterator f = providerGrants.keySet().iterator(); f.hasNext();)
+				for (String providerId : providerGrants.keySet())
 				{
-					String providerId = (String) f.next();
 					fieldsx[pos++] = providerId;
 				}
 				List<RealmAndProvider> realms = m_sql.dbRead(sql, fieldsx, new SqlReader()
@@ -2501,7 +2500,7 @@ public abstract class DbAuthzGroupService extends BaseAuthzGroupService implemen
 				{
 					for (RealmAndProvider rp : realms)
 					{
-						String role = (String) providerGrants.get(rp.providerId);
+						String role = providerGrants.get(rp.providerId);
 						if (role != null)
 						{
 							if (target.containsKey(rp.realmId))
@@ -2631,10 +2630,6 @@ public abstract class DbAuthzGroupService extends BaseAuthzGroupService implemen
 			Map<String,String> target = m_provider.getUserRolesForGroup(realm.getProviderGroupId());
 
 			// read the realm's grants
-			sql = dbAuthzGroupSql.getSelectRealmRoleGroup4Sql();
-			Object[] fields = new Object[1];
-			fields[0] = caseId(realm.getId());
-
 			List<UserAndRole> grants = getGrants(realm);
 
 			// make a map, user id -> role granted, each for provider and non-provider (or inactive)
@@ -2837,7 +2832,7 @@ public abstract class DbAuthzGroupService extends BaseAuthzGroupService implemen
 
 				// delete
 				sql = dbAuthzGroupSql.getDeleteRealmRoleGroup4Sql();
-				fields = new Object[2];
+				Object[] fields = new Object[2];
 				fields[0] = caseId(realm.getId());
 				for (String userId : toDelete)
 				{
@@ -2867,7 +2862,7 @@ public abstract class DbAuthzGroupService extends BaseAuthzGroupService implemen
 
 		private List<UserAndRole> getGrants(AuthzGroup realm) {
 			// read the realm's grants
-			String sql = dbAuthzGroupSql.getSelectRealmRoleGroup4Sql();
+			String sql = dbAuthzGroupSql.getSelectRealmRoleGroup2Sql();
 			Object[] fields = new Object[1];
 			fields[0] = caseId(realm.getId());
 

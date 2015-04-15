@@ -2475,14 +2475,14 @@ public class AssignmentAction extends PagedResourceActionII
 		context.put("value_AllowStudentView", state.getAttribute(NEW_ASSIGNMENT_ALLOW_STUDENT_VIEW) == null ? Boolean.toString(ServerConfigurationService.getBoolean("turnitin.allowStudentView.default", false)) : state.getAttribute(NEW_ASSIGNMENT_ALLOW_STUDENT_VIEW));
 		
 		List<String> subOptions = getSubmissionRepositoryOptions();
-		String submitRadio = ServerConfigurationService.getString("turnitin.repository.setting.value",null) == null ? NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_NONE : ServerConfigurationService.getString("turnitin.repository.setting.value");
+		String submitRadio = ServerConfigurationService.getString("turnitin.repository.setting.value", "");
 		if(state.getAttribute(NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_RADIO) != null && subOptions.contains(state.getAttribute(NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_RADIO)))
 			submitRadio = state.getAttribute(NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_RADIO).toString();		
 		context.put("value_NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_RADIO", submitRadio);
 		context.put("show_NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT", subOptions);
 		
 		List<String> reportGenOptions = getReportGenOptions();
-		String reportRadio = ServerConfigurationService.getString("turnitin.report_gen_speed.setting.value", null) == null ? NEW_ASSIGNMENT_REVIEW_SERVICE_REPORT_IMMEDIATELY : ServerConfigurationService.getString("turnitin.report_gen_speed.setting.value");
+		String reportRadio = ServerConfigurationService.getString("turnitin.report_gen_speed.setting.value", NEW_ASSIGNMENT_REVIEW_SERVICE_REPORT_IMMEDIATELY);
 		if(state.getAttribute(NEW_ASSIGNMENT_REVIEW_SERVICE_REPORT_RADIO) != null && reportGenOptions.contains(state.getAttribute(NEW_ASSIGNMENT_REVIEW_SERVICE_REPORT_RADIO)))
 			reportRadio = state.getAttribute(NEW_ASSIGNMENT_REVIEW_SERVICE_REPORT_RADIO).toString();	
 		context.put("value_NEW_ASSIGNMENT_REVIEW_SERVICE_REPORT_RADIO", reportRadio);
@@ -4611,9 +4611,9 @@ public class AssignmentAction extends PagedResourceActionII
 				Assignment a = getAssignment(assignmentRef, "integrateGradebook", state);
 				if (a != null)
 				{
+					String propAddToGradebook = a.getProperties().getProperty(NEW_ASSIGNMENT_ADD_TO_GRADEBOOK);
 					if ("update".equals(updateRemoveSubmission)
-							&& a.getProperties().getProperty(NEW_ASSIGNMENT_ADD_TO_GRADEBOOK) != null
-							&& !a.getProperties().getProperty(NEW_ASSIGNMENT_ADD_TO_GRADEBOOK).equals(AssignmentService.GRADEBOOK_INTEGRATION_NO)
+							&& (StringUtils.equals( propAddToGradebook, AssignmentService.GRADEBOOK_INTEGRATION_ADD) || StringUtils.equals( propAddToGradebook, AssignmentService.GRADEBOOK_INTEGRATION_ASSOCIATE))
 							&& a.getContent().getTypeOfGrade() == Assignment.SCORE_GRADE_TYPE)
 					{
 						if (submissionRef == null)
@@ -6696,8 +6696,13 @@ public class AssignmentAction extends PagedResourceActionII
 		
 		//set submit options
 		r = params.getString(NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_RADIO);
-		if(r == null || (!NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_STANDARD.equals(r) && !NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_INSITUTION.equals(r)))
-			r = NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_NONE;
+		if (r == null && Boolean.TRUE.toString().equals(state.getAttribute(NEW_ASSIGNMENT_USE_REVIEW_SERVICE))) {
+			addAlert(state, rb.getString("review.submit.papers.repository.notset"));
+		} else {
+			if(!NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_STANDARD.equals(r) && !NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_INSITUTION.equals(r)) {
+				r = NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_NONE;
+			}
+		}
 		state.setAttribute(NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_RADIO, r);
 		//set originality report options
 		r = params.getString(NEW_ASSIGNMENT_REVIEW_SERVICE_REPORT_RADIO);
@@ -8936,14 +8941,15 @@ public class AssignmentAction extends PagedResourceActionII
         }
         try {
             contentReviewService.createAssignment(assign.getContext(), assignmentRef, opts);
-			return true;
+            return true;
         } catch (Exception e) {
             M_log.error(e);
-			String uiService = ServerConfigurationService.getString("ui.service", "Sakai");
-			String[] args = new String[]{contentReviewService.getServiceName(), uiService};
+            String uiService = ServerConfigurationService.getString("ui.service", "Sakai");
+            String supportEmail = ServerConfigurationService.getString("mail.support", null);
+            String[] args = new String[]{contentReviewService.getServiceName(), uiService, supportEmail};
             state.setAttribute("alertMessage", rb.getFormattedMessage("content_review.error.createAssignment", args));
         }
-		return false;
+        return false;
     }
 	
 
@@ -11803,6 +11809,8 @@ public class AssignmentAction extends PagedResourceActionII
 
 		state.removeAttribute(NEW_ASSIGNMENT_DESCRIPTION_EMPTY);
 
+		state.removeAttribute(NEW_ASSIGNMENT_REVIEW_SERVICE_SUBMIT_RADIO);
+
 		// reset the global navigaion alert flag
 		if (state.getAttribute(ALERT_GLOBAL_NAVIGATION) != null)
 		{
@@ -11840,7 +11848,7 @@ public class AssignmentAction extends PagedResourceActionII
 		// SAK-17606
 		state.removeAttribute(NEW_ASSIGNMENT_CHECK_ANONYMOUS_GRADING);
 
-	} // resetNewAssignment
+	} // initializeAssignment
 	
 	/**
 	 * reset the attributes for assignment
