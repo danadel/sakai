@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/models
+END
+DetachableGalleryImageModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/models/DetachableGalleryImageModel.java
+END
+DetachableMessageModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/models/DetachableMessageModel.java
+END
+DetachablePersonModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/models/DetachablePersonModel.java
+END
+DetachableStringModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/models/DetachableStringModel.java
+END
+FriendAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/models/FriendAction.java
+END
+StringModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/models/StringModel.java
+END
+DetachableMessageThreadModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/models/DetachableMessageThreadModel.java
+END
+DetachableWallItemModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/models/DetachableWallItemModel.java
+END
+WallAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/models/WallAction.java
+END
+NewMessageModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/models/NewMessageModel.java
+END

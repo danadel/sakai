@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-authz-synchronizer/src/java/org/sakaiproject/coursemanagement/sample
+END
+CourseManagementAuthzSynchronizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-authz-synchronizer/src/java/org/sakaiproject/coursemanagement/sample/CourseManagementAuthzSynchronizer.java
+END
+CourseManagementAuthzQuartzJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-authz-synchronizer/src/java/org/sakaiproject/coursemanagement/sample/CourseManagementAuthzQuartzJob.java
+END

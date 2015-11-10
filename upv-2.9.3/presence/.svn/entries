@@ -1,0 +1,77 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/presence
+https://source.sakaiproject.org/svn
+
+
+
+2013-12-04T14:35:38.273063Z
+132193
+vacercon@upvnet.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+presence-api
+dir
+
+presence-tool
+dir
+
+presence-util
+dir
+
+presence-assembly
+dir
+
+presence-impl
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:46:49.196249Z
+7650862fe73e840e443252bb71305773
+2013-08-21T02:03:42.896853Z
+128779
+cle-release-team@collab.sakaiproject.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2183
+

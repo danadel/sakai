@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/130335/msub/upv.es/PoliformaT/upv-2.9.3/shortenedurl/docs/database/mysql
+END
+shortenedurl-ddl-1.0.0-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130335/msub/upv.es/PoliformaT/upv-2.9.3/shortenedurl/docs/database/mysql/shortenedurl-ddl-1.0.0-mysql.sql
+END
+shortenedurl-indexes-only-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130335/msub/upv.es/PoliformaT/upv-2.9.3/shortenedurl/docs/database/mysql/shortenedurl-indexes-only-mysql.sql
+END

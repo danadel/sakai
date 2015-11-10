@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm
+END
+lti_tool_site.vm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_tool_site.vm
+END
+lti_tool_insert.vm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_tool_insert.vm
+END
+lti_link_add.vm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_link_add.vm
+END
+lti_tool_view.vm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_tool_view.vm
+END
+lti_link_remove.vm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_link_remove.vm
+END
+lti_content.vm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_content.vm
+END
+lti_mapping_delete.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_mapping_delete.vm
+END
+lti_test.vm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_test.vm
+END
+lti_mapping_insert.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_mapping_insert.vm
+END
+lti_top_refresh.vm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_top_refresh.vm
+END
+lti_tool_system.vm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_tool_system.vm
+END
+lti_error.vm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_error.vm
+END
+lti_mapping.vm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_mapping.vm
+END
+lti_content_redirect.vm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_content_redirect.vm
+END
+lti_content_delete.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_content_delete.vm
+END
+lti_content_insert.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_content_insert.vm
+END
+lti_tool_delete.vm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_tool_delete.vm
+END
+lti_content_config.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-tool/src/webapp/vm/lti_content_config.vm
+END

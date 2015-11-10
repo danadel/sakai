@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver
+END
+Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/Record.java
+END
+Asset.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/Asset.java
+END
+VolumePartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/VolumePartStructure.java
+END
+Repository.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/Repository.java
+END
+InLineCitationPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/InLineCitationPartStructure.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/Type.java
+END
+SearchProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/SearchProperties.java
+END
+DOIPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/DOIPartStructure.java
+END
+URLFormatPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/URLFormatPartStructure.java
+END
+RecordIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/RecordIterator.java
+END
+AssetIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/AssetIterator.java
+END
+TypePartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/TypePartStructure.java
+END
+RepositoryIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/RepositoryIterator.java
+END
+MetasearchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/MetasearchException.java
+END
+LanguagePartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/LanguagePartStructure.java
+END
+TypeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/TypeIterator.java
+END
+OpenUrlPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/OpenUrlPartStructure.java
+END
+Managers.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/Managers.java
+END
+RecordStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/RecordStructure.java
+END
+DateRetrievedPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/DateRetrievedPartStructure.java
+END
+IssuePartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/IssuePartStructure.java
+END
+CitationRegex.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/CitationRegex.java
+END
+PublisherPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/PublisherPartStructure.java
+END
+PropertiesIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/PropertiesIterator.java
+END
+Part.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/Part.java
+END
+CreatorPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/CreatorPartStructure.java
+END
+SubjectPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/SubjectPartStructure.java
+END
+RecordStructureIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/RecordStructureIterator.java
+END
+PublicationLocationPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/PublicationLocationPartStructure.java
+END
+SourceTitlePartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/SourceTitlePartStructure.java
+END
+RepositoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/RepositoryManager.java
+END
+URLLabelPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/URLLabelPartStructure.java
+END
+PartIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/PartIterator.java
+END
+ObjectIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/ObjectIterator.java
+END
+DatePartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/DatePartStructure.java
+END
+SearchStatusProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/SearchStatusProperties.java
+END
+LocIdentifierPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/LocIdentifierPartStructure.java
+END
+PartStructureIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/PartStructureIterator.java
+END
+AssetPresentationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/AssetPresentationBean.java
+END
+StartPagePartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/StartPagePartStructure.java
+END
+EditionPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/EditionPartStructure.java
+END
+IsnIdentifierPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/IsnIdentifierPartStructure.java
+END
+LongValueIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/LongValueIterator.java
+END
+PagesPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/PagesPartStructure.java
+END
+RightsPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/RightsPartStructure.java
+END
+YearPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/YearPartStructure.java
+END
+PreferredUrlPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/PreferredUrlPartStructure.java
+END
+URLPartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/URLPartStructure.java
+END
+EndPagePartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/EndPagePartStructure.java
+END
+NotePartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/osid/repository/xserver/NotePartStructure.java
+END

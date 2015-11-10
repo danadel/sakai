@@ -1,0 +1,551 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services
+END
+GetRoomTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomTypes.java
+END
+AddRoomWithModerationAndQuestions.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoomWithModerationAndQuestions.java
+END
+CloseRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/CloseRoom.java
+END
+GetRoomIdByExternalId.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomIdByExternalId.java
+END
+AddMeetingMemberRemindToRoomResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddMeetingMemberRemindToRoomResponse.java
+END
+RoomServiceCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/RoomServiceCallbackHandler.java
+END
+AddUserToOrganisation.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddUserToOrganisation.java
+END
+UserServiceMessageReceiverInOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/UserServiceMessageReceiverInOut.java
+END
+GetUsersByOrganisation.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetUsersByOrganisation.java
+END
+GetErrorByCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetErrorByCode.java
+END
+GetRoomTypesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomTypesResponse.java
+END
+AddRoomWithModerationAndQuestionsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoomWithModerationAndQuestionsResponse.java
+END
+CloseRoomResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/CloseRoomResponse.java
+END
+SetUserObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SetUserObject.java
+END
+GetRoomIdByExternalIdResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomIdByExternalIdResponse.java
+END
+AddRoomWithModerationAndExternalTypeAndStartEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoomWithModerationAndExternalTypeAndStartEnd.java
+END
+AddRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoom.java
+END
+AddUserToOrganisationResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddUserToOrganisationResponse.java
+END
+GetUsersByOrganisationResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetUsersByOrganisationResponse.java
+END
+GetRoomWithClientObjectsById.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomWithClientObjectsById.java
+END
+AddRoomWithModerationAndExternalType.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoomWithModerationAndExternalType.java
+END
+GetErrorByCodeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetErrorByCodeResponse.java
+END
+SetUserObjectAndGenerateRoomHashByURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SetUserObjectAndGenerateRoomHashByURL.java
+END
+GetRooms.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRooms.java
+END
+DeleteRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/DeleteRoom.java
+END
+SetUserObjectResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SetUserObjectResponse.java
+END
+AddNewUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddNewUser.java
+END
+GetSessionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetSessionResponse.java
+END
+AddRoomWithModerationAndExternalTypeAndStartEndResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoomWithModerationAndExternalTypeAndStartEndResponse.java
+END
+SendInvitationHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SendInvitationHash.java
+END
+AddRoomWithModeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoomWithModeration.java
+END
+AddRoomResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoomResponse.java
+END
+RoomServiceMessageReceiverInOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/RoomServiceMessageReceiverInOut.java
+END
+GetRoomsWithCurrentUsersByList.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomsWithCurrentUsersByList.java
+END
+GetRoomWithClientObjectsByIdResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomWithClientObjectsByIdResponse.java
+END
+AddRoomWithModerationAndExternalTypeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoomWithModerationAndExternalTypeResponse.java
+END
+UserServiceCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/UserServiceCallbackHandler.java
+END
+SetUserObjectAndGenerateRoomHashByURLResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SetUserObjectAndGenerateRoomHashByURLResponse.java
+END
+GetRoomsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomsResponse.java
+END
+DeleteRoomResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/DeleteRoomResponse.java
+END
+SetUserObjectWithExternalUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SetUserObjectWithExternalUser.java
+END
+AddNewUserResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddNewUserResponse.java
+END
+SetUserObjectAndGenerateRoomHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SetUserObjectAndGenerateRoomHash.java
+END
+GetFlvRecordingByExternalRoomType.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetFlvRecordingByExternalRoomType.java
+END
+SendInvitationHashResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SendInvitationHashResponse.java
+END
+AddRoomWithModerationResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoomWithModerationResponse.java
+END
+GetRoomById.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomById.java
+END
+GetRoomsWithCurrentUsersByListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomsWithCurrentUsersByListResponse.java
+END
+GetInvitationHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetInvitationHash.java
+END
+UpdateRoomWithModerationAndQuestions.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/UpdateRoomWithModerationAndQuestions.java
+END
+GetRoomsWithCurrentUsersByListAndType.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomsWithCurrentUsersByListAndType.java
+END
+UserServiceStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/UserServiceStub.java
+END
+GetRoomsPublic.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomsPublic.java
+END
+SetUserObjectAndGenerateRecordingHashByURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SetUserObjectAndGenerateRecordingHashByURL.java
+END
+SetUserObjectWithExternalUserResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SetUserObjectWithExternalUserResponse.java
+END
+SetUserObjectAndGenerateRoomHashResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SetUserObjectAndGenerateRoomHashResponse.java
+END
+GetFlvRecordingByExternalRoomTypeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetFlvRecordingByExternalRoomTypeResponse.java
+END
+GetRoomByIdResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomByIdResponse.java
+END
+UserServiceSkeleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/UserServiceSkeleton.java
+END
+GetInvitationHashResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetInvitationHashResponse.java
+END
+GetFlvRecordingByExternalRoomTypeByList.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetFlvRecordingByExternalRoomTypeByList.java
+END
+UpdateRoomWithModerationAndQuestionsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/UpdateRoomWithModerationAndQuestionsResponse.java
+END
+GetRoomsWithCurrentUsersByListAndTypeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomsWithCurrentUsersByListAndTypeResponse.java
+END
+GetRoomsPublicResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomsPublicResponse.java
+END
+SetUserObjectAndGenerateRecordingHashByURLResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SetUserObjectAndGenerateRecordingHashByURLResponse.java
+END
+AddRoomWithModerationExternalTypeAndAudioType.java
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoomWithModerationExternalTypeAndAudioType.java
+END
+UpdateRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/UpdateRoom.java
+END
+KickUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/KickUser.java
+END
+GetRoomsWithCurrentUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomsWithCurrentUsers.java
+END
+SendInvitationHashWithDateObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SendInvitationHashWithDateObject.java
+END
+AddRoomWithModerationQuestionsAndAudioType.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoomWithModerationQuestionsAndAudioType.java
+END
+GetFlvRecordingByExternalRoomTypeByListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetFlvRecordingByExternalRoomTypeByListResponse.java
+END
+GetFlvRecordingByRoomId.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetFlvRecordingByRoomId.java
+END
+RoomServiceStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/RoomServiceStub.java
+END
+UpdateRoomWithModeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/UpdateRoomWithModeration.java
+END
+AddRoomWithModerationExternalTypeAndAudioTypeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoomWithModerationExternalTypeAndAudioTypeResponse.java
+END
+UpdateRoomResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/UpdateRoomResponse.java
+END
+KickUserResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/KickUserResponse.java
+END
+GetRoomsWithCurrentUsersResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomsWithCurrentUsersResponse.java
+END
+GetRoomCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomCounters.java
+END
+RoomServiceSkeleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/RoomServiceSkeleton.java
+END
+SendInvitationHashWithDateObjectResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/SendInvitationHashWithDateObjectResponse.java
+END
+AddRoomWithModerationQuestionsAndAudioTypeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddRoomWithModerationQuestionsAndAudioTypeResponse.java
+END
+GetRoomWithCurrentUsersById.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomWithCurrentUsersById.java
+END
+LoginUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/LoginUser.java
+END
+GetFlvRecordingByRoomIdResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetFlvRecordingByRoomIdResponse.java
+END
+UpdateRoomWithModerationResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/UpdateRoomWithModerationResponse.java
+END
+GetRoomCountersResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomCountersResponse.java
+END
+GetRoomWithCurrentUsersByIdResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/GetRoomWithCurrentUsersByIdResponse.java
+END
+LoginUserResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/LoginUserResponse.java
+END
+AddMeetingMemberRemindToRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/openmeetings/src/java/org/sakaiproject/videoconference/openmeetings/service/axis/services/AddMeetingMemberRemindToRoom.java
+END

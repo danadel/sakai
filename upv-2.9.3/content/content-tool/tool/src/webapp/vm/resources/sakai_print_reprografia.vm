@@ -1,0 +1,25 @@
+<!-- sakai_print_reprografia.vm, version: $Revision:  $, use with org.sakaiproject.tool.content.ResourcesAction.java -->
+<div class="portletBody specialLink">
+	#if ($alertMessage)<div class="alertMessage">$clang.getString("gen.alert") $validator.escapeHtml($alertMessage)</div><div style="display:block;clear:both" ></div>#end
+	<h3>
+		$clang.getString("reprografia.print")
+	</h3>
+	<div class="instruction">
+		$clang.getString("reprografia.print.instr1")
+		$clang.getString("reprografia.print.instr2")
+	</div>
+	<div class="highlightPanel">
+		$clang.getString("gen.file") $fileName $clang.getString("gen.size"): $fileSize
+	</div>
+	<form action="#toolForm("ResourcesAction")" name="reprografiaForm" method="post" >
+		<input type="hidden" name="accion" id="accion" value="impresion" />
+		<input type="hidden" name="eventSubmit_doEnviarReprografia" value="" />
+		<input type="hidden" name="sakai_csrf_token" value="$sakai_csrf_token" />
+		<p class ="act">
+			<input type="submit" class="active" onclick="javascript:window.close();" value="$tlang.getString("label.cancel")" accesskey="x" />
+			<input type="submit" class="active" onclick="javascript:showNotif('submitnotif0x','doEnviarReprografia','reprografiaForm'); document.reprografiaForm.submit(); return false;" 
+				name="doEnviarReprografia" value="$tlang.getString("label.continue")" accesskey="s" />
+			<span class="messageProgress"  id="submitnotif0x" style="visibility:hidden">$tlang.getString("processmessage.reprografia")</span>
+		</p>
+	</form>
+</div>

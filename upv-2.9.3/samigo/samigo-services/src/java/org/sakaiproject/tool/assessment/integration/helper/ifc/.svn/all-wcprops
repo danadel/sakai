@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/319874/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/ifc
+END
+GradebookHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/ifc/GradebookHelper.java
+END
+AgentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/ifc/AgentHelper.java
+END
+GradebookServiceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/319874/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/ifc/GradebookServiceHelper.java
+END
+ServerConfigurationServiceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/ifc/ServerConfigurationServiceHelper.java
+END
+SectionAwareServiceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/ifc/SectionAwareServiceHelper.java
+END
+CalendarServiceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/ifc/CalendarServiceHelper.java
+END
+PublishingTargetHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/ifc/PublishingTargetHelper.java
+END

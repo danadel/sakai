@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans
+END
+CommentCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/CommentCreator.java
+END
+GradebookItemBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/GradebookItemBean.java
+END
+AssignmentCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/AssignmentCreator.java
+END
+AssignmentGradeRecordCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/AssignmentGradeRecordCreator.java
+END
+AssignmentGradeRecordBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/AssignmentGradeRecordBean.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/entityproviders
+END
+PollOptionEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/entityproviders/PollOptionEntityProvider.java
+END
+PollVoteEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/entityproviders/PollVoteEntityProvider.java
+END
+PollEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/entityproviders/PollEntityProvider.java
+END

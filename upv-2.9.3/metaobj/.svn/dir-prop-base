@@ -1,0 +1,10 @@
+K 13
+svn:mergeinfo
+V 317
+/metaobj/branches/SAK-17880:83300
+/metaobj/branches/sakai-2.7.x:74572
+/metaobj/trunk:103259,103299,104263,105493,106490,107683-107714,109505-109544,112474,120216
+/msub/iu.edu/oncourse/trunk/metaobj:80894
+/msub/umich.edu/ctools/metaobj/branches/ctools-2.6.x:77158
+/msub/umich.edu/ctools/osp/branches/ctools-2.6.x:77158
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/grading
+END
+GradingServiceAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/grading/GradingServiceAPI.java
+END
+GradebookServiceAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/grading/GradebookServiceAPI.java
+END
+GradingSectionAwareServiceAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/grading/GradingSectionAwareServiceAPI.java
+END

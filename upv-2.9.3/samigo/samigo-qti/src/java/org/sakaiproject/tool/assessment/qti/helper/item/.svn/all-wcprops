@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/item
+END
+ItemHelperBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/item/ItemHelperBase.java
+END
+ItemHelperIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/item/ItemHelperIfc.java
+END
+ItemHelper20Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/item/ItemHelper20Impl.java
+END
+ItemHelper12Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/item/ItemHelper12Impl.java
+END
+ItemTypeExtractionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/item/ItemTypeExtractionStrategy.java
+END

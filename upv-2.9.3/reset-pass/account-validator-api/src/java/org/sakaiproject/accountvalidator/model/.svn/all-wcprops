@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130332/msub/upv.es/PoliformaT/upv-2.9.3/reset-pass/account-validator-api/src/java/org/sakaiproject/accountvalidator/model
+END
+ValidationAccount.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130332/msub/upv.es/PoliformaT/upv-2.9.3/reset-pass/account-validator-api/src/java/org/sakaiproject/accountvalidator/model/ValidationAccount.hbm.xml
+END
+ValidationClaim.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130332/msub/upv.es/PoliformaT/upv-2.9.3/reset-pass/account-validator-api/src/java/org/sakaiproject/accountvalidator/model/ValidationClaim.java
+END
+ValidationAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130332/msub/upv.es/PoliformaT/upv-2.9.3/reset-pass/account-validator-api/src/java/org/sakaiproject/accountvalidator/model/ValidationAccount.java
+END

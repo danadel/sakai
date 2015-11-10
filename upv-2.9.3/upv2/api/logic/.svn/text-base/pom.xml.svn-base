@@ -1,0 +1,61 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+	<name>sakai-upv2-logic-api</name>
+	<groupId>org.sakaiproject</groupId>
+	<artifactId>sakai-upv2-logic-api</artifactId>
+	<version>${sakai.version}</version>
+
+	<!-- you must deploy your business and DAO API to shared or it will be 
+		inaccessible to your tool -->
+	<packaging>jar</packaging>
+	<properties>
+		<deploy.target>shared</deploy.target>
+	</properties>
+	
+    <!-- the base is parent -->
+    <parent>
+        <artifactId>sakai-upv2</artifactId>
+        <groupId>org.sakaiproject</groupId>
+		<version>${sakai.version}</version>
+        <relativePath>../../pom.xml</relativePath>
+    </parent>
+	<dependencies>
+
+		<!-- our tool internal dependencies -->
+		<dependency>
+			<groupId>org.sakaiproject</groupId>
+			<artifactId>sakai-upv2-model-api</artifactId>
+			<version>${sakai.version}</version>
+		</dependency>
+        <!-- generic DAO -->
+        <dependency>
+           <groupId>org.sakaiproject</groupId>
+			<artifactId>generic-dao</artifactId>
+			<version>0.9.1</version>
+        </dependency>
+		<!-- sakai dependencies -->
+    <dependency>
+      <groupId>org.sakaiproject.kernel</groupId>
+      <artifactId>sakai-kernel-api</artifactId>
+    </dependency>
+
+
+    <dependency>
+      <groupId>${sakai.hibernate.groupId}</groupId>
+      <artifactId>${sakai.hibernate.artifactId}</artifactId>
+      <version>${sakai.hibernate.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>hsqldb</groupId>
+      <artifactId>hsqldb</artifactId>
+      <version>1.8.0.5</version>
+    </dependency>
+
+	</dependencies>
+
+	<build>
+		<sourceDirectory>src/java</sourceDirectory>
+	</build>
+
+</project>
+

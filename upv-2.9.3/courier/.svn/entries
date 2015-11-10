@@ -1,0 +1,77 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/courier
+https://source.sakaiproject.org/svn
+
+
+
+2013-10-11T11:05:10.214783Z
+130340
+vacercon@upvnet.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+courier-api
+dir
+
+courier-tool
+dir
+
+courier-util
+dir
+
+courier-assembly
+dir
+
+courier-impl
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:46:56.460249Z
+6fb74ef24e89877cb79bbd173e36d9e7
+2013-08-21T01:58:12.468556Z
+128771
+cle-release-team@collab.sakaiproject.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2854
+

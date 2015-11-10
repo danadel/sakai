@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers
+END
+SimpleSiteContentAdvisorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/SimpleSiteContentAdvisorProvider.java
+END
+BaseEventDelayHandlerSqlDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandlerSqlDefault.java
+END
+BaseEventDelayHandlerSqlMySql.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandlerSqlMySql.java
+END
+BaseEventDelayHandlerSqlOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandlerSqlOracle.java
+END
+BaseEventDelayHandlerSqlDb2.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandlerSqlDb2.java
+END
+BaseEventDelayHandlerSqlHSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandlerSqlHSql.java
+END
+BaseEventDelayHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandler.java
+END
+BaseEventDelayHandlerSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandlerSql.java
+END
+BaseEventDelayHandlerSqlMsSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandlerSqlMsSql.java
+END

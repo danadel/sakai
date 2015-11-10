@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/memory/api
+END
+DerivedCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/memory/api/DerivedCache.java
+END
+GenericMultiRefCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/memory/api/GenericMultiRefCache.java
+END
+CacheRefresher.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/memory/api/CacheRefresher.java
+END
+MemoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/memory/api/MemoryService.java
+END
+MultiRefCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/memory/api/MultiRefCache.java
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/memory/api/ehcache.xml
+END
+MemoryPermissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/memory/api/MemoryPermissionException.java
+END
+Cache.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/memory/api/Cache.java
+END
+Cacher.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/memory/api/Cacher.java
+END

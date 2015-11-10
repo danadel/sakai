@@ -1,0 +1,22 @@
+Cada vez que modifiquemos el applet tendremos que compilarlo, como se indica abajo, luego tendremos que copiar
+el jar en el proyecto library y compilar este proyecto. 
+
+Hay que tener en cuenta que UploadApplet no se despliega en tomcat. Simplemente, sirve para generar el jar que
+se copiará en el proyecto Reference.
+
+Tema certificados:
+
+1- Creamos un par de claves (publica,privada) y las almacenamos en nuestro almacen. Rellenamos la informacion que nos pide.
+
+$ keytool -genkey -v -alias "poliformat" -validity 365 -keystore /home/annuelo/tomcat_2_8_x/sakai/my.truststore 
+
+2- Firmamos el jar
+
+$ mvn -P jarsign -Dsakai.jarsign.keystore.location=/home/annuelo/tomcat_2_8_x/sakai/my.truststore -Dsakai.jarsign.alias=poliformat -Dsakai.jarsign.password=intercambio clean install
+
+3- Copiamos el jar firmado al ckeditor, dentro de la carpeta applets
+
+$ cp target/uploadapplet-0.0.1.jar /home/annuelo/sakaiws_2_8_x/upv-2.8.0/sakai-2.8.0/reference/library/src/webapp/editor/ckeditor/applets/
+
+
+

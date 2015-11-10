@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook
+END
+Assignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/Assignment.java
+END
+CourseGradesToSpreadsheetConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/CourseGradesToSpreadsheetConverter.java
+END
+AssignmentGradeRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/AssignmentGradeRecord.java
+END
+GradingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/GradingEvent.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/Category.java
+END
+LetterGradeMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/LetterGradeMapping.java
+END
+GradingScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/GradingScale.java
+END
+GradableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/GradableObject.java
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/Permission.java
+END
+CommonGradeRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/CommonGradeRecord.java
+END
+PassNotPassMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/PassNotPassMapping.java
+END
+Gradebook.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/Gradebook.java
+END
+GradeMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/GradeMapping.java
+END
+LetterGradePlusMinusMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/LetterGradePlusMinusMapping.java
+END
+GradebookArchive.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/GradebookArchive.java
+END
+LetterGradePercentMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/LetterGradePercentMapping.java
+END
+GradingEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/GradingEvents.java
+END
+GradebookProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/GradebookProperty.java
+END
+CourseGradeRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/CourseGradeRecord.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/Comment.java
+END
+CourseGrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/CourseGrade.java
+END
+AbstractGradeRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/AbstractGradeRecord.java
+END
+Spreadsheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/hibernate/src/java/org/sakaiproject/tool/gradebook/Spreadsheet.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/317863/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/assessment
+END
+AssessmentServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/assessment/AssessmentServiceException.java
+END
+AssessmentEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/assessment/AssessmentEntityProducer.java
+END
+AssessmentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/317863/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/assessment/AssessmentService.java
+END
+PublishedAssessmentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/316695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/assessment/PublishedAssessmentService.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/message/model
+END
+PreferenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/message/model/PreferenceImpl.java
+END
+PagePresenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/message/model/PagePresenceImpl.java
+END
+message.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/message/model/message.hbm.xml
+END
+RwikiTriggerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/message/model/RwikiTriggerImpl.java
+END
+RwikiMessageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/message/model/RwikiMessageImpl.java
+END

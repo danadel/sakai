@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130360/msub/upv.es/PoliformaT/upv-2.9.3/content-review/content-review-api/model/src/java/org/sakaiproject/contentreview/exception
+END
+TransientSubmissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130360/msub/upv.es/PoliformaT/upv-2.9.3/content-review/content-review-api/model/src/java/org/sakaiproject/contentreview/exception/TransientSubmissionException.java
+END
+QueueException.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130360/msub/upv.es/PoliformaT/upv-2.9.3/content-review/content-review-api/model/src/java/org/sakaiproject/contentreview/exception/QueueException.java
+END
+ReportException.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130360/msub/upv.es/PoliformaT/upv-2.9.3/content-review/content-review-api/model/src/java/org/sakaiproject/contentreview/exception/ReportException.java
+END
+SubmissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130360/msub/upv.es/PoliformaT/upv-2.9.3/content-review/content-review-api/model/src/java/org/sakaiproject/contentreview/exception/SubmissionException.java
+END

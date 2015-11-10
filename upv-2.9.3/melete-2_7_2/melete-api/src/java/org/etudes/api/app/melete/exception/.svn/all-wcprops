@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-api/src/java/org/etudes/api/app/melete/exception
+END
+MeleteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-api/src/java/org/etudes/api/app/melete/exception/MeleteException.java
+END
+UserErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-api/src/java/org/etudes/api/app/melete/exception/UserErrorException.java
+END

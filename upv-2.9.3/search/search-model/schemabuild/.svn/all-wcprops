@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-model/schemabuild
+END
+hsqldb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-model/schemabuild/hsqldb.properties
+END
+mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-model/schemabuild/mysql.properties
+END
+oracle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-model/schemabuild/oracle.properties
+END

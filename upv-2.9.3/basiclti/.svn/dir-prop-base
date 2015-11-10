@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 19
+.settings
+.project
+
+K 13
+svn:mergeinfo
+V 403
+/basiclti/branches/BLTI-142:108494-109895
+/basiclti/branches/BLTI-160:106577
+/basiclti/branches/BLTI-195:120348-120422
+/basiclti/branches/BLTI-203:117529-119374
+/basiclti/branches/BLTI-68:79844-81594
+/basiclti/branches/SAK-20774:94351-95551
+/basiclti/trunk:122489,122654,123326,125771,126796-126797,126799,126872,127006-127007,127199,127237,127240,127476,127566,127585,127644,127873,127876,128209,128456
+END

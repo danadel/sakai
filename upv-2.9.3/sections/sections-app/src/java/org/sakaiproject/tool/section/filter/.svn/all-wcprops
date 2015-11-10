@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/filter
+END
+AuthorizationFilterConfigurationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/filter/AuthorizationFilterConfigurationBean.java
+END
+AuthnFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/filter/AuthnFilter.java
+END
+RoleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/filter/RoleFilter.java
+END

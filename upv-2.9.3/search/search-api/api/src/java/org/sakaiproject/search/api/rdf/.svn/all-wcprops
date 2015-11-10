@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-api/api/src/java/org/sakaiproject/search/api/rdf
+END
+RDFException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-api/api/src/java/org/sakaiproject/search/api/rdf/RDFException.java
+END
+RDFSearchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-api/api/src/java/org/sakaiproject/search/api/rdf/RDFSearchException.java
+END
+RDFIndexException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-api/api/src/java/org/sakaiproject/search/api/rdf/RDFIndexException.java
+END
+RDFSearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-api/api/src/java/org/sakaiproject/search/api/rdf/RDFSearchService.java
+END

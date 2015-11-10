@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler
+END
+edit_trigger_properties.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/edit_trigger_properties.jsp
+END
+main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/main.jsp
+END
+create_trigger.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/create_trigger.jsp
+END
+delete_triggers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/delete_triggers.jsp
+END
+edit_runnow_properties.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/edit_runnow_properties.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/error.jsp
+END
+filter_events.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/filter_events.jsp
+END
+edit_triggers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/edit_triggers.jsp
+END
+run_job_confirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/run_job_confirm.jsp
+END
+create_job.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/create_job.jsp
+END
+jobs.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/jobs.jsp
+END
+delete_jobs.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/delete_jobs.jsp
+END
+edit_properties.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/edit_properties.jsp
+END
+security_static_include.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-tool/src/webapp/scheduler/security_static_include.jsp
+END

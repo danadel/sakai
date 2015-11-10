@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/api
+END
+OptimizableIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/api/OptimizableIndex.java
+END
+OptimizeTransactionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/api/OptimizeTransactionListener.java
+END
+IndexOptimizeTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/api/IndexOptimizeTransaction.java
+END
+NoOptimizationRequiredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/api/NoOptimizationRequiredException.java
+END
+OptimizedFailedIndexTransactionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/api/OptimizedFailedIndexTransactionException.java
+END

@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/321067/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade
+END
+AssessmentFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/316695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AssessmentFacade.java
+END
+ItemFacadeQueriesAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/ItemFacadeQueriesAPI.java
+END
+DataFacadeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/DataFacadeException.java
+END
+QuestionPoolFacadeQueriesAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/131383/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/QuestionPoolFacadeQueriesAPI.java
+END
+AssessmentBaseIteratorFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AssessmentBaseIteratorFacade.java
+END
+ItemGradingFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/ItemGradingFacade.java
+END
+QuestionPoolDataFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/131383/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/QuestionPoolDataFacade.java
+END
+TypeIteratorFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/TypeIteratorFacade.java
+END
+PublishedItemFacadeQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/PublishedItemFacadeQueries.java
+END
+PublishedSectionFacadeQueriesAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/PublishedSectionFacadeQueriesAPI.java
+END
+ItemFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/306932/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/ItemFacade.java
+END
+AssessmentIteratorFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AssessmentIteratorFacade.java
+END
+QuestionPoolFacadeQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/131383/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/QuestionPoolFacadeQueries.java
+END
+AuthorizationFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AuthorizationFacade.java
+END
+QuestionPoolFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/131384/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/QuestionPoolFacade.java
+END
+SectionFacadeQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/SectionFacadeQueries.java
+END
+FavoriteColChoicesFacadeQueriesAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/FavoriteColChoicesFacadeQueriesAPI.java
+END
+PublishedSectionFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/131394/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/PublishedSectionFacade.java
+END
+ItemIteratorFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/ItemIteratorFacade.java
+END
+FavoriteColChoicesFacadeQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/FavoriteColChoicesFacadeQueries.java
+END
+AssessmentGradingFacadeQueriesAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/319043/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AssessmentGradingFacadeQueriesAPI.java
+END
+QuestionPoolIteratorFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/QuestionPoolIteratorFacade.java
+END
+PublishedAssessmentFacadeQueriesAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/316695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/PublishedAssessmentFacadeQueriesAPI.java
+END
+AssessmentGradingFacadeQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/321067/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AssessmentGradingFacadeQueries.java
+END
+AssessmentGradingFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AssessmentGradingFacade.java
+END
+AssessmentTemplateFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/131836/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AssessmentTemplateFacade.java
+END
+AuthzQueriesFacadeAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AuthzQueriesFacadeAPI.java
+END
+PublishedAssessmentFacadeQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/319874/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/PublishedAssessmentFacadeQueries.java
+END
+PublishedAssessmentFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/317231/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/PublishedAssessmentFacade.java
+END
+PublishedItemFacadeQueriesAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/PublishedItemFacadeQueriesAPI.java
+END
+AssessmentTemplateIteratorFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AssessmentTemplateIteratorFacade.java
+END
+ItemFacadeQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/ItemFacadeQueries.java
+END
+SectionFacadeQueriesAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/SectionFacadeQueriesAPI.java
+END
+GradebookFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/GradebookFacade.java
+END
+PublishedItemFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/131394/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/PublishedItemFacade.java
+END
+AgentFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AgentFacade.java
+END
+AssessmentGradingSummaryFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AssessmentGradingSummaryFacade.java
+END
+PublishedSectionFacadeQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/PublishedSectionFacadeQueries.java
+END
+SectionFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/131394/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/SectionFacade.java
+END
+AgentIteratorFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AgentIteratorFacade.java
+END
+AssessmentTemplateSharedFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/131836/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AssessmentTemplateSharedFacade.java
+END
+TypeFacadeQueriesAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/TypeFacadeQueriesAPI.java
+END
+AssessmentFacadeQueriesAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/316693/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AssessmentFacadeQueriesAPI.java
+END
+SectionIteratorFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/SectionIteratorFacade.java
+END
+TypeFacadeQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/TypeFacadeQueries.java
+END
+AssessmentBaseFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/131394/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AssessmentBaseFacade.java
+END
+TypeFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/TypeFacade.java
+END
+AssessmentFacadeQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/316693/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/AssessmentFacadeQueries.java
+END

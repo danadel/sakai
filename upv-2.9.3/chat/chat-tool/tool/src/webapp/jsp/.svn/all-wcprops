@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/316209/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-tool/tool/src/webapp/jsp
+END
+editRoom.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-tool/tool/src/webapp/jsp/editRoom.jsp
+END
+main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-tool/tool/src/webapp/jsp/main.jsp
+END
+synopticOptions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-tool/tool/src/webapp/jsp/synopticOptions.jsp
+END
+deleteMessageConfirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-tool/tool/src/webapp/jsp/deleteMessageConfirm.jsp
+END
+deleteRoomMessagesConfirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-tool/tool/src/webapp/jsp/deleteRoomMessagesConfirm.jsp
+END
+prelude.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-tool/tool/src/webapp/jsp/prelude.jspf
+END
+synoptic.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-tool/tool/src/webapp/jsp/synoptic.jsp
+END
+roomMonitor.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-tool/tool/src/webapp/jsp/roomMonitor.jspf
+END
+listRooms.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-tool/tool/src/webapp/jsp/listRooms.jsp
+END
+room.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/316209/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-tool/tool/src/webapp/jsp/room.jsp
+END
+deleteRoomConfirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-tool/tool/src/webapp/jsp/deleteRoomConfirm.jsp
+END
+roomUsers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-tool/tool/src/webapp/jsp/roomUsers.jsp
+END

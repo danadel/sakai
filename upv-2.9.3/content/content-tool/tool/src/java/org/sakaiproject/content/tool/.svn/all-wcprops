@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/321551/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool
+END
+ResourcesMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourcesMetadata.java
+END
+ResourcesBrowseItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourcesBrowseItem.java
+END
+FilePickerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/FilePickerAction.java
+END
+EntityCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/EntityCounter.java
+END
+ResourceTypeLabeler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourceTypeLabeler.java
+END
+ResourceConditionsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/317941/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourceConditionsHelper.java
+END
+AttachmentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/AttachmentAction.java
+END
+ResourcesItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourcesItem.java
+END
+ListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/306591/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/ListItem.java
+END
+BasicRightsAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/BasicRightsAssignment.java
+END
+MetadataGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/MetadataGroup.java
+END
+ResourcesEditItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourcesEditItem.java
+END
+ContentZipServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/321551/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/ContentZipServlet.java
+END
+ResourcesHelperAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/305971/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourcesHelperAction.java
+END
+ResourcesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/317346/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/sakaiproject/content/tool/ResourcesAction.java
+END

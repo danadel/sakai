@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/317802/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF
+END
+rwiki.tld
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/rwiki.tld
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/317110/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/web.xml
+END
+toolComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/toolComponents.xml
+END
+commandComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/commandComponents.xml
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/components.xml
+END
+prepopulateComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/prepopulateComponents.xml
+END

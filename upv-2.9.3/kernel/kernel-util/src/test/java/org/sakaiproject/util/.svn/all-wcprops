@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/test/java/org/sakaiproject/util
+END
+PasswordCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/test/java/org/sakaiproject/util/PasswordCheckTest.java
+END
+UTF8Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/test/java/org/sakaiproject/util/UTF8Test.java
+END
+ResourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/test/java/org/sakaiproject/util/ResourceTest.java
+END
+EntityCollectionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/test/java/org/sakaiproject/util/EntityCollectionsTest.java
+END
+ZipContentUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/test/java/org/sakaiproject/util/ZipContentUtilTest.java
+END

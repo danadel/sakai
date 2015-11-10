@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/exception
+END
+AccessDeniedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/exception/AccessDeniedException.java
+END
+LockedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/exception/LockedException.java
+END

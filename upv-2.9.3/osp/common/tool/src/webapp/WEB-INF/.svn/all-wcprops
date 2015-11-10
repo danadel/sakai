@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool/src/webapp/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool/src/webapp/WEB-INF/web.xml
+END
+style-web-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool/src/webapp/WEB-INF/style-web-config.xml
+END
+web-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool/src/webapp/WEB-INF/web-config.xml
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool/src/webapp/WEB-INF/faces-config.xml
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool/src/webapp/WEB-INF/components.xml
+END
+security-web-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool/src/webapp/WEB-INF/security-web-config.xml
+END
+spring.tld
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool/src/webapp/WEB-INF/spring.tld
+END
+springapp-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool/src/webapp/WEB-INF/springapp-servlet.xml
+END
+local.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool/src/webapp/WEB-INF/local.xml
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/tool/src/webapp/WEB-INF/jsp/matrix/scaffolding
+END
+prettyEditScaffolding.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/tool/src/webapp/WEB-INF/jsp/matrix/scaffolding/prettyEditScaffolding.jsp
+END
+editPublishedConfirmation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/tool/src/webapp/WEB-INF/jsp/matrix/scaffolding/editPublishedConfirmation.jsp
+END
+publishScaffoldingConfirmation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/tool/src/webapp/WEB-INF/jsp/matrix/scaffolding/publishScaffoldingConfirmation.jsp
+END
+addLevel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/tool/src/webapp/WEB-INF/jsp/matrix/scaffolding/addLevel.jsp
+END
+editScaffoldingCell.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/tool/src/webapp/WEB-INF/jsp/matrix/scaffolding/editScaffoldingCell.jsp
+END
+removeConfirmation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/tool/src/webapp/WEB-INF/jsp/matrix/scaffolding/removeConfirmation.jsp
+END
+addCriterion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/tool/src/webapp/WEB-INF/jsp/matrix/scaffolding/addCriterion.jsp
+END
+addScaffolding.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/tool/src/webapp/WEB-INF/jsp/matrix/scaffolding/addScaffolding.jsp
+END
+importScaffolding.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/tool/src/webapp/WEB-INF/jsp/matrix/scaffolding/importScaffolding.jsp
+END
+viewScaffolding.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/tool/src/webapp/WEB-INF/jsp/matrix/scaffolding/viewScaffolding.jsp
+END
+deleteScaffoldingConfirmation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/tool/src/webapp/WEB-INF/jsp/matrix/scaffolding/deleteScaffoldingConfirmation.jsp
+END
+listScaffolding.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/tool/src/webapp/WEB-INF/jsp/matrix/scaffolding/listScaffolding.jsp
+END

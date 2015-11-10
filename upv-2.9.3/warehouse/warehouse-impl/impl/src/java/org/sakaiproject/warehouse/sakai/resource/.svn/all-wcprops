@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-impl/impl/src/java/org/sakaiproject/warehouse/sakai/resource
+END
+ResourcePropertyPropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-impl/impl/src/java/org/sakaiproject/warehouse/sakai/resource/ResourcePropertyPropertyAccess.java
+END
+ContentResourceCollectionWarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-impl/impl/src/java/org/sakaiproject/warehouse/sakai/resource/ContentResourceCollectionWarehouseTask.java
+END
+ResourceUuidPropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-impl/impl/src/java/org/sakaiproject/warehouse/sakai/resource/ResourceUuidPropertyAccess.java
+END
+StringResourcePropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-impl/impl/src/java/org/sakaiproject/warehouse/sakai/resource/StringResourcePropertyAccess.java
+END
+ContentResourceWarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-impl/impl/src/java/org/sakaiproject/warehouse/sakai/resource/ContentResourceWarehouseTask.java
+END
+ResourceParentPropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-impl/impl/src/java/org/sakaiproject/warehouse/sakai/resource/ResourceParentPropertyAccess.java
+END
+ResourceSizePropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-impl/impl/src/java/org/sakaiproject/warehouse/sakai/resource/ResourceSizePropertyAccess.java
+END
+DateResourcePropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-impl/impl/src/java/org/sakaiproject/warehouse/sakai/resource/DateResourcePropertyAccess.java
+END
+MimeTypePropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-impl/impl/src/java/org/sakaiproject/warehouse/sakai/resource/MimeTypePropertyAccess.java
+END
+ResourceTypePropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-impl/impl/src/java/org/sakaiproject/warehouse/sakai/resource/ResourceTypePropertyAccess.java
+END

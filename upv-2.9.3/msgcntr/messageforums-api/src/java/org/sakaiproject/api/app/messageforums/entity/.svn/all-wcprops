@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity
+END
+ForumMessageEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity/ForumMessageEntityProvider.java
+END
+TopicEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity/TopicEntityProvider.java
+END
+SynopticMsgcntrItemEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity/SynopticMsgcntrItemEntityProvider.java
+END
+ForumTopicEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity/ForumTopicEntityProvider.java
+END
+ForumEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity/ForumEntityProvider.java
+END

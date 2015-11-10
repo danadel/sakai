@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/conditions/impl
+END
+MyConditionTemplateSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/conditions/impl/MyConditionTemplateSet.java
+END
+ToyMessagePad.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/conditions/impl/ToyMessagePad.java
+END
+ToyConditionsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/conditions/impl/ToyConditionsService.java
+END
+TestConditionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/conditions/impl/TestConditionService.java
+END
+MyConditionTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/conditions/impl/MyConditionTemplate.java
+END
+ToyGradebook.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/conditions/impl/ToyGradebook.java
+END
+ToyTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/conditions/impl/ToyTool.java
+END
+ToyCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/conditions/impl/ToyCommand.java
+END

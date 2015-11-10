@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/radeox
+END
+RenderContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/radeox/RenderContextFactory.java
+END
+RenderEngineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/radeox/RenderEngineFactory.java
+END
+RenderCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/radeox/RenderCache.java
+END
+CachableRenderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/radeox/CachableRenderContext.java
+END

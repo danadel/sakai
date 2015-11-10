@@ -1,0 +1,83 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/webapp
+https://source.sakaiproject.org/svn
+
+
+
+2015-10-29T07:29:34.565550Z
+321646
+anueda@asic.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+templates
+dir
+
+tools
+dir
+
+images
+dir
+
+removePage.jsp
+file
+
+
+
+
+2015-11-09T08:49:06.572246Z
+f2617f9056c1347fdf0862b440d7213b
+2013-05-16T16:49:50.375568Z
+124166
+hedrick@rutgers.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5262
+
+WEB-INF
+dir
+
+css
+dir
+
+content
+dir
+
+js
+dir
+

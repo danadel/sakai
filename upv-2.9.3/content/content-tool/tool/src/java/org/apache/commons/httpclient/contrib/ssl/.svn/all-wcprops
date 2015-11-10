@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130767/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/apache/commons/httpclient/contrib/ssl
+END
+EasyX509TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130767/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/apache/commons/httpclient/contrib/ssl/EasyX509TrustManager.java
+END
+AuthSSLInitializationError.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130767/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/apache/commons/httpclient/contrib/ssl/AuthSSLInitializationError.java
+END
+AuthSSLProtocolSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130767/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/apache/commons/httpclient/contrib/ssl/AuthSSLProtocolSocketFactory.java
+END
+AuthSSLX509TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130767/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/apache/commons/httpclient/contrib/ssl/AuthSSLX509TrustManager.java
+END
+EasySSLProtocolSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130767/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/java/org/apache/commons/httpclient/contrib/ssl/EasySSLProtocolSocketFactory.java
+END

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping default-cascade="none" default-lazy="false" package="org.sakaiproject.upv2.model">
+	<class name="org.sakaiproject.upv2.model.Sitio" 
+	       table="SAK_SITES">
+
+		<id name="codigo" column="CODIGO" type="long">
+			<generator class="native">
+				<param name="sequence">SAK_CODIGOS_SE</param>
+			</generator>
+		</id>
+
+		<property name="edicion_caca" column="EDICION_CACA" type="string" not-null="true"/>
+
+		<property name="nombre" column="NOMBRE" type="string" not-null="true"/>
+
+		<property name="nombrev" column="NOMBREV" type="string" />
+
+		<property name="nombrei" column="NOMBREI" type="string"/>
+
+		<property name="nombrecorto" column="NOMBRECORTO" type="string"/>		
+		
+		<property name="comp_codigo" column="COMP_CODIGO" type="long"/>
+
+		<property name="publicado" column="PUBLICADO" type="string"/>
+
+		<property name="idioma" column="IDIOMA" type="string"/>		
+		
+		<property name="biblio" column="BIBLIO" type="string"/>	
+		
+		<property name="sakCodigo" column="SAK_CODIGO" type="string"/>			
+
+		<property name="melete" column="MELETE" type="string"/>
+		
+		<property name="microweb" column="MICROWEB" type="string"/>		
+		
+    <set name="telsitios" table="SAK_TELSITE" cascade="none">
+        <key column="site_codigo"/>
+		<many-to-many class="org.sakaiproject.upv2.model.Telde" column="tel_codigo"/>
+	</set>
+
+	<many-to-one name="asignatura" class="org.sakaiproject.upv2.model.Asignatura" column="asi_codigo" />
+
+	</class>
+	
+    <query name="findSitiosByCodigo">
+        <![CDATA[from org.sakaiproject.upv2.model.Sitio as sitio where sitio.codigo = :codigo]]>
+    </query>
+    
+    <query name="findSitiosByAsi">
+        <![CDATA[from org.sakaiproject.upv2.model.Sitio as sitio where sitio.asignatura = :asignatura]]>
+    </query>   
+     
+    <query name="findSitiosByProfPropietario">
+        <![CDATA[from org.sakaiproject.upv2.model.Sitio as sitio
+                 where sitio.asignatura in (select asi.codigo from org.sakaiproject.upv2.model.Asignatura as asi where propietario=:propietario)        
+                   and sitio.codigo in (select us.site_codigo from org.sakaiproject.upv2.model.UsuSite as us where fecha_baja is null and per_perfil='profesor' and usu_userid=upper(:userid))
+           ]]>
+    </query> 
+    
+    <query name="findSitioBySakCodigo">
+        <![CDATA[from org.sakaiproject.upv2.model.Sitio as sitio where sitio.sakCodigo = :sakCodigo]]>
+    </query>        	
+</hibernate-mapping>

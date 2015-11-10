@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/impl/src/java/org/sakaiproject/component/common/edu/person
+END
+EduPersonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/impl/src/java/org/sakaiproject/component/common/edu/person/EduPersonImpl.java
+END
+PersonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/impl/src/java/org/sakaiproject/component/common/edu/person/PersonImpl.java
+END
+OrganizationalPersonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/impl/src/java/org/sakaiproject/component/common/edu/person/OrganizationalPersonImpl.java
+END
+InetOrgPersonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/impl/src/java/org/sakaiproject/component/common/edu/person/InetOrgPersonImpl.java
+END
+SakaiPersonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/impl/src/java/org/sakaiproject/component/common/edu/person/SakaiPersonImpl.java
+END
+SakaiPersonImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/impl/src/java/org/sakaiproject/component/common/edu/person/SakaiPersonImpl.hbm.xml
+END

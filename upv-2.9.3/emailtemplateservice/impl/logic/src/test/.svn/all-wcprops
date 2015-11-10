@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/130362/msub/upv.es/PoliformaT/upv-2.9.3/emailtemplateservice/impl/logic/src/test
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130362/msub/upv.es/PoliformaT/upv-2.9.3/emailtemplateservice/impl/logic/src/test/log4j.properties
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130362/msub/upv.es/PoliformaT/upv-2.9.3/emailtemplateservice/impl/logic/src/test/hibernate.properties
+END
+hibernate-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130362/msub/upv.es/PoliformaT/upv-2.9.3/emailtemplateservice/impl/logic/src/test/hibernate-test.xml
+END

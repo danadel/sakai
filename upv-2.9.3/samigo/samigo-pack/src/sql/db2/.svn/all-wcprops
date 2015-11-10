@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-pack/src/sql/db2
+END
+sakai_samigo_post_schema_update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-pack/src/sql/db2/sakai_samigo_post_schema_update.sql
+END
+sakai_samigo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-pack/src/sql/db2/sakai_samigo.sql
+END

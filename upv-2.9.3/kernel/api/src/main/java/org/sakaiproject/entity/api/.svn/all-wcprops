@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/132515/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api
+END
+EntityTransferrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/EntityTransferrer.java
+END
+EntitySummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/EntitySummary.java
+END
+EntityNotDefinedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/EntityNotDefinedException.java
+END
+AttachmentContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/AttachmentContainer.java
+END
+EntityTransferrerRefMigrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/EntityTransferrerRefMigrator.java
+END
+ContextObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/ContextObserver.java
+END
+Summary.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/Summary.java
+END
+Reference.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/Reference.java
+END
+EntityPropertyNotDefinedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/EntityPropertyNotDefinedException.java
+END
+AttachmentContainerEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/AttachmentContainerEdit.java
+END
+HttpAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/HttpAccess.java
+END
+EntityPropertyTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/EntityPropertyTypeException.java
+END
+EntityPermissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/EntityPermissionException.java
+END
+ResourceProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/132515/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/ResourceProperties.java
+END
+EntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/EntityManager.java
+END
+EntityAccessOverloadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/EntityAccessOverloadException.java
+END
+ResourcePropertiesEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/ResourcePropertiesEdit.java
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/Entity.java
+END
+EntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/EntityProducer.java
+END
+EntityCopyrightException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/EntityCopyrightException.java
+END
+Edit.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/Edit.java
+END

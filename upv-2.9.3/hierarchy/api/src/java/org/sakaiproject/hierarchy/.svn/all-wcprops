@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/316102/msub/upv.es/PoliformaT/upv-2.9.3/hierarchy/api/src/java/org/sakaiproject/hierarchy
+END
+HierarchyProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/313983/msub/upv.es/PoliformaT/upv-2.9.3/hierarchy/api/src/java/org/sakaiproject/hierarchy/HierarchyProvider.java
+END
+HierarchyPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/313983/msub/upv.es/PoliformaT/upv-2.9.3/hierarchy/api/src/java/org/sakaiproject/hierarchy/HierarchyPermissions.java
+END
+HierarchyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/313983/msub/upv.es/PoliformaT/upv-2.9.3/hierarchy/api/src/java/org/sakaiproject/hierarchy/HierarchyService.java
+END
+HierarchyNodeWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/313983/msub/upv.es/PoliformaT/upv-2.9.3/hierarchy/api/src/java/org/sakaiproject/hierarchy/HierarchyNodeWriter.java
+END
+HierarchyTokens.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/313983/msub/upv.es/PoliformaT/upv-2.9.3/hierarchy/api/src/java/org/sakaiproject/hierarchy/HierarchyTokens.java
+END
+HierarchyNodeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/313983/msub/upv.es/PoliformaT/upv-2.9.3/hierarchy/api/src/java/org/sakaiproject/hierarchy/HierarchyNodeReader.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/319861/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete
+END
+MeleteAuthorPrefServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/MeleteAuthorPrefServiceImpl.java
+END
+MeleteUserPreferenceDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/MeleteUserPreferenceDB.java
+END
+MeleteExportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/319861/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/MeleteExportServiceImpl.java
+END
+MeleteImportfromSiteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/319861/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/MeleteImportfromSiteServiceImpl.java
+END
+MeleteImportBaseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/MeleteImportBaseImpl.java
+END
+MeleteScormExportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/319861/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/MeleteScormExportServiceImpl.java
+END
+MeleteLicenseDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/MeleteLicenseDB.java
+END
+ModuleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/ModuleServiceImpl.java
+END
+MeleteCHServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/319861/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/MeleteCHServiceImpl.java
+END
+ModuleDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/ModuleDB.java
+END
+MeleteSecurityAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/MeleteSecurityAdvisor.java
+END
+SubSectionUtilImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/SubSectionUtilImpl.java
+END
+HibernateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/HibernateUtil.java
+END
+MeleteAbstractExportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/MeleteAbstractExportServiceImpl.java
+END
+MeleteSecurityServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/MeleteSecurityServiceImpl.java
+END
+SectionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/SectionServiceImpl.java
+END
+MeleteUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/MeleteUtil.java
+END
+MeleteImportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/MeleteImportServiceImpl.java
+END
+SectionDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/java/org/etudes/component/app/melete/SectionDB.java
+END

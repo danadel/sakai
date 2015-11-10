@@ -1,0 +1,14 @@
+K 21
+bugtraq:warnifnoissue
+V 4
+true
+K 10
+svn:ignore
+V 31
+target,bin,.classpath,.project
+
+K 13
+svn:mergeinfo
+V 138
+/entitybroker/trunk:102977,103063,103130,104583,104897,109505-109544,110566,110758,113492,113499,114087,115882,116172,118432,120572,123574
+END

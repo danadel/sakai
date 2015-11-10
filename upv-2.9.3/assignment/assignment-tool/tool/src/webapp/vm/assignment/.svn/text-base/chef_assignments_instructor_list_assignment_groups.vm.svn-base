@@ -1,0 +1,130 @@
+## Assignments - Instructor group selection for submission grading
+<link href="/sakai-assignment-tool/css/assignment.css" type="text/css" rel="stylesheet" media="all" />
+<div class="portletBody">
+	#if ($allowAddAssignment || ($withGrade && $!allowGradeSubmission))
+	## for user who cannot create assignment nor grade submission, no need to show "Assignment List" link at all since there is really no other toolbar choices
+	<ul class="navIntraTool actionToolBar" role="menu">
+		#set($prevAction=false)
+		#if ($allowAddAssignment)
+			#set($prevAction=true)
+			<li  class="firstToolBarItem" role="menuitem"><span><a href="#toolLink("$action" "doNew_assignment")" title="$!tlang.getString("new")">$!tlang.getString("new")</a></span></li>
+		#end
+		<li #if ($prevAction==false) class="firstToolBarItem" #set($prevAction=true)  #end role="menuitem"
+			#if (!$!view.equals('lisofass1'))
+				>
+				<span><a href="#toolLinkParam("$action" "doView" "view=lisofass1")" title="$!tlang.getString('lisofass1')">$!tlang.getString('lisofass1')</a></span>
+			#else
+				 aria-disabled="true">
+				<span class="current">$!tlang.getString("lisofass1")</span>
+			#end
+		</li>	
+		
+		#if ($withGrade && $!allowGradeSubmission)
+			<li#if ($prevAction==false) class="firstToolBarItem" #set($prevAction=true)  #end  role="menuitem">
+				<span><a href="#toolLinkParam("$action" "doView" "view=grarep")" title="$!tlang.getString("gen.grarep")">$!tlang.getString("gen.grarep")</a></span>
+			</li>
+		#end
+	
+		#if ($allowAddAssignment)
+			<li  #if ($prevAction==false) class="firstToolBarItem" #set($prevAction=true)  #end role="menuitem"
+				#if (!$!view.equals('stuvie'))
+					>
+					<span><a href="#toolLinkParam("$action" "doView" "view=stuvie")" title="$!tlang.getString("gen.stuvie")">$!tlang.getString("gen.stuvie")</a></span>
+				#else
+					aria-disabled="true">
+					<span class="current">$!tlang.getString("gen.stuvie")</span>
+				#end
+			</li>	
+		#end
+		#if (($allowAllGroups) && ($assignmentscheck))
+			<li #if ($prevAction==false) class="firstToolBarItem" #set($prevAction=true)  #end  role="menuitem">
+				<span><a href="#toolLink("$action" "doReorder")" title="$tlang.getString('gen.reorder')">$tlang.getString('gen.reorder')</a></span>
+			</li>
+		#end
+		#if ($allowUpdateSite)
+			<li #if ($prevAction==false) class="firstToolBarItem" #set($prevAction=true)  #end  role="menuitem">
+				<span><a href="#toolLink("$action" "doPermissions")" title="$tlang.getString('permis')">$tlang.getString('permis')</a></span>
+			</li>
+			#if ($enableViewOption)		
+				<li #if ($prevAction==false) class="firstToolBarItem" #set($prevAction=true)  #end  role="menuitem">
+					<span><a href="#toolLink("$action" "doOptions")" title="$tlang.getString('options')">$tlang.getString('options')</a></span>
+				</li>
+			#end	
+		#end
+	</ul>
+	#end
+	
+	<div class="navPanel">
+	   	<div class="viewNav highlight" style="width:100%;line-height:1.4em">
+			<h3>
+				$validator.escapeHtml($assignmentTitle)					
+			</h3>
+	   	</div>
+	</div>
+
+	#if($aGroupsSize > 0)
+	<div class="listNav">
+		<a href="" onclick="javascript:document.getElementById('option').value='releaseGrades';document.viewForm.submit();return false;" 
+			#if ($withGrade)
+				title="$!tlang.getString('relgrad')">$!tlang.getString('relgrad')</a>
+			#else
+				title="$!tlang.getString('relcommented')">$!tlang.getString('relcommented')</a>
+			#end
+	</div>
+	
+	<table class="listHier lines nolines" border="0" cellspacing="0" summary="$tlang.getString("stulistsunbm.listhestu")">
+		<tr>
+			<th id="groupname">
+				$tlang.getString("group")
+			</th>
+			<th id="studentname">
+				$tlang.getString("gen.student")
+			</th>
+			<th id="grade">
+				$tlang.getString("gen.gra")
+			</th>
+		</tr>
+		#foreach($aGroup in $assignmentGroups)
+			<tr>
+				<td headers="groupname" class="specialLink">	
+					<h4>
+					#if (!$groupListShowSet.contains($aGroup.Id))
+						<a href="#" onclick="location='#toolLinkParam("AssignmentAction" "doShow_group_students" "groupId=$validator.escapeUrl($aGroup.Id)")'; return false;" title="$tlang.getString("grouplist.show.students")"><img src="#imageLink("sakai/expand.gif")" alt="$tlang.getString("grouplist.show.students")" width="13" height="13" border="0" /></a>
+					#else 
+						<a href="#" onclick="location='#toolLinkParam("AssignmentAction" "doHide_group_students" "groupId=$validator.escapeUrl($aGroup.Id)")'; return false;" title="$tlang.getString("grouplist.hide.students")"><img src="#imageLink("sakai/collapse.gif")" alt="$tlang.getString("grouplist.hide.students")" width="13" height="13" border="0" /></a>
+					#end
+					<a href="#toolLinkParam("AssignmentAction" "doGrade_group_submissions" "assignmentId=$validator.escapeUrl($assignmentId)&groupId=$validator.escapeUrl($aGroup.Reference)")" title="$validator.limit($validator.escapeHtml($assignment.Title), 40)">$validator.limit($validator.escapeHtml($aGroup.getTitle()), 40)</a>
+					</h4>					
+				</td>
+				<td headers="studentname">
+					&nbsp;
+				</td>
+				<td headers="grade">
+					&nbsp;
+				</td>
+			</tr>
+			
+			#if ($groupListShowSet.contains($aGroup.Id))
+				#foreach($user in $groupUsersMap.get($aGroup.Id))
+					<tr>
+						<td headers="groupname">
+							&nbsp;
+						</td>
+						<td headers="studentname">
+							$user.getDisplayName()			
+						</td>
+						<td headers="grade">
+							#set($grades=$groupGradeMap.get($aGroup.Id))
+							#set($grade=$grades.get($user.getEid()))
+							$grade
+						</td>
+					</tr>
+				#end
+			#end
+		
+		#end
+	</table>
+	#else
+		<h5>$tlang.getString("grading.group.nosubmit")</h5>
+	#end
+</div>

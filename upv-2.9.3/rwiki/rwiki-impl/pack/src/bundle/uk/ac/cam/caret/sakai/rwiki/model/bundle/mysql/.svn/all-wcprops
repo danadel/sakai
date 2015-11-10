@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/pack/src/bundle/uk/ac/cam/caret/sakai/rwiki/model/bundle/mysql
+END
+migrateTo20051017.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/pack/src/bundle/uk/ac/cam/caret/sakai/rwiki/model/bundle/mysql/migrateTo20051017.sql
+END
+migrateTo20051026.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/pack/src/bundle/uk/ac/cam/caret/sakai/rwiki/model/bundle/mysql/migrateTo20051026.sql
+END
+migrateTo20051107.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/pack/src/bundle/uk/ac/cam/caret/sakai/rwiki/model/bundle/mysql/migrateTo20051107.sql
+END

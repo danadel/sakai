@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<registration>
+
+	<tool
+			id="es.upv.webasiprivate"
+			title="Gestion"
+			description="Opciones Intranet de Gestion de la Asignatura">
+
+		<configuration name="source" value="" />
+		<configuration name="height" value="600px" />
+
+		<configuration name="reset.button" value="false" type="final" />
+
+		<category name="course" />
+		<category name="project" />
+		<category name="siteupv" />
+
+	</tool>
+
+</registration>

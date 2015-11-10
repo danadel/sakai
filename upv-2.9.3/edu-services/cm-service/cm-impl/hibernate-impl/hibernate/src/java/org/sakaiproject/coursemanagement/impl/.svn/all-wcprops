@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl
+END
+MembershipCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/MembershipCmImpl.java
+END
+EnrollmentSetCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/EnrollmentSetCmImpl.java
+END
+SectionCategoryCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/SectionCategoryCmImpl.java
+END
+SectionCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/SectionCmImpl.java
+END
+CanonicalCourseCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/CanonicalCourseCmImpl.java
+END
+CrossListableCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/CrossListableCmImpl.java
+END
+CourseSetCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/CourseSetCmImpl.java
+END
+AbstractNamedCourseManagementObjectCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/AbstractNamedCourseManagementObjectCmImpl.java
+END
+EnrollmentCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/EnrollmentCmImpl.java
+END
+CourseOfferingCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/CourseOfferingCmImpl.java
+END
+AbstractMembershipContainerCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/AbstractMembershipContainerCmImpl.java
+END
+CrossListingCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/CrossListingCmImpl.java
+END
+MeetingCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/MeetingCmImpl.java
+END
+AbstractPersistentCourseManagementObjectCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/AbstractPersistentCourseManagementObjectCmImpl.java
+END
+AcademicSessionCmImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/src/java/org/sakaiproject/coursemanagement/impl/AcademicSessionCmImpl.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf
+END
+GroupEditViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupEditViewParameters.java
+END
+GroupDelProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupDelProducer.java
+END
+GroupEditProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupEditProducer.java
+END
+GroupImportViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupImportViewParameters.java
+END
+GroupAutoCreateViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupAutoCreateViewParameters.java
+END
+GroupImportStep1Producer.java
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupImportStep1Producer.java
+END
+GroupImportStep2Producer.java
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupImportStep2Producer.java
+END
+GroupListProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupListProducer.java
+END
+GroupAutoCreateProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupAutoCreateProducer.java
+END
+ImportedGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/ImportedGroup.java
+END

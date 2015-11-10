@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/321151/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums
+END
+SynopticSiteSemesterComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/SynopticSiteSemesterComparator.java
+END
+AuthzGroupComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/AuthzGroupComparator.java
+END
+PrivateMessagesTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/319852/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/PrivateMessagesTool.java
+END
+ErrorMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ErrorMessages.java
+END
+MessageForumsFilePickerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/MessageForumsFilePickerServlet.java
+END
+ForumsEmailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/132356/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ForumsEmailService.java
+END
+GroupComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/GroupComparator.java
+END
+DiscussionForumTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/321151/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/DiscussionForumTool.java
+END
+FileUploadFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/FileUploadFilter.java
+END
+SynopticSitesPreferencesComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/SynopticSitesPreferencesComparator.java
+END

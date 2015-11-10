@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api
+END
+Tool.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/Tool.java
+END
+SessionAttributeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/SessionAttributeListener.java
+END
+SessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/SessionManager.java
+END
+SessionBindingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/SessionBindingEvent.java
+END
+ToolSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/ToolSession.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/Session.java
+END
+SessionBindingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/SessionBindingListener.java
+END
+NonPortableSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/NonPortableSession.java
+END
+ContextSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/ContextSession.java
+END
+ToolURLManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/ToolURLManager.java
+END
+ToolException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/ToolException.java
+END
+ToolURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/ToolURL.java
+END
+SessionStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/SessionStore.java
+END
+ActiveToolManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/ActiveToolManager.java
+END
+ToolManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/ToolManager.java
+END
+Placement.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/Placement.java
+END
+ActiveTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/tool/api/ActiveTool.java
+END

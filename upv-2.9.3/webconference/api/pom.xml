@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <name>Sakai videoconference API</name>
+    <groupId>org.sakaiproject.videoconference</groupId>
+    <artifactId>videoconference-api</artifactId>
+        <version>${samoo.videoconference.version}</version>
+	
+    <organization>
+        <name>Sakai Project</name>
+        <url>http://sakaiproject.org/</url>
+    </organization>
+    <inceptionYear>2008</inceptionYear>
+    <description>Samoo videoconference interfaces (API)</description>
+    <packaging>jar</packaging>
+  <properties>
+        <deploy.target />
+    </properties>
+
+    <!-- the base is parent -->
+    <parent>
+        <groupId>org.sakaiproject.videoconference</groupId>
+        <artifactId>base</artifactId>
+        <version>${samoo.videoconference.version}</version>
+    </parent>
+	
+	<dependencies>
+	  
+		<!-- Sakai dependencies -->
+    	<dependency>
+            <groupId>org.sakaiproject.kernel</groupId>
+            <artifactId>sakai-kernel-api</artifactId>
+        </dependency>
+		<dependency>
+			<groupId>org.sakaiproject.calendar</groupId>
+			<artifactId>sakai-calendar-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.sakaiproject.announcement</groupId>
+			<artifactId>sakai-announcement-api</artifactId>
+		</dependency>
+		
+		<!-- MyFaces JSF dependencies -->
+		<dependency>
+			<groupId>org.apache.myfaces.core</groupId>
+			<artifactId>myfaces-api</artifactId>
+			<version>1.1.5</version>
+		</dependency>				
+	</dependencies>
+	
+    <build>
+		<sourceDirectory>src/java</sourceDirectory>
+        <resources/>
+    </build>
+
+</project>

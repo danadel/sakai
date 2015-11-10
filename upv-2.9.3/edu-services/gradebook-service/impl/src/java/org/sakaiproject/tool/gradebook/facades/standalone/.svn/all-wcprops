@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/standalone
+END
+AuthnStandaloneImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/standalone/AuthnStandaloneImpl.java
+END
+ContextManagementStandaloneImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/standalone/ContextManagementStandaloneImpl.java
+END
+EventTrackingServiceStandaloneImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/standalone/EventTrackingServiceStandaloneImpl.java
+END

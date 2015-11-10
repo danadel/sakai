@@ -1,0 +1,77 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf
+https://source.sakaiproject.org/svn
+
+
+
+2013-12-04T14:35:38.273063Z
+132193
+vacercon@upvnet.upv.es
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:52:10.432242Z
+f88cce18e6bc23186954f46dd38ff7e4
+2013-08-22T14:19:54.766879Z
+128909
+matthew@longsight.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2392
+
+example
+dir
+
+depend-widgets-sun
+dir
+
+widgets
+dir
+
+resource
+dir
+
+depend-widgets-myfaces
+dir
+

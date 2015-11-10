@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>org.sakaiproject.assignment</groupId>
+        <artifactId>assignment</artifactId>
+        <version>2.9.3</version>
+    </parent>
+
+    <name>Sakai Assignment Audio Recorder (assignment-audio)</name>
+    <groupId>org.sakaiproject</groupId>
+    <artifactId>sakai-assignment-audio</artifactId>
+    <organization>
+        <name>Samoo S.L.</name>
+        <url>http://www.samoo.es</url>
+    </organization>
+    <inceptionYear>2011</inceptionYear>
+    <packaging>jar</packaging>
+
+    <properties>
+        <deploy.target />
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>liveconnect</groupId>
+            <artifactId>plugin</artifactId>
+            <version>1.5</version>
+        </dependency>
+    </dependencies>
+
+    <profiles>
+        <profile>
+            <id>jarsign</id>
+            <activation>
+                <activeByDefault>false</activeByDefault>
+            </activation>
+            <build>
+            	<plugins>            
+	                <plugin>
+	                    <groupId>org.apache.maven.plugins</groupId>
+	                    <artifactId>maven-jar-plugin</artifactId>
+	                    <executions>
+	                        <execution>
+	                            <goals>
+	                                <goal>sign</goal>
+	                            </goals>
+	                        </execution>
+	                    </executions>
+	                    <configuration>
+	                        <keystore>${sakai.assignment-audio.jarsign.keystore.location}</keystore>
+	                        <alias>${sakai.assignment-audio.jarsign.alias}</alias>
+	                        <storepass>${sakai.assignment-audio.jarsign.password}</storepass>
+	                        <verify>true</verify>
+	                        <archive>
+					            <manifestEntries>
+		     						<Permissions>all-permissions</Permissions> 
+		     						<Codebase>https://poliformat.upv.es https://florete.cc.upv.es</Codebase> 
+		     						<Application-Name>AssignmentAudioRecorder</Application-Name> 
+		     						<Application-Library-Allowable-Codebase>https://poliformat.upv.es https://florete.cc.upv.es</Application-Library-Allowable-Codebase>
+		     						<Trusted-only>true</Trusted-only> 
+		     						<Trusted-Library>true</Trusted-Library> 
+		  						</manifestEntries>
+	  						</archive>
+	                    </configuration>
+	                </plugin>
+            	</plugins>
+            </build>
+        </profile>
+        <profile>
+            <id>default</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <build>
+            	<plugins>            
+	                <plugin>
+	                    <groupId>org.apache.maven.plugins</groupId>
+	                    <artifactId>maven-jar-plugin</artifactId>
+	                    <configuration>
+	                        <archive>
+					            <manifestEntries>
+		     						<Permissions>all-permissions</Permissions> 
+		     						<Codebase>https://poliformat.upv.es https://florete.cc.upv.es</Codebase> 
+		     						<Application-Name>AssignmentAudioRecorder</Application-Name> 
+		     						<Application-Library-Allowable-Codebase>https://poliformat.upv.es https://florete.cc.upv.es</Application-Library-Allowable-Codebase>
+		     						<Trusted-only>true</Trusted-only> 
+		     						<Trusted-Library>true</Trusted-Library> 
+		  						</manifestEntries>
+	  						</archive>
+	                    </configuration>
+	                </plugin>
+            	</plugins>
+            </build>
+        </profile>
+    </profiles>
+
+    <build>
+        <resources>
+            <resource>
+                <directory>${basedir}/src/java</directory>
+                <excludes>
+                    <exclude>**/*.java</exclude>
+                </excludes>
+            </resource>
+        </resources>
+    </build>
+</project>

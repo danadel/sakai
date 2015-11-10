@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/tool/impl
+END
+JMXSessionComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/tool/impl/JMXSessionComponent.java
+END
+MySessionBindingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/tool/impl/MySessionBindingEvent.java
+END
+SessionComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/tool/impl/SessionComponent.java
+END
+SessionComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/tool/impl/SessionComponentTest.java
+END
+MyLittleSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/tool/impl/MyLittleSession.java
+END
+MySession.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/tool/impl/MySession.java
+END
+ActiveToolComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/tool/impl/ActiveToolComponent.java
+END
+ActiveToolComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/tool/impl/ActiveToolComponentTest.java
+END
+MyNonPortableSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/tool/impl/MyNonPortableSession.java
+END
+ToolImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/tool/impl/ToolImpl.java
+END
+ToolComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/tool/impl/ToolComponent.java
+END

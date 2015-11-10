@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/317346/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content
+END
+sakai_resources_list.vm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/317346/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content/sakai_resources_list.vm
+END
+sakai_resources_options.vm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content/sakai_resources_options.vm
+END
+sakai_resources_cwiz_finish.vm
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content/sakai_resources_cwiz_finish.vm
+END
+sakai_resources_properties.vm
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130851/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content/sakai_resources_properties.vm
+END
+chef_resources_deleteConfirm.vm
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content/chef_resources_deleteConfirm.vm
+END
+sakai_dropbox_options.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130725/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content/sakai_dropbox_options.vm
+END
+chef_resources_more.vm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content/chef_resources_more.vm
+END
+chef_resources_reorder.vm
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content/chef_resources_reorder.vm
+END
+sakai_resources_columns.vm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content/sakai_resources_columns.vm
+END
+sakai_filepicker_select.vm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content/sakai_filepicker_select.vm
+END
+sakai_resources_deleteFinish.vm
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content/sakai_resources_deleteFinish.vm
+END
+chef_resources_webdav.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content/chef_resources_webdav.vm
+END
+sakai_filepicker_attach.vm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/content/sakai_filepicker_attach.vm
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/content/util
+END
+BaseResourceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/content/util/BaseResourceAction.java
+END
+BaseServiceLevelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/content/util/BaseServiceLevelAction.java
+END
+BaseResourceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/content/util/BaseResourceType.java
+END
+BasicSiteSelectableResourceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/content/util/BasicSiteSelectableResourceType.java
+END
+BaseInteractionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/content/util/BaseInteractionAction.java
+END
+BasicResourceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/content/util/BasicResourceType.java
+END

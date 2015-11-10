@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-util/util/src/java/org/sakaiproject/site/util
+END
+SiteConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-util/util/src/java/org/sakaiproject/site/util/SiteConstants.java
+END
+SiteParticipantHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-util/util/src/java/org/sakaiproject/site/util/SiteParticipantHelper.java
+END
+ToolComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-util/util/src/java/org/sakaiproject/site/util/ToolComparator.java
+END
+ActionLinkItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-util/util/src/java/org/sakaiproject/site/util/ActionLinkItem.java
+END
+SiteSetupQuestionFileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-util/util/src/java/org/sakaiproject/site/util/SiteSetupQuestionFileParser.java
+END
+SiteSetupQuestionMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-util/util/src/java/org/sakaiproject/site/util/SiteSetupQuestionMap.java
+END
+SiteSetupQuestionTypeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-util/util/src/java/org/sakaiproject/site/util/SiteSetupQuestionTypeSet.java
+END
+SiteComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-util/util/src/java/org/sakaiproject/site/util/SiteComparator.java
+END
+SiteTextEditUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-util/util/src/java/org/sakaiproject/site/util/SiteTextEditUtil.java
+END
+Participant.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-util/util/src/java/org/sakaiproject/site/util/Participant.java
+END

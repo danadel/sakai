@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/321551/msub/upv.es/PoliformaT/upv-2.9.3/content
+END
+upgradeschema-mysql.config
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/upgradeschema-mysql.config
+END
+upgradeschema-oracle.config
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/upgradeschema-oracle.config
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/pom.xml
+END
+alternative-upgradeschema-oracle.config
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/alternative-upgradeschema-oracle.config
+END
+content-runconversion.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-runconversion.sh
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/readme.txt
+END

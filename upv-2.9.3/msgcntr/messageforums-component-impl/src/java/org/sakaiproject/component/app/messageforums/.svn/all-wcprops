@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/321618/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums
+END
+MessageForumsTypeManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/MessageForumsTypeManagerImpl.java
+END
+DiscussionForumServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/DiscussionForumServiceImpl.java
+END
+MessageForumsMessageManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/321618/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/MessageForumsMessageManagerImpl.java
+END
+PermissionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/PermissionManagerImpl.java
+END
+MessageForumsForumManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/MessageForumsForumManagerImpl.java
+END
+MembershipManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/MembershipManagerImpl.java
+END
+EmailNotificationManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/132357/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/EmailNotificationManagerImpl.java
+END
+TestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/TestUtil.java
+END
+SynopticMsgcntrManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/SynopticMsgcntrManagerImpl.java
+END
+DummyDataHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/DummyDataHelper.java
+END
+AreaManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/AreaManagerImpl.java
+END
+SakaiUserPreferencesManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/SakaiUserPreferencesManagerImpl.java
+END
+MessageForumsUserManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/MessageForumsUserManagerImpl.java
+END
+DefaultPermissionsManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/DefaultPermissionsManagerImpl.java
+END
+PermissionLevelManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/PermissionLevelManagerImpl.java
+END
+ForumScheduleNotificationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/ForumScheduleNotificationImpl.java
+END

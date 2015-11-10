@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api
+END
+MailArchiveChannelEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveChannelEdit.java
+END
+MailArchiveService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveService.java
+END
+MailArchiveMessageHeaderEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveMessageHeaderEdit.java
+END
+MailArchiveMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveMessage.java
+END
+MailArchiveChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveChannel.java
+END
+MailArchiveMessageEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveMessageEdit.java
+END
+MailArchiveMessageHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveMessageHeader.java
+END

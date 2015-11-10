@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/321278/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service
+END
+JForumEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/JForumEntity.java
+END
+LessonEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/LessonEntity.java
+END
+MnemeEntity.java.disabled
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/MnemeEntity.java.disabled
+END
+AssignmentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/AssignmentEntity.java
+END
+YaftTopicEntity.java.disabled
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/YaftTopicEntity.java.disabled
+END
+LessonsAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/LessonsAccess.java
+END
+GroupPermissionsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/GroupPermissionsService.java
+END
+ForumInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/ForumInterface.java
+END
+AjaxServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/AjaxServer.java
+END
+LessonBuilderEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/319859/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/LessonBuilderEntityProducer.java
+END
+BltiInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/BltiInterface.java
+END
+SamigoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/321278/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/SamigoEntity.java
+END
+LessonBuilderAccessService.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/LessonBuilderAccessService.java
+END
+LessonSubmission.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/LessonSubmission.java
+END
+GradebookIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/GradebookIfc.java
+END
+ForumEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/ForumEntity.java
+END
+QuizEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/QuizEntity.java
+END
+BltiEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/BltiEntity.java
+END
+AssignmentInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/service/AssignmentInterface.java
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/gradebook
+https://source.sakaiproject.org/svn
+
+
+
+2015-10-06T13:59:09.021941Z
+321441
+anueda@asic.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+app
+dir
+
+xdocs
+dir
+
+sample-grade-finalizer
+dir
+
+sample-course-grade-converter
+dir
+
+help
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:45:37.096250Z
+c1c5c488b6ce6af496b9431eff8bfdae
+2013-08-22T14:19:54.766879Z
+128909
+matthew@longsight.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3544
+
+testservice-tool
+dir
+

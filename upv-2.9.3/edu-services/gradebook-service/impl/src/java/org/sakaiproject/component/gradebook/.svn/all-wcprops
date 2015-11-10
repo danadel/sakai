@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/319874/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook
+END
+GradebookFrameworkServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/GradebookFrameworkServiceImpl.java
+END
+GradebookServiceHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/317994/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/GradebookServiceHibernateImpl.java
+END
+GradebookDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/GradebookDefinition.java
+END
+BaseHibernateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/BaseHibernateManager.java
+END
+VersionedExternalizable.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/VersionedExternalizable.java
+END
+GradebookExternalAssessmentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/319874/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/GradebookExternalAssessmentServiceImpl.java
+END
+GradebookPermissionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/GradebookPermissionServiceImpl.java
+END

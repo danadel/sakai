@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/ddl
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/ddl/hibernate.cfg.xml
+END
+hibernate-mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/ddl/hibernate-mysql.properties
+END
+hibernate-oracle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/ddl/hibernate-oracle.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/ddl/pom.xml
+END

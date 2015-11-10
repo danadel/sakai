@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/api/src/java/org/theospi/portfolio/portal/model
+END
+ToolType.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/api/src/java/org/theospi/portfolio/portal/model/ToolType.java
+END
+SitePageWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/api/src/java/org/theospi/portfolio/portal/model/SitePageWrapper.java
+END
+portal.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/api/src/java/org/theospi/portfolio/portal/model/portal.hbm.xml
+END
+SiteType.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/api/src/java/org/theospi/portfolio/portal/model/SiteType.java
+END
+ToolCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/api/src/java/org/theospi/portfolio/portal/model/ToolCategory.java
+END

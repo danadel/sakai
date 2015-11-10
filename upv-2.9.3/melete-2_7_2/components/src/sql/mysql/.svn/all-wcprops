@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/components/src/sql/mysql
+END
+melete24_upgrade.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/components/src/sql/mysql/melete24_upgrade.sql
+END
+melete25_upgrade.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/components/src/sql/mysql/melete25_upgrade.sql
+END
+melete26_upgrade.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/components/src/sql/mysql/melete26_upgrade.sql
+END
+melete261_upgrade.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/components/src/sql/mysql/melete261_upgrade.sql
+END
+melete27_upgrade.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/components/src/sql/mysql/melete27_upgrade.sql
+END
+seqxml_script.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/components/src/sql/mysql/seqxml_script.sql
+END
+melete24mig.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/components/src/sql/mysql/melete24mig.sql
+END
+melete24.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/components/src/sql/mysql/melete24.sql
+END
+melete25.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/components/src/sql/mysql/melete25.sql
+END
+melete26.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/components/src/sql/mysql/melete26.sql
+END
+melete261.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/components/src/sql/mysql/melete261.sql
+END
+melete27.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/components/src/sql/mysql/melete27.sql
+END

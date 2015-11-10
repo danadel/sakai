@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/318179/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc
+END
+BLTIParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/BLTIParser.java
+END
+LearningApplicationResourceParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/LearningApplicationResourceParser.java
+END
+QTIItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/QTIItem.java
+END
+NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/NOTICE.txt
+END
+AbstractParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/AbstractParser.java
+END
+DiscussionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/DiscussionHandler.java
+END
+DefaultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/DefaultHandler.java
+END
+AssessmentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/AssessmentHandler.java
+END
+WebContentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/WebContentParser.java
+END
+QtiImport.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/QtiImport.java
+END
+ZipLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/ZipLoader.java
+END
+WebLinkHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/WebLinkHandler.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/ParseException.java
+END
+PrintHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/318179/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/PrintHandler.java
+END
+AbstractQTIParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/AbstractQTIParser.java
+END
+DiscussionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/DiscussionParser.java
+END
+QuestionBankHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/QuestionBankHandler.java
+END
+AssessmentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/AssessmentParser.java
+END
+LtiParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/LtiParser.java
+END
+WebContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/WebContentHandler.java
+END
+WebLinkParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/WebLinkParser.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/Handler.java
+END
+MetadataHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/MetadataHandler.java
+END
+QuestionBankParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/QuestionBankParser.java
+END
+Ns.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/Ns.java
+END
+QTIItemBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/QTIItemBuilder.java
+END
+LtiHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/LtiHandler.java
+END
+ContentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/ContentParser.java
+END
+=README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/=README.txt
+END
+LearningApplicationResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/LearningApplicationResourceHandler.java
+END
+QTIHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/QTIHandler.java
+END
+CartridgeLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/CartridgeLoader.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/Parser.java
+END
+AuthorizationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/cc/AuthorizationHandler.java
+END

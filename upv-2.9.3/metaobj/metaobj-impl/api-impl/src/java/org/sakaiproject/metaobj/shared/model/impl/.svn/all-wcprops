@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/model/impl
+END
+HibernateSchemaNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/model/impl/HibernateSchemaNode.java
+END
+ArtifactImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/model/impl/ArtifactImpl.java
+END
+AgentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/model/impl/AgentImpl.java
+END
+HibernateStructuredArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/model/impl/HibernateStructuredArtifact.java
+END

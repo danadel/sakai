@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/db/impl
+END
+BasicSqlServiceSqlDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/db/impl/BasicSqlServiceSqlDefault.java
+END
+BasicSqlServiceSqlMySql.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/db/impl/BasicSqlServiceSqlMySql.java
+END
+BasicSqlServiceSqlOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/db/impl/BasicSqlServiceSqlOracle.java
+END
+BasicSqlServiceSqlDb2.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/db/impl/BasicSqlServiceSqlDb2.java
+END
+BasicSqlServiceSqlHSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/db/impl/BasicSqlServiceSqlHSql.java
+END
+SqlServiceSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/db/impl/SqlServiceSql.java
+END
+SqlServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/db/impl/SqlServiceTest.java
+END
+BasicSqlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/db/impl/BasicSqlService.java
+END
+BasicSqlServiceSqlMsSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/db/impl/BasicSqlServiceSqlMsSql.java
+END

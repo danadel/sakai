@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/316102/msub/upv.es/PoliformaT/upv-2.9.3/hierarchy/api/src/java/org/sakaiproject/hierarchy/dao/hbm
+END
+HierarchyNodeMetaData.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/316102/msub/upv.es/PoliformaT/upv-2.9.3/hierarchy/api/src/java/org/sakaiproject/hierarchy/dao/hbm/HierarchyNodeMetaData.hbm.xml
+END
+HierarchyPersistentNode.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/316102/msub/upv.es/PoliformaT/upv-2.9.3/hierarchy/api/src/java/org/sakaiproject/hierarchy/dao/hbm/HierarchyPersistentNode.hbm.xml
+END
+HierarchyNodePermission.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/316102/msub/upv.es/PoliformaT/upv-2.9.3/hierarchy/api/src/java/org/sakaiproject/hierarchy/dao/hbm/HierarchyNodePermission.hbm.xml
+END

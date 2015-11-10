@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl
+END
+email-impl_zh_CN.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_zh_CN.metaprops
+END
+email-impl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl.properties
+END
+email-impl_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_ca.properties
+END
+email-impl_es.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_es.metaprops
+END
+email-impl_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_pt_PT.properties
+END
+email-impl_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_ru.properties
+END
+email-impl_ko.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_ko.metaprops
+END
+email-impl_nl.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_nl.metaprops
+END
+email-impl_fr_CA.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_fr_CA.metaprops
+END
+email-impl_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_de.properties
+END
+email-impl_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_sv.properties
+END
+email-impl_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_ja.properties
+END
+email-impl_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_tr_TR.properties
+END
+email-impl_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_zh_TW.properties
+END
+email-impl.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl.metaprops
+END
+email-impl_ca.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_ca.metaprops
+END
+email-impl_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_zh_CN.properties
+END
+email-impl_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_ar.properties
+END
+email-impl_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_pl_PL.properties
+END
+email-impl_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_pt_BR.properties
+END
+email-impl_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_es.properties
+END
+email-impl_ja.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_ja.metaprops
+END
+email-impl_ko.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_ko.properties
+END
+email-impl_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_eu.properties
+END
+email-impl_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_nl.properties
+END
+email-impl_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_mn.properties
+END
+email-impl_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_fr_CA.properties
+END
+email-impl_vi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/emailimpl/email-impl_vi.properties
+END

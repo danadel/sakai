@@ -1,0 +1,93 @@
+
+#
+# Copyright (c) 2009 Sakai Foundation
+#
+# Licensed under the Educational Community License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.osedu.org/licenses/ECL-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+# 
+About = \u95DC\u65BC 
+About_the_Audio = \u95DC\u65BC\u9304\u97F3\u5668 
+Applet_Information = \u5C0F\u7A0B\u5F0F\u8CC7\u8A0A 
+Advanced_Settings = \u9032\u968E\u8A2D\u5B9A 
+Audio_Recorder = \u9304\u97F3\u5668 
+Audio_file_required_ = \u97F3\u8A0A\u6A94\u6848\u662F\u5FC5\u9808\u7684\u3002 
+Capture_Playback = \u64F7\u53D6\uFF0F\u64AD\u653E 
+Center = \u4E2D\u9593 
+Configuration = \u8A2D\u5B9A 
+Configuration_Help = \u8A2D\u5B9A\u8AAA\u660E 
+ERROR = \u76EE\u524D\u72C0\u614B 
+Error_during_playback = \u64AD\u653E\u671F\u9593\u51FA\u73FE\u932F\u8AA4\uFF1A 
+Exit = \u7D50\u675F 
+File = \u6A94\u6848 
+File_ = \u6A94\u6848\uFF1A 
+File_to_save_ = \u5132\u5B58\u6A94\u6848\uFF1A 
+Help = \u8AAA\u660E 
+Length_1 = \u9577\u5EA6\uFF1A 
+Length_ = \u9577\u5EA6\uFF1A 
+Line_matching = \u8A9E\u53E5\u914D\u5C0D 
+Load_ = \u8F09\u5165\u2026 
+No_loaded_audio_to1 = \u6C92\u6709\u5F85\u64AD\u653E\u9304\u97F3 
+No_loaded_audio_to = \u6C92\u6709\u8981\u5132\u5B58\u7684\u9304\u97F3 
+Pause = \u66AB\u505C 
+Play = \u64AD\u653E 
+Position_ = \u4F4D\u7F6E\uFF1A 
+Problems_writing_to = \u5BEB\u5165\u6A94\u6848\u932F\u8AA4 
+Record = \u8A18\u9304 
+Save = \u5132\u5B58 
+Save_AIFF = \u5132\u5B58 AIFF 
+Save_AU = \u5132\u5B58 AU 
+Save_WAVE = \u5132\u5B58 WAVE 
+Unable_to_convert = \u7121\u6CD5\u8F49\u63DB\u4E32\u6D41\u683C\u5F0F 
+Unable_to_open_the = \u7121\u6CD5\u958B\u555F\u7DDA\u8DEF\uFF1A 
+Unable_to_reset = \u7121\u6CD5\u91CD\u8A2D\u4E32\u6D41 
+Unable_to_reset_the = \u7121\u6CD5\u91CD\u8A2D\u4E32\u6D41 
+big = \u5927 
+big_endian = big endian 
+bytes = \u4F4D\u5143\u7D44 
+contentlenw = \u5DF2\u5BEB\u5165\u7684\u5167\u5BB9\u9577\u5EA6 
+default_file_name = \u97F3\u8A0A 
+grant_ = \u63F4\u6B0A\uFF5B 
+linear = \u7DDA\u6027 
+mono = \u55AE\u8072\u9053 
+not_supported_ = \u4E0D\u652F\u63F4\u3002 
+pausB_Text = \u7E7C\u7E8C 
+playB_Text = \u505C\u6B62 
+retries = \u91CD\u8A66\u5269\u9918\u7684 
+signed = \u5DF2\u7C3D\u7F72 
+stereo = \u7ACB\u9AD4\u8072 
+thread_Name1 = \u64F7\u53D6 
+thread_Name2 = \u53D6\u6A23\u5716 
+thread_Name = \u64AD\u653E 
+to_format = \u81F3\u683C\u5F0F 
+unsigned = \u672A\u7C3D\u7F72 
+untitled = \u672A\u6A19\u984C 
+user_dir = user_dir 
+ABOUT_SAKAI_AUDIO = \u95DC\u65BC Sakai \u9304\u97F3\u5668\n\n 
+When_running_the = \u7576\u9032\u884C\u9304\u97F3\u6642 
+_You_must_have_a = \u60A8\u5FC5\u9808\u6709\u6B63\u78BA\u5730\u8A2D\u5B9A\u7684\u97F3\u6548\u5361\u548C\u9EA5\u514B\u98A8\u3002 
+_You_must_have_a1 = \u60A8\u5FC5\u9808\u6709\u6B63\u78BA\u5730\u8A2D\u5B9A\u7684 Java 1.5 \u5916\u639B\u7A0B\u5F0F\u5B89\u88DD\u3002 
+_Have_these = \u5C07\u9019\u4E9B\u6B0A\u9650\u52A0\u5165\u81F3 .java.policy \u6A94\u6848\uFF1A 
+permission_java_io = permission java.io.FilePermission "<<ALL FILES>>", "read, write";\n 
+permission_java_util = permission java.util.PropertyPermission "user.dir", "read";\n 
+Please_make_sure_you = \u8ACB\u5728\u4F7F\u7528\u524D\u9996\u5148\u78BA\u8A8D\u60A8\u4FEE\u6B63\u6B64\u9805\u3002\n\n 
+Portions_copyright_c = \u90E8\u5206\u5167\u5BB9\u7248\u6B0A\u00A9 2005, 2006, 2007 The Sakai Foundation.\n\n 
+Licensed_under_the = \u6559\u80B2\u793E\u5340\u8A31\u53EF\u8B49 2.0 \u7248\uFE59\u7C21\u7A31\u300C\u8A31\u53EF\u8B49\u300D\uFE5A\uFF1B\u8ACB\u53C3\u8003 
+http_opensource = http\://www.osedu.org/licenses/ECL-2.0\n\n 
+Portions_Copyright_c = \u90E8\u5206\u5167\u5BB9\u7248\u6B0A\u00A9 1999 Sun Microsystems, Inc. \u4FDD\u7559\u6240\u6709\u6B0A\u5229\u3002\n\n 
+attempts_allowed = \u8A66\u5716\u5141\u8A31\uFF1A 
+time_limit = \u6642\u9593\u9650\u5236\uFF1A 
+current_recordig_length = \u76EE\u524D\u8A18\u9304\u9577\u5EA6\uFE59\u79D2\u9418\uFE5A\uFF1A 
+attempts_remaining = \u5617\u8A66\u9918\u4E0B\u7684\uFF1A 
+time_passed = \u6642\u9650\u5DF2\u904E\u3002\u5132\u5B58\u97F3\u8A0A\u4E2D\u2026\u2026 
+time_expired = \u5DF2\u8D85\u6642\uFF0C\u6B63\u5728\u8655\u7406\u4E2D\u2026\u2026 
+processing = \u6B63\u5728\u8655\u7406\u4E2D\u2026\u2026 
+unlimited = \u7121\u9650\u5236 

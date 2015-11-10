@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml
+END
+ValidationError.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/ValidationError.java
+END
+SchemaInvalidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/SchemaInvalidException.java
+END
+SchemaFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/SchemaFactory.java
+END

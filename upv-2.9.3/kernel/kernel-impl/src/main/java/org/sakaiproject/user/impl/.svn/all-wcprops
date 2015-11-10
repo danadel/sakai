@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl
+END
+UserServiceSqlDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserServiceSqlDefault.java
+END
+OpenAuthnComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/OpenAuthnComponent.java
+END
+DbPreferencesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/DbPreferencesService.java
+END
+PrecachingDbUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/PrecachingDbUserService.java
+END
+UserServiceSqlMsSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserServiceSqlMsSql.java
+END
+UserAuthnComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserAuthnComponent.java
+END
+DirectDbAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/DirectDbAccess.java
+END
+AuthenticationCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/AuthenticationCache.java
+END
+UserNotificationPreferencesRegistrationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserNotificationPreferencesRegistrationServiceImpl.java
+END
+DbUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/DbUserService.java
+END
+UserServiceSqlMySql.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserServiceSqlMySql.java
+END
+UserServiceSqlOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserServiceSqlOracle.java
+END
+UserServiceSqlDb2.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserServiceSqlDb2.java
+END
+UserServiceSqlHSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserServiceSqlHSql.java
+END
+BasePreferencesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/BasePreferencesService.java
+END
+UserServiceSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserServiceSql.java
+END
+BaseUserDirectoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/BaseUserDirectoryService.java
+END
+ReEncryptPasswords.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/ReEncryptPasswords.java
+END
+AuthnCacheWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/AuthnCacheWatcher.java
+END
+PasswordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/PasswordService.java
+END

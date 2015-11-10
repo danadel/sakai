@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services
+END
+SakaiPortalCallbackService.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/SakaiPortalCallbackService.java
+END
+SakaiPortletContainerServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/SakaiPortletContainerServices.java
+END
+SakaiOptionalPortletContainerServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/SakaiOptionalPortletContainerServices.java
+END
+SakaiPortalContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/SakaiPortalContext.java
+END

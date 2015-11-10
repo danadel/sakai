@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/cm-authz-integration-test/src/test/java/org/sakaiproject/coursemanagement/test
+END
+DefaultConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/cm-authz-integration-test/src/test/java/org/sakaiproject/coursemanagement/test/DefaultConfigurationTest.java
+END
+ConfigurationTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/cm-authz-integration-test/src/test/java/org/sakaiproject/coursemanagement/test/ConfigurationTestBase.java
+END
+EnrollmentOnlyConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/cm-authz-integration-test/src/test/java/org/sakaiproject/coursemanagement/test/EnrollmentOnlyConfigurationTest.java
+END

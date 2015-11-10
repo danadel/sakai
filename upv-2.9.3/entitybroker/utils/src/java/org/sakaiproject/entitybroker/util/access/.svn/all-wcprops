@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/access
+END
+AccessProviderManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/access/AccessProviderManagerImpl.java
+END
+HttpServletAccessProviderManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/access/HttpServletAccessProviderManagerImpl.java
+END
+EntityViewAccessProviderManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/access/EntityViewAccessProviderManagerImpl.java
+END

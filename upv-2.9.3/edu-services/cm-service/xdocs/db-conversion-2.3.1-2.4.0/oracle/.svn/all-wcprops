@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/xdocs/db-conversion-2.3.1-2.4.0/oracle
+END
+cm-2.3.1-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/xdocs/db-conversion-2.3.1-2.4.0/oracle/cm-2.3.1-oracle.sql
+END
+cm-2.4-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/xdocs/db-conversion-2.3.1-2.4.0/oracle/cm-2.4-oracle.sql
+END
+conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/xdocs/db-conversion-2.3.1-2.4.0/oracle/conversion.sql
+END

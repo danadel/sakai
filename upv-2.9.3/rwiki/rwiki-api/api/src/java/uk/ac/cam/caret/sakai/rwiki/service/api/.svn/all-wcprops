@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api
+END
+RWikiObjectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/RWikiObjectService.java
+END
+RWikiSecurityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/RWikiSecurityService.java
+END
+RenderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/RenderService.java
+END
+PageLinkRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/PageLinkRenderer.java
+END
+DefaultRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/DefaultRole.java
+END
+EntityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/EntityHandler.java
+END

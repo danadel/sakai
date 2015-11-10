@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/opt-src/java/org/sakaiproject/lessonbuildertool/service
+END
+OptSqlpostgres.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/opt-src/java/org/sakaiproject/lessonbuildertool/service/OptSqlpostgres.java
+END
+MnemeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/opt-src/java/org/sakaiproject/lessonbuildertool/service/MnemeEntity.java
+END
+YaftTopicEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/opt-src/java/org/sakaiproject/lessonbuildertool/service/YaftTopicEntity.java
+END
+OptSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/opt-src/java/org/sakaiproject/lessonbuildertool/service/OptSql.java
+END
+Assignment2Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/opt-src/java/org/sakaiproject/lessonbuildertool/service/Assignment2Entity.java
+END
+OptSqlDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/opt-src/java/org/sakaiproject/lessonbuildertool/service/OptSqlDefault.java
+END
+OptSqloracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/opt-src/java/org/sakaiproject/lessonbuildertool/service/OptSqloracle.java
+END

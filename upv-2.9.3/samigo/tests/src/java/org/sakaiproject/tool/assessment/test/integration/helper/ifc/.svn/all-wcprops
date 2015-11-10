@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/java/org/sakaiproject/tool/assessment/test/integration/helper/ifc
+END
+TestAuthzHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/java/org/sakaiproject/tool/assessment/test/integration/helper/ifc/TestAuthzHelper.java
+END
+TestPublishingTargetHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/java/org/sakaiproject/tool/assessment/test/integration/helper/ifc/TestPublishingTargetHelper.java
+END
+TestGradebookHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/java/org/sakaiproject/tool/assessment/test/integration/helper/ifc/TestGradebookHelper.java
+END
+TestAgentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/java/org/sakaiproject/tool/assessment/test/integration/helper/ifc/TestAgentHelper.java
+END
+TestGradebookServiceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/java/org/sakaiproject/tool/assessment/test/integration/helper/ifc/TestGradebookServiceHelper.java
+END

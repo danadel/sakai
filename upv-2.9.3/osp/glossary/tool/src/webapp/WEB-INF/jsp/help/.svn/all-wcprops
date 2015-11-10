@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/webapp/WEB-INF/jsp/help
+END
+importGlossary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/webapp/WEB-INF/jsp/help/importGlossary.jsp
+END
+editGlossaryTerm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/webapp/WEB-INF/jsp/help/editGlossaryTerm.jsp
+END
+glossary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/webapp/WEB-INF/jsp/help/glossary.jsp
+END
+listTerms.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/webapp/WEB-INF/jsp/help/listTerms.jsp
+END
+glossaryTerm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/webapp/WEB-INF/jsp/help/glossaryTerm.jsp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/ehcache.xml
+END
+test-sakai.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/test-sakai.properties
+END
+fake-services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/fake-services.xml
+END
+test-classes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/test-classes.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/log4j.properties
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/hibernate.properties
+END
+hibernate-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/hibernate-test.xml
+END

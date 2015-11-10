@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/131392/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/xml/xsl/dataTransform/import/v1p2
+END
+extractItem.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/xml/xsl/dataTransform/import/v1p2/extractItem.xsl
+END
+extractSection.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/131392/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/xml/xsl/dataTransform/import/v1p2/extractSection.xsl
+END
+extractAssessment.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/xml/xsl/dataTransform/import/v1p2/extractAssessment.xsl
+END
+removeDefaultNamespaceFromQTI.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/xml/xsl/dataTransform/import/v1p2/removeDefaultNamespaceFromQTI.xsl
+END

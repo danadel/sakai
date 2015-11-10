@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-parsers/sakai-archive/src/java/org/sakaiproject/importer/impl
+END
+SakaiArchiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-parsers/sakai-archive/src/java/org/sakaiproject/importer/impl/SakaiArchiveTest.java
+END
+SakaiArchiveDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-parsers/sakai-archive/src/java/org/sakaiproject/importer/impl/SakaiArchiveDataSource.java
+END
+SakaiArchiveFileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-parsers/sakai-archive/src/java/org/sakaiproject/importer/impl/SakaiArchiveFileParser.java
+END

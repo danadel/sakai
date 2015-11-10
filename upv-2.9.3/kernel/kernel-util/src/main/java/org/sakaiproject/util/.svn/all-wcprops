@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/Resource.java
+END
+DbResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/DbResourceBundle.java
+END
+FormattedText.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/FormattedText.java
+END
+PathHashUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/PathHashUtil.java
+END
+PasswordCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/PasswordCheck.java
+END
+ExternalTrustedEvidence.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/ExternalTrustedEvidence.java
+END
+BasicAuth.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/BasicAuth.java
+END
+EmptyIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/EmptyIterator.java
+END
+EntityCollections.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/EntityCollections.java
+END
+MapUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/MapUtil.java
+END
+ArrayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/ArrayUtil.java
+END
+StackIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/StackIterator.java
+END
+Authentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/Authentication.java
+END
+SiteEmailNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/SiteEmailNotification.java
+END
+Validator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/Validator.java
+END
+EmailNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/EmailNotification.java
+END
+RemoteHostFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/RemoteHostFilter.java
+END
+BaseResourceProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/BaseResourceProperties.java
+END
+Xml.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/Xml.java
+END
+EnumerationIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/EnumerationIterator.java
+END
+IteratorEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/IteratorEnumeration.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/StringUtil.java
+END
+ResourceLoaderMessageSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/ResourceLoaderMessageSource.java
+END
+BaseResourcePropertiesEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/BaseResourcePropertiesEdit.java
+END
+IdPwEvidence.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/IdPwEvidence.java
+END
+Placement.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/Placement.java
+END
+SortedIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/SortedIterator.java
+END
+Web.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/Web.java
+END
+ResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/ResourceLoader.java
+END
+EditorConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/EditorConfiguration.java
+END
+UserNotificationPreferencesRegistrationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-util/src/main/java/org/sakaiproject/util/UserNotificationPreferencesRegistrationImpl.java
+END

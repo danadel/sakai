@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/321203/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers
+END
+ReLoginHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/ReLoginHandler.java
+END
+GalleryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/GalleryHandler.java
+END
+ErrorDoneHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/ErrorDoneHandler.java
+END
+StaticScriptsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/StaticScriptsHandler.java
+END
+AtomHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/AtomHandler.java
+END
+XLoginHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/XLoginHandler.java
+END
+GalleryResetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/GalleryResetHandler.java
+END
+PresenceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/PresenceHandler.java
+END
+PDAHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/PDAHandler.java
+END
+SiteHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/321203/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/SiteHandler.java
+END
+TimeoutDialogHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/TimeoutDialogHandler.java
+END
+OpmlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/OpmlHandler.java
+END
+RssHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/RssHandler.java
+END
+SiteResetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/SiteResetHandler.java
+END
+WorksiteHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/321203/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/WorksiteHandler.java
+END
+LoginHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/LoginHandler.java
+END
+DirectToolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/DirectToolHandler.java
+END
+LogoutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/LogoutHandler.java
+END
+WorksiteResetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/WorksiteResetHandler.java
+END
+RoleSwitchOutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/RoleSwitchOutHandler.java
+END
+PageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130948/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/PageHandler.java
+END
+NavLoginHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/NavLoginHandler.java
+END
+ToolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/313858/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/ToolHandler.java
+END
+ToolResetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/ToolResetHandler.java
+END
+RoleSwitchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/RoleSwitchHandler.java
+END
+ErrorReportHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/ErrorReportHandler.java
+END
+StaticHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/StaticHandler.java
+END
+HelpHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/HelpHandler.java
+END
+StaticStylesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/StaticStylesHandler.java
+END
+BasePortalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/313858/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/handlers/BasePortalHandler.java
+END

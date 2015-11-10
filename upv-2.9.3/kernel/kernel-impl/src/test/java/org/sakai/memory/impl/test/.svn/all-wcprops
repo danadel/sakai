@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test
+END
+MemoryServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/MemoryServiceTest.java
+END
+MockServerConfigurationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/MockServerConfigurationService.java
+END
+MockEventTrackingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/MockEventTrackingService.java
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/ehcache.xml
+END
+MockSecurityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/MockSecurityService.java
+END
+MockAuthzGroupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/MockAuthzGroupService.java
+END
+MockUsageSessionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/MockUsageSessionService.java
+END
+MockBasicMemoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/MockBasicMemoryService.java
+END
+TestCacheInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/TestCacheInitializer.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus
+END
+SyllabusAttachmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus/SyllabusAttachmentImpl.java
+END
+SyllabusDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus/SyllabusDataImpl.java
+END
+SyllabusAttachment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus/SyllabusAttachment.hbm.xml
+END
+SyllabusDataImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus/SyllabusDataImpl.hbm.xml
+END
+SyllabusItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus/SyllabusItemImpl.java
+END
+SyllabusItemImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus/SyllabusItemImpl.hbm.xml
+END

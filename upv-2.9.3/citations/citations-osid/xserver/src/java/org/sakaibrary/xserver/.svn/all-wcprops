@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/xserver
+END
+XMLCleanup.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/xserver/XMLCleanup.java
+END
+XMLTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/xserver/XMLTransform.java
+END
+XServerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/xserver/XServerException.java
+END
+RegexUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/xserver/RegexUtility.java
+END
+XServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/xserver/XServer.java
+END
+FindResultSetBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/xserver/src/java/org/sakaibrary/xserver/FindResultSetBean.java
+END

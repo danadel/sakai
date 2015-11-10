@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/317819/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/common/inc
+END
+globalMessages.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/common/inc/globalMessages.jspf
+END
+navMenu.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/317819/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/common/inc/navMenu.jspf
+END
+sectionFilter.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/common/inc/sectionFilter.jspf
+END
+sectionEditor.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/common/inc/sectionEditor.jspf
+END
+transferButtons.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/common/inc/transferButtons.jspf
+END

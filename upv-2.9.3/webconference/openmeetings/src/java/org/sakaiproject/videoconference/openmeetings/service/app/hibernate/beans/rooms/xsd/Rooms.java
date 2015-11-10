@@ -1,0 +1,2802 @@
+
+/**
+ * Rooms.java
+ *
+ * This file was auto-generated from WSDL
+ * by the Apache Axis2 version: 1.5  Built on : Apr 30, 2009 (06:07:47 EDT)
+ */
+            
+                package org.sakaiproject.videoconference.openmeetings.service.app.hibernate.beans.rooms.xsd;
+            
+
+            /**
+            *  Rooms bean class
+            */
+        
+        public  class Rooms
+        implements org.apache.axis2.databinding.ADBBean{
+        /* This type was generated from the piece of schema that had
+                name = Rooms
+                Namespace URI = http://rooms.beans.hibernate.app.openmeetings.org/xsd
+                Namespace Prefix = ns6
+                */
+            
+
+        private static java.lang.String generatePrefix(java.lang.String namespace) {
+            if(namespace.equals("http://rooms.beans.hibernate.app.openmeetings.org/xsd")){
+                return "ns6";
+            }
+            return org.apache.axis2.databinding.utils.BeanUtil.getUniquePrefix();
+        }
+
+        
+
+                        /**
+                        * field for AllowUserQuestions
+                        */
+
+                        
+                                    protected boolean localAllowUserQuestions ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localAllowUserQuestionsTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return boolean
+                           */
+                           public  boolean getAllowUserQuestions(){
+                               return localAllowUserQuestions;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param AllowUserQuestions
+                               */
+                               public void setAllowUserQuestions(boolean param){
+                            
+                                       // setting primitive attribute tracker to true
+                                       
+                                               if (false) {
+                                           localAllowUserQuestionsTracker = true;
+                                              
+                                       } else {
+                                          localAllowUserQuestionsTracker = true;
+                                       }
+                                   
+                                            this.localAllowUserQuestions=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for Appointment
+                        */
+
+                        
+                                    protected boolean localAppointment ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localAppointmentTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return boolean
+                           */
+                           public  boolean getAppointment(){
+                               return localAppointment;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param Appointment
+                               */
+                               public void setAppointment(boolean param){
+                            
+                                       // setting primitive attribute tracker to true
+                                       
+                                               if (false) {
+                                           localAppointmentTracker = true;
+                                              
+                                       } else {
+                                          localAppointmentTracker = true;
+                                       }
+                                   
+                                            this.localAppointment=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for Comment
+                        */
+
+                        
+                                    protected java.lang.String localComment ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localCommentTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return java.lang.String
+                           */
+                           public  java.lang.String getComment(){
+                               return localComment;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param Comment
+                               */
+                               public void setComment(java.lang.String param){
+                            
+                                       if (param != null){
+                                          //update the setting tracker
+                                          localCommentTracker = true;
+                                       } else {
+                                          localCommentTracker = true;
+                                              
+                                       }
+                                   
+                                            this.localComment=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for ConferencePin
+                        */
+
+                        
+                                    protected java.lang.String localConferencePin ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localConferencePinTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return java.lang.String
+                           */
+                           public  java.lang.String getConferencePin(){
+                               return localConferencePin;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param ConferencePin
+                               */
+                               public void setConferencePin(java.lang.String param){
+                            
+                                       if (param != null){
+                                          //update the setting tracker
+                                          localConferencePinTracker = true;
+                                       } else {
+                                          localConferencePinTracker = true;
+                                              
+                                       }
+                                   
+                                            this.localConferencePin=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for Currentusers
+                        */
+
+                        
+                                    protected org.apache.axiom.om.OMElement localCurrentusers ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localCurrentusersTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return org.apache.axiom.om.OMElement
+                           */
+                           public  org.apache.axiom.om.OMElement getCurrentusers(){
+                               return localCurrentusers;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param Currentusers
+                               */
+                               public void setCurrentusers(org.apache.axiom.om.OMElement param){
+                            
+                                       if (param != null){
+                                          //update the setting tracker
+                                          localCurrentusersTracker = true;
+                                       } else {
+                                          localCurrentusersTracker = true;
+                                              
+                                       }
+                                   
+                                            this.localCurrentusers=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for Deleted
+                        */
+
+                        
+                                    protected java.lang.String localDeleted ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localDeletedTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return java.lang.String
+                           */
+                           public  java.lang.String getDeleted(){
+                               return localDeleted;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param Deleted
+                               */
+                               public void setDeleted(java.lang.String param){
+                            
+                                       if (param != null){
+                                          //update the setting tracker
+                                          localDeletedTracker = true;
+                                       } else {
+                                          localDeletedTracker = true;
+                                              
+                                       }
+                                   
+                                            this.localDeleted=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for DemoTime
+                        */
+
+                        
+                                    protected int localDemoTime ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localDemoTimeTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return int
+                           */
+                           public  int getDemoTime(){
+                               return localDemoTime;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param DemoTime
+                               */
+                               public void setDemoTime(int param){
+                            
+                                       // setting primitive attribute tracker to true
+                                       
+                                               if (param==java.lang.Integer.MIN_VALUE) {
+                                           localDemoTimeTracker = true;
+                                              
+                                       } else {
+                                          localDemoTimeTracker = true;
+                                       }
+                                   
+                                            this.localDemoTime=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for ExternalRoomId
+                        */
+
+                        
+                                    protected long localExternalRoomId ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localExternalRoomIdTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return long
+                           */
+                           public  long getExternalRoomId(){
+                               return localExternalRoomId;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param ExternalRoomId
+                               */
+                               public void setExternalRoomId(long param){
+                            
+                                       // setting primitive attribute tracker to true
+                                       
+                                               if (param==java.lang.Long.MIN_VALUE) {
+                                           localExternalRoomIdTracker = true;
+                                              
+                                       } else {
+                                          localExternalRoomIdTracker = true;
+                                       }
+                                   
+                                            this.localExternalRoomId=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for ExternalRoomType
+                        */
+
+                        
+                                    protected java.lang.String localExternalRoomType ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localExternalRoomTypeTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return java.lang.String
+                           */
+                           public  java.lang.String getExternalRoomType(){
+                               return localExternalRoomType;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param ExternalRoomType
+                               */
+                               public void setExternalRoomType(java.lang.String param){
+                            
+                                       if (param != null){
+                                          //update the setting tracker
+                                          localExternalRoomTypeTracker = true;
+                                       } else {
+                                          localExternalRoomTypeTracker = true;
+                                              
+                                       }
+                                   
+                                            this.localExternalRoomType=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for IsAudioOnly
+                        */
+
+                        
+                                    protected boolean localIsAudioOnly ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localIsAudioOnlyTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return boolean
+                           */
+                           public  boolean getIsAudioOnly(){
+                               return localIsAudioOnly;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param IsAudioOnly
+                               */
+                               public void setIsAudioOnly(boolean param){
+                            
+                                       // setting primitive attribute tracker to true
+                                       
+                                               if (false) {
+                                           localIsAudioOnlyTracker = true;
+                                              
+                                       } else {
+                                          localIsAudioOnlyTracker = true;
+                                       }
+                                   
+                                            this.localIsAudioOnly=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for IsClosed
+                        */
+
+                        
+                                    protected boolean localIsClosed ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localIsClosedTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return boolean
+                           */
+                           public  boolean getIsClosed(){
+                               return localIsClosed;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param IsClosed
+                               */
+                               public void setIsClosed(boolean param){
+                            
+                                       // setting primitive attribute tracker to true
+                                       
+                                               if (false) {
+                                           localIsClosedTracker = true;
+                                              
+                                       } else {
+                                          localIsClosedTracker = true;
+                                       }
+                                   
+                                            this.localIsClosed=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for IsDemoRoom
+                        */
+
+                        
+                                    protected boolean localIsDemoRoom ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localIsDemoRoomTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return boolean
+                           */
+                           public  boolean getIsDemoRoom(){
+                               return localIsDemoRoom;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param IsDemoRoom
+                               */
+                               public void setIsDemoRoom(boolean param){
+                            
+                                       // setting primitive attribute tracker to true
+                                       
+                                               if (false) {
+                                           localIsDemoRoomTracker = true;
+                                              
+                                       } else {
+                                          localIsDemoRoomTracker = true;
+                                       }
+                                   
+                                            this.localIsDemoRoom=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for IsModeratedRoom
+                        */
+
+                        
+                                    protected boolean localIsModeratedRoom ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localIsModeratedRoomTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return boolean
+                           */
+                           public  boolean getIsModeratedRoom(){
+                               return localIsModeratedRoom;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param IsModeratedRoom
+                               */
+                               public void setIsModeratedRoom(boolean param){
+                            
+                                       // setting primitive attribute tracker to true
+                                       
+                                               if (false) {
+                                           localIsModeratedRoomTracker = true;
+                                              
+                                       } else {
+                                          localIsModeratedRoomTracker = true;
+                                       }
+                                   
+                                            this.localIsModeratedRoom=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for Ispublic
+                        */
+
+                        
+                                    protected boolean localIspublic ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localIspublicTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return boolean
+                           */
+                           public  boolean getIspublic(){
+                               return localIspublic;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param Ispublic
+                               */
+                               public void setIspublic(boolean param){
+                            
+                                       // setting primitive attribute tracker to true
+                                       
+                                               if (false) {
+                                           localIspublicTracker = true;
+                                              
+                                       } else {
+                                          localIspublicTracker = true;
+                                       }
+                                   
+                                            this.localIspublic=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for Name
+                        */
+
+                        
+                                    protected java.lang.String localName ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localNameTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return java.lang.String
+                           */
+                           public  java.lang.String getName(){
+                               return localName;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param Name
+                               */
+                               public void setName(java.lang.String param){
+                            
+                                       if (param != null){
+                                          //update the setting tracker
+                                          localNameTracker = true;
+                                       } else {
+                                          localNameTracker = true;
+                                              
+                                       }
+                                   
+                                            this.localName=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for NumberOfPartizipants
+                        */
+
+                        
+                                    protected long localNumberOfPartizipants ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localNumberOfPartizipantsTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return long
+                           */
+                           public  long getNumberOfPartizipants(){
+                               return localNumberOfPartizipants;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param NumberOfPartizipants
+                               */
+                               public void setNumberOfPartizipants(long param){
+                            
+                                       // setting primitive attribute tracker to true
+                                       
+                                               if (param==java.lang.Long.MIN_VALUE) {
+                                           localNumberOfPartizipantsTracker = true;
+                                              
+                                       } else {
+                                          localNumberOfPartizipantsTracker = true;
+                                       }
+                                   
+                                            this.localNumberOfPartizipants=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for RedirectURL
+                        */
+
+                        
+                                    protected java.lang.String localRedirectURL ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localRedirectURLTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return java.lang.String
+                           */
+                           public  java.lang.String getRedirectURL(){
+                               return localRedirectURL;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param RedirectURL
+                               */
+                               public void setRedirectURL(java.lang.String param){
+                            
+                                       if (param != null){
+                                          //update the setting tracker
+                                          localRedirectURLTracker = true;
+                                       } else {
+                                          localRedirectURLTracker = true;
+                                              
+                                       }
+                                   
+                                            this.localRedirectURL=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for Rooms_id
+                        */
+
+                        
+                                    protected long localRooms_id ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localRooms_idTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return long
+                           */
+                           public  long getRooms_id(){
+                               return localRooms_id;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param Rooms_id
+                               */
+                               public void setRooms_id(long param){
+                            
+                                       // setting primitive attribute tracker to true
+                                       
+                                               if (param==java.lang.Long.MIN_VALUE) {
+                                           localRooms_idTracker = true;
+                                              
+                                       } else {
+                                          localRooms_idTracker = true;
+                                       }
+                                   
+                                            this.localRooms_id=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for Roomtype
+                        */
+
+                        
+                                    protected org.sakaiproject.videoconference.openmeetings.service.app.hibernate.beans.rooms.xsd.RoomTypes localRoomtype ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localRoomtypeTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return org.sakaiproject.videoconference.openmeetings.service.app.hibernate.beans.rooms.xsd.RoomTypes
+                           */
+                           public  org.sakaiproject.videoconference.openmeetings.service.app.hibernate.beans.rooms.xsd.RoomTypes getRoomtype(){
+                               return localRoomtype;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param Roomtype
+                               */
+                               public void setRoomtype(org.sakaiproject.videoconference.openmeetings.service.app.hibernate.beans.rooms.xsd.RoomTypes param){
+                            
+                                       if (param != null){
+                                          //update the setting tracker
+                                          localRoomtypeTracker = true;
+                                       } else {
+                                          localRoomtypeTracker = true;
+                                              
+                                       }
+                                   
+                                            this.localRoomtype=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for SipNumber
+                        */
+
+                        
+                                    protected java.lang.String localSipNumber ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localSipNumberTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return java.lang.String
+                           */
+                           public  java.lang.String getSipNumber(){
+                               return localSipNumber;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param SipNumber
+                               */
+                               public void setSipNumber(java.lang.String param){
+                            
+                                       if (param != null){
+                                          //update the setting tracker
+                                          localSipNumberTracker = true;
+                                       } else {
+                                          localSipNumberTracker = true;
+                                              
+                                       }
+                                   
+                                            this.localSipNumber=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for Starttime
+                        */
+
+                        
+                                    protected java.util.Calendar localStarttime ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localStarttimeTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return java.util.Calendar
+                           */
+                           public  java.util.Calendar getStarttime(){
+                               return localStarttime;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param Starttime
+                               */
+                               public void setStarttime(java.util.Calendar param){
+                            
+                                       if (param != null){
+                                          //update the setting tracker
+                                          localStarttimeTracker = true;
+                                       } else {
+                                          localStarttimeTracker = true;
+                                              
+                                       }
+                                   
+                                            this.localStarttime=param;
+                                    
+
+                               }
+                            
+
+                        /**
+                        * field for Updatetime
+                        */
+
+                        
+                                    protected java.util.Calendar localUpdatetime ;
+                                
+                           /*  This tracker boolean wil be used to detect whether the user called the set method
+                          *   for this attribute. It will be used to determine whether to include this field
+                           *   in the serialized XML
+                           */
+                           protected boolean localUpdatetimeTracker = false ;
+                           
+
+                           /**
+                           * Auto generated getter method
+                           * @return java.util.Calendar
+                           */
+                           public  java.util.Calendar getUpdatetime(){
+                               return localUpdatetime;
+                           }
+
+                           
+                        
+                            /**
+                               * Auto generated setter method
+                               * @param param Updatetime
+                               */
+                               public void setUpdatetime(java.util.Calendar param){
+                            
+                                       if (param != null){
+                                          //update the setting tracker
+                                          localUpdatetimeTracker = true;
+                                       } else {
+                                          localUpdatetimeTracker = true;
+                                              
+                                       }
+                                   
+                                            this.localUpdatetime=param;
+                                    
+
+                               }
+                            
+
+     /**
+     * isReaderMTOMAware
+     * @return true if the reader supports MTOM
+     */
+   public static boolean isReaderMTOMAware(javax.xml.stream.XMLStreamReader reader) {
+        boolean isReaderMTOMAware = false;
+        
+        try{
+          isReaderMTOMAware = java.lang.Boolean.TRUE.equals(reader.getProperty(org.apache.axiom.om.OMConstants.IS_DATA_HANDLERS_AWARE));
+        }catch(java.lang.IllegalArgumentException e){
+          isReaderMTOMAware = false;
+        }
+        return isReaderMTOMAware;
+   }
+     
+     
+        /**
+        *
+        * @param parentQName
+        * @param factory
+        * @return org.apache.axiom.om.OMElement
+        */
+       public org.apache.axiom.om.OMElement getOMElement (
+               final javax.xml.namespace.QName parentQName,
+               final org.apache.axiom.om.OMFactory factory) throws org.apache.axis2.databinding.ADBException{
+
+
+        
+               org.apache.axiom.om.OMDataSource dataSource =
+                       new org.apache.axis2.databinding.ADBDataSource(this,parentQName){
+
+                 public void serialize(org.apache.axis2.databinding.utils.writer.MTOMAwareXMLStreamWriter xmlWriter) throws javax.xml.stream.XMLStreamException {
+                       Rooms.this.serialize(parentQName,factory,xmlWriter);
+                 }
+               };
+               return new org.apache.axiom.om.impl.llom.OMSourcedElementImpl(
+               parentQName,factory,dataSource);
+            
+       }
+
+         public void serialize(final javax.xml.namespace.QName parentQName,
+                                       final org.apache.axiom.om.OMFactory factory,
+                                       org.apache.axis2.databinding.utils.writer.MTOMAwareXMLStreamWriter xmlWriter)
+                                throws javax.xml.stream.XMLStreamException, org.apache.axis2.databinding.ADBException{
+                           serialize(parentQName,factory,xmlWriter,false);
+         }
+
+         public void serialize(final javax.xml.namespace.QName parentQName,
+                               final org.apache.axiom.om.OMFactory factory,
+                               org.apache.axis2.databinding.utils.writer.MTOMAwareXMLStreamWriter xmlWriter,
+                               boolean serializeType)
+            throws javax.xml.stream.XMLStreamException, org.apache.axis2.databinding.ADBException{
+            
+                
+
+
+                java.lang.String prefix = null;
+                java.lang.String namespace = null;
+                
+
+                    prefix = parentQName.getPrefix();
+                    namespace = parentQName.getNamespaceURI();
+
+                    if ((namespace != null) && (namespace.trim().length() > 0)) {
+                        java.lang.String writerPrefix = xmlWriter.getPrefix(namespace);
+                        if (writerPrefix != null) {
+                            xmlWriter.writeStartElement(namespace, parentQName.getLocalPart());
+                        } else {
+                            if (prefix == null) {
+                                prefix = generatePrefix(namespace);
+                            }
+
+                            xmlWriter.writeStartElement(prefix, parentQName.getLocalPart(), namespace);
+                            xmlWriter.writeNamespace(prefix, namespace);
+                            xmlWriter.setPrefix(prefix, namespace);
+                        }
+                    } else {
+                        xmlWriter.writeStartElement(parentQName.getLocalPart());
+                    }
+                
+                  if (serializeType){
+               
+
+                   java.lang.String namespacePrefix = registerPrefix(xmlWriter,"http://rooms.beans.hibernate.app.openmeetings.org/xsd");
+                   if ((namespacePrefix != null) && (namespacePrefix.trim().length() > 0)){
+                       writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","type",
+                           namespacePrefix+":Rooms",
+                           xmlWriter);
+                   } else {
+                       writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","type",
+                           "Rooms",
+                           xmlWriter);
+                   }
+
+               
+                   }
+                if (localAllowUserQuestionsTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"allowUserQuestions", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"allowUserQuestions");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("allowUserQuestions");
+                                    }
+                                
+                                               if (false) {
+                                           
+                                                         writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                      
+                                               } else {
+                                                    xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localAllowUserQuestions));
+                                               }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localAppointmentTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"appointment", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"appointment");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("appointment");
+                                    }
+                                
+                                               if (false) {
+                                           
+                                                         writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                      
+                                               } else {
+                                                    xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localAppointment));
+                                               }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localCommentTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"comment", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"comment");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("comment");
+                                    }
+                                
+
+                                          if (localComment==null){
+                                              // write the nil attribute
+                                              
+                                                     writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                  
+                                          }else{
+
+                                        
+                                                   xmlWriter.writeCharacters(localComment);
+                                            
+                                          }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localConferencePinTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"conferencePin", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"conferencePin");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("conferencePin");
+                                    }
+                                
+
+                                          if (localConferencePin==null){
+                                              // write the nil attribute
+                                              
+                                                     writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                  
+                                          }else{
+
+                                        
+                                                   xmlWriter.writeCharacters(localConferencePin);
+                                            
+                                          }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localCurrentusersTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"currentusers", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"currentusers");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("currentusers");
+                                    }
+                                
+
+                                          if (localCurrentusers==null){
+                                              // write the nil attribute
+                                              
+                                                     writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                  
+                                          }else{
+
+                                        localCurrentusers.serialize(xmlWriter);
+                                            
+                                          }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localDeletedTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"deleted", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"deleted");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("deleted");
+                                    }
+                                
+
+                                          if (localDeleted==null){
+                                              // write the nil attribute
+                                              
+                                                     writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                  
+                                          }else{
+
+                                        
+                                                   xmlWriter.writeCharacters(localDeleted);
+                                            
+                                          }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localDemoTimeTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"demoTime", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"demoTime");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("demoTime");
+                                    }
+                                
+                                               if (localDemoTime==java.lang.Integer.MIN_VALUE) {
+                                           
+                                                         writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                      
+                                               } else {
+                                                    xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localDemoTime));
+                                               }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localExternalRoomIdTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"externalRoomId", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"externalRoomId");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("externalRoomId");
+                                    }
+                                
+                                               if (localExternalRoomId==java.lang.Long.MIN_VALUE) {
+                                           
+                                                         writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                      
+                                               } else {
+                                                    xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localExternalRoomId));
+                                               }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localExternalRoomTypeTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"externalRoomType", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"externalRoomType");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("externalRoomType");
+                                    }
+                                
+
+                                          if (localExternalRoomType==null){
+                                              // write the nil attribute
+                                              
+                                                     writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                  
+                                          }else{
+
+                                        
+                                                   xmlWriter.writeCharacters(localExternalRoomType);
+                                            
+                                          }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localIsAudioOnlyTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"isAudioOnly", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"isAudioOnly");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("isAudioOnly");
+                                    }
+                                
+                                               if (false) {
+                                           
+                                                         writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                      
+                                               } else {
+                                                    xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localIsAudioOnly));
+                                               }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localIsClosedTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"isClosed", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"isClosed");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("isClosed");
+                                    }
+                                
+                                               if (false) {
+                                           
+                                                         writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                      
+                                               } else {
+                                                    xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localIsClosed));
+                                               }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localIsDemoRoomTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"isDemoRoom", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"isDemoRoom");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("isDemoRoom");
+                                    }
+                                
+                                               if (false) {
+                                           
+                                                         writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                      
+                                               } else {
+                                                    xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localIsDemoRoom));
+                                               }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localIsModeratedRoomTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"isModeratedRoom", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"isModeratedRoom");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("isModeratedRoom");
+                                    }
+                                
+                                               if (false) {
+                                           
+                                                         writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                      
+                                               } else {
+                                                    xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localIsModeratedRoom));
+                                               }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localIspublicTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"ispublic", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"ispublic");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("ispublic");
+                                    }
+                                
+                                               if (false) {
+                                           
+                                                         writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                      
+                                               } else {
+                                                    xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localIspublic));
+                                               }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localNameTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"name", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"name");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("name");
+                                    }
+                                
+
+                                          if (localName==null){
+                                              // write the nil attribute
+                                              
+                                                     writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                  
+                                          }else{
+
+                                        
+                                                   xmlWriter.writeCharacters(localName);
+                                            
+                                          }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localNumberOfPartizipantsTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"numberOfPartizipants", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"numberOfPartizipants");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("numberOfPartizipants");
+                                    }
+                                
+                                               if (localNumberOfPartizipants==java.lang.Long.MIN_VALUE) {
+                                           
+                                                         writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                      
+                                               } else {
+                                                    xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localNumberOfPartizipants));
+                                               }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localRedirectURLTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"redirectURL", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"redirectURL");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("redirectURL");
+                                    }
+                                
+
+                                          if (localRedirectURL==null){
+                                              // write the nil attribute
+                                              
+                                                     writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                  
+                                          }else{
+
+                                        
+                                                   xmlWriter.writeCharacters(localRedirectURL);
+                                            
+                                          }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localRooms_idTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"rooms_id", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"rooms_id");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("rooms_id");
+                                    }
+                                
+                                               if (localRooms_id==java.lang.Long.MIN_VALUE) {
+                                           
+                                                         writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                      
+                                               } else {
+                                                    xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localRooms_id));
+                                               }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localRoomtypeTracker){
+                                    if (localRoomtype==null){
+
+                                            java.lang.String namespace2 = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+
+                                        if (! namespace2.equals("")) {
+                                            java.lang.String prefix2 = xmlWriter.getPrefix(namespace2);
+
+                                            if (prefix2 == null) {
+                                                prefix2 = generatePrefix(namespace2);
+
+                                                xmlWriter.writeStartElement(prefix2,"roomtype", namespace2);
+                                                xmlWriter.writeNamespace(prefix2, namespace2);
+                                                xmlWriter.setPrefix(prefix2, namespace2);
+
+                                            } else {
+                                                xmlWriter.writeStartElement(namespace2,"roomtype");
+                                            }
+
+                                        } else {
+                                            xmlWriter.writeStartElement("roomtype");
+                                        }
+
+
+                                       // write the nil attribute
+                                      writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                      xmlWriter.writeEndElement();
+                                    }else{
+                                     localRoomtype.serialize(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","roomtype"),
+                                        factory,xmlWriter);
+                                    }
+                                } if (localSipNumberTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"sipNumber", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"sipNumber");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("sipNumber");
+                                    }
+                                
+
+                                          if (localSipNumber==null){
+                                              // write the nil attribute
+                                              
+                                                     writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                  
+                                          }else{
+
+                                        
+                                                   xmlWriter.writeCharacters(localSipNumber);
+                                            
+                                          }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localStarttimeTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"starttime", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"starttime");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("starttime");
+                                    }
+                                
+
+                                          if (localStarttime==null){
+                                              // write the nil attribute
+                                              
+                                                     writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                  
+                                          }else{
+
+                                        
+                                                   xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localStarttime));
+                                            
+                                          }
+                                    
+                                   xmlWriter.writeEndElement();
+                             } if (localUpdatetimeTracker){
+                                    namespace = "http://rooms.beans.hibernate.app.openmeetings.org/xsd";
+                                    if (! namespace.equals("")) {
+                                        prefix = xmlWriter.getPrefix(namespace);
+
+                                        if (prefix == null) {
+                                            prefix = generatePrefix(namespace);
+
+                                            xmlWriter.writeStartElement(prefix,"updatetime", namespace);
+                                            xmlWriter.writeNamespace(prefix, namespace);
+                                            xmlWriter.setPrefix(prefix, namespace);
+
+                                        } else {
+                                            xmlWriter.writeStartElement(namespace,"updatetime");
+                                        }
+
+                                    } else {
+                                        xmlWriter.writeStartElement("updatetime");
+                                    }
+                                
+
+                                          if (localUpdatetime==null){
+                                              // write the nil attribute
+                                              
+                                                     writeAttribute("xsi","http://www.w3.org/2001/XMLSchema-instance","nil","1",xmlWriter);
+                                                  
+                                          }else{
+
+                                        
+                                                   xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localUpdatetime));
+                                            
+                                          }
+                                    
+                                   xmlWriter.writeEndElement();
+                             }
+                    xmlWriter.writeEndElement();
+               
+
+        }
+
+         /**
+          * Util method to write an attribute with the ns prefix
+          */
+          private void writeAttribute(java.lang.String prefix,java.lang.String namespace,java.lang.String attName,
+                                      java.lang.String attValue,javax.xml.stream.XMLStreamWriter xmlWriter) throws javax.xml.stream.XMLStreamException{
+              if (xmlWriter.getPrefix(namespace) == null) {
+                       xmlWriter.writeNamespace(prefix, namespace);
+                       xmlWriter.setPrefix(prefix, namespace);
+
+              }
+
+              xmlWriter.writeAttribute(namespace,attName,attValue);
+
+         }
+
+        /**
+          * Util method to write an attribute without the ns prefix
+          */
+          private void writeAttribute(java.lang.String namespace,java.lang.String attName,
+                                      java.lang.String attValue,javax.xml.stream.XMLStreamWriter xmlWriter) throws javax.xml.stream.XMLStreamException{
+                if (namespace.equals(""))
+              {
+                  xmlWriter.writeAttribute(attName,attValue);
+              }
+              else
+              {
+                  registerPrefix(xmlWriter, namespace);
+                  xmlWriter.writeAttribute(namespace,attName,attValue);
+              }
+          }
+
+
+           /**
+             * Util method to write an attribute without the ns prefix
+             */
+            private void writeQNameAttribute(java.lang.String namespace, java.lang.String attName,
+                                             javax.xml.namespace.QName qname, javax.xml.stream.XMLStreamWriter xmlWriter) throws javax.xml.stream.XMLStreamException {
+
+                java.lang.String attributeNamespace = qname.getNamespaceURI();
+                java.lang.String attributePrefix = xmlWriter.getPrefix(attributeNamespace);
+                if (attributePrefix == null) {
+                    attributePrefix = registerPrefix(xmlWriter, attributeNamespace);
+                }
+                java.lang.String attributeValue;
+                if (attributePrefix.trim().length() > 0) {
+                    attributeValue = attributePrefix + ":" + qname.getLocalPart();
+                } else {
+                    attributeValue = qname.getLocalPart();
+                }
+
+                if (namespace.equals("")) {
+                    xmlWriter.writeAttribute(attName, attributeValue);
+                } else {
+                    registerPrefix(xmlWriter, namespace);
+                    xmlWriter.writeAttribute(namespace, attName, attributeValue);
+                }
+            }
+        /**
+         *  method to handle Qnames
+         */
+
+        private void writeQName(javax.xml.namespace.QName qname,
+                                javax.xml.stream.XMLStreamWriter xmlWriter) throws javax.xml.stream.XMLStreamException {
+            java.lang.String namespaceURI = qname.getNamespaceURI();
+            if (namespaceURI != null) {
+                java.lang.String prefix = xmlWriter.getPrefix(namespaceURI);
+                if (prefix == null) {
+                    prefix = generatePrefix(namespaceURI);
+                    xmlWriter.writeNamespace(prefix, namespaceURI);
+                    xmlWriter.setPrefix(prefix,namespaceURI);
+                }
+
+                if (prefix.trim().length() > 0){
+                    xmlWriter.writeCharacters(prefix + ":" + org.apache.axis2.databinding.utils.ConverterUtil.convertToString(qname));
+                } else {
+                    // i.e this is the default namespace
+                    xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(qname));
+                }
+
+            } else {
+                xmlWriter.writeCharacters(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(qname));
+            }
+        }
+
+        private void writeQNames(javax.xml.namespace.QName[] qnames,
+                                 javax.xml.stream.XMLStreamWriter xmlWriter) throws javax.xml.stream.XMLStreamException {
+
+            if (qnames != null) {
+                // we have to store this data until last moment since it is not possible to write any
+                // namespace data after writing the charactor data
+                java.lang.StringBuffer stringToWrite = new java.lang.StringBuffer();
+                java.lang.String namespaceURI = null;
+                java.lang.String prefix = null;
+
+                for (int i = 0; i < qnames.length; i++) {
+                    if (i > 0) {
+                        stringToWrite.append(" ");
+                    }
+                    namespaceURI = qnames[i].getNamespaceURI();
+                    if (namespaceURI != null) {
+                        prefix = xmlWriter.getPrefix(namespaceURI);
+                        if ((prefix == null) || (prefix.length() == 0)) {
+                            prefix = generatePrefix(namespaceURI);
+                            xmlWriter.writeNamespace(prefix, namespaceURI);
+                            xmlWriter.setPrefix(prefix,namespaceURI);
+                        }
+
+                        if (prefix.trim().length() > 0){
+                            stringToWrite.append(prefix).append(":").append(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(qnames[i]));
+                        } else {
+                            stringToWrite.append(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(qnames[i]));
+                        }
+                    } else {
+                        stringToWrite.append(org.apache.axis2.databinding.utils.ConverterUtil.convertToString(qnames[i]));
+                    }
+                }
+                xmlWriter.writeCharacters(stringToWrite.toString());
+            }
+
+        }
+
+
+         /**
+         * Register a namespace prefix
+         */
+         private java.lang.String registerPrefix(javax.xml.stream.XMLStreamWriter xmlWriter, java.lang.String namespace) throws javax.xml.stream.XMLStreamException {
+                java.lang.String prefix = xmlWriter.getPrefix(namespace);
+
+                if (prefix == null) {
+                    prefix = generatePrefix(namespace);
+
+                    while (xmlWriter.getNamespaceContext().getNamespaceURI(prefix) != null) {
+                        prefix = org.apache.axis2.databinding.utils.BeanUtil.getUniquePrefix();
+                    }
+
+                    xmlWriter.writeNamespace(prefix, namespace);
+                    xmlWriter.setPrefix(prefix, namespace);
+                }
+
+                return prefix;
+            }
+
+
+  
+        /**
+        * databinding method to get an XML representation of this object
+        *
+        */
+        public javax.xml.stream.XMLStreamReader getPullParser(javax.xml.namespace.QName qName)
+                    throws org.apache.axis2.databinding.ADBException{
+
+
+        
+                 java.util.ArrayList elementList = new java.util.ArrayList();
+                 java.util.ArrayList attribList = new java.util.ArrayList();
+
+                 if (localAllowUserQuestionsTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "allowUserQuestions"));
+                                 
+                                elementList.add(
+                                   org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localAllowUserQuestions));
+                            } if (localAppointmentTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "appointment"));
+                                 
+                                elementList.add(
+                                   org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localAppointment));
+                            } if (localCommentTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "comment"));
+                                 
+                                         elementList.add(localComment==null?null:
+                                         org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localComment));
+                                    } if (localConferencePinTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "conferencePin"));
+                                 
+                                         elementList.add(localConferencePin==null?null:
+                                         org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localConferencePin));
+                                    } if (localCurrentusersTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "currentusers"));
+                                 
+                                         elementList.add(localCurrentusers==null?null:
+                                         org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localCurrentusers));
+                                    } if (localDeletedTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "deleted"));
+                                 
+                                         elementList.add(localDeleted==null?null:
+                                         org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localDeleted));
+                                    } if (localDemoTimeTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "demoTime"));
+                                 
+                                elementList.add(
+                                   org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localDemoTime));
+                            } if (localExternalRoomIdTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "externalRoomId"));
+                                 
+                                elementList.add(
+                                   org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localExternalRoomId));
+                            } if (localExternalRoomTypeTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "externalRoomType"));
+                                 
+                                         elementList.add(localExternalRoomType==null?null:
+                                         org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localExternalRoomType));
+                                    } if (localIsAudioOnlyTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "isAudioOnly"));
+                                 
+                                elementList.add(
+                                   org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localIsAudioOnly));
+                            } if (localIsClosedTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "isClosed"));
+                                 
+                                elementList.add(
+                                   org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localIsClosed));
+                            } if (localIsDemoRoomTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "isDemoRoom"));
+                                 
+                                elementList.add(
+                                   org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localIsDemoRoom));
+                            } if (localIsModeratedRoomTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "isModeratedRoom"));
+                                 
+                                elementList.add(
+                                   org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localIsModeratedRoom));
+                            } if (localIspublicTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "ispublic"));
+                                 
+                                elementList.add(
+                                   org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localIspublic));
+                            } if (localNameTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "name"));
+                                 
+                                         elementList.add(localName==null?null:
+                                         org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localName));
+                                    } if (localNumberOfPartizipantsTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "numberOfPartizipants"));
+                                 
+                                elementList.add(
+                                   org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localNumberOfPartizipants));
+                            } if (localRedirectURLTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "redirectURL"));
+                                 
+                                         elementList.add(localRedirectURL==null?null:
+                                         org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localRedirectURL));
+                                    } if (localRooms_idTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "rooms_id"));
+                                 
+                                elementList.add(
+                                   org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localRooms_id));
+                            } if (localRoomtypeTracker){
+                            elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "roomtype"));
+                            
+                            
+                                    elementList.add(localRoomtype==null?null:
+                                    localRoomtype);
+                                } if (localSipNumberTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "sipNumber"));
+                                 
+                                         elementList.add(localSipNumber==null?null:
+                                         org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localSipNumber));
+                                    } if (localStarttimeTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "starttime"));
+                                 
+                                         elementList.add(localStarttime==null?null:
+                                         org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localStarttime));
+                                    } if (localUpdatetimeTracker){
+                                      elementList.add(new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd",
+                                                                      "updatetime"));
+                                 
+                                         elementList.add(localUpdatetime==null?null:
+                                         org.apache.axis2.databinding.utils.ConverterUtil.convertToString(localUpdatetime));
+                                    }
+
+                return new org.apache.axis2.databinding.utils.reader.ADBXMLStreamReaderImpl(qName, elementList.toArray(), attribList.toArray());
+            
+            
+
+        }
+
+  
+
+     /**
+      *  Factory class that keeps the parse method
+      */
+    public static class Factory{
+
+        
+        
+
+        /**
+        * static method to create the object
+        * Precondition:  If this object is an element, the current or next start element starts this object and any intervening reader events are ignorable
+        *                If this object is not an element, it is a complex type and the reader is at the event just after the outer start element
+        * Postcondition: If this object is an element, the reader is positioned at its end element
+        *                If this object is a complex type, the reader is positioned at the end element of its outer element
+        */
+        public static Rooms parse(javax.xml.stream.XMLStreamReader reader) throws java.lang.Exception{
+            Rooms object =
+                new Rooms();
+
+            int event;
+            java.lang.String nillableValue = null;
+            java.lang.String prefix ="";
+            java.lang.String namespaceuri ="";
+            try {
+                
+                while (!reader.isStartElement() && !reader.isEndElement())
+                    reader.next();
+
+                
+                if (reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","type")!=null){
+                  java.lang.String fullTypeName = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance",
+                        "type");
+                  if (fullTypeName!=null){
+                    java.lang.String nsPrefix = null;
+                    if (fullTypeName.indexOf(":") > -1){
+                        nsPrefix = fullTypeName.substring(0,fullTypeName.indexOf(":"));
+                    }
+                    nsPrefix = nsPrefix==null?"":nsPrefix;
+
+                    java.lang.String type = fullTypeName.substring(fullTypeName.indexOf(":")+1);
+                    
+                            if (!"Rooms".equals(type)){
+                                //find namespace for the prefix
+                                java.lang.String nsUri = reader.getNamespaceContext().getNamespaceURI(nsPrefix);
+                                return (Rooms)org.sakaiproject.videoconference.openmeetings.service.app.data.beans.basic.xsd.ExtensionMapper.getTypeObject(
+                                     nsUri,type,reader);
+                              }
+                        
+
+                  }
+                
+
+                }
+
+                
+
+                
+                // Note all attributes that were handled. Used to differ normal attributes
+                // from anyAttributes.
+                java.util.Vector handledAttributes = new java.util.Vector();
+                
+
+                 
+                    
+                    reader.next();
+                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","allowUserQuestions").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setAllowUserQuestions(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToBoolean(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","appointment").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setAppointment(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToBoolean(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","comment").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setComment(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToString(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","conferencePin").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setConferencePin(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToString(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","currentusers").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                                org.apache.axiom.om.OMFactory fac = org.apache.axiom.om.OMAbstractFactory.getOMFactory();
+                                                org.apache.axiom.om.OMNamespace omNs = fac.createOMNamespace("http://rooms.beans.hibernate.app.openmeetings.org/xsd", "");
+                                                org.apache.axiom.om.OMElement _valueCurrentusers = fac.createOMElement("currentusers", omNs);
+                                                _valueCurrentusers.addChild(fac.createOMText(_valueCurrentusers, content));
+                                                object.setCurrentusers(_valueCurrentusers);
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","deleted").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setDeleted(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToString(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","demoTime").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setDemoTime(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToInt(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                                   object.setDemoTime(java.lang.Integer.MIN_VALUE);
+                                               
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                               object.setDemoTime(java.lang.Integer.MIN_VALUE);
+                                           
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","externalRoomId").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setExternalRoomId(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToLong(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                                   object.setExternalRoomId(java.lang.Long.MIN_VALUE);
+                                               
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                               object.setExternalRoomId(java.lang.Long.MIN_VALUE);
+                                           
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","externalRoomType").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setExternalRoomType(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToString(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","isAudioOnly").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setIsAudioOnly(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToBoolean(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","isClosed").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setIsClosed(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToBoolean(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","isDemoRoom").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setIsDemoRoom(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToBoolean(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","isModeratedRoom").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setIsModeratedRoom(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToBoolean(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","ispublic").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setIspublic(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToBoolean(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","name").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setName(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToString(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","numberOfPartizipants").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setNumberOfPartizipants(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToLong(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                                   object.setNumberOfPartizipants(java.lang.Long.MIN_VALUE);
+                                               
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                               object.setNumberOfPartizipants(java.lang.Long.MIN_VALUE);
+                                           
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","redirectURL").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setRedirectURL(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToString(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","rooms_id").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setRooms_id(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToLong(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                                   object.setRooms_id(java.lang.Long.MIN_VALUE);
+                                               
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                               object.setRooms_id(java.lang.Long.MIN_VALUE);
+                                           
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","roomtype").equals(reader.getName())){
+                                
+                                      nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                      if ("true".equals(nillableValue) || "1".equals(nillableValue)){
+                                          object.setRoomtype(null);
+                                          reader.next();
+                                            
+                                            reader.next();
+                                          
+                                      }else{
+                                    
+                                                object.setRoomtype(org.sakaiproject.videoconference.openmeetings.service.app.hibernate.beans.rooms.xsd.RoomTypes.Factory.parse(reader));
+                                              
+                                        reader.next();
+                                    }
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","sipNumber").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setSipNumber(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToString(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","starttime").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setStarttime(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToDateTime(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                
+                                    
+                                    while (!reader.isStartElement() && !reader.isEndElement()) reader.next();
+                                
+                                    if (reader.isStartElement() && new javax.xml.namespace.QName("http://rooms.beans.hibernate.app.openmeetings.org/xsd","updatetime").equals(reader.getName())){
+                                
+                                       nillableValue = reader.getAttributeValue("http://www.w3.org/2001/XMLSchema-instance","nil");
+                                       if (!"true".equals(nillableValue) && !"1".equals(nillableValue)){
+                                    
+                                    java.lang.String content = reader.getElementText();
+                                    
+                                              object.setUpdatetime(
+                                                    org.apache.axis2.databinding.utils.ConverterUtil.convertToDateTime(content));
+                                            
+                                       } else {
+                                           
+                                           
+                                           reader.getElementText(); // throw away text nodes if any.
+                                       }
+                                      
+                                        reader.next();
+                                    
+                              }  // End of if for expected property start element
+                                
+                                    else {
+                                        
+                                    }
+                                  
+                            while (!reader.isStartElement() && !reader.isEndElement())
+                                reader.next();
+                            
+                                if (reader.isStartElement())
+                                // A start element we are not expecting indicates a trailing invalid property
+                                throw new org.apache.axis2.databinding.ADBException("Unexpected subelement " + reader.getLocalName());
+                            
+
+
+
+            } catch (javax.xml.stream.XMLStreamException e) {
+                throw new java.lang.Exception(e);
+            }
+
+            return object;
+        }
+
+        }//end of factory class
+
+        
+
+        }
+           
+          

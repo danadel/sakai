@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/test-harness/src/test/java/org/sakaiproject/test
+END
+SomeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/test-harness/src/test/java/org/sakaiproject/test/SomeBean.java
+END
+ChildContextDependencyInjectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/test-harness/src/test/java/org/sakaiproject/test/ChildContextDependencyInjectionTest.java
+END
+SampleSakaiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/test-harness/src/test/java/org/sakaiproject/test/SampleSakaiTest.java
+END
+SimpleDependencyInjectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/test-harness/src/test/java/org/sakaiproject/test/SimpleDependencyInjectionTest.java
+END

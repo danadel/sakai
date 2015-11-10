@@ -1,0 +1,15 @@
+
+
+<%-- Display items linked to the gradebook item. --%>
+<h:panelGrid rendered="#{removeAssignmentBean.hasItemsLinked}" styleClass="alertMessage">
+	<h:outputText value="#{msgs.remove_assignment_error_link_other}" />
+            	
+    <h:dataTable id="itemsLinked" value="#{removeAssignmentBean.itemsLinkedToGradebook}" var="itemsLinked">
+		<h:column>
+			<h:outputText value="#{itemsLinked}" />
+		</h:column>
+	</h:dataTable>
+
+</h:panelGrid> 
+
+

@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources
+END
+permissions_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/permissions_de.properties
+END
+permissions_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/permissions_fr_FR.properties
+END
+content_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_ar.properties
+END
+types_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_eu.properties
+END
+types_es_MX.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_es_MX.properties
+END
+content_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_pt_BR.properties
+END
+permissions_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/permissions_pl_PL.properties
+END
+content_ja.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_ja.metaprops
+END
+types_vi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_vi.properties
+END
+content_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_mn.properties
+END
+permissions_vi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/permissions_vi.properties
+END
+types_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_ru.properties
+END
+content_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_ca.properties
+END
+permissions_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/permissions_pt_PT.properties
+END
+content_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_de.properties
+END
+content_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_sv.properties
+END
+content_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_tr_TR.properties
+END
+content_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_ja.properties
+END
+types_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_pt_BR.properties
+END
+types_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_nl.properties
+END
+content_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_eu.properties
+END
+content_vi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_vi.properties
+END
+content.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content.properties
+END
+permissions.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/permissions.properties
+END
+types_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_tr_TR.properties
+END
+content_es.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_es.metaprops
+END
+content_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_ru.properties
+END
+content_fr_CA.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_fr_CA.metaprops
+END
+content_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_zh_TW.properties
+END
+content_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_fr_FR.properties
+END
+content_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_zh_CN.properties
+END
+types_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/309170/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_es.properties
+END
+content_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_pl_PL.properties
+END
+permissions_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/permissions_es.properties
+END
+content_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_nl.properties
+END
+types.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/132515/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types.properties
+END
+content_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_fr_CA.properties
+END
+content_en_GB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_en_GB.properties
+END
+content_zh_CN.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_zh_CN.metaprops
+END
+types_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_zh_TW.properties
+END
+content_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_pt_PT.properties
+END
+content_nl.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_nl.metaprops
+END
+types_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_fr_FR.properties
+END
+types_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_zh_CN.properties
+END
+permissions_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/permissions_tr_TR.properties
+END
+types_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_ar.properties
+END
+content.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content.metaprops
+END
+types_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_pl_PL.properties
+END
+content_ca.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_ca.metaprops
+END
+types_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_mn.properties
+END
+types_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_fr_CA.properties
+END
+types_en_GB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_en_GB.properties
+END
+content_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_es.properties
+END
+content_ko.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_ko.properties
+END
+permissions_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/permissions_mn.properties
+END
+content_es_MX.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_es_MX.properties
+END
+types_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/309170/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_ca.properties
+END
+types_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_pt_PT.properties
+END
+types_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_sv.properties
+END
+types_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_de.properties
+END
+types_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/types_ja.properties
+END
+permissions_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/permissions_ca.properties
+END
+content_ko.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-bundles/resources/content_ko.metaprops
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/test/java/org/sakaiproject/component/app/scheduler/jobs
+END
+TestBeanJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/test/java/org/sakaiproject/component/app/scheduler/jobs/TestBeanJob.java
+END
+LongTestJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/test/java/org/sakaiproject/component/app/scheduler/jobs/LongTestJob.java
+END
+TestJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/test/java/org/sakaiproject/component/app/scheduler/jobs/TestJob.java
+END
+TestJob2.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/test/java/org/sakaiproject/component/app/scheduler/jobs/TestJob2.java
+END

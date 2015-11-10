@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/321328/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment
+END
+ItemHistoricalIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/131824/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/ItemHistoricalIfc.java
+END
+AssessmentBaseIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/AssessmentBaseIfc.java
+END
+AssessmentTemplateIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/AssessmentTemplateIfc.java
+END
+AssessmentIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/AssessmentIfc.java
+END
+PublishedAssessmentIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/PublishedAssessmentIfc.java
+END
+AssessmentMetaDataIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/321328/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/AssessmentMetaDataIfc.java
+END
+ItemDataIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/131824/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/ItemDataIfc.java
+END
+EvaluationModelIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/131576/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/EvaluationModelIfc.java
+END
+AttachmentIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/316129/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/AttachmentIfc.java
+END
+SecuredIPAddressIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/SecuredIPAddressIfc.java
+END
+AssessmentFeedbackIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/AssessmentFeedbackIfc.java
+END
+AssessmentAttachmentIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/AssessmentAttachmentIfc.java
+END
+SectionDataIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/SectionDataIfc.java
+END
+AnswerIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/AnswerIfc.java
+END
+ItemMetaDataIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/ItemMetaDataIfc.java
+END
+SecureDeliveryModuleIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/SecureDeliveryModuleIfc.java
+END
+ItemFeedbackIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/ItemFeedbackIfc.java
+END
+ItemTextIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/ItemTextIfc.java
+END
+AnswerFeedbackIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/AnswerFeedbackIfc.java
+END
+SectionMetaDataIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/SectionMetaDataIfc.java
+END
+ItemAttachmentIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/ItemAttachmentIfc.java
+END
+AssessmentTemplateSharedIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/131836/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/AssessmentTemplateSharedIfc.java
+END
+AssessmentAccessControlIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/131815/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/AssessmentAccessControlIfc.java
+END
+SectionAttachmentIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/SectionAttachmentIfc.java
+END
+RegisteredSecureDeliveryModuleIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/assessment/RegisteredSecureDeliveryModuleIfc.java
+END

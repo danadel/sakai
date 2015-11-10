@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl
+END
+SimpleBeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/SimpleBeanWrapper.java
+END
+ValidatorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/ValidatorBase.java
+END
+BeanWrapperBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/BeanWrapperBase.java
+END
+TemplateJstlView.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/TemplateJstlView.java
+END
+ControllerFilterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/ControllerFilterManager.java
+END
+HttpServletHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/HttpServletHelper.java
+END
+ListScrollIndexerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/ListScrollIndexerImpl.java
+END
+ListWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/ListWrapper.java
+END
+LocalVelocityConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/LocalVelocityConfigurer.java
+END
+MixedBeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/MixedBeanWrapper.java
+END
+MapWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/MapWrapper.java
+END
+CommonModelControllerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/CommonModelControllerImpl.java
+END
+CustomBeanPropertyBindingResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/CustomBeanPropertyBindingResult.java
+END

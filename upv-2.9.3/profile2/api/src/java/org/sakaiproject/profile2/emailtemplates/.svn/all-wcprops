@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates
+END
+template-messageReply_zh_CN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageReply_zh_CN.xml
+END
+template-worksiteNew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-worksiteNew.xml
+END
+template-connectionRequest_zh_CN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionRequest_zh_CN.xml
+END
+template-messageNew_sv_SE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageNew_sv_SE.xml
+END
+template-messageNew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageNew.xml
+END
+template-connectionConfirm_zh_CN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionConfirm_zh_CN.xml
+END
+template-messageReply_sv_SE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageReply_sv_SE.xml
+END
+template-messageReply.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageReply.xml
+END
+template-wallPostMyWallNew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-wallPostMyWallNew.xml
+END
+template-connectionRequest_sv_SE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionRequest_sv_SE.xml
+END
+template-connectionRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionRequest.xml
+END
+template-wallEventNew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-wallEventNew.xml
+END
+template-connectionConfirm_sv_SE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionConfirm_sv_SE.xml
+END
+template-profileChangeNotification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-profileChangeNotification.xml
+END
+template-connectionConfirm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionConfirm.xml
+END
+template-wallStatusNew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-wallStatusNew.xml
+END
+template-wallPostConnectionWallNew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-wallPostConnectionWallNew.xml
+END
+template-messageNew_zh_CN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageNew_zh_CN.xml
+END

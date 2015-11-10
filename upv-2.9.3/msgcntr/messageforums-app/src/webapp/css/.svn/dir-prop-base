@@ -1,0 +1,13 @@
+K 13
+svn:mergeinfo
+V 943
+/msgcntr/branches/MSGCNTR-528/messageforums-app/src/webapp/css:94219,94221-94223,94228,94374,94428,94438,95004,95121,95177-95178,95434,95636-95637,95686,95773,95783
+/msgcntr/branches/SAK-16987/messageforums-app/src/webapp/css:66656,66659-66660,66662-66663,66668,66683,66706,66872
+/msgcntr/branches/msgcntr-2.7.x/messageforums-app/src/webapp/css:74770,83001
+/msgcntr/branches/msgcntr-2.8.x/messageforums-app/src/webapp/css:81948
+/msgcntr/trunk/messageforums-app/src/webapp/css:99488,102326,103259,104263,107915,109449,109489,111636,111866,114748,118722,118841,119939,125251
+/msub/iu.edu/oncourse/branches/msgcntr_2-6-x/messageforums-app/src/webapp/css:67740,67754,69684
+/msub/iu.edu/oncourse/trunk/msgcntr/messageforums-app/src/webapp/css:79931,81082,81325
+/msub/uct.ac.za/msgcntr/trunk/messageforums-app/src/webapp/css:111634-111635,111865
+/msub/uct.ac.za/vula/trunk/msgcntr/messageforums-app/src/webapp/css:56642,57160,57165,60455,73686,73688
+END

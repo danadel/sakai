@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/318127/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/util
+END
+AccessSearchResultComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/util/AccessSearchResultComparator.java
+END
+DelegatedAccessMutableTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/util/DelegatedAccessMutableTreeNode.java
+END
+SiteSearchResultComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/util/SiteSearchResultComparator.java
+END
+SearchResultComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/util/SearchResultComparator.java
+END
+DelegatedAccessConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/318127/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/util/DelegatedAccessConstants.java
+END

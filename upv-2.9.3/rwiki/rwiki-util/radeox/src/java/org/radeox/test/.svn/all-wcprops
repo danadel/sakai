@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test
+END
+BaseRenderEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/BaseRenderEngineTest.java
+END
+PerformanceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/PerformanceTests.java
+END
+RenderEnginePerformanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/RenderEnginePerformanceTest.java
+END
+RegexpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/RegexpTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/AllTests.java
+END

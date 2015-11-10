@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository
+END
+Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/Record.java
+END
+Repository.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/Repository.java
+END
+Asset.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/Asset.java
+END
+PartIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/PartIterator.java
+END
+ObjectIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/ObjectIterator.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/Type.java
+END
+PartStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/PartStructure.java
+END
+RecordIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/RecordIterator.java
+END
+AssetIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/AssetIterator.java
+END
+RepositoryIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/RepositoryIterator.java
+END
+TypeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/TypeIterator.java
+END
+Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/Properties.java
+END
+Managers.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/Managers.java
+END
+RecordStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/RecordStructure.java
+END
+PartStructureIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/PartStructureIterator.java
+END
+PropertiesIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/PropertiesIterator.java
+END
+Part.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/Part.java
+END
+LongValueIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/LongValueIterator.java
+END
+RecordStructureIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/RecordStructureIterator.java
+END
+RepositoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/osid/base/repository/RepositoryManager.java
+END

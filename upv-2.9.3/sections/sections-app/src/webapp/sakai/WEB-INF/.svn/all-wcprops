@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/sakai/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/sakai/WEB-INF/web.xml
+END
+spring-services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/sakai/WEB-INF/spring-services.xml
+END

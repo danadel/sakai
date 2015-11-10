@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/model
+END
+RWiki.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/model/RWiki.hbm.xml
+END
+RWikiObjectContentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/model/RWikiObjectContentImpl.java
+END
+RWikiHistoryObjectContentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/model/RWikiHistoryObjectContentImpl.java
+END
+RWikiCurrentObjectContentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/model/RWikiCurrentObjectContentImpl.java
+END
+RWikiPropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/model/RWikiPropertyImpl.java
+END
+RWikiObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/model/RWikiObjectImpl.java
+END
+RWikiHistoryObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/model/RWikiHistoryObjectImpl.java
+END
+RWikiCurrentObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/model/RWikiCurrentObjectImpl.java
+END
+RWikiPermissionsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/src/java/uk/ac/cam/caret/sakai/rwiki/model/RWikiPermissionsImpl.java
+END

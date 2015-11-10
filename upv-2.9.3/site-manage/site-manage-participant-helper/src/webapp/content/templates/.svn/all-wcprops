@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-participant-helper/src/webapp/content/templates
+END
+Add.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-participant-helper/src/webapp/content/templates/Add.html
+END
+DifferentRole.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-participant-helper/src/webapp/content/templates/DifferentRole.html
+END
+Confirm.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-participant-helper/src/webapp/content/templates/Confirm.html
+END
+EmailNoti.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-participant-helper/src/webapp/content/templates/EmailNoti.html
+END
+SameRole.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-participant-helper/src/webapp/content/templates/SameRole.html
+END

@@ -1,0 +1,129 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2
+https://source.sakaiproject.org/svn
+
+
+
+2015-07-24T12:50:52.085286Z
+320249
+anueda@asic.upv.es
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+melete-app
+dir
+
+melete-impl
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:47:27.756248Z
+9ae404861c2ea03db8822b3f8eebd4ff
+2013-10-21T14:33:25.485900Z
+130681
+vacercon@upvnet.upv.es
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2254
+
+melete-cr
+dir
+
+readme
+dir
+
+melete-hbm
+dir
+
+melete-admin
+dir
+
+melete-api
+dir
+
+components
+dir
+
+maven.xml
+file
+
+
+
+
+2015-11-09T08:47:27.756248Z
+95d9cff0c03b0b16e0dcf5ca0a778bab
+2011-05-19T08:31:22.342655Z
+93042
+darolmar@upvnet.upv.es
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1221
+
+melete-util
+dir
+
+bin
+dir
+
+var
+dir
+

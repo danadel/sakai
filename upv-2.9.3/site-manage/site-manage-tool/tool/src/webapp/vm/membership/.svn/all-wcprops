@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/membership
+END
+chef_membership_confirm.vm
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/membership/chef_membership_confirm.vm
+END
+chef_membership.vm
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/membership/chef_membership.vm
+END
+chef_membership_joinable.vm
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/membership/chef_membership_joinable.vm
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/statistics
+END
+dfStatisticsDisplayInThread.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/statistics/dfStatisticsDisplayInThread.jsp
+END
+dfStatisticsListByTopic.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/statistics/dfStatisticsListByTopic.jsp
+END
+printFriendlyFullTextForOne.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/statistics/printFriendlyFullTextForOne.jsp
+END
+printFriendlyDisplayInThread.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/statistics/printFriendlyDisplayInThread.jsp
+END
+dfStatisticsList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/statistics/dfStatisticsList.jsp
+END
+dfStatisticsUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/statistics/dfStatisticsUser.jsp
+END
+dfStatisticsFullTextForOne.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/statistics/dfStatisticsFullTextForOne.jsp
+END
+printFriendlyAllAuthoredMsg.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/statistics/printFriendlyAllAuthoredMsg.jsp
+END
+dfStatisticsListByAllTopics.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/statistics/dfStatisticsListByAllTopics.jsp
+END
+dfStatisticsAllAuthoredMsgForOneUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/statistics/dfStatisticsAllAuthoredMsgForOneUser.jsp
+END

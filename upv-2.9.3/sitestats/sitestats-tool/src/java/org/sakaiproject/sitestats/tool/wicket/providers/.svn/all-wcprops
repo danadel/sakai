@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/132603/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/providers
+END
+ReportsDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/132603/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/providers/ReportsDataProvider.java
+END
+ReportDefsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/132603/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/providers/ReportDefsProvider.java
+END
+StatisticableSitesDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/providers/StatisticableSitesDataProvider.java
+END
+SortableSearchableDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/providers/SortableSearchableDataProvider.java
+END

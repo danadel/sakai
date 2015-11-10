@@ -1,0 +1,132 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/jsf
+https://source.sakaiproject.org/svn
+
+
+
+2014-12-18T16:55:15.647843Z
+316136
+anueda@asic.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+jsf-widgets
+dir
+
+jsf-widgets-sun-depend
+dir
+
+jsf-resource
+dir
+
+jsf-spreadsheet
+dir
+
+myfaces-widgets-depend
+dir
+
+.svnignore
+file
+
+
+
+
+2015-11-09T08:46:20.356249Z
+5e65ef560b93dd93c565995e4868658e
+2009-11-13T12:27:32.560169Z
+68846
+arwhyte@umich.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91
+
+jsf-widgets-sun
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:46:20.356249Z
+e2284306604a7b065326e7bba81dbfb9
+2013-08-21T01:25:08.920496Z
+128743
+cle-release-team@collab.sakaiproject.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4040
+
+myfaces-widgets
+dir
+
+jsf-tool
+dir
+
+jsf-assembly
+dir
+
+jsf-app
+dir
+
+jsf-tool-sun
+dir
+
+myfaces-tool
+dir
+

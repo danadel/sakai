@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/132551/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/readers
+END
+MeetingMakerReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/132546/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/readers/MeetingMakerReader.java
+END
+CSVReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/132546/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/readers/CSVReader.java
+END
+OutlookReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/132546/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/readers/OutlookReader.java
+END
+Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/readers/Reader.java
+END
+IcalendarReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/132551/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/readers/IcalendarReader.java
+END
+ICalRecurrence.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/readers/ICalRecurrence.java
+END

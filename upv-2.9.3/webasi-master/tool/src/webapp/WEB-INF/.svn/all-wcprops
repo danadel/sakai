@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/tool/src/webapp/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/tool/src/webapp/WEB-INF/web.xml
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/tool/src/webapp/WEB-INF/faces-config.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/tool/src/webapp/WEB-INF/applicationContext.xml
+END

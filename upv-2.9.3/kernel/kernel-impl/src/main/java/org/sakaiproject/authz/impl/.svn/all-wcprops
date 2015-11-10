@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/320236/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl
+END
+DbAuthzGroupSqlOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/310244/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/DbAuthzGroupSqlOracle.java
+END
+DbAuthzGroupSqlMySql.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/310244/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/DbAuthzGroupSqlMySql.java
+END
+BaseAuthzGroupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/320236/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/BaseAuthzGroupService.java
+END
+DbAuthzGroupSqlHSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/DbAuthzGroupSqlHSql.java
+END
+DbAuthzGroupSqlDb2.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/DbAuthzGroupSqlDb2.java
+END
+AuthzGroupServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/AuthzGroupServiceTest.java
+END
+BaseRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/BaseRole.java
+END
+DbAuthzGroupSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/310244/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/DbAuthzGroupSql.java
+END
+DbAuthzGroupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/310244/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/DbAuthzGroupService.java
+END
+BaseMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/BaseMember.java
+END
+FunctionManagerComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/FunctionManagerComponent.java
+END
+DbAuthzGroupSqlDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/310244/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/DbAuthzGroupSqlDefault.java
+END
+BaseAuthzGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/BaseAuthzGroup.java
+END
+NoSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/NoSecurity.java
+END
+SeriesIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/SeriesIterator.java
+END
+DbAuthzGroupSqlMsSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/DbAuthzGroupSqlMsSql.java
+END
+SakaiSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/SakaiSecurity.java
+END
+SakaiSecurityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/authz/impl/SakaiSecurityTest.java
+END

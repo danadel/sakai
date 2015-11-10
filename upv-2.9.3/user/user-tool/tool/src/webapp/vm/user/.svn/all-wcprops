@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/132509/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool/tool/src/webapp/vm/user
+END
+chef_users_noaccess.vm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130355/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool/tool/src/webapp/vm/user/chef_users_noaccess.vm
+END
+chef_users_create.vm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130355/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool/tool/src/webapp/vm/user/chef_users_create.vm
+END
+chef_users_edit.vm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/132509/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool/tool/src/webapp/vm/user/chef_users_edit.vm
+END
+chef_users_confirm_remove.vm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130355/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool/tool/src/webapp/vm/user/chef_users_confirm_remove.vm
+END
+chef_users_view.vm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130948/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool/tool/src/webapp/vm/user/chef_users_view.vm
+END
+chef_users_list.vm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130355/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool/tool/src/webapp/vm/user/chef_users_list.vm
+END

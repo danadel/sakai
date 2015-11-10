@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/318538/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/WEB-INF
+END
+requestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/WEB-INF/requestContext.xml
+END
+faces-navigation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/WEB-INF/faces-navigation.xml
+END
+faces-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/WEB-INF/faces-test.xml
+END
+spring-hib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/WEB-INF/spring-hib.xml
+END
+faces-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/318149/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/WEB-INF/faces-beans.xml
+END
+faces-gb-jsf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/WEB-INF/faces-gb-jsf.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/WEB-INF/applicationContext.xml
+END
+spring-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/WEB-INF/spring-beans.xml
+END

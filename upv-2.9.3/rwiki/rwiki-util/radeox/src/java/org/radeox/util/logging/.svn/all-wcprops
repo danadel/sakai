@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/util/logging
+END
+NullLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/util/logging/NullLogger.java
+END
+SystemOutLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/util/logging/SystemOutLogger.java
+END
+SystemErrLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/util/logging/SystemErrLogger.java
+END
+LogHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/util/logging/LogHandler.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/util/logging/Logger.java
+END

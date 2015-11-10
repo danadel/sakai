@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/316211/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl
+END
+DropboxNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130725/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/DropboxNotification.java
+END
+BaseExtensionResourceFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/BaseExtensionResourceFilter.java
+END
+BaseContentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/316211/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/BaseContentService.java
+END
+DbResourceTypeRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/DbResourceTypeRegistry.java
+END
+DropboxContextObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/DropboxContextObserver.java
+END
+ContentServiceSqlMsSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/ContentServiceSqlMsSql.java
+END
+ContentHostingComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/ContentHostingComparator.java
+END
+ContentServiceSqlMySql.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/ContentServiceSqlMySql.java
+END
+CollectionAccessFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/CollectionAccessFormatter.java
+END
+ContentServiceSqlOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/ContentServiceSqlOracle.java
+END
+DbContentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/132515/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/DbContentService.java
+END
+BasicContentTypeImageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/BasicContentTypeImageService.java
+END
+ContentServiceSqlHSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/ContentServiceSqlHSql.java
+END
+ContentServiceSqlDb2.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/ContentServiceSqlDb2.java
+END
+BasicResourceToolActionPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/BasicResourceToolActionPipe.java
+END
+ResourceTypeRegistryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/ResourceTypeRegistryImpl.java
+END
+WrappedServletOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/WrappedServletOutputStream.java
+END
+LockManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/LockManagerImpl.java
+END
+HtmlPageFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/HtmlPageFilter.java
+END
+ContentHostingHandlerResolverImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/ContentHostingHandlerResolverImpl.java
+END
+CheckingOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/CheckingOutputStream.java
+END
+ContentServiceSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/ContentServiceSql.java
+END
+SiteEmailNotificationContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/SiteEmailNotificationContent.java
+END
+BasicMultiFileUploadPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/BasicMultiFileUploadPipe.java
+END
+ContentServiceSqlDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/ContentServiceSqlDefault.java
+END
+BaseContentHostingHandlerResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/BaseContentHostingHandlerResolver.java
+END

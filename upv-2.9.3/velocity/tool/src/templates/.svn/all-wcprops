@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/132064/msub/upv.es/PoliformaT/upv-2.9.3/velocity/tool/src/templates
+END
+VM_chef_library.vm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/132064/msub/upv.es/PoliformaT/upv-2.9.3/velocity/tool/src/templates/VM_chef_library.vm
+END
+chef_header.vm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/130347/msub/upv.es/PoliformaT/upv-2.9.3/velocity/tool/src/templates/chef_header.vm
+END
+chef_footer.vm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/130347/msub/upv.es/PoliformaT/upv-2.9.3/velocity/tool/src/templates/chef_footer.vm
+END

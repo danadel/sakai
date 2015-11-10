@@ -1,0 +1,21 @@
+Title, Description, Date, Start, Duration,Type,Location,Frequency, Interval, Ends, Repeat, Test Custom Property,Required
+Example Event 1, This is the description for event #1, 9/1/2008, 11:00 AM, 1:00, Deadline, Taubman Library 2919
+Example Event 2, This is the description for event #2, 9/2/2008, 11:00 AM, 1:00, Quiz, Taubman Library 2919
+Example Event 3, This is the description for event #3, 9/3/2008, 11:00 AM, 30, Meeting, Taubman Library 2919
+Example Event 4, This is the description for event #3, 9/4/2008, 11:00 AM, 30, Academic Calendar, Taubman Library 2919
+Example Event 5, This is the description for event #3, 9/5/2008, 11:00 AM, 30, Activity, Taubman Library 2919
+Example Event 6, This is the description for event #3, 9/6/2008, 11:00 AM, 30, Cancellation, Taubman Library 2919
+Example Event 7, This is the description for event #3, 9/7/2008, 11:00 AM, 30, Class section - Discussion, Taubman Library 2919
+Example Event 8, This is the description for event #3, 9/8/2008, 11:00 AM, 30, Class section - Lab, Taubman Library 2919
+Example Event 9, This is the description for event #3, 9/9/2008, 11:00 AM, 30, Class section - Lecture, Taubman Library 2919
+Example Event 10, This is the description for event #3, 9/10/2008, 11:00 AM, 30, Class section - Small Group, Taubman Library 2919
+Example Event 11, This is the description for event #3, 9/11/2008, 11:00 AM, 30, Class session, Taubman Library 2919
+Example Event 12, This is the description for event #3, 9/12/2008, 11:00 AM, 30, Computer Session, Taubman Library 2919
+Example Event 13, This is the description for event #3, 9/13/2008, 11:00 AM, 30, Special event, Taubman Library 2919
+Example Event 14, This is the description for event #3, 9/14/2008, 11:00 AM, 30, Multidisciplinary Conference, Taubman Library 2919
+Example Event 15, This is the description for event #3, 9/15/2008, 11:00 AM, 30, Teletutoria, Taubman Library 2919
+Event with a custom property, "If the site has a custom property called Test Custom Property, this will set it.", 5/2/2004, 11:00 AM, 30, event.meeting, Taubman Library 2919, ,,,,Test Value here,yes
+Repeating Event 1, "This event should repeat every week with no end", 6/7/2004, 2:00 PM, 1:30, ,, week
+Repeating Event 2, "This event should repeat every other week and end after 2 times", 6/7/2004, 2:00 PM, 30, event.activity, , week, 2,,2
+Repeating Event 3, "This event should repeat every other week and end on or before 7/7/2004", 6/7/2004, 2:00 PM, 1:30, event.activity, , week, 2, 7/7/2004
+

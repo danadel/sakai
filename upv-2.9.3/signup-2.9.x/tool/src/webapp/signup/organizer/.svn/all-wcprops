@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/317857/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/webapp/signup/organizer
+END
+viewComment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/webapp/signup/organizer/viewComment.jsp
+END
+modifyMeeting.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/310686/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/webapp/signup/organizer/modifyMeeting.jsp
+END
+userDefTsBlocks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/317857/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/webapp/signup/organizer/userDefTsBlocks.jsp
+END
+copyMeeting.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/webapp/signup/organizer/copyMeeting.jsp
+END
+cancelTimeslot.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/webapp/signup/organizer/cancelTimeslot.jsp
+END
+orgSignupMeeting.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/webapp/signup/organizer/orgSignupMeeting.jsp
+END

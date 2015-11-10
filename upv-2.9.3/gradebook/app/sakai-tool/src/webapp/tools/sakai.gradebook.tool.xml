@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<registration>
+	<tool id="sakai.gradebook.tool" title="Gradebook"
+		description="For storing and computing assessment grades from Tests &amp; Quizzes or that are manually entered.">
+		<category name="course" />
+		<category name="project" />
+		<category name="siteupv" />
+		<category name="sitecfp" />
+		<category name="sitemas" />
+	</tool>
+</registration>

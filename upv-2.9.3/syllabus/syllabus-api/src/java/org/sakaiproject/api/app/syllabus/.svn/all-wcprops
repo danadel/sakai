@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-api/src/java/org/sakaiproject/api/app/syllabus
+END
+GatewaySyllabus.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-api/src/java/org/sakaiproject/api/app/syllabus/GatewaySyllabus.java
+END
+SyllabusAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-api/src/java/org/sakaiproject/api/app/syllabus/SyllabusAttachment.java
+END
+SyllabusData.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-api/src/java/org/sakaiproject/api/app/syllabus/SyllabusData.java
+END
+SyllabusManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-api/src/java/org/sakaiproject/api/app/syllabus/SyllabusManager.java
+END
+SyllabusItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-api/src/java/org/sakaiproject/api/app/syllabus/SyllabusItem.java
+END
+SyllabusService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-api/src/java/org/sakaiproject/api/app/syllabus/SyllabusService.java
+END

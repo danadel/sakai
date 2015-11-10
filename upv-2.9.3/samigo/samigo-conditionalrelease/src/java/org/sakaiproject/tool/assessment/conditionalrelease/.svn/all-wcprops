@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/321456/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-conditionalrelease/src/java/org/sakaiproject/tool/assessment/conditionalrelease
+END
+AssignmentUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/131695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-conditionalrelease/src/java/org/sakaiproject/tool/assessment/conditionalrelease/AssignmentUpdate.java
+END
+NullPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/131695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-conditionalrelease/src/java/org/sakaiproject/tool/assessment/conditionalrelease/NullPredicate.java
+END
+AssessmentReleaseRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/321448/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-conditionalrelease/src/java/org/sakaiproject/tool/assessment/conditionalrelease/AssessmentReleaseRule.java
+END
+AssessmentConditionsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/321456/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-conditionalrelease/src/java/org/sakaiproject/tool/assessment/conditionalrelease/AssessmentConditionsHelper.java
+END
+BooleanExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/131695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-conditionalrelease/src/java/org/sakaiproject/tool/assessment/conditionalrelease/BooleanExpression.java
+END
+BaseConditionServiceSam.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/131695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-conditionalrelease/src/java/org/sakaiproject/tool/assessment/conditionalrelease/BaseConditionServiceSam.java
+END
+GradebookConditionsProviderSam.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/131695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-conditionalrelease/src/java/org/sakaiproject/tool/assessment/conditionalrelease/GradebookConditionsProviderSam.java
+END
+AssignmentGrading.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/131695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-conditionalrelease/src/java/org/sakaiproject/tool/assessment/conditionalrelease/AssignmentGrading.java
+END

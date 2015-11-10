@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping default-cascade="none" default-lazy="false" package="org.sakaiproject.upv2.model">
+	<class name="org.sakaiproject.upv2.model.Telde" 
+	       table="SAK_TELDE">
+
+		<id name="codigo" column="CODIGO" type="long">
+			<generator class="native">
+				<param name="sequence">SAK_CODIGOS_SE</param>
+			</generator>
+		</id>
+		
+		<property name="asi_codigo" column="ASI_CODIGO" type="long" not-null="true"/>
+
+		<property name="descrip" column="DESCRIP" type="string" not-null="true"/>
+
+		<property name="descripv" column="DESCRIPV" type="string" />
+
+		<property name="descripi" column="DESCRIPI" type="string"/>
+		
+		<property name="url" column="URL" type="string"/>		
+
+<!--		<property name="fecha_alta" column="FECHA_ALTA" type="timestamp"/>				-->
+
+    <set name="telsitios" table="SAK_TELSITE" cascade="none">
+        <key column="tel_codigo"/>
+        <many-to-many class="org.sakaiproject.upv2.model.Sitio" column="site_codigo"/>                        
+    </set> 
+    
+	</class>	
+
+    <query name="findTeldesByAsi">
+        <![CDATA[from org.sakaiproject.upv2.model.Telde as tel where tel.asi_codigo=:asignatura]]>
+    </query>	
+	
+</hibernate-mapping>

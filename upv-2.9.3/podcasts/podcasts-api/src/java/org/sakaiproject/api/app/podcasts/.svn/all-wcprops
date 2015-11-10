@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130388/msub/upv.es/PoliformaT/upv-2.9.3/podcasts/podcasts-api/src/java/org/sakaiproject/api/app/podcasts
+END
+PodcastService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130388/msub/upv.es/PoliformaT/upv-2.9.3/podcasts/podcasts-api/src/java/org/sakaiproject/api/app/podcasts/PodcastService.java
+END
+PodcastEmailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130388/msub/upv.es/PoliformaT/upv-2.9.3/podcasts/podcasts-api/src/java/org/sakaiproject/api/app/podcasts/PodcastEmailService.java
+END
+PodfeedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130388/msub/upv.es/PoliformaT/upv-2.9.3/podcasts/podcasts-api/src/java/org/sakaiproject/api/app/podcasts/PodfeedService.java
+END
+PodcastPermissionsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130388/msub/upv.es/PoliformaT/upv-2.9.3/podcasts/podcasts-api/src/java/org/sakaiproject/api/app/podcasts/PodcastPermissionsService.java
+END

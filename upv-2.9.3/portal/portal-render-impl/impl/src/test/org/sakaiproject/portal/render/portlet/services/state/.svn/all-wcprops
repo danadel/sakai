@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/test/org/sakaiproject/portal/render/portlet/services/state
+END
+BasicWebRecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/test/org/sakaiproject/portal/render/portlet/services/state/BasicWebRecoderTest.java
+END
+SimplePortletStateEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/test/org/sakaiproject/portal/render/portlet/services/state/SimplePortletStateEncoderTest.java
+END
+Base64RecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/test/org/sakaiproject/portal/render/portlet/services/state/Base64RecoderTest.java
+END
+PortletStateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/test/org/sakaiproject/portal/render/portlet/services/state/PortletStateTest.java
+END
+EnhancedPortletStateEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/test/org/sakaiproject/portal/render/portlet/services/state/EnhancedPortletStateEncoderTest.java
+END

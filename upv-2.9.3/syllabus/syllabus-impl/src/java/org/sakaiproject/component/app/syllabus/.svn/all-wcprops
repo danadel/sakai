@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-impl/src/java/org/sakaiproject/component/app/syllabus
+END
+SyllabusServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-impl/src/java/org/sakaiproject/component/app/syllabus/SyllabusServiceImpl.java
+END
+GatewaySyllabusImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-impl/src/java/org/sakaiproject/component/app/syllabus/GatewaySyllabusImpl.java
+END
+SiteEmailNotificationSyllabus.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-impl/src/java/org/sakaiproject/component/app/syllabus/SiteEmailNotificationSyllabus.java
+END
+FixPublicSyllabusAttachmentsJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-impl/src/java/org/sakaiproject/component/app/syllabus/FixPublicSyllabusAttachmentsJob.java
+END
+SyllabusManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-impl/src/java/org/sakaiproject/component/app/syllabus/SyllabusManagerImpl.java
+END

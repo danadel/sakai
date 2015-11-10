@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/318347/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api
+END
+QuestionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/QuestionGroup.java
+END
+Question.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/318347/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/Question.java
+END
+Answer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/Answer.java
+END
+SamLiteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/SamLiteService.java
+END

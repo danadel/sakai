@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/318538/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc
+END
+filterPagingRoster.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/filterPagingRoster.jspf
+END
+filterPaging.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/filterPaging.jspf
+END
+gradingEventLogsInstView.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/318538/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/gradingEventLogsInstView.jspf
+END
+assignmentEditing.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/assignmentEditing.jspf
+END
+importErrorMessages.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/importErrorMessages.jspf
+END
+removeGradebookItemErrorMessages.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/removeGradebookItemErrorMessages.jspf
+END
+comment.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/comment.jspf
+END
+gradingEventLogs.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/318538/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/gradingEventLogs.jspf
+END
+breadcrumbInstructor.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/breadcrumbInstructor.jspf
+END
+categoryEdit.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/categoryEdit.jspf
+END
+appMenu.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/315655/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/appMenu.jspf
+END
+breadcrumb.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/breadcrumb.jspf
+END
+globalMessages.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/globalMessages.jspf
+END
+bulkNewItems.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/inc/bulkNewItems.jspf
+END

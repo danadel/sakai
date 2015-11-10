@@ -1,0 +1,273 @@
+//import org.sakaiproject.api.app.profile.*;
+//import org.sakaiproject.api.app.profile.ProfileManager;
+//import org.sakaiproject.component.app.profile.*;
+import org.sakaiproject.component.common.edu.person.SakaiPersonImpl;
+//import org.sakaiproject.component.common.edu.person.SakaiPersonManagerImpl;
+import org.sakaiproject.api.common.edu.person.SakaiPerson;
+import org.sakaiproject.api.common.edu.person.SakaiPersonManager;
+import org.sakaiproject.component.cover.ComponentManager;
+//import org.sakaiproject.api.common.superstructure.DefaultContainer;
+import org.sakaiproject.api.common.type.Type;
+import org.sakaiproject.api.common.type.UuidTypeResolvable;
+
+import org.sakaiproject.tool.api.Session;
+import org.sakaiproject.tool.cover.SessionManager;
+import org.apache.axis.AxisFault;
+import javax.mail.internet.MimeUtility;
+import org.apache.axis.encoding.Base64;
+import org.sakaiproject.user.cover.UserDirectoryService;
+import org.sakaiproject.user.api.User;
+import org.sakaiproject.user.api.UserNotDefinedException;
+import org.sakaiproject.api.common.type.TypeManager;
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+
+public class WSProfile {
+	private static Log log = LogFactory.getLog("org.sakaiproject.axis.WSProfile");
+	//common name will be used for the Sakai userid
+	public String cn = "CN";
+	public String surname = "Surname";
+	public String firstNames = "Given Name";
+	public String email = "Email";
+	public String userType = "eduPersonPrimaryAffiliation";
+	public String courseMembership = "uctCourseCode";
+	public String school ="uctFaculty";
+	
+	
+	//change this to the name of your campus
+	public String spmlCampus = "University of Cape Town";
+	private String courseYear = "2005";
+
+    /*
+     * Setup the Sakai person manager and the agentgroup manager
+     * contibuted by Nuno Fernandez (nuno@ufp.pt)
+     * 
+     */
+    private SakaiPersonManager sakaiPersonManager;
+  
+
+ //the sakaiSession object
+    public Session sakaiSession;
+    private int profilesUpdated = 0;
+
+	private SakaiPersonManager getSakaiPersonManager() {
+        if(sakaiPersonManager == null){
+           sakaiPersonManager = (SakaiPersonManager) ComponentManager.get(SakaiPersonManager.class.getName());
+           //sakaiPersonManager = new SakaiPersonManagerImpl();
+        }
+        return sakaiPersonManager;
+    }
+
+	private TypeManager typeManager;
+	
+	private TypeManager getTypeManager() {
+        if(typeManager == null){
+        	String cn = TypeManager.class.getName();
+           typeManager = (TypeManager) ComponentManager.get(cn);
+           
+        }
+        return typeManager;
+    }
+
+
+
+public String updateUserProfile(String sessionid, String userId, String firstName, String lastName, String thisEmail, String dept, String type, String photo) {
+	
+	try {
+		establishSession(sessionid);
+	}
+	catch (AxisFault e) {
+		log.info(e);
+	}
+	
+    if(userId == null || userId.equals("")){
+        log.info("Failed to update profile for user: (null or empty).");
+        return "ERROR-Failed to update profile for user: (null or empty).";
+    }
+    
+    userId = userId.toLowerCase();
+
+    //OJO: Los tipo son SystemMutableType y UserMutableType
+    SakaiPerson sakaiPerson = getUserProfile(userId, type);
+    
+    String ret = "OK-No se ha actualizado nada porque no se ha encontrado el Perfil para "+userId;	
+    if(sakaiPerson != null){
+
+	
+
+        try{
+
+	   //OK we need to decode the mime data
+	
+	
+	log.info("got some phote data");
+	//byte[] photoData = Base64.decode(photo);
+	//log.info("Photo of size: " + photoData + " found");
+	
+	//create the user
+
+            //sakaiPerson.setJpegPhoto(photoData);
+            sakaiPerson.setSystemPicturePreferred(Boolean.TRUE);
+            sakaiPerson.setGivenName(firstName);
+            sakaiPerson.setSurname(lastName);
+            sakaiPerson.setDisplayName(firstName + " " + lastName);
+            sakaiPerson.setMail(thisEmail);
+            //sakaiPerson.setCampus(spmlCampus);
+            sakaiPerson.setDepartmentNumber(dept);
+            sakaiPerson.setHidePrivateInfo(Boolean.TRUE);
+            SakaiPersonManager spm = getSakaiPersonManager();
+	    //sakaiPerson.setTypeUUID("SystemMutableType");
+	    //setSakaiSessionUser(userId);
+	
+            spm.save(sakaiPerson);
+            profilesUpdated++;
+            ret="OK-Se ha actualizado correctamente el perfil de "+userId; 
+            //setSakaiSessionUser("admin");  // get back the admin session
+        }catch(IllegalAccessError e){
+            log.info("Failed to update profile for user " + userId + " - no permissions: " + e.getMessage());
+            return "ERROR-Failed to update profile for user " + userId + " - no permissions: " + e.getMessage();
+        }catch(Exception e){
+            log.info("Failed to update profile for user " + userId + ": " + e.getMessage());
+            e.printStackTrace();
+            return "ERROR-Failed to update profile for user " + userId + ": " + e.getMessage();
+        }
+    }
+    return ret;
+} 
+
+public void updateUserIdPhoto(String sessionid, String userId, String type, String photo) {
+	
+	try {
+		establishSession(sessionid);
+	}
+	catch (AxisFault e) {
+		log.info(e);
+	}
+	
+    if(userId == null || userId.equals("")){
+        log.info("Failed to update profile for user: (null or empty).");
+        return;
+    }
+    
+    userId = userId.toLowerCase();
+    //OJO: Los tipo son SystemMutableType y UserMutableType
+    SakaiPerson sakaiPerson = getUserProfile(userId, type);
+    
+	
+    if(sakaiPerson != null){
+
+	
+
+        try{
+
+	   //OK we need to decode the mime data
+	
+	
+	//log.info("got some phote data");
+	//Base64 decode = new Base64();
+	byte[] photoData = Base64.decode(photo);
+	log.info("Photo of size: " + photoData + " found");
+	
+	//create the user
+	//User addeduser = null;
+	//addeduser = UserDirectoryService.addUser(userId, firstName, lastName, thisEmail, "", "", null);
+
+            sakaiPerson.setJpegPhoto(photoData);
+            sakaiPerson.setSystemPicturePreferred(Boolean.TRUE);
+            sakaiPerson.setHidePrivateInfo(Boolean.TRUE);
+            SakaiPersonManager spm = getSakaiPersonManager();
+	    //sakaiPerson.setTypeUUID("SystemMutableType");
+	    //setSakaiSessionUser(userId);
+	
+            spm.save(sakaiPerson);
+            
+            
+            profilesUpdated++;
+            //setSakaiSessionUser("admin");  // get back the admin session
+        }catch(IllegalAccessError e){
+            log.info("Failed to update profile for user " + userId + " - no permissions: " + e.getMessage());
+        }catch(Exception e){
+            log.info("Failed to update profile for user " + userId + ": " + e.getMessage());
+            e.printStackTrace();
+        }
+    }
+} 
+
+
+/*
+ * get a user proString escapeBody = body.replaceAll("'","''");file for a user
+ */
+private SakaiPerson getUserProfile(String userId, String type) {
+	
+    log.info("getUserProfile()");
+    //Uid's must be lower case
+    userId = userId.toLowerCase();
+
+    SakaiPerson sakaiPerson = null;	
+    SakaiPersonManager spm = getSakaiPersonManager();
+    Type _type;
+
+    try{
+        //log.info("Switching session");
+        //no longer needed we're only working with system profiles
+        if (type.equals("UserMutableType")) {
+           setSakaiSessionUser(userId); // switch to that user's session
+           log.info("we are now: " + SessionManager.getCurrentSession().getUserId());
+        	_type = spm.getUserMutableType();
+        } else {
+        	_type = spm.getSystemMutableType();
+        };
+       
+             
+        	//Type _type = spm.getSystemMutableType();
+        	//log.info("got type of " + _type);
+        	User user = UserDirectoryService.getUserByEid(userId);
+        	log.info("got user " + user.getId() + " with eid of " + user.getEid());
+            sakaiPerson = spm.getSakaiPerson(user.getId(), _type);
+            // create profile if it doesn't exist
+            if(sakaiPerson == null){
+               sakaiPerson = spm.create(user.getId(), _type);
+               log.info(this + "creating profile for user " + userId + " of type " + _type);
+            }
+            
+        }
+        catch (UserNotDefinedException und) {
+        	log.info("User does not exist! " + userId);
+        }
+        catch(Exception e){
+            log.info("Unknown error occurred in getUserProfile(" + userId + "): " + e.getMessage());
+            e.printStackTrace();
+        }
+    
+    return sakaiPerson;
+}
+
+/*
+ * Set the session to the new user
+ */
+private synchronized void setSakaiSessionUser(String id) {
+    
+    try {
+    sakaiSession.setUserId(id);
+    sakaiSession.setUserEid(id);
+}
+catch (Exception e) {
+//e.printStackTrace();
+}
+    
+} 
+
+private Session establishSession(String id) throws AxisFault 
+{
+	sakaiSession = SessionManager.getSession(id);
+	
+	if (sakaiSession == null)
+	{
+		throw new AxisFault("Session "+id+" is not active");
+	}
+	sakaiSession.setActive();
+	SessionManager.setCurrentSession(sakaiSession);
+	return sakaiSession;
+}
+
+}

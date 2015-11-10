@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/bundle
+END
+melete_license_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/bundle/melete_license_es.properties
+END
+melete_license_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/bundle/melete_license_ja.properties
+END
+melete_license.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/bundle/melete_license.properties
+END
+melete_license_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/bundle/melete_license_ca.properties
+END
+security_svc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-impl/src/bundle/security_svc.properties
+END

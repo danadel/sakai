@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/132515/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources
+END
+sakai_properties_scripts.vm
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/132515/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_properties_scripts.vm
+END
+sakai_metadata-edit.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_metadata-edit.vm
+END
+sakai_access_text.vm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_access_text.vm
+END
+sakai_create_upload.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_create_upload.vm
+END
+sakai_create_text.vm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_create_text.vm
+END
+sakai_create_urls.vm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130833/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_create_urls.vm
+END
+sakai_replace_file.vm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_replace_file.vm
+END
+sakai_dropbox_multiple_folders_upload.vm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130780/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_dropbox_multiple_folders_upload.vm
+END
+sakai_send_reprografia.vm
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130781/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_send_reprografia.vm
+END
+sakai_print_reprografia.vm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130781/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_print_reprografia.vm
+END
+sakai_revise_url.vm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_revise_url.vm
+END
+sakai_revise_html.vm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_revise_html.vm
+END
+sakai_create_folders.vm
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_create_folders.vm
+END
+sakai_create_url.vm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_create_url.vm
+END
+sakai_create_html.vm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_create_html.vm
+END
+sakai_quota.vm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_quota.vm
+END
+sakai_create_uploads.vm
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_create_uploads.vm
+END
+sakai_properties.vm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/132515/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_properties.vm
+END
+sakai_revise_text.vm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-tool/tool/src/webapp/vm/resources/sakai_revise_text.vm
+END

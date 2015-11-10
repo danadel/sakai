@@ -1,0 +1,13 @@
+K 6
+ignore
+V 6
+target
+K 10
+svn:ignore
+V 37
+.classpath
+.project
+target
+.settings
+
+END

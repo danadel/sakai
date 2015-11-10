@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-engine-impl/impl/src/java/org/sakaiproject/portal/charon/velocity
+END
+VelocityPortalRenderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-engine-impl/impl/src/java/org/sakaiproject/portal/charon/velocity/VelocityPortalRenderContext.java
+END
+WebappLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-engine-impl/impl/src/java/org/sakaiproject/portal/charon/velocity/WebappLoader.java
+END
+VelocityPortalRenderEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-engine-impl/impl/src/java/org/sakaiproject/portal/charon/velocity/VelocityPortalRenderEngine.java
+END
+PortalRenderEngineContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-engine-impl/impl/src/java/org/sakaiproject/portal/charon/velocity/PortalRenderEngineContextListener.java
+END

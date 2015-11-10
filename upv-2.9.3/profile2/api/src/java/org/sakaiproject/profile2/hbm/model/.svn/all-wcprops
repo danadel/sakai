@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/model
+END
+ProfileImageOfficial.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/model/ProfileImageOfficial.java
+END
+ProfileImageUploaded.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/model/ProfileImageUploaded.java
+END
+ProfileImageExternal.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/model/ProfileImageExternal.java
+END
+ProfileKudos.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/model/ProfileKudos.java
+END
+ProfileFriend.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/model/ProfileFriend.java
+END

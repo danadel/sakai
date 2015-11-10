@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components
+END
+AjaxExternalLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/AjaxExternalLink.java
+END
+ComponentVisualErrorBehaviour.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/ComponentVisualErrorBehaviour.java
+END
+OnlinePresenceIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/OnlinePresenceIndicator.java
+END
+IconWithClueTip.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/IconWithClueTip.java
+END
+GalleryImageRenderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/GalleryImageRenderer.html
+END
+ProfileStatusRenderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/ProfileStatusRenderer.html
+END
+AjaxIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/AjaxIndicator.java
+END
+FocusOnLoadBehaviour.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/FocusOnLoadBehaviour.java
+END
+HashMapChoiceRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/HashMapChoiceRenderer.java
+END
+FeedbackLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/FeedbackLabel.java
+END
+ErrorLevelsFeedbackMessageFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/ErrorLevelsFeedbackMessageFilter.java
+END
+CloseButton.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/CloseButton.html
+END
+ExternalImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/ExternalImage.java
+END
+EnablingCheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/EnablingCheckBox.java
+END
+TextareaTinyMceSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/TextareaTinyMceSettings.java
+END
+PhoneNumberValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/PhoneNumberValidator.java
+END
+GalleryImageRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/GalleryImageRenderer.java
+END
+OnlinePresenceIndicator.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/OnlinePresenceIndicator.html
+END
+ResourceReferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/ResourceReferences.java
+END
+NotifyingAjaxLazyLoadPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/NotifyingAjaxLazyLoadPanel.java
+END
+ProfileImageRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/ProfileImageRenderer.java
+END
+ProfileStatusRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/ProfileStatusRenderer.java
+END
+IconWithClueTip.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/IconWithClueTip.html
+END
+LocaleAwareHtmlTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/LocaleAwareHtmlTag.java
+END
+CloseButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/components/CloseButton.java
+END

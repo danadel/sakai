@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/model
+END
+SchemaFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/model/SchemaFile.java
+END
+DuplicateKeyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/model/DuplicateKeyException.java
+END
+DateBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/model/DateBean.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/model/Person.java
+END

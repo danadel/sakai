@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/common-composite-component/src/java/org/sakaiproject/component/common/edu/person
+END
+SakaiPersonObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/common-composite-component/src/java/org/sakaiproject/component/common/edu/person/SakaiPersonObserver.java
+END
+SakaiPersonPhotoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/common-composite-component/src/java/org/sakaiproject/component/common/edu/person/SakaiPersonPhotoService.java
+END
+SakaiPersonManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/common-composite-component/src/java/org/sakaiproject/component/common/edu/person/SakaiPersonManagerImpl.java
+END
+FileSystemPhotoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/common-composite-component/src/java/org/sakaiproject/component/common/edu/person/FileSystemPhotoService.java
+END

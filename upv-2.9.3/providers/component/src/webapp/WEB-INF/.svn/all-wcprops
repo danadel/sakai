@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/131574/msub/upv.es/PoliformaT/upv-2.9.3/providers/component/src/webapp/WEB-INF
+END
+jldap-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/component/src/webapp/WEB-INF/jldap-beans.xml
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/131574/msub/upv.es/PoliformaT/upv-2.9.3/providers/component/src/webapp/WEB-INF/components.xml
+END
+components-demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/component/src/webapp/WEB-INF/components-demo.xml
+END

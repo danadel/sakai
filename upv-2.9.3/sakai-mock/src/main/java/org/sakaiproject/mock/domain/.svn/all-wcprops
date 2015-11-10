@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/132067/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/domain
+END
+AuthzGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130365/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/domain/AuthzGroup.java
+END
+Placement.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130365/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/domain/Placement.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/132067/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/domain/Group.java
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130365/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/domain/Page.java
+END
+Tool.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130365/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/domain/Tool.java
+END
+Time.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130365/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/domain/Time.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130365/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/domain/User.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130365/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/domain/Role.java
+END
+Site.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/132067/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/domain/Site.java
+END
+ToolConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130365/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/domain/ToolConfiguration.java
+END
+Member.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130365/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/domain/Member.java
+END

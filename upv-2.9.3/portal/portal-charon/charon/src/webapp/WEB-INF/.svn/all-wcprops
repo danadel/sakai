@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-charon/charon/src/webapp/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-charon/charon/src/webapp/WEB-INF/web.xml
+END
+wurfl_patch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-charon/charon/src/webapp/WEB-INF/wurfl_patch.xml
+END
+wurfl.zip
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-charon/charon/src/webapp/WEB-INF/wurfl.zip
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/320048/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl
+END
+SummaryVisitsChartDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/SummaryVisitsChartDataImpl.java
+END
+StatsUpdateManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/StatsUpdateManagerImpl.java
+END
+CustomEventImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/CustomEventImpl.java
+END
+ServerWideStatsRecordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/ServerWideStatsRecordImpl.java
+END
+ConvOldPrefsJobImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/ConvOldPrefsJobImpl.java
+END
+StatsAggregateJobImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/316697/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/StatsAggregateJobImpl.java
+END
+SummaryActivityTotalsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/SummaryActivityTotalsImpl.java
+END
+DBHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/DBHelper.java
+END
+SummaryActivityChartDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/SummaryActivityChartDataImpl.java
+END
+SummaryVisitsTotalsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/SummaryVisitsTotalsImpl.java
+END
+ServerWideReportManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/ServerWideReportManagerImpl.java
+END
+StatsManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/StatsManagerImpl.java
+END
+StatsAuthzImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/StatsAuthzImpl.java
+END
+SiteActivityByToolImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/SiteActivityByToolImpl.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-api/src/java/org/sakaiproject/section/api/facade/manager
+END
+Authz.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-api/src/java/org/sakaiproject/section/api/facade/manager/Authz.java
+END
+Authn.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-api/src/java/org/sakaiproject/section/api/facade/manager/Authn.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-api/src/java/org/sakaiproject/section/api/facade/manager/Context.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api
+END
+Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api/Schema.java
+END
+SearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api/SearchManager.java
+END
+ActiveSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api/ActiveSearch.java
+END
+SearchCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api/SearchCategory.java
+END
+CitationIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api/CitationIterator.java
+END
+CitationCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api/CitationCollection.java
+END
+ConfigurationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api/ConfigurationService.java
+END
+SearchDatabaseHierarchy.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api/SearchDatabaseHierarchy.java
+END
+Citation.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api/Citation.java
+END
+CitationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api/CitationHelper.java
+END
+SearchDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api/SearchDatabase.java
+END
+CitationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api/CitationService.java
+END
+SiteOsidConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/api/SiteOsidConfiguration.java
+END

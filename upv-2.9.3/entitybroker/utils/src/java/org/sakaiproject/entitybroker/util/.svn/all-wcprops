@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util
+END
+AbstractEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/AbstractEntityProvider.java
+END
+ReloadableComponentProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/ReloadableComponentProxy.java
+END
+VersionConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/VersionConstants.java
+END
+EntityDataUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/EntityDataUtils.java
+END

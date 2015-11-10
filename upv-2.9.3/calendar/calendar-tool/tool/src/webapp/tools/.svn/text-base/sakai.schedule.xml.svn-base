@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<registration>
+
+	<tool
+			id="sakai.schedule"
+			title="Schedule"
+			description="For posting and viewing deadlines, events, etc.">
+
+		<configuration name="calendar" value="" />
+
+		<category name="siteupv"/>
+ 		<category name="sitecfp"/>
+ 		<category name="sitemas"/>
+		<category name="siteford"/>
+		<category name="siteentidad"/>
+		<category name="sitepatu" />
+		<category name="course"/>
+		<category name="project"/>
+		<category name="portfolio"/>
+		<category name="mipoliformaT"/>
+
+		<configuration name="functions.require" value="calendar.read" /> 
+		
+		<configuration name="groupAware" value="true" />
+
+	</tool>
+
+</registration>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registration>
+	<tool id="sakai.videoconference.openmeetings"
+		title="Sakai Openmeetings tool"
+		description="Openmeetings videoconference tool created by Samoo">
+		<category name="course" />
+		<category name="project" />
+		<!-- <category name="myworkspace" /> -->
+		<!-- <category name="sakai.admin" /> -->
+	</tool>	
+</registration>

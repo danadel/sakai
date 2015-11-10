@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section
+END
+EnrollmentRecordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/EnrollmentRecordImpl.java
+END
+CourseSectionCategories_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseSectionCategories_fr_CA.properties
+END
+UserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/UserImpl.java
+END
+SectionManagerHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/SectionManagerHibernateImpl.java
+END
+CourseSectionCategories.properties
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseSectionCategories.properties
+END
+CourseSectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseSectionImpl.java
+END
+CourseSectionCategories_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseSectionCategories_ca.properties
+END
+SectionEnrollmentsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/SectionEnrollmentsImpl.java
+END
+MeetingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/MeetingImpl.java
+END
+AbstractPersistentObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/AbstractPersistentObject.java
+END
+CourseSectionCategories_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseSectionCategories_sv.properties
+END
+CourseSectionCategories_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseSectionCategories_ja.properties
+END
+CourseSectionCategories_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseSectionCategories_zh_TW.properties
+END
+SectionAwarenessHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/SectionAwarenessHibernateImpl.java
+END
+CourseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseImpl.java
+END
+LearningContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/LearningContextImpl.java
+END
+CourseSectionCategories_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseSectionCategories_zh_CN.properties
+END
+ParticipationRecordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/ParticipationRecordImpl.java
+END
+CourseSectionCategories_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseSectionCategories_ar.properties
+END
+CourseSectionCategories_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseSectionCategories_pt_BR.properties
+END
+CourseSectionCategories_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseSectionCategories_es.properties
+END
+InstructorRecordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/InstructorRecordImpl.java
+END
+TeachingAssistantRecordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/TeachingAssistantRecordImpl.java
+END
+CourseSectionCategories_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseSectionCategories_eu.properties
+END
+CourseManagerHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/CourseManagerHibernateImpl.java
+END

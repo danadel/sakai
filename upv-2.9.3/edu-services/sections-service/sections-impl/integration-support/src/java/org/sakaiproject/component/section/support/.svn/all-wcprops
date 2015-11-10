@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/integration-support/src/java/org/sakaiproject/component/section/support
+END
+UserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/integration-support/src/java/org/sakaiproject/component/section/support/UserManager.java
+END
+UserManagerHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/integration-support/src/java/org/sakaiproject/component/section/support/UserManagerHibernateImpl.java
+END
+IntegrationSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/integration-support/src/java/org/sakaiproject/component/section/support/IntegrationSupport.java
+END
+IntegrationSupportImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/integration-support/src/java/org/sakaiproject/component/section/support/IntegrationSupportImpl.java
+END

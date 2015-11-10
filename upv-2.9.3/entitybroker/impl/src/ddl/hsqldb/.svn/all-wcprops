@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/impl/src/ddl/hsqldb
+END
+entityTagApplication.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/impl/src/ddl/hsqldb/entityTagApplication.sql
+END
+entityProperty.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/impl/src/ddl/hsqldb/entityProperty.sql
+END

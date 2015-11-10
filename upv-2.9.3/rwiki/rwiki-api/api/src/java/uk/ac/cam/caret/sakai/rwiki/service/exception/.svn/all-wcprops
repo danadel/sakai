@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/exception
+END
+ReadPermissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/exception/ReadPermissionException.java
+END
+VersionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/exception/VersionException.java
+END
+PermissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/exception/PermissionException.java
+END
+UpdatePermissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/exception/UpdatePermissionException.java
+END
+CreatePermissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/exception/CreatePermissionException.java
+END

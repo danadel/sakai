@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/test/org/sakaiproject/coursemanagement/test
+END
+CourseManagementServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/test/org/sakaiproject/coursemanagement/test/CourseManagementServiceTest.java
+END
+HibernateTestDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/test/org/sakaiproject/coursemanagement/test/HibernateTestDataLoader.java
+END
+CourseManagementAdministrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/test/org/sakaiproject/coursemanagement/test/CourseManagementAdministrationTest.java
+END
+CourseManagementAdministrationDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/test/org/sakaiproject/coursemanagement/test/CourseManagementAdministrationDataLoader.java
+END
+CourseManagementTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/test/org/sakaiproject/coursemanagement/test/CourseManagementTestSuite.java
+END
+CourseManagementTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/test/org/sakaiproject/coursemanagement/test/CourseManagementTestBase.java
+END
+ClassPathCMSyncJobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/test/org/sakaiproject/coursemanagement/test/ClassPathCMSyncJobTest.java
+END

@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/307334/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums
+END
+MessagePermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MessagePermissions.java
+END
+AreaControlPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/AreaControlPermission.java
+END
+PrivateForum.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PrivateForum.java
+END
+MessageForumsForumManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MessageForumsForumManager.java
+END
+SynopticMsgcntrItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/SynopticMsgcntrItem.java
+END
+DateRestrictions.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DateRestrictions.java
+END
+MembershipManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MembershipManager.java
+END
+PermissionsMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PermissionsMask.java
+END
+Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/Attachment.java
+END
+EmailNotificationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/EmailNotificationManager.java
+END
+UserPreferencesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/UserPreferencesManager.java
+END
+EmailNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/307334/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/EmailNotification.java
+END
+OpenTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/OpenTopic.java
+END
+SynopticMsgcntrManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/SynopticMsgcntrManager.java
+END
+AreaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/AreaManager.java
+END
+ActorPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/ActorPermissions.java
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/Area.java
+END
+HiddenGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/HiddenGroup.java
+END
+MessageForumsUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MessageForumsUserManager.java
+END
+OpenForum.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/OpenForum.java
+END
+PermissionLevelManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PermissionLevelManager.java
+END
+DefaultPermissionsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DefaultPermissionsManager.java
+END
+DiscussionForumService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DiscussionForumService.java
+END
+MessageForumsTypeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MessageForumsTypeManager.java
+END
+DummyDataHelperApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DummyDataHelperApi.java
+END
+PrivateMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PrivateMessage.java
+END
+PermissionLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PermissionLevel.java
+END
+MessageForumsMessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MessageForumsMessageManager.java
+END
+DBMembershipItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DBMembershipItem.java
+END
+DiscussionTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DiscussionTopic.java
+END
+PrivateMessageRecipient.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PrivateMessageRecipient.java
+END
+UnreadStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/UnreadStatus.java
+END
+BaseForum.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/BaseForum.java
+END
+PermissionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PermissionManager.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/Message.java
+END
+MutableEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MutableEntity.java
+END
+TopicControlPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/TopicControlPermission.java
+END
+DiscussionForum.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DiscussionForum.java
+END
+UniqueArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/UniqueArrayList.java
+END
+ForumControlPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/ForumControlPermission.java
+END
+PrivateTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PrivateTopic.java
+END
+ForumScheduleNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/ForumScheduleNotification.java
+END
+ControlPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/ControlPermissions.java
+END
+Topic.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/Topic.java
+END
+MessageForumsUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MessageForumsUser.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/Label.java
+END

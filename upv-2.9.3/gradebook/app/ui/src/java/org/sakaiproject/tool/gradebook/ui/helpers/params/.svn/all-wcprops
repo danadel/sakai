@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params
+END
+GradebookItemViewParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params/GradebookItemViewParams.java
+END
+GradebookViewParamsInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params/GradebookViewParamsInterceptor.java
+END
+GradeGradebookItemViewParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params/GradeGradebookItemViewParams.java
+END
+HelperAwareViewParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params/HelperAwareViewParams.java
+END

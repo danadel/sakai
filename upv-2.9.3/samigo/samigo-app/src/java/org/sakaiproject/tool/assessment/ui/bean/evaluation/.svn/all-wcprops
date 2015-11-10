@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/320028/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation
+END
+HistogramScoresBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/HistogramScoresBean.java
+END
+SubmissionStatusBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/131317/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/SubmissionStatusBean.java
+END
+RetakeAssessmentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/RetakeAssessmentBean.java
+END
+HistogramBarBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/HistogramBarBean.java
+END
+HistogramSectionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/HistogramSectionBean.java
+END
+TotalScoresBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/320028/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/TotalScoresBean.java
+END
+ExportResponsesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/319043/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/ExportResponsesBean.java
+END
+ItemBarBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/ItemBarBean.java
+END
+HistogramQuestionScoresBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/HistogramQuestionScoresBean.java
+END
+StudentScoresBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/StudentScoresBean.java
+END
+EvaluationResultBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/EvaluationResultBean.java
+END
+QuestionScoresBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/131317/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/QuestionScoresBean.java
+END
+AgentResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/131246/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/AgentResults.java
+END
+PartData.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/PartData.java
+END

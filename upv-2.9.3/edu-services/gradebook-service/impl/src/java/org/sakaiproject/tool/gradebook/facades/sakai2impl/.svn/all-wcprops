@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/318149/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl
+END
+UserDirectoryServiceSakai2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/UserDirectoryServiceSakai2Impl.java
+END
+EventTrackingServiceSakai2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/EventTrackingServiceSakai2Impl.java
+END
+GradebookConditionsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/132602/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/GradebookConditionsProvider.java
+END
+PublishedAssessmentServiceSakai2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/318149/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/PublishedAssessmentServiceSakai2Impl.java
+END
+AuthzSakai2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/AuthzSakai2Impl.java
+END
+BaseEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/BaseEntityProducer.java
+END
+AuthnSakai2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/AuthnSakai2Impl.java
+END
+ContextManagementSakai2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/ContextManagementSakai2Impl.java
+END
+GradebookConfigurationSakai.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/GradebookConfigurationSakai.java
+END
+GradebookEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/GradebookEntityProducer.java
+END
+XmlImportable.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/XmlImportable.java
+END

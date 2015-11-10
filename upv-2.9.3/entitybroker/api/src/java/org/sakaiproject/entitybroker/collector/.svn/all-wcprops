@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/api/src/java/org/sakaiproject/entitybroker/collector
+END
+BeanMapCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/api/src/java/org/sakaiproject/entitybroker/collector/BeanMapCollector.java
+END
+OrderedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/api/src/java/org/sakaiproject/entitybroker/collector/OrderedBean.java
+END
+BeanCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/api/src/java/org/sakaiproject/entitybroker/collector/BeanCollector.java
+END
+AutoRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/api/src/java/org/sakaiproject/entitybroker/collector/AutoRegister.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/319874/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone
+END
+FacadeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone/FacadeUtils.java
+END
+SectionAwareServiceHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone/SectionAwareServiceHelperImpl.java
+END
+AbstractSectionsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone/AbstractSectionsImpl.java
+END
+PublishingTargetHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone/PublishingTargetHelperImpl.java
+END
+GradebookHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone/GradebookHelperImpl.java
+END
+AgentHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone/AgentHelperImpl.java
+END
+GradebookServiceHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/319874/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone/GradebookServiceHelperImpl.java
+END
+ServerConfigurationServiceHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone/ServerConfigurationServiceHelperImpl.java
+END

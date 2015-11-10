@@ -1,0 +1,140 @@
+<!--
+ ***********************************************************************************
+ * $URL: https://source.sakaiproject.org/contrib/etudes/melete/tags/2.7.2/melete-app/src/webapp/melete/view_section_student.jsp $
+ * $Id: view_section_student.jsp 65704 2010-01-13 18:45:55Z mallika@etudes.org $  
+ ***********************************************************************************
+ *
+ * Copyright (c) 2008,2009,2010 Etudes, Inc.
+ *
+ * Portions completed before September 1, 2008 Copyright (c) 2004, 2005, 2006, 2007, 2008 Foothill College, ETUDES Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+ * implied. See the License for the specific language governing
+ * permissions and limitations under the License.
+ *
+ **********************************************************************************
+-->
+<html>
+<head>
+<title>Melete - Modules: Student View</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<%@ taglib uri="http://java.sun.com/jsf/html" prefix="h" %>
+<%@ taglib uri="http://java.sun.com/jsf/core" prefix="f" %>
+<%@ taglib uri="http://sakaiproject.org/jsf/sakai" prefix="sakai" %>
+<script type="text/javascript" language="JavaScript" src="js/headscripts.js"></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  MMLorHTML: {
+    prefer: {Firefox: "HTML"}
+  }
+});
+</script>
+<script type="text/javascript" src="https://poliformat.upv.es/library/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML-full"></script>
+</head>
+<f:view>
+<body onLoad="setMainFrameHeight('<h:outputText value="#{meleteSiteAndUserInfo.winEncodeName}"/>');">
+<script type="text/javascript">// <![CDATA[
+    MathJax.Hub.Config({     extensions: ["tex2jax.js"],     "HTML-CSS": { scale: 100 }   });
+// ]]&gt;</script>
+<a name="newanchor"></a>
+<h:form id="viewsectionStudentform">
+<table border="0" cellpadding="3"  width="100%" bordercolor="#EAEAEA" style="border-collapse: collapse" >
+<tr>
+	<td width="100%" valign="top"> 
+<!--Page Content-->
+<table  border="0" cellpadding="2" cellspacing="0" bordercolor="#EAEAEA" width="100%" style="border-collapse: collapse" >
+<tr>
+					<td colspan="2">
+								<f:subview id="top">
+												  <jsp:include page="topnavbar.jsp"/> 
+									</f:subview>	
+					</td>
+				</tr>
+<tr>
+<td colspan="2" align="center">
+<f:subview id="topmod">
+	<jsp:include page="view_navigate.jsp"/>
+</f:subview>
+
+	<h:panelGroup id="bcsecpgroup" binding="#{viewSectionsPage.secpgroup}"/>
+</td>
+</tr>    
+	<tr>	<td colspan="2">&nbsp;</td>		</tr>     
+<tr>
+<td colspan="2" align="left">
+         <h:outputText id="mod_seq" value="#{viewSectionsPage.moduleSeqNo}. " styleClass="bold style6" rendered="#{viewSectionsPage.autonumber}"/>
+	 <h:outputText id="modtitle" value="#{viewSectionsPage.module.title}" styleClass="bold style6" >
+</h:outputText>
+
+</td>
+</tr>    
+
+<h:dataTable id="tablesec" value="#{viewSectionsPage.sections}"
+                  var="section" rowClasses="bold style7" width="100%">
+	<h:column> 
+		<h:outputText id="seqnum" value="#{section.sectionDisplaySequence}" ></h:outputText>
+		<h:outputText id="emp_space2" value=". "/>
+		<h:outputText id="title" value="#{section.title}" ></h:outputText>
+	</h:column>
+</h:dataTable>
+
+<tr>
+
+<h:panelGrid id="sectionContentGrid" columns="1" width="100%" border="0" rendered="#{viewSectionsPage.section != null}">
+<h:column>
+	<h:outputText escape="false" value="#{msgs.view_section_student_instructions} " rendered="#{((viewSectionsPage.section.instr != viewSectionsPage.nullString)&&(viewSectionsPage.section.instr != viewSectionsPage.emptyString))}" styleClass="italics"/>
+	<h:outputText id="instr" value="#{viewSectionsPage.section.instr}" rendered="#{((viewSectionsPage.section.instr != viewSectionsPage.nullString)&&(viewSectionsPage.section.instr != viewSectionsPage.emptyString))}"/>
+</h:column>
+<h:column rendered="#{viewSectionsPage.section.contentType != viewSectionsPage.nullString}">
+	<h:inputHidden id="contentType" value="#{viewSectionsPage.section.contentType}"/>
+	<h:inputHidden id="openWindow" value="#{viewSectionsPage.section.openWindow}"/>
+	<h:outputText escape="false" value="<a target='new_window' href='" rendered="#{meleteSiteAndUserInfo.safariIpad || ((viewSectionsPage.section.contentType == viewSectionsPage.typeLink || viewSectionsPage.section.contentType == viewSectionsPage.typeUpload || viewSectionsPage.section.contentType == viewSectionsPage.typeLTI)&&(viewSectionsPage.contentLink != viewSectionsPage.nullString)&&(viewSectionsPage.section.openWindow == true))}"/>
+       <h:outputText value="#{viewSectionsPage.contentLink}" rendered="#{meleteSiteAndUserInfo.safariIpad || ((viewSectionsPage.section.contentType == viewSectionsPage.typeLink || viewSectionsPage.section.contentType == viewSectionsPage.typeUpload || viewSectionsPage.section.contentType == viewSectionsPage.typeLTI)&&(viewSectionsPage.contentLink != viewSectionsPage.nullString)&&(viewSectionsPage.section.openWindow == true))}"/>
+       <h:outputText escape="false" value="'>#{viewSectionsPage.linkName}</a>" rendered="#{meleteSiteAndUserInfo.safariIpad || ((viewSectionsPage.section.contentType == viewSectionsPage.typeLink || viewSectionsPage.section.contentType == viewSectionsPage.typeUpload || viewSectionsPage.section.contentType == viewSectionsPage.typeLTI)&&(viewSectionsPage.contentLink != viewSectionsPage.nullString)&&(viewSectionsPage.section.openWindow == true))}"/>
+    
+    <h:outputText id="contentFrame" value="<iframe id=\"iframe1\" src=\"#{viewSectionsPage.content}\" style=\"visibility:visible\" scrolling= \"auto\" width=\"100%\" height=\"700\" border=\"0\" frameborder= \"0\"></iframe>" rendered="#{meleteSiteAndUserInfo.safariIpad == false && ((viewSectionsPage.section.contentType ==viewSectionsPage.typeLink)&&(viewSectionsPage.linkName !=
+    viewSectionsPage.nullString)&&(viewSectionsPage.section.openWindow == false))}" escape="false" />
+    
+  <h:outputText value="#{viewSectionsPage.content}" escape="false" rendered="#{meleteSiteAndUserInfo.safariIpad == false && ((viewSectionsPage.section.contentType == viewSectionsPage.typeEditor)&&(viewSectionsPage.content != viewSectionsPage.nullString))}"/>
+	<h:outputText id="contentUploadFrame" value="<iframe id=\"iframe2\" src=\"#{viewSectionsPage.contentLink}\" style=\"visibility:visible\" scrolling= \"auto\" width=\"100%\" height=\"700\"
+    border=\"0\" frameborder= \"0\"></iframe>" rendered="#{meleteSiteAndUserInfo.safariIpad == false && ((viewSectionsPage.section.contentType ==viewSectionsPage.typeUpload)&&(viewSectionsPage.section.openWindow == false))}" escape="false" />
+	
+	<h:outputText id="contentLTI" value="#{viewSectionsPage.contentLTI}" 
+              rendered="#{((viewSectionsPage.section.contentType == viewSectionsPage.typeLTI)&&(viewSectionsPage.section.openWindow == false))}" escape="false" />	
+</h:column>
+</h:panelGrid>
+
+</td>
+
+</tr>    
+<tr>
+<td colspan="2" align="center">
+<f:subview id="bottommod">
+	<jsp:include page="view_navigate.jsp"/>
+</f:subview>
+</td>
+</tr>
+</table></td>
+</tr>
+<tr><td>
+<table width="100%" height="20" border="0" cellpadding="3" cellspacing="0" >
+   	<tr>
+	 <td align="center" class="meleteLicenseMsg center"><B>
+  			<jsp:include page="license_info.jsp"/>      
+         </B></td></tr>
+	    </table>
+</td></tr>
+</table>
+</h:form>
+</body>
+</f:view>
+
+</html>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/test/org/sakaiproject/citation/impl
+END
+BookConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/test/org/sakaiproject/citation/impl/BookConverterTest.java
+END
+BaseCitationServiceSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/test/org/sakaiproject/citation/impl/BaseCitationServiceSupport.java
+END
+GeneralOpenUrlTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/test/org/sakaiproject/citation/impl/GeneralOpenUrlTests.java
+END
+MockCitationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/test/org/sakaiproject/citation/impl/MockCitationServiceImpl.java
+END

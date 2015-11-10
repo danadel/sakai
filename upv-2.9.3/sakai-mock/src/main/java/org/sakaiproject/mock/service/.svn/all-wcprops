@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130365/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/service
+END
+UserDirectoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130365/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/service/UserDirectoryService.java
+END
+SiteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130365/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/service/SiteService.java
+END
+ToolManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130365/msub/upv.es/PoliformaT/upv-2.9.3/sakai-mock/src/main/java/org/sakaiproject/mock/service/ToolManager.java
+END

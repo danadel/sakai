@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakaiproject/search/indexer/impl/test
+END
+SequenceGeneratorDisabled.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakaiproject/search/indexer/impl/test/SequenceGeneratorDisabled.java
+END
+JournalOptimzationOperationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakaiproject/search/indexer/impl/test/JournalOptimzationOperationTest.java
+END
+DbJournalManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakaiproject/search/indexer/impl/test/DbJournalManagerTest.java
+END
+JournalTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakaiproject/search/indexer/impl/test/JournalTests.java
+END
+LoadSaveSegmentListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakaiproject/search/indexer/impl/test/LoadSaveSegmentListTest.java
+END
+TDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakaiproject/search/indexer/impl/test/TDataSource.java
+END
+OptimizeOperationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakaiproject/search/indexer/impl/test/OptimizeOperationTest.java
+END
+MergeUpdateOperationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakaiproject/search/indexer/impl/test/MergeUpdateOperationTest.java
+END
+TransactionalIndexWorkerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakaiproject/search/indexer/impl/test/TransactionalIndexWorkerTest.java
+END
+ConcurrentIndexManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakaiproject/search/indexer/impl/test/ConcurrentIndexManagerTest.java
+END
+SearchBuilderItemSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakaiproject/search/indexer/impl/test/SearchBuilderItemSerializerTest.java
+END

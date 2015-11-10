@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation
+END
+PresentationTemplateWarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation/PresentationTemplateWarehouseTask.java
+END
+PresentationLayoutWarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation/PresentationLayoutWarehouseTask.java
+END
+PresentationWarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation/PresentationWarehouseTask.java
+END
+PresentationLogPropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation/PresentationLogPropertyAccess.java
+END
+GuidanceWarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation/GuidanceWarehouseTask.java
+END
+PresentationCommentsPropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/osp/presentation/PresentationCommentsPropertyAccess.java
+END

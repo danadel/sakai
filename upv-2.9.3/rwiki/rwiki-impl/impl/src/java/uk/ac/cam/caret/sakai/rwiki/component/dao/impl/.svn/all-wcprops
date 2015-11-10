@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl
+END
+ListProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/ListProxy.java
+END
+RWikiHistoryObjectContentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/RWikiHistoryObjectContentDaoImpl.java
+END
+RWikiCurrentObjectContentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/RWikiCurrentObjectContentDaoImpl.java
+END
+RWikiPropertyDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/RWikiPropertyDaoImpl.java
+END
+RWikiHistoryObjectDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/RWikiHistoryObjectDaoImpl.java
+END
+RWikiCurrentObjectDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/RWikiCurrentObjectDaoImpl.java
+END
+ListIteratorProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/ListIteratorProxy.java
+END
+IteratorProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/IteratorProxy.java
+END

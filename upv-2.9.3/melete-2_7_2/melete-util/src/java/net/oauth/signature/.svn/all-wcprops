@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-util/src/java/net/oauth/signature
+END
+RSA_SHA1.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-util/src/java/net/oauth/signature/RSA_SHA1.java
+END
+OAuthSignatureMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-util/src/java/net/oauth/signature/OAuthSignatureMethod.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-util/src/java/net/oauth/signature/Base64.java
+END
+HMAC_SHA1.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-util/src/java/net/oauth/signature/HMAC_SHA1.java
+END
+PLAINTEXT.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-util/src/java/net/oauth/signature/PLAINTEXT.java
+END

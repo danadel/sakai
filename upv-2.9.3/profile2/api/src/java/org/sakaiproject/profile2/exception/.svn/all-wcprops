@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/exception
+END
+ProfileIllegalAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/exception/ProfileIllegalAccessException.java
+END
+ProfilePrivacyNotDefinedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/exception/ProfilePrivacyNotDefinedException.java
+END
+ProfileBadConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/exception/ProfileBadConfigurationException.java
+END
+ProfileNotDefinedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/exception/ProfileNotDefinedException.java
+END
+ProfilePreferencesNotDefinedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/exception/ProfilePreferencesNotDefinedException.java
+END
+ProfileMismatchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/exception/ProfileMismatchException.java
+END
+ProfilePrototypeNotDefinedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/exception/ProfilePrototypeNotDefinedException.java
+END
+MessageRecipientNotDefinedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/exception/MessageRecipientNotDefinedException.java
+END
+ProfileFriendsIllegalAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/exception/ProfileFriendsIllegalAccessException.java
+END

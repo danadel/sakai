@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130371/msub/upv.es/PoliformaT/upv-2.9.3/archive/archive-tool/tool/src/webapp/vm/archive
+END
+chef_archive_noaccess.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130371/msub/upv.es/PoliformaT/upv-2.9.3/archive/archive-tool/tool/src/webapp/vm/archive/chef_archive_noaccess.vm
+END
+chef_archive-batch.vm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130371/msub/upv.es/PoliformaT/upv-2.9.3/archive/archive-tool/tool/src/webapp/vm/archive/chef_archive-batch.vm
+END
+chef_archive.vm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130371/msub/upv.es/PoliformaT/upv-2.9.3/archive/archive-tool/tool/src/webapp/vm/archive/chef_archive.vm
+END

@@ -1,0 +1,153 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/site-manage
+https://source.sakaiproject.org/svn
+
+
+
+2015-09-18T06:57:55.782269Z
+321244
+anueda@asic.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+site-manage-assembly
+dir
+
+readme_sitesetup_question.txt
+file
+
+
+
+
+2015-11-09T08:47:41.860248Z
+2c5cf7d1470fbaf88708a780a7e54e45
+2009-08-25T04:01:36.690016Z
+66027
+zqian@umich.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3196
+
+pageorder
+dir
+
+site-association-impl
+dir
+
+site-manage-help
+dir
+
+site-association-hbm
+dir
+
+site-manage-participant-helper
+dir
+
+site-association-api
+dir
+
+pageorder-assembly
+dir
+
+site-association-util
+dir
+
+site-association-tool
+dir
+
+site-manage-impl
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:47:41.860248Z
+0fed4fb793246c1d7e904e72f09f6da4
+2013-08-22T14:19:54.766879Z
+128909
+matthew@longsight.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7726
+
+site-association-assembly
+dir
+
+site-manage-hbm
+dir
+
+site-manage-group-helper
+dir
+
+site-manage-api
+dir
+
+site-manage-group-section-role-helper
+dir
+
+site-manage-link-helper
+dir
+
+site-manage-tool
+dir
+
+site-manage-util
+dir
+

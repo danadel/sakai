@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model
+END
+ContextBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/ContextBean.java
+END
+RegistrationFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/RegistrationFile.java
+END
+SourceBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/SourceBean.hbm.xml
+END
+GlossaryEntryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/GlossaryEntryBean.java
+END
+ResourceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/ResourceBean.java
+END
+ContextBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/ContextBean.hbm.xml
+END
+SearchRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/SearchRequest.java
+END
+TableOfContentsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/TableOfContentsBean.java
+END
+ResourceBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/ResourceBean.hbm.xml
+END
+CategoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/CategoryBean.java
+END
+HelpContextConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/HelpContextConfig.java
+END
+HelpRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/HelpRegistration.java
+END
+SourceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/SourceBean.java
+END
+CategoryBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component-shared/src/java/org/sakaiproject/component/app/help/model/CategoryBean.hbm.xml
+END

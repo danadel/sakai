@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/314047/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api
+END
+ContentHostingHandlerResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ContentHostingHandlerResolver.java
+END
+ContentCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ContentCollection.java
+END
+ServiceLevelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ServiceLevelAction.java
+END
+ContentHostingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/314047/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ContentHostingService.java
+END
+ContentResourceFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ContentResourceFilter.java
+END
+ContentResourceEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ContentResourceEdit.java
+END
+Lock.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/Lock.java
+END
+ResourceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ResourceType.java
+END
+ResourceEditingHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ResourceEditingHelper.java
+END
+ContentCollectionEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ContentCollectionEdit.java
+END
+ContentTypeImageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ContentTypeImageService.java
+END
+ResourceToolActionPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ResourceToolActionPipe.java
+END
+ContentHostingHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ContentHostingHandler.java
+END
+CustomToolAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/CustomToolAction.java
+END
+ContentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ContentEntity.java
+END
+GroupAwareEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/GroupAwareEntity.java
+END
+OperationDelegationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/OperationDelegationException.java
+END
+FilePickerHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/FilePickerHelper.java
+END
+ExpandableResourceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ExpandableResourceType.java
+END
+InteractionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/InteractionAction.java
+END
+MultiFileUploadPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/MultiFileUploadPipe.java
+END
+ContentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ContentFilter.java
+END
+GroupAwareEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/GroupAwareEdit.java
+END
+ContentResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ContentResource.java
+END
+ResourceTypeRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ResourceTypeRegistry.java
+END
+LockManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/LockManager.java
+END
+ResourceToolAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130767/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/ResourceToolAction.java
+END
+SiteSpecificResourceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/content/api/SiteSpecificResourceType.java
+END

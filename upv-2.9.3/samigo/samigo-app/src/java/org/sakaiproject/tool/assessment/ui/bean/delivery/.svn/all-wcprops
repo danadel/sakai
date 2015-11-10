@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/316129/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery
+END
+MatrixSurveyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery/MatrixSurveyBean.java
+END
+SectionContentsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery/SectionContentsBean.java
+END
+DeliveryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/316129/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery/DeliveryBean.java
+END
+SettingsDeliveryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery/SettingsDeliveryBean.java
+END
+SelectionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery/SelectionBean.java
+END
+DisplayAssetsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery/DisplayAssetsBean.java
+END
+MatchingBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery/MatchingBean.java
+END
+FinBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery/FinBean.java
+END
+ItemContentsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/314216/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery/ItemContentsBean.java
+END
+FibBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery/FibBean.java
+END
+ContentsDeliveryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery/ContentsDeliveryBean.java
+END
+DeliveryBeanie.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery/DeliveryBeanie.java
+END
+FeedbackComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/delivery/FeedbackComponent.java
+END

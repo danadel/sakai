@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/conditions/impl
+END
+AssignmentUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/conditions/impl/AssignmentUpdate.java
+END
+NullPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/conditions/impl/NullPredicate.java
+END
+BooleanExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/conditions/impl/BooleanExpression.java
+END
+ResourceReleaseRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/conditions/impl/ResourceReleaseRule.java
+END
+BaseConditionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/conditions/impl/BaseConditionService.java
+END
+BaseRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/conditions/impl/BaseRule.java
+END
+AssignmentGrading.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/conditions/impl/AssignmentGrading.java
+END

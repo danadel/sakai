@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/impl/src/test/org/sakaiproject/entitybroker/impl
+END
+EntityBrokerTransactionalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/impl/src/test/org/sakaiproject/entitybroker/impl/EntityBrokerTransactionalTest.java
+END
+EntityProviderManagerImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/impl/src/test/org/sakaiproject/entitybroker/impl/EntityProviderManagerImplTest.java
+END
+EntityProviderMethodStoreImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/impl/src/test/org/sakaiproject/entitybroker/impl/EntityProviderMethodStoreImplTest.java
+END
+ServiceTestManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/impl/src/test/org/sakaiproject/entitybroker/impl/ServiceTestManager.java
+END
+EntityBrokerManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/impl/src/test/org/sakaiproject/entitybroker/impl/EntityBrokerManagerTest.java
+END
+EntityTaggingServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/impl/src/test/org/sakaiproject/entitybroker/impl/EntityTaggingServiceTest.java
+END
+EntityMetaPropertiesServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/impl/src/test/org/sakaiproject/entitybroker/impl/EntityMetaPropertiesServiceTest.java
+END

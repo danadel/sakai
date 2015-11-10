@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completetest/org/apache/commons/jrcs/rcs
+END
+ChangeDeltaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completetest/org/apache/commons/jrcs/rcs/ChangeDeltaTest.java
+END
+make_idchar_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completetest/org/apache/commons/jrcs/rcs/make_idchar_test.sh
+END
+KeywordsFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completetest/org/apache/commons/jrcs/rcs/KeywordsFormatTest.java
+END
+ArchiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completetest/org/apache/commons/jrcs/rcs/ArchiveTest.java
+END
+ParsingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completetest/org/apache/commons/jrcs/rcs/ParsingTest.java
+END
+idchar.testfile
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completetest/org/apache/commons/jrcs/rcs/idchar.testfile
+END

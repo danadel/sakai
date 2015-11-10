@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/component-manager/src/main/java/org/sakaiproject/component/impl
+END
+ContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/component-manager/src/main/java/org/sakaiproject/component/impl/ContextLoader.java
+END
+MockCompMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/component-manager/src/main/java/org/sakaiproject/component/impl/MockCompMgr.java
+END
+DynamicDefaultSakaiProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/component-manager/src/main/java/org/sakaiproject/component/impl/DynamicDefaultSakaiProperties.java
+END
+SpringCompMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/component-manager/src/main/java/org/sakaiproject/component/impl/SpringCompMgr.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/utils
+END
+PropertyEditableColumnCheckbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/utils/PropertyEditableColumnCheckbox.java
+END
+PropertyEditableColumnList.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/utils/PropertyEditableColumnList.java
+END
+PropertyEditableColumnDropdown.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/utils/PropertyEditableColumnDropdown.java
+END
+PropertyEditableColumnDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/utils/PropertyEditableColumnDate.java
+END
+PropertyEditableColumnAdvancedUserOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/utils/PropertyEditableColumnAdvancedUserOptions.java
+END
+PropertyEditableColumnAdvancedOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/utils/PropertyEditableColumnAdvancedOptions.java
+END

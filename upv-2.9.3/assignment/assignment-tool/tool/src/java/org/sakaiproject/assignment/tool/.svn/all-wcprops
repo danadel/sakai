@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/321727/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/java/org/sakaiproject/assignment/tool
+END
+AssignmentConditionsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/321360/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/java/org/sakaiproject/assignment/tool/AssignmentConditionsHelper.java
+END
+AssignmentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/321727/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/java/org/sakaiproject/assignment/tool/AssignmentAction.java
+END
+RedirectingAssignmentEntityServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/java/org/sakaiproject/assignment/tool/RedirectingAssignmentEntityServlet.java
+END
+UploadAudioMediaServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130828/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/java/org/sakaiproject/assignment/tool/UploadAudioMediaServlet.java
+END

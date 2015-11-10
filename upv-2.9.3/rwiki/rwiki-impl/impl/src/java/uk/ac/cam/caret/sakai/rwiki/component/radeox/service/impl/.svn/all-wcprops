@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/radeox/service/impl
+END
+RenderContextFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/radeox/service/impl/RenderContextFactoryImpl.java
+END
+RenderEngineFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/radeox/service/impl/RenderEngineFactoryImpl.java
+END
+SpecializedRenderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/radeox/service/impl/SpecializedRenderContext.java
+END
+SpecializedRenderEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/radeox/service/impl/SpecializedRenderEngine.java
+END
+RenderCacheImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/radeox/service/impl/RenderCacheImpl.java
+END
+RWikiBaseRenderEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/radeox/service/impl/RWikiBaseRenderEngine.java
+END

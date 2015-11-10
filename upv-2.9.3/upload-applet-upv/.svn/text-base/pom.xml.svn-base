@@ -1,0 +1,102 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  	<modelVersion>4.0.0</modelVersion>
+  	<parent>
+   		<artifactId>base</artifactId> 
+   		<groupId>org.sakaiproject</groupId>
+   		<version>2.9.3</version>  
+   		<relativePath>.../pom.xml</relativePath>
+  	</parent>
+  	<groupId>es.upv</groupId>
+  	<artifactId>uploadapplet</artifactId>
+  	<version>0.0.1</version>
+  	<name>UploadApplet</name>
+  
+  	<organization>
+  		<name>UPV</name>
+  		<url>http://www.upv.es/</url>
+  	</organization>
+  	<inceptionYear>2012</inceptionYear>
+  	<dependencies>
+        <dependency>
+            <groupId>liveconnect</groupId>
+            <artifactId>plugin</artifactId>
+            <version>1.5</version>
+        </dependency>
+    </dependencies>
+
+    <profiles>
+        <profile>
+            <id>jarsign</id>
+            <activation>
+                <activeByDefault>false</activeByDefault>
+            </activation>
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-jar-plugin</artifactId>
+                        <executions>
+                            <execution>
+                                <goals>
+                                    <goal>sign</goal>
+                                </goals>
+                            </execution>
+                        </executions>
+                        <configuration>
+                            <keystore>${sakai.jarsign.keystore.location}</keystore>
+                            <alias>${sakai.jarsign.alias}</alias>
+                            <storepass>${sakai.jarsign.password}</storepass>
+                            <verify>true</verify>
+                            <archive>
+	   							<manifestEntries>
+	     							<Permissions>all-permissions</Permissions> 
+	     							<Codebase>https://poliformat.upv.es https://florete.cc.upv.es</Codebase> 
+	     							<Application-Name>UploadAppletUPV</Application-Name> 
+	     							<Application-Library-Allowable-Codebase>https://poliformat.upv.es https://florete.cc.upv.es</Application-Library-Allowable-Codebase>
+	     							<Caller-Allowable-Codebase>https://poliformat.upv.es https://florete.cc.upv.es</Caller-Allowable-Codebase> 
+	     							<Trusted-only>true</Trusted-only> 
+	     							<Trusted-Library>true</Trusted-Library> 
+	  							</manifestEntries>
+  							</archive>
+                        </configuration>                        
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+        <profile>
+            <id>default</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-jar-plugin</artifactId>
+                        <configuration>
+                            <archive>
+	   							<manifestEntries>
+	     							<Permissions>all-permissions</Permissions> 
+	     							<Codebase>https://poliformat.upv.es https://florete.cc.upv.es</Codebase> 
+	     							<Application-Name>UploadAppletUPV</Application-Name> 
+	     							<Application-Library-Allowable-Codebase>https://poliformat.upv.es https://florete.cc.upv.es</Application-Library-Allowable-Codebase>
+	     							<Caller-Allowable-Codebase>https://poliformat.upv.es https://florete.cc.upv.es</Caller-Allowable-Codebase> 
+	     							<Trusted-only>true</Trusted-only> 
+	     							<Trusted-Library>true</Trusted-Library> 
+	  							</manifestEntries>
+  							</archive>
+                        </configuration>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
+
+    <build>
+        <resources/>
+        <sourceDirectory>src/java</sourceDirectory>
+    </build>
+  
+</project>

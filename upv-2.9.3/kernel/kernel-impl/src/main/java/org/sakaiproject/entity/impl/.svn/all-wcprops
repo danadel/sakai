@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/entity/impl
+END
+ReferenceComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/entity/impl/ReferenceComponent.java
+END
+ReferenceVectorComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/entity/impl/ReferenceVectorComponent.java
+END
+EntityManagerComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/entity/impl/EntityManagerComponent.java
+END

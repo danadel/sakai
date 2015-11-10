@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util
+END
+Iso8601TimeInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util/Iso8601TimeInterval.java
+END
+XmlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util/XmlUtil.java
+END
+Iso8601DateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util/Iso8601DateFormat.java
+END
+URIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util/URIResolver.java
+END
+XmlStringBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util/XmlStringBuffer.java
+END
+XmlMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util/XmlMapper.java
+END

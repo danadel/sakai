@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/type-api/src/java/org/sakaiproject/api/common/type
+END
+TypeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/type-api/src/java/org/sakaiproject/api/common/type/TypeManager.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/type-api/src/java/org/sakaiproject/api/common/type/Type.java
+END
+Typeable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/type-api/src/java/org/sakaiproject/api/common/type/Typeable.java
+END
+UuidTypeResolvable.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/type-api/src/java/org/sakaiproject/api/common/type/UuidTypeResolvable.java
+END
+UnsupportedTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/type-api/src/java/org/sakaiproject/api/common/type/UnsupportedTypeException.java
+END

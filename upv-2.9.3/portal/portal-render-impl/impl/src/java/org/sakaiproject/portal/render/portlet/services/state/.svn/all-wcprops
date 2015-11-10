@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state
+END
+PortletStateAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/PortletStateAccess.java
+END
+EnhancedPortletStateEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/EnhancedPortletStateEncoder.java
+END
+WebRecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/WebRecoder.java
+END
+BasicWebRecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/BasicWebRecoder.java
+END
+SimplePortletStateEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/SimplePortletStateEncoder.java
+END
+Base64Recoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/Base64Recoder.java
+END
+PortletState.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/PortletState.java
+END
+PortletStateEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/PortletStateEncoder.java
+END

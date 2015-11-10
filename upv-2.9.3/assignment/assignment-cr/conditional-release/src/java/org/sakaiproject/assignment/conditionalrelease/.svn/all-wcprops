@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-cr/conditional-release/src/java/org/sakaiproject/assignment/conditionalrelease
+END
+AssignmentUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/130958/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-cr/conditional-release/src/java/org/sakaiproject/assignment/conditionalrelease/AssignmentUpdate.java
+END
+NullPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130958/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-cr/conditional-release/src/java/org/sakaiproject/assignment/conditionalrelease/NullPredicate.java
+END
+BooleanExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130958/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-cr/conditional-release/src/java/org/sakaiproject/assignment/conditionalrelease/BooleanExpression.java
+END
+AssignmentReleaseRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-cr/conditional-release/src/java/org/sakaiproject/assignment/conditionalrelease/AssignmentReleaseRule.java
+END
+AssignmentGrading.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130958/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-cr/conditional-release/src/java/org/sakaiproject/assignment/conditionalrelease/AssignmentGrading.java
+END
+BaseConditionServiceAssign.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/130958/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-cr/conditional-release/src/java/org/sakaiproject/assignment/conditionalrelease/BaseConditionServiceAssign.java
+END
+GradebookConditionsProviderAssign.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/130958/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-cr/conditional-release/src/java/org/sakaiproject/assignment/conditionalrelease/GradebookConditionsProviderAssign.java
+END

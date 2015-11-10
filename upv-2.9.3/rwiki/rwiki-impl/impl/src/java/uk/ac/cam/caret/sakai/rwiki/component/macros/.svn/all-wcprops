@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/317887/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros
+END
+SpanMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/SpanMacro.java
+END
+CommentMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/CommentMacro.java
+END
+SakaiLinkMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/SakaiLinkMacro.java
+END
+IndexMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/IndexMacro.java
+END
+RecentChangesMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/RecentChangesMacro.java
+END
+AnchorMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/AnchorMacro.java
+END
+ColorMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/ColorMacro.java
+END
+BackgroundColorMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/BackgroundColorMacro.java
+END
+ImageMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/ImageMacro.java
+END
+WorksiteInfoMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/WorksiteInfoMacro.java
+END
+PreMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/PreMacro.java
+END
+SectionsMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/317887/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/SectionsMacro.java
+END
+MathMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/MathMacro.java
+END
+BlockMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/BlockMacro.java
+END
+StyleMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/macros/StyleMacro.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/model
+END
+SiteTypeQuestions.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/model/SiteTypeQuestions.java
+END
+SiteSetupUserAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/model/SiteSetupUserAnswer.java
+END
+SiteSetupQuestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/model/SiteSetupQuestion.java
+END
+SiteSetupQuestionAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/model/SiteSetupQuestionAnswer.java
+END
+SiteSetupQuestionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/model/SiteSetupQuestionService.java
+END

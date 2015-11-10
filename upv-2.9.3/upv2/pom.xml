@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <artifactId>base</artifactId>
+        <groupId>org.sakaiproject</groupId>
+        <version>2.9.3</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+        <name>Sakai Upv2</name>
+	<groupId>org.sakaiproject</groupId>
+	<artifactId>sakai-upv2</artifactId>
+	<version>${sakai.version}</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>api/logic</module>
+		<module>api/model</module>
+		<module>encuestas-tool</module>
+		<module>impl/dao</module>
+		<module>impl/hbm</module>
+		<module>impl/pack</module>
+	</modules>
+	<!-- This file allows us to build the entire app from this directory -->
+	<dependencies/>
+
+	<build/>
+</project>

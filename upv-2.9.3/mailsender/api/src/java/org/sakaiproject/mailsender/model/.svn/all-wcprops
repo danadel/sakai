@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/api/src/java/org/sakaiproject/mailsender/model
+END
+ConfigEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/api/src/java/org/sakaiproject/mailsender/model/ConfigEntry.java
+END
+EmailEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/api/src/java/org/sakaiproject/mailsender/model/EmailEntry.java
+END
+EmailRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/api/src/java/org/sakaiproject/mailsender/model/EmailRole.java
+END

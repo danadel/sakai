@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter
+END
+LinkTestFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/LinkTestFilterTest.java
+END
+FilterPipeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/FilterPipeTest.java
+END
+InterWikiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/InterWikiTest.java
+END
+HeadingFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/HeadingFilterTest.java
+END
+EscapeFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/EscapeFilterTest.java
+END
+ParamFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/ParamFilterTest.java
+END
+NewlineFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/NewlineFilterTest.java
+END
+SmileyFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/SmileyFilterTest.java
+END
+StrikeThroughFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/StrikeThroughFilterTest.java
+END
+UrlFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/UrlFilterTest.java
+END
+ParagraphFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/ParagraphFilterTest.java
+END
+ItalicFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/ItalicFilterTest.java
+END
+TypographyFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/TypographyFilterTest.java
+END
+BasicRegexTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/BasicRegexTest.java
+END
+ListFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/ListFilterTest.java
+END
+FilterTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/FilterTestSupport.java
+END
+BoldFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/BoldFilterTest.java
+END
+WikiLinkFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/WikiLinkFilterTest.java
+END
+HtmlRemoveFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/HtmlRemoveFilterTest.java
+END
+LineFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/LineFilterTest.java
+END
+KeyFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/KeyFilterTest.java
+END
+AllFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/AllFilterTests.java
+END
+XHTMLFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/filter/XHTMLFilterTest.java
+END

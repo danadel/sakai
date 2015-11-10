@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/vm
+END
+sakai.src.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/vm/sakai.src.vm
+END
+macros.vm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/vm/macros.vm
+END
+index.vm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/vm/index.vm
+END
+opensearch.vm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/vm/opensearch.vm
+END
+rss20.vm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/vm/rss20.vm
+END

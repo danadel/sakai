@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks
+END
+FakeTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeTool.java
+END
+FakeSessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeSessionManager.java
+END
+FakeUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeUser.java
+END
+FakeServerConfigurationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeServerConfigurationService.java
+END
+FakeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeEvent.java
+END
+FakeSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeSession.java
+END
+FakeUserDirectoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeUserDirectoryService.java
+END
+FakeEventTrackingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeEventTrackingService.java
+END
+FakeMemoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeMemoryService.java
+END
+FakeStatsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeStatsManager.java
+END
+FakeUsageSessionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeUsageSessionService.java
+END
+FakeEventRegistryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeEventRegistryService.java
+END
+FakeReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeReference.java
+END
+FakeSitePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeSitePage.java
+END
+FakeCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeCache.java
+END
+FakeSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeSite.java
+END
+FakeResourceProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeResourceProperties.java
+END
+FakeToolConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeToolConfiguration.java
+END
+hibernate-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/hibernate-test.xml
+END
+FakeEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeEntityManager.java
+END
+FakePlacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakePlacement.java
+END
+FakeToolManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeToolManager.java
+END
+FakeStatsAuthz.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeStatsAuthz.java
+END
+FakeAliasService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/mocks/FakeAliasService.java
+END

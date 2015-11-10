@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/assessment
+END
+SectionServiceAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/assessment/SectionServiceAPI.java
+END
+AssessmentServiceAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/assessment/AssessmentServiceAPI.java
+END
+PublishedAssessmentServiceAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/assessment/PublishedAssessmentServiceAPI.java
+END
+SecureDeliveryServiceAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/assessment/SecureDeliveryServiceAPI.java
+END
+ItemServiceAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/assessment/ItemServiceAPI.java
+END

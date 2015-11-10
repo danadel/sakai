@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<registration>
+
+	<tool
+			id="weblink.encuestaice"
+			title="Encuesta Materiales"
+			description="Encuesta Materiales">
+
+		<configuration name="source" value="" />
+		<configuration name="height" value="600px" />
+
+		<configuration name="reset.button" value="false" type="final" />
+
+		<category name="course" />
+		<category name="project" />
+
+		<!-- Allow this to be set -->
+		<configuration name="functions.require" /> 
+                <!--Configuracion de la accion a realizar-->
+		<configuration name="configfile" value="configencuestaice" />
+            
+	</tool>
+
+</registration>

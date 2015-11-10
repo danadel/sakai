@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/util
+END
+StringBufferWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/util/StringBufferWriter.java
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/util/Encoder.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/util/Service.java
+END
+Linkable.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/util/Linkable.java
+END
+Nameable.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/util/Nameable.java
+END

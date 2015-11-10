@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/bundle/META-INF/services
+END
+org.radeox.macro.code.SourceCodeFormatter
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/bundle/META-INF/services/org.radeox.macro.code.SourceCodeFormatter
+END
+org.radeox.filter.Filter
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/bundle/META-INF/services/org.radeox.filter.Filter
+END
+org.radeox.macro.list.ListFormatter
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/bundle/META-INF/services/org.radeox.macro.list.ListFormatter
+END
+org.radeox.macro.table.Function
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/bundle/META-INF/services/org.radeox.macro.table.Function
+END
+org.radeox.macro.Macro
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/bundle/META-INF/services/org.radeox.macro.Macro
+END

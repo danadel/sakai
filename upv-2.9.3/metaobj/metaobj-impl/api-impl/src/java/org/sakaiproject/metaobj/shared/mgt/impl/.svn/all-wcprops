@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl
+END
+MetaobjEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/MetaobjEntityProducer.java
+END
+MetaobjHttpAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/MetaobjHttpAccess.java
+END
+FileArtifactFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/FileArtifactFinder.java
+END
+StructuredArtifactDefinitionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/StructuredArtifactDefinitionManagerImpl.java
+END
+StructuredArtifactFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/StructuredArtifactFinder.java
+END
+ContentResourceHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/ContentResourceHome.java
+END
+MetaobjContentEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/MetaobjContentEntityProducer.java
+END
+WrappedStructuredArtifactFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/WrappedStructuredArtifactFinder.java
+END
+MetaobjContentHttpAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/MetaobjContentHttpAccess.java
+END
+PortalParamManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/PortalParamManagerImpl.java
+END
+StructuredArtifactValidationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/impl/StructuredArtifactValidationServiceImpl.java
+END

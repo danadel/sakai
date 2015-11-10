@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/sql/mysql
+END
+init_locks.sql
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/sql/mysql/init_locks.sql
+END
+quartz.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/sql/mysql/quartz.sql
+END
+checkTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/sql/mysql/checkTables.sql
+END

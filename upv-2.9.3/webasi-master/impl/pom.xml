@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <!-- the base is parent -->
+    <parent>
+        <groupId>org.sakaiproject</groupId>
+        <artifactId>webasimaster</artifactId>
+        <version>0.1</version><!--Webasimaster.version-->
+    </parent>
+    <name>Sakai Webasimaster Implementation</name>
+    <groupId>org.sakaiproject.webasimaster</groupId>
+    <artifactId>webasimaster-impl</artifactId>
+    <organization>
+        <name>Sakai Project</name>
+        <url>http://sakaiproject.org/</url>
+    </organization>
+    <inceptionYear>2008</inceptionYear>
+    <description>Webasimaster implementation</description>
+    <packaging>jar</packaging>
+    <properties>
+        <deploy.target />
+    </properties>
+
+
+
+    <dependencies>
+
+        <!-- internal dependencies -->
+        <dependency>
+            <groupId>org.sakaiproject.webasimaster</groupId>
+            <artifactId>webasimaster-api</artifactId>
+        </dependency>
+
+        
+
+        <!-- shared external dependencies -->
+        
+
+        
+
+        <dependency>
+            <groupId>commons-logging</groupId>
+            <artifactId>commons-logging</artifactId>
+        </dependency>
+
+        <!-- Sakai dependencies -->
+        <dependency>
+            <groupId>org.sakaiproject.kernel</groupId>
+            <artifactId>sakai-kernel-api</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.sakaiproject.kernel</groupId>
+            <artifactId>sakai-component-manager</artifactId>
+        </dependency>
+
+        
+    </dependencies>
+
+    <build>
+        <resources>
+            <resource>
+                <directory>${basedir}/src/java</directory>
+                <includes>
+                    <include>**/*.xml</include>
+                </includes>
+                <filtering>false</filtering>
+            </resource>
+        </resources>
+
+                
+    </build>
+
+</project>

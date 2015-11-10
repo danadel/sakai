@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-util/src/java/net/oauth/http
+END
+HttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-util/src/java/net/oauth/http/HttpClient.java
+END
+HttpResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-util/src/java/net/oauth/http/HttpResponseMessage.java
+END
+HttpMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-util/src/java/net/oauth/http/HttpMessage.java
+END
+HttpMessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-util/src/java/net/oauth/http/HttpMessageDecoder.java
+END

@@ -1,0 +1,101 @@
+<!-- resources/sakai_dropbox_multiple_folders_upload.vm, use with org.sakaiproject.tool.content.ResourcesAction.java -->
+<script type="text/javascript" src="/sakai-content-tool/js/optionTransfer.js"></script>
+<script type="text/javascript" src="/sakai-content-tool/js/selectbox.js"></script>
+
+<SCRIPT LANGUAGE="JavaScript">
+	var opt = new OptionTransfer("siteMembers-selection","usersDropbox-selection");
+	opt.setAutoSort(true);
+	opt.setStaticOptionRegex("^(Bill|Bob|Matt)$");
+	opt.saveRemovedLeftOptions("removedLeft");
+	opt.saveRemovedRightOptions("removedRight");
+	opt.saveAddedLeftOptions("addedLeft");
+	opt.saveAddedRightOptions("addedRight");
+	opt.saveNewLeftOptions("newLeft");
+	opt.saveNewRightOptions("newRight");
+</SCRIPT>
+<div class="portletBody specialLink">
+	<h3>
+		$tlang.getString("multiple.file.upload")
+	</h3>
+	#if ($alertMessage)
+		<br /><div class="alertMessage">$clang.getString("gen.alert") $validator.escapeHtml($alertMessage)</div><div class="clear" ></div>
+	#end
+	<p class="instruction">
+		$tlang.getString("instr.upload")
+	</p>
+	<form name="addContentForm" id="addContentForm" method="post" action="#toolForm("ResourcesAction")"  enctype="multipart/form-data">
+		<input type="hidden" name="sakai_csrf_token" value="$sakai_csrf_token" />
+		<div id="fileInputDiv">
+		<p class="shorttext" style="border:none">
+			<label>$tlang.getString("label.upload")</label>
+			<input type="file" name="MultipleFolderContent" id="MultipleFolderContent" class="upload" onChange="fillDisplayName()"/>
+		</p>
+		<p class="shorttext" style="border:none">
+			<label for="displayName">$tlang.getString("label.display")</label> 
+			<input type="text" id="MultipleFolderDisplayName" name="MultipleFolderDisplayName" style="width:30em"/>  
+		</p>
+		<table class="sidebyside" cellpadding="0" cellspacing="0" style="margin:0">
+			<tr>
+				<td style="padding:0">
+					<h4>$tlang.getString("multiple.file.upload.siteusers")</h4>
+					<select style="width:auto" multiple="multiple" size="10" id="siteMembers-selection" name="siteMembers-selection" onDblClick="opt.transferRight()">
+					#foreach($userDropbox in $usersDropboxList)
+					<option value="$userDropbox.get(0)">$userDropbox.get(1)
+					#end
+					</select>
+				</td>
+				<td style="padding:.3em;text-align:center;vertical-align:bottom">
+					<input type="button" name="right" value="&gt;" onclick="opt.transferRight()" title="$tlang.getString("multiple.file.upload.usersMoveSelected")"/><br /><br />
+					<input type="button" name="right" value="&gt;&gt;" onclick="opt.transferAllRight()" title="$tlang.getString("multiple.file.upload.usersMoveAll")"/><br /><br />
+					<input type="button" name="left" value="&lt;" onclick="opt.transferLeft()" title="$tlang.getString("multiple.file.upload.usersMoveSelected")"/><br /><br />
+					<input type="button" name="left" value="&lt;&lt;" onclick="opt.transferAllLeft()" title="$tlang.getString("multiple.file.upload.usersMoveAll")"/>
+				</td>
+				<td valign="top" style="padding:0">
+					<h4>$tlang.getString("multiple.file.upload.usersselected")</h4>
+					<select style="width:auto"  multiple="multiple" id="usersDropbox-selection" name="usersDropbox-selection" size="10" onDblClick="opt.transferLeft()" >
+					</select>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<p class="act">
+			<input type="button" class="active" name="savechanges" id="saveChanges" onclick="javascript:showNotif('submitnotifxxx','saveChanges','addContentForm');document.getElementById('addContentForm').action='#toolLinkParam("ResourcesAction" "doMultipleFoldersUpload" "flow=save&sakai_csrf_token=$validator.escapeUrl($sakai_csrf_token)")';submitform('addContentForm');" value="$tlang.getString("label.continue")" accesskey="s" />
+			<input type="button" name="cancel" onclick="javascript:document.getElementById('addContentForm').action='#toolLink("ResourcesAction" "doCancel")';submitform('addContentForm');" value="$tlang.getString("label.cancel")" accesskey="x" />
+			<span id="submitnotifxxx" class="messageProgress" style="visibility:hidden">$tlang.getString("processmessage.file")</span>
+		</p>
+	</form>
+</div>
+
+<script type="text/javascript" language="JavaScript">
+	<!--
+	function submitform(id)
+	{
+		var theForm = document.getElementById(id);
+		var usersDropbox = document.getElementById('usersDropbox-selection');
+		for (var i = 0; i < usersDropbox.options.length; i++) {
+            usersDropbox.options[i].selected = true;
+        }
+		if(theForm && theForm.onsubmit)
+		{
+			theForm.onsubmit();
+		}
+		if(theForm && theForm.submit)
+		{
+			theForm.submit();
+		}
+	}
+	
+	function fillDisplayName()
+	{
+		var fileField = document.getElementById('MultipleFolderContent');
+		var nameField = document.getElementById('MultipleFolderDisplayName');
+		nameField.value = fileField.files[0].name;
+	}
+	-->
+</script>
+
+<SCRIPT LANGUAGE="JavaScript">
+		<!--
+		opt.init(document.forms[0]);
+		-->
+</SCRIPT>

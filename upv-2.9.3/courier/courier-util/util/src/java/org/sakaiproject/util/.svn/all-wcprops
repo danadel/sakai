@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130340/msub/upv.es/PoliformaT/upv-2.9.3/courier/courier-util/util/src/java/org/sakaiproject/util
+END
+ObservingCourier.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130340/msub/upv.es/PoliformaT/upv-2.9.3/courier/courier-util/util/src/java/org/sakaiproject/util/ObservingCourier.java
+END
+EventObservingCourier.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130340/msub/upv.es/PoliformaT/upv-2.9.3/courier/courier-util/util/src/java/org/sakaiproject/util/EventObservingCourier.java
+END
+DirectRefreshDelivery.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130340/msub/upv.es/PoliformaT/upv-2.9.3/courier/courier-util/util/src/java/org/sakaiproject/util/DirectRefreshDelivery.java
+END
+BaseDelivery.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130340/msub/upv.es/PoliformaT/upv-2.9.3/courier/courier-util/util/src/java/org/sakaiproject/util/BaseDelivery.java
+END
+TestDelivery.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130340/msub/upv.es/PoliformaT/upv-2.9.3/courier/courier-util/util/src/java/org/sakaiproject/util/TestDelivery.java
+END

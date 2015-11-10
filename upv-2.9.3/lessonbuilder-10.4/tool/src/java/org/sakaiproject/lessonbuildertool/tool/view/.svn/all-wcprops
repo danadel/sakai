@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/tool/view
+END
+PeerEvalStatsViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/tool/view/PeerEvalStatsViewParameters.java
+END
+CommentsGradingPaneViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/tool/view/CommentsGradingPaneViewParameters.java
+END
+CommentsViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/tool/view/CommentsViewParameters.java
+END
+ExportCCViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/tool/view/ExportCCViewParameters.java
+END
+QuestionGradingPaneViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/tool/view/QuestionGradingPaneViewParameters.java
+END
+TrackerViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/tool/view/TrackerViewParameters.java
+END
+FilePickerViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/tool/view/FilePickerViewParameters.java
+END
+GeneralViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/tool/src/java/org/sakaiproject/lessonbuildertool/tool/view/GeneralViewParameters.java
+END

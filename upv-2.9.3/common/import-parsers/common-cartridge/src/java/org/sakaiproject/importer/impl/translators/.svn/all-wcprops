@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-parsers/common-cartridge/src/java/org/sakaiproject/importer/impl/translators
+END
+CCAssessmentTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-parsers/common-cartridge/src/java/org/sakaiproject/importer/impl/translators/CCAssessmentTranslator.java
+END
+CCWebContentTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-parsers/common-cartridge/src/java/org/sakaiproject/importer/impl/translators/CCWebContentTranslator.java
+END
+CCLearningApplicationResourceTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-parsers/common-cartridge/src/java/org/sakaiproject/importer/impl/translators/CCLearningApplicationResourceTranslator.java
+END
+CCWebLinkTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-parsers/common-cartridge/src/java/org/sakaiproject/importer/impl/translators/CCWebLinkTranslator.java
+END
+CCDiscussionTopicTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-parsers/common-cartridge/src/java/org/sakaiproject/importer/impl/translators/CCDiscussionTopicTranslator.java
+END

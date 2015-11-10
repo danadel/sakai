@@ -1,0 +1,19 @@
+#Mon Oct 28 12:54:08 CET 2013
+t_template=Zoaz Ebaluazio motetako orrialdera
+invalid_retrack_date=Zuzenketa datarako sartu duzun data ez da balioduna. Ziurtatu, arren, existitzen den data sartu duzula hh/ee/uuuu hh\:mm\:ss AM/PM formatuan.
+separator=|
+invalid_feedback_date=Iruzkin data erabilgarritarako sartu duzun data ez da balioduna. Ziurtatu, arren, existitzen den data sartu duzula hh/ee/uuuu hh\:mm\:ss AM/PM formatuan.
+output_date_no_sec=dd-MMM-yyyy HH\:mm 
+questionPool=Galderen biltzaileak 
+t_questionPool=Zoaz galderen elkarbiltzailearen orrialdera
+output_dateWoTime=dd-MMM-yyyy
+invalid_due_date=Emate datarako sartu duzun data ez da balioduna. Ziurtatu, arren, existitzen den data sartu duzula hh/ee/uuuu hh\:mm\:ss AM/PM formatuan.
+invalid_start_date=Data erabilgarrirako sartu duzun data ez da balioduna. Ziurtatu, arren, existitzen den data sartu duzula hh/ee/uuuu hh\:mm\:ss AM/PM formatuan.
+output_date=dd-MMM-yyyy HH\:mm\:ss 
+assessment=Ebaluazioak
+output_date_picker=dd/MM/yyyy
+select_menu=aukeratu
+remove_media=Kendu medioak
+t_assessment=Zoaz testu-lanketarako orrialdera
+output_data_picker_w_sec=dd/MM/yyyy hh\:mm\:ss a
+template=Ebaluazio motak

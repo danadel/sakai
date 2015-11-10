@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/321203/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/site
+END
+SubSiteViewImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/site/SubSiteViewImpl.java
+END
+AllSitesViewImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/site/AllSitesViewImpl.java
+END
+CurrentSiteViewImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/site/CurrentSiteViewImpl.java
+END
+MoreSiteViewImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/315689/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/site/MoreSiteViewImpl.java
+END
+AbstractSiteViewImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/site/AbstractSiteViewImpl.java
+END
+DefaultSiteViewImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/site/DefaultSiteViewImpl.java
+END
+PortalSiteHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/321203/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-impl/impl/src/java/org/sakaiproject/portal/charon/site/PortalSiteHelperImpl.java
+END

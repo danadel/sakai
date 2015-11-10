@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130392/msub/upv.es/PoliformaT/upv-2.9.3/rights/rights-api/api/src/java/org/sakaiproject/rights/api
+END
+RightsAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130392/msub/upv.es/PoliformaT/upv-2.9.3/rights/rights-api/api/src/java/org/sakaiproject/rights/api/RightsAssignment.java
+END
+UserRightsPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130392/msub/upv.es/PoliformaT/upv-2.9.3/rights/rights-api/api/src/java/org/sakaiproject/rights/api/UserRightsPolicy.java
+END
+RightsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130392/msub/upv.es/PoliformaT/upv-2.9.3/rights/rights-api/api/src/java/org/sakaiproject/rights/api/RightsHelper.java
+END
+RightsPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130392/msub/upv.es/PoliformaT/upv-2.9.3/rights/rights-api/api/src/java/org/sakaiproject/rights/api/RightsPolicy.java
+END
+CreativeCommonsLicense.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130392/msub/upv.es/PoliformaT/upv-2.9.3/rights/rights-api/api/src/java/org/sakaiproject/rights/api/CreativeCommonsLicense.java
+END
+RightsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130392/msub/upv.es/PoliformaT/upv-2.9.3/rights/rights-api/api/src/java/org/sakaiproject/rights/api/RightsService.java
+END
+SiteRightsPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130392/msub/upv.es/PoliformaT/upv-2.9.3/rights/rights-api/api/src/java/org/sakaiproject/rights/api/SiteRightsPolicy.java
+END
+Copyright.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130392/msub/upv.es/PoliformaT/upv-2.9.3/rights/rights-api/api/src/java/org/sakaiproject/rights/api/Copyright.java
+END

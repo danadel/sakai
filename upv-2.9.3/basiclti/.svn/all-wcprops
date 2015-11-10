@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/321452/msub/upv.es/PoliformaT/upv-2.9.3/basiclti
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/pom.xml
+END
+basiclti-2-6-x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-2-6-x.patch
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/TODO.txt
+END
+VERSIONS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/VERSIONS.txt
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/.svnignore
+END

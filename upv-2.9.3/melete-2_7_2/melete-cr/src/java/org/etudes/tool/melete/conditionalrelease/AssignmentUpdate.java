@@ -1,0 +1,72 @@
+
+package org.etudes.tool.melete.conditionalrelease;
+
+import java.util.Date;
+
+/**
+ *
+ */
+public class AssignmentUpdate {
+	
+	private Date dueDate;
+	private boolean releasedToStudents;
+	private boolean includedInCourseGrade;
+	private Double pointValue;
+	private Long itemGBId;
+	
+	public Date getDueDate() {
+		return dueDate;
+	}
+	public void setDueDate(Date dueDate) {
+		this.dueDate = dueDate;
+	}
+	public boolean isReleasedToStudents() {
+		return releasedToStudents;
+	}
+	
+	public boolean isNotReleasedToStudents() {
+		return !releasedToStudents;
+	}
+	public void setReleasedToStudents(boolean releasedToStudents) {
+		this.releasedToStudents = releasedToStudents;
+	}
+	public boolean isIncludedInCourseGrade() {
+		return includedInCourseGrade;
+	}
+	
+	public boolean isNotIncludedInCourseGrade() {
+		return !includedInCourseGrade;
+	}
+	public void setIncludedInCourseGrade(boolean includedInCourseGrade) {
+		this.includedInCourseGrade = includedInCourseGrade;
+	}
+	public Double getPointValue() {
+		return pointValue;
+	}
+	public void setPointValue(Double pointValue) {
+		this.pointValue = pointValue;
+	}
+	public Long getItemGBId() {
+		return this.itemGBId;
+ 	}
+	public void setItemGBId(Long gbId) {
+		this.itemGBId = gbId;
+	}
+	
+	public boolean dueDateHasNotPassed() {
+		if (this.dueDate == null) {
+			return true;
+		} else {
+			return ! new Date().after(this.dueDate);
+		}
+	}
+	
+	public boolean dueDateHasPassed() {
+		if (this.dueDate == null) {
+			return false;
+		} else {
+			return new Date().after(this.dueDate);
+		}
+	}
+
+}

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/306140/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/WEB-INF
+END
+upload.tld
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/WEB-INF/upload.tld
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/WEB-INF/applicationContext.xml
+END
+html_basic.tld
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/WEB-INF/html_basic.tld
+END
+mime.types
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/WEB-INF/mime.types
+END
+jsf_core.tld
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/WEB-INF/jsf_core.tld
+END
+requestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/WEB-INF/requestContext.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/WEB-INF/web.xml
+END
+asi.tld
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/WEB-INF/asi.tld
+END
+samigo.tld
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/306140/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/WEB-INF/samigo.tld
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/131836/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/WEB-INF/faces-config.xml
+END

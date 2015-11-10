@@ -1,0 +1,77 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/resources
+https://source.sakaiproject.org/svn
+
+
+
+2013-04-18T15:02:58.018519Z
+122965
+arwhyte@umich.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+AuthenticationCacheTest
+dir
+
+disable_user_cache
+dir
+
+dynamic
+dir
+
+filesystem
+dir
+
+log4j.properties
+file
+
+
+
+
+2015-11-09T08:47:13.272248Z
+a0825b3d78710ca511c9ca619a23a1e2
+2008-08-20T16:12:29.215862Z
+51118
+ian@caret.cam.ac.uk
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+871
+
+messagebundle
+dir
+

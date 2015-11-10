@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/318149/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/tool/gradebook/facades
+END
+EventTrackingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/tool/gradebook/facades/EventTrackingService.java
+END
+PublishedAssessmentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/318149/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/tool/gradebook/facades/PublishedAssessmentService.java
+END
+Authz.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/tool/gradebook/facades/Authz.java
+END
+Authn.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/tool/gradebook/facades/Authn.java
+END
+ContextManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/tool/gradebook/facades/ContextManagement.java
+END
+UserDirectoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/tool/gradebook/facades/UserDirectoryService.java
+END

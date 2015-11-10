@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 32
+target/
+bin
+.project
+.classpath
+
+K 13
+svn:mergeinfo
+V 54
+/shortenedurl/trunk:105148,105167,105252,109505-109544
+END

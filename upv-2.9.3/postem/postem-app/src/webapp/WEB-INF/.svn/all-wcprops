@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/130389/msub/upv.es/PoliformaT/upv-2.9.3/postem/postem-app/src/webapp/WEB-INF
+END
+local.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130389/msub/upv.es/PoliformaT/upv-2.9.3/postem/postem-app/src/webapp/WEB-INF/local.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130389/msub/upv.es/PoliformaT/upv-2.9.3/postem/postem-app/src/webapp/WEB-INF/web.xml
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130389/msub/upv.es/PoliformaT/upv-2.9.3/postem/postem-app/src/webapp/WEB-INF/faces-config.xml
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130389/msub/upv.es/PoliformaT/upv-2.9.3/postem/postem-app/src/webapp/WEB-INF/components.xml
+END
+upload.tld
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130389/msub/upv.es/PoliformaT/upv-2.9.3/postem/postem-app/src/webapp/WEB-INF/upload.tld
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/pages
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/pages/index.jsp
+END
+opensearch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/pages/opensearch.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/pages/header.jsp
+END
+rss20.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/pages/rss20.jsp
+END
+sakai.gif.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/pages/sakai.gif.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/pages/footer.jsp
+END
+sakai.src.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/pages/sakai.src.jsp
+END
+title.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/webapp/WEB-INF/pages/title.jsp
+END

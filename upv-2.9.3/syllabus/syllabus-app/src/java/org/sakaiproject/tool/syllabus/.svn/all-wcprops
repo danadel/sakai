@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/tool/syllabus
+END
+SyllabusTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/tool/syllabus/SyllabusTool.java
+END
+SyllabusFilePickerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/tool/syllabus/SyllabusFilePickerServlet.java
+END
+FileUploadFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/tool/syllabus/FileUploadFilter.java
+END

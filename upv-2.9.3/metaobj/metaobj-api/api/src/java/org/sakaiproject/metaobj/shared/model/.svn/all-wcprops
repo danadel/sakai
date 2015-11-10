@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model
+END
+StructuredArtifactDefinitionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/StructuredArtifactDefinitionBean.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/Type.java
+END
+StructuredArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/StructuredArtifact.java
+END
+LimitedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/LimitedList.java
+END
+OspRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/OspRole.java
+END
+FormConsumptionDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/FormConsumptionDetail.java
+END
+FinderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/FinderException.java
+END
+MimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/MimeType.java
+END
+Id.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/Id.java
+END
+FormUploadForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/FormUploadForm.java
+END
+Artifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/Artifact.java
+END
+Agent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/Agent.java
+END
+ContentResourceArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/ContentResourceArtifact.java
+END
+PersistenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/PersistenceException.java
+END
+ValidationError.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/ValidationError.java
+END
+IdentifiableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/IdentifiableObject.java
+END
+InvalidUploadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/InvalidUploadException.java
+END
+ElementListBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/ElementListBean.java
+END
+ElementListBeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/ElementListBeanWrapper.java
+END
+IdImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/IdImpl.java
+END
+ElementBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/ElementBean.java
+END
+OspException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/model/OspException.java
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard
+https://source.sakaiproject.org/svn
+
+
+
+2013-12-05T11:45:29.874361Z
+132259
+vacercon@upvnet.upv.es
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+api-impl
+dir
+
+help
+dir
+
+api
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:52:21.980242Z
+45655e6ec8ef406c07a404bd10efb60d
+2013-08-22T14:19:54.766879Z
+128909
+matthew@longsight.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2404
+
+tool
+dir
+
+tool-lib
+dir
+
+component
+dir
+

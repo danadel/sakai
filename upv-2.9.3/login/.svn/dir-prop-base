@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 19
+.project
+.settings
+
+K 13
+svn:mergeinfo
+V 114
+/login/branches/SAK-17223:82656
+/login/trunk:103259,104263,105040,106490,107683-107714,110977,117022,117090,122221
+END

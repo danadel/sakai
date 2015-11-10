@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping default-cascade="none" default-lazy="false" package="org.sakaiproject.upv2.model">
+	<class name="org.sakaiproject.upv2.model.Composicion" 
+	       table="SAK_COMPOSICIONES" discriminator-value="1">
+
+		<id name="codigo" column="CODIGO" type="long">
+			<generator class="native">
+				<param name="sequence">SAK_CODIGOS_SE</param>
+			</generator>
+		</id>		
+		
+		<property name="propietario" column="PROPIETARIO" type="string" /> 
+
+		<property name="nombre" column="NOMBRE" type="string" not-null="true"/>
+
+		<property name="nombrev" column="NOMBREV" type="string" />
+
+		<property name="nombrei" column="NOMBREI" type="string"/>
+		
+		<property name="descrip" column="DESCRIP" type="string"/>		
+		
+		<property name="descripv" column="DESCRIPV" type="string"/>				
+		
+		<property name="descripi" column="DESCRIPI" type="string"/>				
+
+	</class>
+	
+    <query name="findComposicionesByProp">
+        <![CDATA[from org.sakaiproject.upv2.model.Composicion as com where com.propietario=:propietario ]]>
+    </query>    
+	
+</hibernate-mapping>

@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion
+END
+sakai_2_9_0_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_9_0_mysql_conversion.sql
+END
+sakai_2_5_0-2_5_2_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_5_0-2_5_2_oracle_conversion.sql
+END
+sakai_2_6_0-2_6_1_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_6_0-2_6_1_mysql_conversion.sql
+END
+sakai_2_6_0-2_6_1_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_6_0-2_6_1_oracle_conversion.sql
+END
+sakai_2_5_2-2_5_3_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_5_2-2_5_3_mysql_conversion.sql
+END
+sakai_2_7_0-2_7_1_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_7_0-2_7_1_mysql_conversion.sql
+END
+sakai_2_5_2-2_5_3_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_5_2-2_5_3_oracle_conversion.sql
+END
+sakai_2_7_0-2_7_1_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_7_0-2_7_1_oracle_conversion.sql
+END
+sakai_2_5_3-2_5_4_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_5_3-2_5_4_mysql_conversion.sql
+END
+sakai_2_6_2-2_6_3_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_6_2-2_6_3_mysql_conversion.sql
+END
+sakai_2_7_1-2_7_2_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_7_1-2_7_2_mysql_conversion.sql
+END
+sakai_2_8_0-2_8_1_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_8_0-2_8_1_mysql_conversion.sql
+END
+sakai_2_5_3-2_5_4_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_5_3-2_5_4_oracle_conversion.sql
+END
+sakai_2_6_2-2_6_3_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_6_2-2_6_3_oracle_conversion.sql
+END
+sakai_2_7_1-2_7_2_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_7_1-2_7_2_oracle_conversion.sql
+END
+sakai_2_8_0-2_8_1_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_8_0-2_8_1_oracle_conversion.sql
+END
+sakai_2_7_2-2_7_3_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_7_2-2_7_3_mysql_conversion.sql
+END
+sakai_2_7_2-2_7_3_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_7_2-2_7_3_oracle_conversion.sql
+END
+sakai_2_8_1-2_8_2_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_8_1-2_8_2_oracle_conversion.sql
+END
+sakai_2_9_0-2_9_1_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_9_0-2_9_1_oracle_conversion.sql
+END
+sakai_2_8_1-2_8_2_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_8_1-2_8_2_mysql_conversion.sql
+END
+sakai_2_9_0-2_9_1_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_9_0-2_9_1_mysql_conversion.sql
+END
+sakai_2_5_5-2_5_6_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_5_5-2_5_6_oracle_conversion.sql
+END
+sakai_2_8_2-2_8_3_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_8_2-2_8_3_oracle_conversion.sql
+END
+sakai_2_9_1-2_9_2_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_9_1-2_9_2_oracle_conversion.sql
+END
+sakai_2_5_5-2_5_6_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_5_5-2_5_6_mysql_conversion.sql
+END
+sakai_2_8_2-2_8_3_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_8_2-2_8_3_mysql_conversion.sql
+END
+sakai_2_9_1-2_9_2_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_9_1-2_9_2_mysql_conversion.sql
+END
+sakai_2_9_2-2_9_3_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_9_2-2_9_3_oracle_conversion.sql
+END
+sakai_2_9_2-2_9_3_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_9_2-2_9_3_mysql_conversion.sql
+END
+sakai_2_0-2_1_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_0-2_1_oracle_conversion.sql
+END
+sakai_2_0-2_1_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_0-2_1_mysql_conversion.sql
+END
+sakai_2_3_1-2_4_0_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_3_1-2_4_0_mysql_conversion.sql
+END
+sakai_2_6_0_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_6_0_oracle_conversion.sql
+END
+sakai_2_6_0_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_6_0_mysql_conversion.sql
+END
+sakai_2_7_0_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_7_0_oracle_conversion.sql
+END
+sakai_2_8_0_mysql_hbm_indexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_8_0_mysql_hbm_indexes.sql
+END
+sakai_2_8_0_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_8_0_oracle_conversion.sql
+END
+sakai_2_8_0_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_8_0_mysql_conversion.sql
+END
+sakai_2_8_0_oracle_hbm_indexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_8_0_oracle_hbm_indexes.sql
+END
+sakai_2_9_0_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_9_0_oracle_conversion.sql
+END
+sakai_2_5_0-2_5_2_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_5_0-2_5_2_mysql_conversion.sql
+END
+sakai_1_5-2_0_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_1_5-2_0_conversion.sql
+END
+sakai_2_1_0-2_1_1_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_1_0-2_1_1_mysql_conversion.sql
+END
+sakai_2_1_0-2_1_1_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_1_0-2_1_1_oracle_conversion.sql
+END
+sakai_2_1_1-2_1_2_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_1_1-2_1_2_mysql_conversion.sql
+END
+sakai_2_1_2-2_2_0_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_1_2-2_2_0_mysql_conversion.sql
+END
+sakai_2_2_0-2_2_1_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_2_0-2_2_1_mysql_conversion.sql
+END
+sakai_2_1_1-2_1_2_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_1_1-2_1_2_oracle_conversion.sql
+END
+sakai_2_1_2-2_2_0_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_1_2-2_2_0_oracle_conversion.sql
+END
+sakai_2_2_0-2_2_1_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_2_0-2_2_1_oracle_conversion.sql
+END
+sakai_1_5-2_0_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_1_5-2_0_mysql_conversion.sql
+END
+sakai_2_2_1-2_3_1_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_2_1-2_3_1_mysql_conversion.sql
+END
+sakai_2_3_0-2_3_1_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_3_0-2_3_1_mysql_conversion.sql
+END
+sakai_2_2_1-2_3_1_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_2_1-2_3_1_oracle_conversion.sql
+END
+sakai_2_3_0-2_3_1_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_3_0-2_3_1_oracle_conversion.sql
+END
+sam-787-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sam-787-oracle.sql
+END
+sakai_2_3_1-2_4_0_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_3_1-2_4_0_oracle_conversion.sql
+END
+sam-787-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sam-787-mysql.sql
+END
+sakai_2_4_0-2_5_0_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_4_0-2_5_0_mysql_conversion.sql
+END
+sakai_2_4_0-2_5_0_oracle_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_4_0-2_5_0_oracle_conversion.sql
+END
+sakai_2_7_0_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130391/msub/upv.es/PoliformaT/upv-2.9.3/reference/docs/conversion/sakai_2_7_0_mysql_conversion.sql
+END

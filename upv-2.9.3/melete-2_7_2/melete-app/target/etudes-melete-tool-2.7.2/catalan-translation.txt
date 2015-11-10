@@ -1,0 +1,282 @@
+#Main Menu
+file=Arxiu
+new=Nou
+open=Obrir
+open_location=Obrir des de URL
+close=Tancar
+save=Desar
+save_as=Desar com
+print=Imprimir
+exit=Exit
+
+edit=Editar 
+undo=Desfer 
+redo=Refer 
+copy=Copiar
+paste=Pegar
+cut_to_clipboard=Tallar al portapapers
+copy_to_clipboard=Copiar al portapapers
+paste_from_clipboard=Pegar del portapapers
+cut=Tallar
+copy_plain_text=Copiar un text
+copy_formatted_text=Copiar texto amb format
+paste_formatted_text=Copiar texto sense format 
+paste_formatted_content_without_styles=Pegar un contingut amb format sense estils 
+paste_plain_text_with_line_breaks=Pegar un text pl\u00E0 amb salts de l\u00EDnea
+paste_plain_text_as_one_paragraph=Pegar un text pl\u00E0 com un \u00FAnic par\u00E0graf
+select_all=Seleccionar tot
+view=Veure
+view_status_bar=Barra d'estat
+view_toolbar=Barra de s\u00EDmbols
+view_html_source_editor=Codi HTML
+view_page_preview=Vista pr\u00E9via
+
+insert=Inserir
+insert_break=Salt de l\u00EDnia
+insert_symbol=S\u00EDmbol
+insert_paragraph=Par\u00E0graf
+insert_space=Espai
+insert_horizontal_line=L\u00EDnia Horizontal
+insert_date=Data
+form=Formulari 
+one_line_text_box=Camp de text 
+multiple_line_text_box=Caixa de text multil\u00EDnia 
+check_box=Casella de comprobaci\u00F3 
+radio_button=Bot\u00F3 de selecci\u00F3 \u00FAnica
+dropdown_menu=Men\u00FA desplegable 
+push_button=Bot\u00F3 
+image_button=Bot\u00F3 amb imatge 
+insert_picture=Imatge 
+insert_hyperlink=Hiperv\u00EDncul
+
+format=Format
+copy_formatting=Copiar format
+
+tools=Extres
+spellchecker=Ortografia
+
+table=Taula
+table_row=Cel\u00B7la
+table_column=Columna
+delete_cells=Esborrar cel\u00B7les
+select=Seleccionar
+select_table=Taula
+select_row=Fila
+select_column=Columna
+select_cell=Cel\u00B7la
+merge_cells=Combinar cel\u00B7les
+split_cell=Separar cel\u00B7les
+properties=Propietats 
+table_properties=Taula
+cell_properties=Cel\u00B7la
+
+window=Finestra
+new_window=Nova finestra
+help=Ajuda
+about=Info
+
+
+#Toolbar &  Popup Menu
+
+bold=Negreta
+italic=Cursiva
+undeline=Subratllat
+font_bold=Negreta
+font_italic=Cursiva
+font_undeline=Subratllat
+align_left=Alineat esquerre
+align_right=Alineat dret
+align_center=Alineat centre
+decrease_indent=Disminuir sangrat
+increase_indent=Aumentar sangrat
+foreground=Color de la font 
+design_table=Diseny de la taula
+numbering=Numeraci\u00F3
+bullets=Vinyetes
+highlight_color=Color de resaltat
+insert_image=Inserir imatge
+show_paragraphs=Mostrar par\u00E0grafs
+insert_bookmark=Inserir Marcador
+remove_formatting=Eliminar format
+
+#Page Properties Dialog
+
+page_properties=Propietats de la p\u00E0gina
+general=General
+page_title=T\u00EDtol
+base_location=Direcci\u00F3 base
+background_picture=Imatge de fons
+background_sound=So de fons
+appearance=Aparen\u00E7a
+colors=Colors
+background=Fons
+text=Text
+hyperlink=Hiperv\u00EDncul
+active_hyperlink=Hiperv\u00EDncul actiu
+visited_hyperlink=Hiperv\u00EDncul visitat
+language=Lenguatge
+document_encoding=Codificaci\u00F3 HTML
+ok=Aceptar
+cancel=Cancel\u00B7lar
+
+
+#Image Properties Dialog
+image_properties=Propietats de la imatge 
+picture_source=Origen de la imatge
+browse=Navegar
+alternative_text=Text alternatiu
+default_hyperlink=Hiperv\u00EDncul per defecte
+layout=Disposici\u00F3
+alignment=Alineat
+left=Esquerra
+right=Dreta
+top=Dalt
+texttop=Dalt amb el text
+middle=En mig
+absoulute_middle=Mig absolut
+baseline=L\u00EDnia base
+bottom=Baix
+absbottom=Baix absolut
+
+border_thickness=Grossor del Bord
+vertical_spacing=Espaciat horizontal
+horizontal_spacing=Espaciat vertical
+specify_size=Especificar tamany
+
+#Table Cell properties dialog
+table_cell=Cel\u00B7la
+table_cell_properties=Propietats de la cel\u00B7la
+horizontal_alignment=Alin. horizontal
+vertical_alignment=Alin. Vertical
+rows_spanned=Files ocultes
+cols_spanned=Columnas ocultes
+automatic=Autom\u00E0tic
+
+#Table Properties dialog
+table_properties_dialog=Propietats de la taula
+cell_padding=Margen de cel\u00B7les
+cell_spacing=Espaciat de cel\u00B7les
+width=Ample
+height=Alt
+border_width=Ampl\u00E1ria del bord
+in_pixels=en Pixels
+in_percents=en Percentatge
+borders=Bords
+color=Colors
+use_background_picture=Emprar imatge de fons
+center=Centrar
+
+
+#Insert table dialog
+insert_table=Inserir taula
+size=Grand\u00E0ria
+rows=Files
+columns=Columnes
+
+#Hyperlink properties dialog
+hyperlink_properties=Propietats de l'hiperv\u00EDncul
+target_frame=Frame dest\u00ED
+bookmark=Marcador
+
+#Paragraph properties
+paragraph_properties=Propietats del par\u00E0graf
+indentation_spacing=Sangrat
+left_margin=Margen esquerre
+right_margin=Margen dret
+top_margin=Margen superior
+bottom_margin=Margen inferior
+line_spacing=Interlineat
+indent_first_line=Sangrat a la primera l\u00EDnia
+borders_background=Bords i ombreig
+background_color=Color de fons
+border_color=Color del bord
+
+#Text field properties dialog
+text_field_properties=Propietats del camp de text
+field_name=Nom
+value =Valor
+value/label=Etiqueta
+size_in_characters=Nombre de car\u00E0cters
+field_type=Tipus
+
+
+#Button field properties dialog
+button_field_properties=Propietats del bot\u00F3
+
+#Checkbox field properties dialog
+checkbox_field=Propietats del campo
+initial_state=Estat inicial
+
+
+#Text area properties dialog
+text_area_properties=Propietats de l'\u00E0rea de text
+
+#Dropdown list properties dialog
+dropdown_list_properties =Propietats del desplegable
+add_item=Afegir element
+modify=Modificar
+remove=Esborrar
+up=Pujar
+down=Baixar
+allows_multiple_selection=Permetre selecci\u00F3 m\u00FAltiple
+choice=Opci\u00F3n
+selected=Seleccionada
+
+#Font properties dialog
+font_properties=Propietats de la font
+font=Font
+font_style=Estil
+font_size=Grand\u00E0ria
+decoration=Efecte
+underline=Subratllat
+strikethrough=Ratllat
+subscript=Sub\u00EDndex
+superscript=Super\u00EDndex
+preview=Vista pr\u00E9via
+
+form_field_properties=Propietats del camp del formulari
+
+#Form properties dialog
+form_properties=Propietats del formulari
+send_to=Enviar a 
+form_name=Nom del formulari
+action=Acci\u00F3
+method=M\u00E9tode
+encoding=Codificaci\u00F3
+
+symbol=S\u00EDmbol
+unicode=Unicode
+
+
+#Find Dialog
+find=Cercar
+find_and_replace=Cercar y reempla\u00E7ar
+search_what=Qu\u00E9 cercar? 
+search_options=Opcions de cerca
+direction=Direcci\u00F3
+
+replace=Reempla\u00E7ar
+replace_all=Reempla\u00E7ar todo
+
+replace_with=Reempla\u00E7ar con
+find_next=Cercar sig\u00FCent
+match_case=Maj\u00FAscules/min\u00FAscules
+search_entire_words=Paraules completes
+
+insert_row=Inserir fila
+insert_column=Inserir columna
+
+#Spellchecker
+spell_checker=Ortografia
+not_in_dictionary=No hi \u00E9s al diccionari
+change_to=Canviar a 
+change=Canviar
+change_all=Canviar totes
+suggestions=Suggeriments
+ignore=Ignorar
+ignore_all=Ignorar totes
+add_to_dictionary=Afegir al diccionari
+
+page_preview=Vista pr\u00E9via
+html_source=Codi HTML 
+

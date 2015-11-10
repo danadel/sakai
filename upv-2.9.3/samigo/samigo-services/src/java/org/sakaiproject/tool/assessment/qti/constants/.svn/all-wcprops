@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/qti/constants
+END
+QTIConstantStrings.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/qti/constants/QTIConstantStrings.java
+END
+QTIVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/qti/constants/QTIVersion.java
+END
+AuthoringConstantStrings.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/qti/constants/AuthoringConstantStrings.java
+END

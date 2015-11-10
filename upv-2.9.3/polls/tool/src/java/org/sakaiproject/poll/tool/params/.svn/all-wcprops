@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/params
+END
+PollToolBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/params/PollToolBean.java
+END
+VoteBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/params/VoteBean.java
+END
+PollViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/params/PollViewParameters.java
+END
+PermissionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/params/PermissionAction.java
+END
+OptionViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/params/OptionViewParameters.java
+END
+VoteCollectionViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/params/VoteCollectionViewParameters.java
+END
+RoleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/params/RoleFactory.java
+END

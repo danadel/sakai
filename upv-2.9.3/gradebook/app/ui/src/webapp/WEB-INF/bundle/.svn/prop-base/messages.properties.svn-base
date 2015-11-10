@@ -1,0 +1,12 @@
+K 13
+svn:mergeinfo
+V 1435
+/assignment/trunk/app/ui/src/webapp/WEB-INF/bundle/messages.properties:121717
+/gradebook/branches/SAK-22204/app/ui/src/webapp/WEB-INF/bundle/messages.properties:109448-109908
+/gradebook/branches/sakai-2.7.x/app/ui/src/webapp/WEB-INF/bundle/messages.properties:74572
+/gradebook/trunk/app/ui/src/webapp/WEB-INF/bundle/messages.properties:103206,103259,104342,104623,104635,104809,106429,106490,106705,107329,107512,107683-107714,108103,109909,110717-110718,110787,111187,111653,112396,112464,114259,115696,116380,117371,117416,119474,121717,123944,124118
+/msub/longsight.com/gradebook/LS-121/app/ui/src/webapp/WEB-INF/bundle/messages.properties:110694,110702
+/msub/longsight.com/gradebook/gradebook-2.8.x_features-backport/app/ui/src/webapp/WEB-INF/bundle/messages.properties:95086,95091-95092
+/msub/upv.es/PoliformaT/upv-2.8.0/indies/samigo/gradebook/app/ui/src/webapp/WEB-INF/bundle/messages.properties:107593,114935
+/msub/upv.es/PoliformaT/upv-2.8.0/sakai-2.8.0/gradebook/app/ui/src/webapp/WEB-INF/bundle/messages.properties:93344,93428,93576,100430,102034,104801,104902,105315,106190,107630,107714,108024,108088,108192,109392,110149,110869,110872,110874,113046,113922,114339,114362,114386,115027-115028,115100,115104,115228,115233,115340,115705,116153,116404,116515,116568,116662,116764,116824,117154,117518,118415,119472,119775,119828,120045-120046,120455,120481,120621,120656,120921,120928,124660,124662,124962,125440,126324,127667
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared
+END
+EntityContextFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/EntityContextFinder.java
+END
+SharedFunctionConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/SharedFunctionConstants.java
+END
+IdType.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/IdType.java
+END
+ArtifactFinderManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/ArtifactFinderManager.java
+END
+FormHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/FormHelper.java
+END
+IdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/IdGenerator.java
+END
+IdentifiableIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/IdentifiableIdGenerator.java
+END
+ArtifactFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/ArtifactFinder.java
+END
+DownloadableManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/DownloadableManager.java
+END

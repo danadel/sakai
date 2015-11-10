@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130355/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool-prefs/tool/src/webapp/WEB-INF
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130355/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool-prefs/tool/src/webapp/WEB-INF/faces-config.xml
+END
+prefs_jsf.tld
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130355/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool-prefs/tool/src/webapp/WEB-INF/prefs_jsf.tld
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130355/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool-prefs/tool/src/webapp/WEB-INF/applicationContext.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130355/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool-prefs/tool/src/webapp/WEB-INF/web.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap-integration-test/src/test/resources
+END
+jldap-test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap-integration-test/src/test/resources/jldap-test.properties
+END
+jldap-test-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap-integration-test/src/test/resources/jldap-test-context.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap-integration-test/src/test/resources/log4j.properties
+END

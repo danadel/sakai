@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/authz
+END
+AuthorizationIteratorIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/authz/AuthorizationIteratorIfc.java
+END
+QualifierIteratorIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/authz/QualifierIteratorIfc.java
+END
+FunctionIteratorIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/authz/FunctionIteratorIfc.java
+END
+AuthorizationIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/authz/AuthorizationIfc.java
+END
+QualifierIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/authz/QualifierIfc.java
+END
+FunctionIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/authz/FunctionIfc.java
+END

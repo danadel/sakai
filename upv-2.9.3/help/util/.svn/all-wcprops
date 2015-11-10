@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/util
+END
+update-help.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/util/update-help.pl
+END
+transform.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/util/transform.sh
+END
+kb-to-help.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/util/kb-to-help.xsl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/util/README
+END
+helputil.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/util/helputil.pl
+END

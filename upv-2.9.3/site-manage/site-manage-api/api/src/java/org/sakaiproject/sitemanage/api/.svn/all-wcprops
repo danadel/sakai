@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api
+END
+SiteHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/SiteHelper.java
+END
+AffiliatedSectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/AffiliatedSectionProvider.java
+END
+SectionField.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/SectionField.java
+END
+UserNotificationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/UserNotificationProvider.java
+END
+SiteTypeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/SiteTypeProvider.java
+END
+SectionFieldProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-api/api/src/java/org/sakaiproject/sitemanage/api/SectionFieldProvider.java
+END

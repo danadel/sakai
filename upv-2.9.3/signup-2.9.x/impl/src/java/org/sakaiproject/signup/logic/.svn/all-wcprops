@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic
+END
+SignupCacheServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/SignupCacheServiceImpl.java
+END
+SakaiFacadeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/SakaiFacadeImpl.java
+END
+SignupCalendarHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/SignupCalendarHelperImpl.java
+END
+SignupMeetingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/SignupMeetingServiceImpl.java
+END
+SignupEmailFacadeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/SignupEmailFacadeImpl.java
+END
+SignupNotifyJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/SignupNotifyJob.java
+END

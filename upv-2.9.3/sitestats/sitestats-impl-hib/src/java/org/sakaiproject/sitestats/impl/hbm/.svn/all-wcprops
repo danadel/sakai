@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm
+END
+SiteVisitsImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/SiteVisitsImpl.hbm.xml
+END
+ReportDef.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/ReportDef.hbm.xml
+END
+UserStat.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/UserStat.hbm.xml
+END
+SitePresenceImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/SitePresenceImpl.hbm.xml
+END
+EventStatImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/EventStatImpl.hbm.xml
+END
+JobRunImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/JobRunImpl.hbm.xml
+END
+PrefsImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/PrefsImpl.hbm.xml
+END
+ServerStat.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/ServerStat.hbm.xml
+END
+SiteActivityImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/SiteActivityImpl.hbm.xml
+END
+ResourceStatImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/ResourceStatImpl.hbm.xml
+END

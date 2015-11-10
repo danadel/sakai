@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/site/api
+END
+SitePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/site/api/SitePage.java
+END
+Site.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/site/api/Site.java
+END
+SiteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/site/api/SiteService.java
+END
+ToolConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/site/api/ToolConfiguration.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/site/api/Group.java
+END
+SiteAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/site/api/SiteAdvisor.java
+END

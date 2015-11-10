@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util
+END
+ProfileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/ProfileUtils.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages.properties
+END
+messages_in_ID.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_in_ID.properties
+END
+messages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_ca.properties
+END
+messages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_ru.properties
+END
+messages_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_pt_PT.properties
+END
+messages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_sv.properties
+END
+messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_ja.properties
+END
+messages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_tr_TR.properties
+END
+messages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_zh_CN.properties
+END
+messages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_ar.properties
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/Messages.java
+END
+messages_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_pl_PL.properties
+END
+messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_es.properties
+END
+messages_en_DEBUG.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_en_DEBUG.properties
+END
+messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_nl.properties
+END
+messages_en_US.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_en_US.properties
+END
+messages_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/util/src/java/org/sakaiproject/profile2/util/messages_mn.properties
+END

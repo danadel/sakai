@@ -1,0 +1,129 @@
+import org.sakaiproject.content.cover.ContentHostingService;
+import org.sakaiproject.entity.cover.EntityManager;
+import org.sakaiproject.entity.api.EntityProducer;
+import org.sakaiproject.entity.api.EntityTransferrer;
+import org.sakaiproject.util.ArrayUtil;
+import java.util.Iterator;
+import java.util.Vector;
+import org.sakaiproject.tool.api.Session;
+import org.sakaiproject.tool.cover.SessionManager;
+import org.sakaiproject.site.api.Site;
+import org.sakaiproject.site.cover.SiteService;
+
+
+
+import org.sakaiproject.tool.api.Session;
+import org.sakaiproject.tool.cover.SessionManager;
+
+import org.sakaiproject.tool.cover.ActiveToolManager;
+import org.sakaiproject.tool.api.ActiveTool;
+
+
+import org.apache.axis.AxisFault;
+
+
+public class SakaiCopySiteContents {
+
+
+private Session establishSession(String id) throws AxisFault 
+{
+	Session s = SessionManager.getSession(id);
+	
+	if (s == null)
+	{
+		throw new AxisFault("Session "+id+" is not active");
+	}
+	s.setActive();
+	SessionManager.setCurrentSession(s);
+	return s;
+}
+
+public String checkSession(String id) {
+	Session s = SessionManager.getSession(id);
+	if (s == null)
+	{
+		return "null";
+	}
+	else
+	{
+		return id;
+	}
+}
+
+
+
+public String copySiteContents(String toolIds2, String oSiteId, String nSiteId, String sessionid) throws AxisFault{
+
+String[] toolIds= toolIds2.split(",");
+
+
+System.out.println("MIGRANDO CONTENIDOS Origen:"+oSiteId+" Destino:"+nSiteId+" Herramientas:"+toolIds2);
+Session session = establishSession(sessionid);
+
+ try {
+      System.out.println("MIGRANDO CONTENIDOS Poniendo Falso Placement a:"+nSiteId);
+      //Poniendo un falso Placement..............OJO: Ya no es necesario porque se soluciono el problema de melete
+      //ActiveTool tool = ActiveToolManager.getActiveTool("sakai.melete");
+      //tool.setFakePlacement(nSiteId);
+ }
+     catch (Exception e) {  
+     return e.getClass().getName() + " : " + e.getMessage();
+ }
+
+for (int i=0;i<toolIds.length;i++){
+
+
+  if (toolIds[i].equalsIgnoreCase("sakai.resources")) {
+     // handle resource tool specially
+     transferCopyEntities(toolIds[i],
+                          ContentHostingService
+                              .getSiteCollection(oSiteId),
+                          ContentHostingService
+                              .getSiteCollection(nSiteId));
+  } else {
+     if (toolIds[i].equalsIgnoreCase("sakai.resources.sferyx")) {
+         //Copia Especial de los recursos subidos por esferyx en el editor avanzado
+         System.out.println("MIGRANDO CONTENIDOS SFERYX :"+oSiteId);
+         transferCopyEntities("sakai.resources","/private/sferyx/group/"+oSiteId+"/","/private/sferyx/group/"+nSiteId+"/");
+     } else {
+     // other tools
+     transferCopyEntities(toolIds[i],
+                          oSiteId, nSiteId);
+     }
+  }
+
+}
+
+ return "finalizado";
+}
+
+
+
+  protected void transferCopyEntities(String toolId, String fromContext,
+      String toContext) {
+    // TODO: used to offer to resources first - why? still needed? -ggolden
+
+    // offer to all EntityProducers
+    for (Iterator i = EntityManager.getEntityProducers().iterator(); i
+        .hasNext();) {
+      EntityProducer ep = (EntityProducer) i.next();
+      if (ep instanceof EntityTransferrer) {
+        try {
+          EntityTransferrer et = (EntityTransferrer) ep;
+
+          // if this producer claims this tool id
+          if (ArrayUtil.contains(et.myToolIds(), toolId)) {
+            et.transferCopyEntities(fromContext, toContext,
+                new Vector());
+          }
+        } catch (Throwable t) {
+          //System.out.println("Error encountered while asking EntityTransfer to transferCopyEntities from: " + fromContext + " to: " + toContext, t);
+        }
+      }
+    }
+	
+  }
+
+
+
+}

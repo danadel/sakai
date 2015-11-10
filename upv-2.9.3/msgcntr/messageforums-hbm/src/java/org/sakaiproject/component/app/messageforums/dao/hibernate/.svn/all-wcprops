@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/321553/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate
+END
+DBMembershipItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/DBMembershipItemImpl.java
+END
+PermissionLevelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/PermissionLevelImpl.java
+END
+Label.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/Label.hbm.xml
+END
+UnreadStatusImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/UnreadStatusImpl.java
+END
+DiscussionTopicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/DiscussionTopicImpl.java
+END
+PrivateMessageRecipientImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/PrivateMessageRecipientImpl.java
+END
+BaseForumImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/BaseForumImpl.java
+END
+MessageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/MessageImpl.java
+END
+UnreadStatus.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/UnreadStatus.hbm.xml
+END
+PrivateForum.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/PrivateForum.hbm.xml
+END
+MutableEntityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/MutableEntityImpl.java
+END
+SynopticMsgcntrItem.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/SynopticMsgcntrItem.hbm.xml
+END
+TopicControlPermissionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/TopicControlPermissionImpl.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/Util.java
+END
+DiscussionForumImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/DiscussionForumImpl.java
+END
+ForumControlPermissionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/ForumControlPermissionImpl.java
+END
+PrivateTopicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/PrivateTopicImpl.java
+END
+ControlPermissionsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/ControlPermissionsImpl.java
+END
+ControlPermissions.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/ControlPermissions.hbm.xml
+END
+TopicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/TopicImpl.java
+END
+MessageForumsUserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/MessageForumsUserImpl.java
+END
+LabelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/LabelImpl.java
+END
+MessagePermissionsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/MessagePermissionsImpl.java
+END
+Topic.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/Topic.hbm.xml
+END
+MessagePermissions.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/MessagePermissions.hbm.xml
+END
+AreaControlPermissionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/AreaControlPermissionImpl.java
+END
+PrivateForumImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/PrivateForumImpl.java
+END
+SynopticMsgcntrItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/SynopticMsgcntrItemImpl.java
+END
+DateRestrictionsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/DateRestrictionsImpl.java
+END
+AttachmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/AttachmentImpl.java
+END
+DateRestrictions.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/DateRestrictions.hbm.xml
+END
+Attachment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/Attachment.hbm.xml
+END
+HiddenGroupImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/HiddenGroupImpl.hbm.xml
+END
+EmailNotificationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/EmailNotificationImpl.java
+END
+EmailNotification.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/EmailNotification.hbm.xml
+END
+OpenTopicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/OpenTopicImpl.java
+END
+MessageForumsUserImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/MessageForumsUserImpl.hbm.xml
+END
+ActorPermissionsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/ActorPermissionsImpl.java
+END
+PermissionLevelImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/PermissionLevelImpl.hbm.xml
+END
+DBMembershipItemImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/DBMembershipItemImpl.hbm.xml
+END
+ActorPermissions.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/ActorPermissions.hbm.xml
+END
+MessageImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/321553/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/MessageImpl.hbm.xml
+END
+AreaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/AreaImpl.java
+END
+HiddenGroupImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/HiddenGroupImpl.java
+END
+OpenForumImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/OpenForumImpl.java
+END
+Area.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/Area.hbm.xml
+END
+OpenForum.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/OpenForum.hbm.xml
+END
+PrivateMessageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/PrivateMessageImpl.java
+END

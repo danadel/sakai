@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component/src/java/org/sakaiproject/component/app/help
+END
+HelpManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component/src/java/org/sakaiproject/component/app/help/HelpManagerImpl.java
+END
+RestConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component/src/java/org/sakaiproject/component/app/help/RestConfigurationImpl.java
+END
+DefaultGlossary.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component/src/java/org/sakaiproject/component/app/help/DefaultGlossary.java
+END
+SizedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component/src/java/org/sakaiproject/component/app/help/SizedList.java
+END
+TutorialEntityProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130379/msub/upv.es/PoliformaT/upv-2.9.3/help/help-component/src/java/org/sakaiproject/component/app/help/TutorialEntityProviderImpl.java
+END

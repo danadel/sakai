@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registration>
+	<tool id="sakai.videoconference.connect"
+		title="Videoconference tool"
+		description="Connect Pro videoconference tool created by Samoo">
+		<category name="course" />
+		<category name="project" />
+		<category name="sitecfp" />
+		<category name="siteupv" />
+		<category name="sitepatu" />
+		<!-- <category name="myworkspace" /> -->
+		<!-- <category name="sakai.admin" /> -->
+	</tool>	
+</registration>

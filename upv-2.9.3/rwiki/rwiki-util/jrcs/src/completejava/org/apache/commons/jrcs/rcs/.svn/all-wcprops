@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs
+END
+InvalidVersionNumberException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/InvalidVersionNumberException.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/Node.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/Version.java
+END
+Line.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/Line.java
+END
+BranchNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/BranchNotFoundException.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/ParseException.java
+END
+ArchiveParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/ArchiveParserTokenManager.java
+END
+ArchiveParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/ArchiveParserConstants.java
+END
+Path.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/Path.java
+END
+HeadAlreadySetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/HeadAlreadySetException.java
+END
+ArchiveParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/ArchiveParser.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/TokenMgrError.java
+END
+InvalidBranchVersionNumberException.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/InvalidBranchVersionNumberException.java
+END
+BranchNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/BranchNode.java
+END
+SimpleCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/SimpleCharStream.java
+END
+Phrases.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/Phrases.java
+END
+RCSException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/RCSException.java
+END
+InvalidTrunkVersionNumberException.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/InvalidTrunkVersionNumberException.java
+END
+TrunkNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/TrunkNode.java
+END
+Lines.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/Lines.java
+END
+InvalidFileFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/InvalidFileFormatException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/package.html
+END
+KeywordsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/KeywordsFormat.java
+END
+ArchiveParser.jj
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/ArchiveParser.jj
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/Token.java
+END
+Archive.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/Archive.java
+END
+NodeNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/rcs/NodeNotFoundException.java
+END

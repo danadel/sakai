@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api-impl/src/java/org/theospi/portfolio/security/model
+END
+CleanupPermissionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api-impl/src/java/org/theospi/portfolio/security/model/CleanupPermissionManager.java
+END
+SimpleToolPermissionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api-impl/src/java/org/theospi/portfolio/security/model/SimpleToolPermissionManager.java
+END
+BeanLoadCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api-impl/src/java/org/theospi/portfolio/security/model/BeanLoadCollector.java
+END
+QualifiedSimpleToolPermissionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api-impl/src/java/org/theospi/portfolio/security/model/QualifiedSimpleToolPermissionManager.java
+END
+SakaiDefaultPermsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api-impl/src/java/org/theospi/portfolio/security/model/SakaiDefaultPermsManager.java
+END
+DefaultRealmManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api-impl/src/java/org/theospi/portfolio/security/model/DefaultRealmManagerImpl.java
+END
+RealmRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api-impl/src/java/org/theospi/portfolio/security/model/RealmRole.java
+END
+SimpleSitePermissionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api-impl/src/java/org/theospi/portfolio/security/model/SimpleSitePermissionManager.java
+END

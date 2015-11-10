@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-util/src/java/net/oauth/signature/pem
+END
+PEMReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-util/src/java/net/oauth/signature/pem/PEMReader.java
+END
+DerParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-util/src/java/net/oauth/signature/pem/DerParser.java
+END
+PKCS1EncodedKeySpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-util/src/java/net/oauth/signature/pem/PKCS1EncodedKeySpec.java
+END
+Asn1Object.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/basiclti-util/src/java/net/oauth/signature/pem/Asn1Object.java
+END

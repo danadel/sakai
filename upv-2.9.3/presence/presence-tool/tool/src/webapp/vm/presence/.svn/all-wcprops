@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130344/msub/upv.es/PoliformaT/upv-2.9.3/presence/presence-tool/tool/src/webapp/vm/presence
+END
+chef_presence.servers-List.vm
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130344/msub/upv.es/PoliformaT/upv-2.9.3/presence/presence-tool/tool/src/webapp/vm/presence/chef_presence.servers-List.vm
+END
+chef_presence-List.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130344/msub/upv.es/PoliformaT/upv-2.9.3/presence/presence-tool/tool/src/webapp/vm/presence/chef_presence-List.vm
+END
+chef_presence.sessions-List.vm
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130344/msub/upv.es/PoliformaT/upv-2.9.3/presence/presence-tool/tool/src/webapp/vm/presence/chef_presence.sessions-List.vm
+END
+chef_presence_noaccess.vm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130344/msub/upv.es/PoliformaT/upv-2.9.3/presence/presence-tool/tool/src/webapp/vm/presence/chef_presence_noaccess.vm
+END

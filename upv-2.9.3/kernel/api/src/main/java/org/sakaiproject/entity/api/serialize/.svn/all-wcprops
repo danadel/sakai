@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/serialize
+END
+EntityDoubleReaderHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/serialize/EntityDoubleReaderHandler.java
+END
+EntityDoubleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/serialize/EntityDoubleReader.java
+END
+DataStreamEntitySerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/serialize/DataStreamEntitySerializer.java
+END
+EntityReaderHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/serialize/EntityReaderHandler.java
+END
+EntityReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/serialize/EntityReader.java
+END
+SerializableEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/serialize/SerializableEntity.java
+END
+SerializablePropertiesAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/serialize/SerializablePropertiesAccess.java
+END
+EntityParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/serialize/EntityParseException.java
+END
+EntitySerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/entity/api/serialize/EntitySerializer.java
+END

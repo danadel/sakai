@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/test/org/sakaiproject/test/section
+END
+TimeConversionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/test/org/sakaiproject/test/section/TimeConversionTest.java
+END
+AuthzTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/test/org/sakaiproject/test/section/AuthzTest.java
+END
+CourseManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/test/org/sakaiproject/test/section/CourseManagerTest.java
+END
+SectionSortTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/test/org/sakaiproject/test/section/SectionSortTest.java
+END
+SectionAwarenessTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/test/org/sakaiproject/test/section/SectionAwarenessTest.java
+END
+SectionManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/test/org/sakaiproject/test/section/SectionManagerTest.java
+END
+SectionsTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/test/org/sakaiproject/test/section/SectionsTestSuite.java
+END
+SectionsTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/test/org/sakaiproject/test/section/SectionsTestBase.java
+END

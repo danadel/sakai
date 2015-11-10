@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/api-impl/src/java/org/theospi/portfolio/presentation/model/impl
+END
+PresentationAuthzMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/api-impl/src/java/org/theospi/portfolio/presentation/model/impl/PresentationAuthzMap.java
+END
+DecoratedPresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/api-impl/src/java/org/theospi/portfolio/presentation/model/impl/DecoratedPresentation.java
+END
+PresentationContentEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/api-impl/src/java/org/theospi/portfolio/presentation/model/impl/PresentationContentEntityProducer.java
+END
+PresentationManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/api-impl/src/java/org/theospi/portfolio/presentation/model/impl/PresentationManagerImpl.java
+END
+PresentationLayoutWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/api-impl/src/java/org/theospi/portfolio/presentation/model/impl/PresentationLayoutWrapper.java
+END
+PresentationHttpAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/api-impl/src/java/org/theospi/portfolio/presentation/model/impl/PresentationHttpAccess.java
+END
+LayoutEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/api-impl/src/java/org/theospi/portfolio/presentation/model/impl/LayoutEntityProducer.java
+END
+LayoutHttpAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/api-impl/src/java/org/theospi/portfolio/presentation/model/impl/LayoutHttpAccess.java
+END

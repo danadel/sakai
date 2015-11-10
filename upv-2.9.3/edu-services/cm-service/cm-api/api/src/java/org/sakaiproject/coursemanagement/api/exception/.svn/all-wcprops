@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/exception
+END
+IdNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/exception/IdNotFoundException.java
+END
+IdExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/exception/IdExistsException.java
+END

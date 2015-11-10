@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler
+END
+ConnectionProviderDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/ConnectionProviderDelegate.java
+END
+TriggerWrapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/TriggerWrapperImpl.java
+END
+ScheduledInvocationManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/ScheduledInvocationManagerImpl.java
+END
+GlobalTriggerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/GlobalTriggerListener.java
+END
+SchedulerManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/SchedulerManagerImpl.java
+END
+ClassFileNameFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/ClassFileNameFilter.java
+END
+JobDetailWrapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/JobDetailWrapperImpl.java
+END
+quartz.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/quartz.properties
+END
+NavigableEventLogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/NavigableEventLogListener.java
+END
+DelayedInvocationReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/DelayedInvocationReader.java
+END

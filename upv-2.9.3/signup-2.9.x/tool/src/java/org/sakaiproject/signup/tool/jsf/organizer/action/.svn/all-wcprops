@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action
+END
+RemoveWaiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action/RemoveWaiter.java
+END
+CancelRestoreTimeslot.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action/CancelRestoreTimeslot.java
+END
+CreateSitesGroups.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action/CreateSitesGroups.java
+END
+EditMeeting.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action/EditMeeting.java
+END
+CancelAttendee.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action/CancelAttendee.java
+END
+CreateMeetings.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action/CreateMeetings.java
+END
+MoveAttendee.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action/MoveAttendee.java
+END
+AddAttendee.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action/AddAttendee.java
+END
+SignupAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action/SignupAction.java
+END
+AddWaiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action/AddWaiter.java
+END
+SwapAttendee.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action/SwapAttendee.java
+END
+LockUnlockTimeslot.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action/LockUnlockTimeslot.java
+END
+ReplaceAttendee.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/action/ReplaceAttendee.java
+END

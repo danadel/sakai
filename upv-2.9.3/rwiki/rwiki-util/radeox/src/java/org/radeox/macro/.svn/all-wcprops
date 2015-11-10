@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro
+END
+ApiMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/ApiMacro.java
+END
+CodeMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/CodeMacro.java
+END
+BaseMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/BaseMacro.java
+END
+RfcMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/RfcMacro.java
+END
+HelloWorldMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/HelloWorldMacro.java
+END
+PluginRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/PluginRepository.java
+END
+Preserved.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/Preserved.java
+END
+Macro.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/Macro.java
+END
+MacroRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/MacroRepository.java
+END
+MailToMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/MailToMacro.java
+END
+TableMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/TableMacro.java
+END
+AsinMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/AsinMacro.java
+END
+BaseLocaleMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/BaseLocaleMacro.java
+END
+IsbnMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/IsbnMacro.java
+END
+FilePathMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/FilePathMacro.java
+END
+QuoteMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/QuoteMacro.java
+END
+MacroListMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/MacroListMacro.java
+END
+LocalePreserved.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/LocalePreserved.java
+END
+LinkMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/LinkMacro.java
+END
+Repository.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/Repository.java
+END
+LocaleMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/LocaleMacro.java
+END
+ApiDocMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/ApiDocMacro.java
+END
+PluginLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/PluginLoader.java
+END
+XrefMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/XrefMacro.java
+END
+InterWikiMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/InterWikiMacro.java
+END
+MacroLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/MacroLoader.java
+END

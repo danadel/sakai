@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/events
+END
+TriggerEventManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/events/TriggerEventManagerImpl.java
+END
+TriggerEventImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/events/TriggerEventImpl.java
+END

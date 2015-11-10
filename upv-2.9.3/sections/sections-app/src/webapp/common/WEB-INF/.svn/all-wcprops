@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/common/WEB-INF
+END
+faces-application.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/common/WEB-INF/faces-application.xml
+END
+faces-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/common/WEB-INF/faces-beans.xml
+END
+spring-ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/common/WEB-INF/spring-ui.xml
+END
+faces-navigation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/webapp/common/WEB-INF/faces-navigation.xml
+END

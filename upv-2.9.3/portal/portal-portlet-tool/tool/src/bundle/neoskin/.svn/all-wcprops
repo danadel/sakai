@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-portlet-tool/tool/src/bundle/neoskin
+END
+macros.vm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-portlet-tool/tool/src/bundle/neoskin/macros.vm
+END
+edit.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-portlet-tool/tool/src/bundle/neoskin/edit.vm
+END
+help.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-portlet-tool/tool/src/bundle/neoskin/help.vm
+END
+view.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-portlet-tool/tool/src/bundle/neoskin/view.vm
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api
+END
+StoredState.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/StoredState.java
+END
+Portal.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/Portal.java
+END
+SiteNeighbourhoodService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/SiteNeighbourhoodService.java
+END
+PortalRenderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/PortalRenderContext.java
+END
+PortletApplicationDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/PortletApplicationDescriptor.java
+END
+PortalHandlerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/PortalHandlerException.java
+END
+EditorRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/EditorRegistry.java
+END
+BaseEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/BaseEditor.java
+END
+PortalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/PortalService.java
+END
+PageFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/PageFilter.java
+END
+PortalSiteHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/PortalSiteHelper.java
+END
+Editor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/Editor.java
+END
+PortalRenderEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/PortalRenderEngine.java
+END
+PortletDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/PortletDescriptor.java
+END
+SiteView.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/SiteView.java
+END
+PortalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/PortalHandler.java
+END
+StyleAbleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-api/api/src/java/org/sakaiproject/portal/api/StyleAbleProvider.java
+END

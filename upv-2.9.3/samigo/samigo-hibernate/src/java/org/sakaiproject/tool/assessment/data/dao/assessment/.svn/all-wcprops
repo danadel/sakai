@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/316693/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment
+END
+PublishedAssessment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/131695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedAssessment.hbm.xml
+END
+AssessmentBaseData.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/316693/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/AssessmentBaseData.java
+END
+PublishedAssessmentData.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/131695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedAssessmentData.java
+END
+AssessmentData.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/316693/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/AssessmentData.java
+END
+PublishedFeedback.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedFeedback.java
+END
+AssessmentMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/AssessmentMetaData.java
+END
+PublishedEvaluationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedEvaluationModel.java
+END
+ItemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/314216/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/ItemData.java
+END
+EvaluationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/EvaluationModel.java
+END
+PublishedItemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/314216/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedItemData.java
+END
+FavoriteColChoicesItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/FavoriteColChoicesItem.java
+END
+PublishedAssessmentAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedAssessmentAttachment.java
+END
+AssessmentAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/AssessmentAttachment.java
+END
+PublishedSectionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedSectionData.java
+END
+SectionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/SectionData.java
+END
+ItemMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/ItemMetaData.java
+END
+FavoriteColChoices.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/FavoriteColChoices.hbm.xml
+END
+PublishedItemMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedItemMetaData.java
+END
+PublishedAccessControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/131695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedAccessControl.java
+END
+ItemText.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/ItemText.java
+END
+PublishedItemText.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedItemText.java
+END
+PublishedAnswerFeedback.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedAnswerFeedback.java
+END
+AnswerFeedback.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/AnswerFeedback.java
+END
+AssessmentBase.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/131836/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/AssessmentBase.hbm.xml
+END
+PublishedSectionMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedSectionMetaData.java
+END
+SectionMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/SectionMetaData.java
+END
+ItemAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/ItemAttachment.java
+END
+PublishedItemAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedItemAttachment.java
+END
+AssessmentTemplateData.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/131836/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/AssessmentTemplateData.java
+END
+FavoriteColChoices.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/FavoriteColChoices.java
+END
+ItemData.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/131824/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/ItemData.hbm.xml
+END
+PublishedItemData.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedItemData.hbm.xml
+END
+PublishedSectionAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedSectionAttachment.java
+END
+SectionAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/SectionAttachment.java
+END
+ItemHistorical.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/131824/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/ItemHistorical.java
+END
+PublishedMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedMetaData.java
+END
+PublishedAttachmentData.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedAttachmentData.java
+END
+AttachmentData.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/AttachmentData.java
+END
+PublishedSecuredIPAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedSecuredIPAddress.java
+END
+SecuredIPAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/SecuredIPAddress.java
+END
+AssessmentFeedback.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/AssessmentFeedback.java
+END
+PublishedAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedAnswer.java
+END
+Answer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/Answer.java
+END
+ItemType.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/ItemType.java
+END
+AssessmentTemplateSharedData.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/131836/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/AssessmentTemplateSharedData.java
+END
+ItemFeedback.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/ItemFeedback.java
+END
+PublishedItemFeedback.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedItemFeedback.java
+END
+AssessmentAccessControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/131695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/assessment/AssessmentAccessControl.java
+END

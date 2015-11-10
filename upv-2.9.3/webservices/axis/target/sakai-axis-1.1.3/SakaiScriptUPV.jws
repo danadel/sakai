@@ -1,0 +1,1091 @@
+/*
+ *   SakaiScript.jws - updated for Sakai 2.1
+ *
+ */
+ 
+import java.util.Date;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Iterator;
+import java.util.Set;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Collection;
+import java.util.Vector;
+import org.sakaiproject.tool.api.Session;
+import org.sakaiproject.tool.cover.SessionManager;
+
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+
+import org.sakaiproject.component.cover.ComponentManager;
+import org.sakaiproject.authz.api.AuthzGroup;
+import org.sakaiproject.authz.api.GroupProvider;
+import org.sakaiproject.authz.api.Role;
+import org.sakaiproject.component.cover.ServerConfigurationService;
+import org.sakaiproject.content.api.ContentResource;
+import org.sakaiproject.coursemanagement.api.CourseManagementService;
+import org.sakaiproject.coursemanagement.api.Section;
+import org.sakaiproject.coursemanagement.api.Membership;
+import org.sakaiproject.user.cover.UserDirectoryService;
+import org.sakaiproject.tool.api.Tool;
+import org.sakaiproject.site.api.Group;
+import org.sakaiproject.site.api.ToolConfiguration;
+import org.sakaiproject.site.api.Site;
+import org.sakaiproject.site.api.SitePage;
+import org.sakaiproject.user.api.UserEdit;
+import org.sakaiproject.authz.cover.AuthzGroupService;
+import org.sakaiproject.user.api.User;
+import org.sakaiproject.user.api.UserEdit;
+import org.sakaiproject.user.api.UserNotDefinedException;
+import org.sakaiproject.user.api.UserPermissionException;
+import org.sakaiproject.user.api.UserLockedException;
+import org.sakaiproject.user.api.UserAlreadyDefinedException;
+import org.sakaiproject.tool.cover.ToolManager;
+import org.sakaiproject.site.cover.SiteService;
+import org.sakaiproject.authz.cover.SecurityService;
+import org.sakaiproject.site.api.SiteService.SelectionType;
+import org.sakaiproject.site.api.SiteService.SortType;
+import org.sakaiproject.site.util.SiteConstants;
+import org.sakaiproject.alias.cover.AliasService;
+import org.sakaiproject.calendar.cover.CalendarService;
+import org.sakaiproject.calendar.api.Calendar;
+import org.sakaiproject.calendar.api.CalendarEdit;
+import org.sakaiproject.service.gradebook.shared.GradebookService;
+import org.sakaiproject.service.gradebook.shared.Assignment;
+import org.sakaiproject.tool.gradebook.Gradebook;
+import org.sakaiproject.exception.IdUnusedException;
+import org.sakaiproject.exception.IdUsedException;
+import org.sakaiproject.content.cover.ContentHostingService;
+import org.sakaiproject.content.api.ContentResourceEdit;
+import org.sakaiproject.event.cover.NotificationService;
+import org.sakaiproject.db.api.SqlService;
+import org.sakaiproject.content.api.ContentCollectionEdit;
+import org.sakaiproject.entity.api.ResourceProperties;
+import org.sakaiproject.authz.api.Member;
+import org.sakaiproject.tool.assessment.data.dao.questionpool.QuestionPoolItemData;
+import org.sakaiproject.tool.assessment.data.ifc.assessment.ItemAttachmentIfc;
+import org.sakaiproject.tool.assessment.facade.ItemFacade;
+import org.sakaiproject.tool.assessment.facade.QuestionPoolFacade;
+import org.sakaiproject.tool.assessment.services.ItemService;
+import org.sakaiproject.tool.assessment.services.PersistenceService;
+import org.sakaiproject.tool.assessment.services.QuestionPoolService;
+import org.sakaiproject.tool.assessment.services.assessment.AssessmentService;
+
+import java.util.Properties;
+import org.apache.axis.AxisFault;
+
+import org.sakaiproject.util.Xml;
+import org.w3c.dom.Document;
+import org.w3c.dom.Node;
+
+public class SakaiScriptUPV {
+	
+	private static final Log LOG = LogFactory.getLog("org.sakaiproject.axis.SakaiScriptUPV");
+	private static final String ADMIN_SITE_REALM = "/site/!admin";
+	
+	
+private Session establishSession(String id) throws AxisFault 
+{
+	Session s = SessionManager.getSession(id);
+	
+	if (s == null)
+	{
+		throw new AxisFault("Session "+id+" is not active");
+	}
+	s.setActive();
+	SessionManager.setCurrentSession(s);
+	return s;
+}
+
+public String checkSession(String id) {
+	Session s = SessionManager.getSession(id);
+	if (s == null)
+	{
+		return "null";
+	}
+	else
+	{
+		return id;
+	}
+}
+
+public String addPropertytoSite( String sessionid, String siteid, String property,String value) throws AxisFault
+{	
+        System.out.println("WSUPV: addPropertytoSite siteid::"+siteid+" property:"+property+" value:"+value);
+
+        Session session = establishSession(sessionid);
+
+	try {
+             //Obtenemos el site
+             Site siteEdit = null;
+             siteEdit = SiteService.getSite(siteid);
+	     siteEdit.getProperties().addProperty(property,value);
+	     SiteService.save(siteEdit);
+	}
+	catch (Exception e) {  
+	 return e.getClass().getName() + " : " + e.getMessage();
+	}
+	return "success";
+}
+	
+public String addNewSiteWithProvider( String sessionid, String siteid, String title, String description, String shortdesc, String infourl, String skin, String type, String provider,String term, String asiupv, String propietario,String aluficticioid, String aluficticiopwd) throws AxisFault
+{	
+	
+        System.out.println("WSUPV: addNewSiteWithProvider siteid::"+siteid+" title:"+title+" provider:"+provider);
+
+        Session session = establishSession(sessionid);
+
+	try {
+
+		Site siteEdit = null;
+		siteEdit = SiteService.addSite(siteid, type);
+		siteEdit.setTitle(title);
+		siteEdit.setDescription(description);
+		siteEdit.setShortDescription(shortdesc);
+		//siteEdit.setIconUrl(iconurl);
+		siteEdit.setInfoUrl(infourl);
+		siteEdit.setJoinable(false);
+		//siteEdit.setJoinerRole(joinerrole);
+		siteEdit.setPublished(true);
+		siteEdit.setPubView(false);
+		//siteEdit.setSkin(skin);
+		siteEdit.setType(type);
+        siteEdit.setProviderGroupId(provider);
+		siteEdit.getProperties().addProperty("term",term);
+        siteEdit.getProperties().addProperty("asiupv",asiupv);
+        siteEdit.getProperties().addProperty("propietario",propietario);
+        siteEdit.getProperties().addProperty("Aluficticiouser",aluficticioid);
+        siteEdit.getProperties().addProperty("Aluficticiopwd",aluficticiopwd);
+        String epigrafe="type.upv.otr";
+        if (propietario!=null){
+        	if(propietario.equals("CFP")){
+				if (siteid.startsWith("CFP_197_")) {						
+					epigrafe = "type.upv.ufa";
+				}else if (siteid.startsWith("CFP_301_")) {						
+					epigrafe = "type.upv.ice";
+				}else if (siteid.startsWith("CFP_227_")) {						
+					epigrafe = "type.upv.cdl";
+				}else{
+					epigrafe = "type.upv.cfp";
+				}
+        	}else if ((propietario.equals("ALU")) || (propietario.equals("DOC")) || (propietario.equals("GRA")) || (propietario.equals("FORD"))){
+					epigrafe = "type.upv.asi";        		
+        	}else if (propietario.equals("CDL")){
+					epigrafe = "type.upv.cdl";        	
+        	}else if (propietario.equals("MAS")){
+					epigrafe = "type.upv.mas";        	
+        	}
+        }     
+        siteEdit.getProperties().addProperty("epigrafe",epigrafe);           
+        //No queremos que el usuario admin se meta en este site
+        siteEdit.removeMember("admin");
+		SiteService.save(siteEdit);
+	}
+	catch (Exception e) {  
+	 return e.getClass().getName() + " : " + e.getMessage();
+	}
+	return "success";
+}
+
+public String addNewSiteWithProviderAndCalendar( String sessionid, String siteid, String title, String description, String shortdesc, String infourl, String skin, String type, String provider,String term, String asiupv, String propietario,String aluficticioid, String aluficticiopwd, String calendarId) throws AxisFault
+{	
+	
+        System.out.println("WSUPV: addNewSiteWithProviderAndCalendar siteid:"+siteid+" title:"+title+" provider:"+provider + " calendar:" + calendarId);
+
+        Session session = establishSession(sessionid);
+
+	try {
+
+		Site siteEdit = null;
+		siteEdit = SiteService.addSite(siteid, type);
+		siteEdit.setTitle(title);
+		siteEdit.setDescription(description);
+		siteEdit.setShortDescription(shortdesc);
+		//siteEdit.setIconUrl(iconurl);
+		siteEdit.setInfoUrl(infourl);
+		siteEdit.setJoinable(false);
+		//siteEdit.setJoinerRole(joinerrole);
+		siteEdit.setPublished(true);
+		siteEdit.setPubView(false);
+		//siteEdit.setSkin(skin);
+		siteEdit.setType(type);
+        siteEdit.setProviderGroupId(provider);
+		siteEdit.getProperties().addProperty("term",term);
+        siteEdit.getProperties().addProperty("asiupv",asiupv);
+        siteEdit.getProperties().addProperty("propietario",propietario);
+        siteEdit.getProperties().addProperty("Aluficticiouser",aluficticioid);
+        siteEdit.getProperties().addProperty("Aluficticiopwd",aluficticiopwd);
+        //Permitimos que se exporte el calendario del site en formato ical
+		siteEdit.getProperties().addProperty("iCalAlias",setCalendarSiteExport(siteid,calendarId));
+        String epigrafe="type.upv.otr";
+        if (propietario!=null){
+        	if(propietario.equals("CFP")){
+				if (siteid.startsWith("CFP_197_")) {						
+					epigrafe = "type.upv.ufa";
+				}else if (siteid.startsWith("CFP_301_")) {						
+					epigrafe = "type.upv.ice";
+				}else if (siteid.startsWith("CFP_227_")) {						
+					epigrafe = "type.upv.cdl";
+				}else{
+					epigrafe = "type.upv.cfp";
+				}
+        	}else if ((propietario.equals("ALU")) || (propietario.equals("DOC")) || (propietario.equals("GRA")) || (propietario.equals("FORD"))){
+					epigrafe = "type.upv.asi";        		
+        	}else if (propietario.equals("CDL")){
+					epigrafe = "type.upv.cdl";        	
+        	}else if (propietario.equals("MAS")){
+					epigrafe = "type.upv.mas";        	
+        	}
+        }     
+        siteEdit.getProperties().addProperty("epigrafe",epigrafe);           
+        //No queremos que el usuario admin se meta en este site
+        siteEdit.removeMember("admin");
+        
+		SiteService.save(siteEdit);
+	}
+	catch (Exception e) {  
+	 return e.getClass().getName() + " : " + e.getMessage();
+	}
+	return "success";
+}
+private String setCalendarSiteExport( String siteid,String calendarId) {
+
+
+	System.out.println("------------- SakaiScriptUPV -------------");	
+    String calId = "/calendar/calendar/"+ siteid +"/main"; 
+    System.out.println("	> calId: " + calId);
+    Calendar calendarObj = null;
+    CalendarEdit cEdit = null;
+    try{
+        calendarObj = CalendarService.getCalendar(calId);
+        
+	    // first clear all existing 
+	    AliasService.removeTargetAliases(calendarObj.getReference());
+	    AliasService.setAlias(calendarId, calendarObj.getReference());
+	
+	        // make sure export is enabled
+	    CalendarService.setExportEnabled( calId, true );
+	    return calendarId;
+	}catch(IdUnusedException iude){
+		System.out.println("	> No existe calendario calId: " + calId + ". Lo creamos");	
+		try{
+        	// Site no tiene objeto Calendar asociado
+        	cEdit = CalendarService.addCalendar(calId);
+        	CalendarService.commitCalendar(cEdit);
+        	calendarObj = CalendarService.getCalendar(calId);
+		    // first clear all existing 
+		    AliasService.removeTargetAliases(calendarObj.getReference());
+		    AliasService.setAlias(calendarId, calendarObj.getReference());		
+			// make sure export is enabled
+		    CalendarService.setExportEnabled( calId, true );
+		    return calendarId;
+		}catch(Exception e2){e2.printStackTrace(); return null;}
+	}catch (Exception e){
+	   e.printStackTrace();
+       System.out.println("WSUPV Calendar alias enabling failed"+ e.getMessage());
+	   return "ERROR" + e.getMessage();
+    }
+}
+
+public String setCalendarSiteExport(String sessionid, String siteid,String calendarId) throws AxisFault{
+
+	Session session = establishSession(sessionid);
+
+	System.out.println("------------- SakaiScriptUPV -------------");	
+    String calId = "/calendar/calendar/"+ siteid +"/main"; 
+    System.out.println("	> calId: " + calId);
+    Calendar calendarObj = null;
+    CalendarEdit cEdit = null;
+    try{
+        calendarObj = CalendarService.getCalendar(calId);
+        if (calendarObj == null){
+        	// Site no tiene objeto Calendar asociado
+        	cEdit = CalendarService.addCalendar(calId);
+        	CalendarService.commitCalendar(cEdit);
+        	calendarObj = CalendarService.getCalendar(calId);
+        }
+        
+
+	    // first clear all existing 
+	    AliasService.removeTargetAliases(calendarObj.getReference());
+	    AliasService.setAlias(calendarId, calendarObj.getReference());
+	
+	        // make sure export is enabled
+	    CalendarService.setExportEnabled( calId, true );
+	    return calendarId;
+	}catch(IdUnusedException iude){
+		iude.printStackTrace();	
+		try{
+        	// Site no tiene objeto Calendar asociado
+        	cEdit = CalendarService.addCalendar(calId);
+        	CalendarService.commitCalendar(cEdit);
+        	calendarObj = CalendarService.getCalendar(calId);
+		    // first clear all existing 
+		    AliasService.removeTargetAliases(calendarObj.getReference());
+		    AliasService.setAlias(calendarId, calendarObj.getReference());		
+			// make sure export is enabled
+		    CalendarService.setExportEnabled( calId, true );
+		    return calendarId;
+		}catch(Exception e2){e2.printStackTrace(); return null;}
+	}catch (Exception e){
+	   e.printStackTrace();
+       System.out.println("WSUPV Calendar alias enabling failed"+ e.getMessage());
+	   return "ERROR" + e.getMessage();
+    }
+}
+
+public String addPagesAndTools(String sessionid, String siteid, String pagetitles, String pagelayouts,String parentpagetitles, String tooltitles,String toolids,String toollayouts) throws AxisFault{
+
+String[] vpagetitle= pagetitles.split(";");
+String[] vpagelayout= pagelayouts.split(";");
+String[] vparentpagetitle= parentpagetitles.split(";");
+String[] vtooltitle= tooltitles.split(";");
+String[] vtoolid= toolids.split(";");
+String[] vtoollayout= toollayouts.split(";");
+
+
+
+System.out.println("WSUPV: addPagesAndTools pagetitles:"+pagetitles);
+System.out.println("WSUPV: addPagesAndTools tooltitles:"+tooltitles);
+
+Session session = establishSession(sessionid);
+
+
+//Obtenemos el Site
+try {
+     //Obtenemos el site
+     Site siteEdit = null;
+     siteEdit = SiteService.getSite(siteid);
+
+     //Recorremos las p�ginas
+     for (int j=0;j<vpagetitle.length;j++){
+	SitePage sitePageEdit = null;
+	sitePageEdit = siteEdit.addPage();
+	sitePageEdit.setTitle(vpagetitle[j]);
+        if (vpagelayout[j].equals("1")) {sitePageEdit.setLayout(1); } else {sitePageEdit.setLayout(0);};
+        //Recorremos las tools
+        for (int k=0;k<vtoolid.length;k++){
+   	   if (vpagetitle[j].equals(vparentpagetitle[k])){
+	    ToolConfiguration tool = sitePageEdit.addTool();
+	    //Tool t = tool.getTool();				
+	    tool.setTool(vtoolid[k], ToolManager.getTool(vtoolid[k]));
+	    tool.setTitle(vtooltitle[k]);         
+            tool.setLayoutHints(vtoollayout[k]); 
+           }
+        }
+     }
+     //Salvamos el site
+     SiteService.save(siteEdit);	
+}
+catch (Exception e) {  
+ e.printStackTrace(); 
+ return e.getClass().getName() + " : " + e.getMessage();
+}
+
+ return "success";
+}
+
+public String updateSiteProvider(String sessionid, String siteid, String provider) throws AxisFault{
+
+String result = "success";
+
+System.out.println("WSUPV");
+System.out.println("WSUPV ------------ SakaiScript.updateSiteProvider-------------");
+System.out.println("WSUPV	> provider:" + provider);
+System.out.println("WSUPV	> siteid:" + siteid);
+
+
+Session session = establishSession(sessionid);
+
+
+//Obtenemos el Site
+try {
+     //Obtenemos el site
+     Site siteEdit = null;
+     System.out.println("WSUPV " + siteid + "(1)");
+     siteEdit = SiteService.getSite(siteid);
+
+     //Actualizamos el provider
+     siteEdit.setProviderGroupId(provider);
+     System.out.println("WSUPV " + siteid + "(2)");
+
+     //Salvamos el site
+     SiteService.save(siteEdit);	
+     System.out.println("WSUPV " + siteid + "(3)");
+
+}
+catch (Exception e) {  
+ e.printStackTrace(); 
+ result =  e.getClass().getName() + " : " + e.getMessage();
+}
+
+ return result;
+}
+
+    public boolean removeSite(String id, String siteId) throws AxisFault 
+    {
+		Session s = establishSession(id);
+		boolean success = false;
+		if (s!=null){
+	    	if (siteId!=null){
+				try{
+					Site site = SiteService.getSite(siteId);
+					if (site!=null){
+				    	SiteService.removeSite(site);
+				    	success = true;
+				    }
+				}catch(Exception e){
+				    //If an exception is launched, skip the site removal
+				}
+			}
+		}
+		return success;
+    }
+
+public String getUserNameWithTokens( String sessionid, String userid ) throws AxisFault
+{
+	Session session = establishSession(sessionid);
+	try {
+		User user = UserDirectoryService.getUserByEid(userid);
+		if (user!=null)
+			return user.getFirstName() + "," + user.getLastName();
+		else
+			return "";
+	} catch (Exception e) {  
+		return "";
+	}	
+}
+
+	public String getGroupsForUserWithTokens( String sessionId, String siteId, String userId ) throws AxisFault
+	{
+		GroupProvider groupProvider = (GroupProvider) ComponentManager.get(org.sakaiproject.authz.api.GroupProvider.class);
+		org.sakaiproject.authz.api.AuthzGroupService authzGroupService = (org.sakaiproject.authz.api.AuthzGroupService) ComponentManager.get(org.sakaiproject.authz.api.AuthzGroupService.class);
+		CourseManagementService cms = (CourseManagementService) ComponentManager.get(org.sakaiproject.coursemanagement.api.CourseManagementService.class);
+		
+		String strGroups = "";
+		Session session = establishSession(sessionId);
+		try {
+			Site site = SiteService.getSite(siteId);
+			if (site == null) return "ERROR: Site " + siteId + " not exists or cannot be obtained";
+
+			// Get external realm id
+			String realmId = site.getReference(siteId);
+			AuthzGroup realm = authzGroupService.getAuthzGroup(realmId);
+			String id = realm.getProviderGroupId();
+		
+			// Get provider course list
+			Vector<String> providerCourseList = new Vector<String>();
+		
+			// Break Provider Id into course id parts
+			String[] courseIds = groupProvider.unpackId(id);
+		
+			// Iterate through course ids
+			for (int i=0; i<courseIds.length; i++) {
+				String courseId = (String) courseIds[i];
+	
+				providerCourseList.add(courseId);
+			}
+			
+			for (Iterator<String> i=providerCourseList.iterator(); i.hasNext();)
+			{
+				String providerCourseEid = (String) i.next();
+				Section section = cms.getSection(providerCourseEid);
+				Set memberships = cms.getSectionMemberships(providerCourseEid);
+				for (Iterator<Membership> mIterator = memberships.iterator();mIterator.hasNext();)
+				{
+					Membership m = (Membership) mIterator.next();
+					if (userId.equals(m.getUserId()))
+					{
+						strGroups = strGroups.concat(section.getTitle()).concat(", ");
+						break;
+					}
+				}
+			}
+			if (!strGroups.isEmpty()) {
+				strGroups = strGroups.substring(0, strGroups.length()-2);
+			}
+
+		} catch (Exception e) {  
+			return "ERROR: General failure " + e.getMessage();
+		}	
+		return strGroups;
+	}
+
+public String removeToolFromSite( String sessionid, String siteId, String toolId ) throws AxisFault
+{
+	Session session = establishSession(sessionid);
+	try {
+		Site siteEdit = SiteService.getSite(siteId);
+		if (siteEdit!=null){
+			ToolConfiguration tool = siteEdit.getToolForCommonId(toolId);
+			if (tool!=null){
+				SitePage page = tool.getContainingPage();
+				//Borramos la herramienta
+				page.removeTool(tool);
+				SiteService.save(siteEdit);
+				return "success";
+			}else{
+				return "ERROR: Tool " + toolId + " not exists or cannot be obtained from Site " + siteId;
+			}
+		}else{
+			return "ERROR: Site " + siteId + " not exists or cannot be obtained";
+		}
+	} catch (Exception e) {  
+			return "ERROR: General failure " + e.getMessage();
+	}	
+}
+
+	public String addSectionToSite(String sessionid, String siteid, String section) throws AxisFault {
+
+		String result = "success";
+	
+		System.out.println("WSUPV");
+		System.out.println("WSUPV ------------ SakaiScript.addSectionToSite-------------");
+		System.out.println("WSUPV	> section:" + section);
+		System.out.println("WSUPV	> siteid:" + siteid);
+	
+		Session session = establishSession(sessionid);
+	
+	
+		// Obtenemos el Site
+		try {
+	     	//Obtenemos el site
+	     	Site siteEdit = null;
+	     	System.out.println("WSUPV " + siteid + "(1)");
+	     	siteEdit = SiteService.getSite(siteid);
+	
+	     	// adding a new group
+	        Group group = siteEdit.addGroup();
+	        group.setTitle(section);
+            group.setDescription(section); 
+	        group.getProperties().addProperty(SiteConstants.GROUP_PROP_WSETUP_CREATED, Boolean.TRUE.toString());
+	
+	     	//Salvamos el site
+	     	SiteService.save(siteEdit);	
+	     	System.out.println("WSUPV " + siteid + "(3)");
+		}
+		catch (Exception e) {  
+	 		e.printStackTrace(); 
+	 		result =  e.getClass().getName() + " : " + e.getMessage();
+		}
+	
+	 	return result;
+	}
+
+/*
+*   GRADEBOOK SERVICES
+*/
+public String isAssignmentDefinedInSiteGradebook(String sessionId, String siteId, String asnName) throws AxisFault{
+  Session session = establishSession(sessionId);
+  
+  try {
+      
+      GradebookService aGradebookService = (GradebookService) ComponentManager.get("org.sakaiproject.service.gradebook.GradebookService");
+      
+      Gradebook gb = (Gradebook) aGradebookService.getGradebook(siteId);
+      
+      if (aGradebookService.isAssignmentDefined( gb.getUid(), asnName))
+      	return "success";
+      else 
+      	return "failure";
+
+  } catch (Exception e) {
+    return "failure";
+  }
+}
+public String addAssignmentToSiteGradebook(String sessionId, String siteId, String asnName, String points, String dueDate) throws AxisFault {
+  Session session = establishSession(sessionId);
+  
+  try {
+      
+      GradebookService aGradebookService = (GradebookService) ComponentManager.get("org.sakaiproject.service.gradebook.GradebookService");
+      
+      Gradebook gb = (Gradebook) aGradebookService.getGradebook(siteId);
+      
+      if (!aGradebookService.isAssignmentDefined( gb.getUid(), asnName)){
+        Assignment asn = new Assignment();
+        asn.setName(asnName);
+        asn.setPoints(Double.parseDouble(points));
+        asn.setDueDate(new java.util.Date(dueDate));
+        aGradebookService.addAssignment( gb.getUid(), asn);
+      	return "success";
+      }else{ 
+      	return "failure: ya está";
+      }
+
+  } catch (Exception e) {
+    return "failure: " + e.getMessage();
+  }
+}
+public String getCourseGrades(String sessionId, String siteId) throws AxisFault
+{
+  Session session = establishSession(sessionId);
+
+
+  String gradeResult = "";
+  try {
+      
+      GradebookService aGradebookService = (GradebookService) ComponentManager.get("org.sakaiproject.service.gradebook.GradebookService");
+      
+      Gradebook gb = (Gradebook) aGradebookService.getGradebook(siteId);
+
+      if (gb.isCourseGradeDisplayed()) {
+        // get the calculated grades
+        Map<String, String> cCourseGrade = aGradebookService.getCalculatedCourseGrade(siteId); 
+        Map<String, String> eCourseGrade = aGradebookService.getEnteredCourseGrade(siteId);
+
+        // override any grades the instructor has manually set
+        for (Map.Entry<String, String> entry : eCourseGrade.entrySet()) {
+          cCourseGrade.put(entry.getKey(), entry.getValue());
+        }
+
+        Document dom = Xml.createDocument();
+        Node course = dom.createElement("course");
+        dom.appendChild(course);
+
+        Node course_id = dom.createElement("course_id");
+        course.appendChild(course_id);
+        course_id.appendChild(dom.createTextNode(siteId));
+
+        for (Map.Entry<String, String> entry : cCourseGrade.entrySet()) {
+          Node student = dom.createElement("student");
+          course.appendChild(student);
+
+          Node student_id = dom.createElement("student_id");
+          System.out.println(" > student: add");
+          student.appendChild(student_id);
+          student_id.appendChild(dom.createTextNode(entry.getKey()));
+
+          Node course_grade = dom.createElement("course_grade");
+          student.appendChild(course_grade);
+
+          course_grade.appendChild(dom.createTextNode(entry.getValue()));
+        }
+
+        gradeResult = Xml.writeDocumentToString(dom);
+      } else {
+        Document dom = Xml.createDocument();
+        Node error = dom.createElement("error");
+        error.appendChild(dom.createTextNode("Grades for course "+siteId+" have not been released to students yet inside Sakai."));
+        dom.appendChild(error);
+        gradeResult = Xml.writeDocumentToString(dom);
+      }
+  } catch (Exception e) {
+    return e.getClass().getName() + " : " + e.getMessage();
+  }
+
+  return gradeResult;
+}
+/**
+ * Gets list of ALL users in an authzgroup
+ *
+ * 
+ * @param	sessionid		the id of a valid session
+ * @param	authzgroupid	the id of the authzgroup, site or group you want to get the users in (if site: /site/SITEID, if group: /site/SITEID/group/GROUPID)
+ * @return					xml doc of the list of users, display name and roleid
+ * @throws	AxisFault		returns <exception /> string if exception encountered	
+ *
+ *
+ */
+public String getUsersInAuthzGroup(String sessionid, String authzgroupid) throws AxisFault {
+	
+	Session s = establishSession(sessionid);
+	
+	if (ADMIN_SITE_REALM.equalsIgnoreCase(authzgroupid) && !SecurityService.isSuperUser(s.getUserId())) {
+		throw new AxisFault("WS getUsersInAuthzGroup(): Permission denied. Restricted to super users.");
+	}
+
+	try {
+		
+		AuthzGroup azg = AuthzGroupService.getAuthzGroup(authzgroupid);
+		
+		Document dom = Xml.createDocument();
+		Node list = dom.createElement("list");
+		dom.appendChild(list);
+		
+		for (Iterator i = azg.getUsers().iterator(); i.hasNext(); ) {
+			String id = (String) i.next();
+			try {
+				User user = UserDirectoryService.getUser(id);
+				
+				//wrapping user node
+				Node userNode = dom.createElement("user");
+				
+				//id child node
+				Node userId = dom.createElement("id");
+				userId.appendChild(dom.createTextNode(user.getEid()));
+				
+				//name child node
+				Node userName = dom.createElement("name");
+				userName.appendChild(dom.createTextNode(user.getLastName() + ", " + user.getFirstName()));
+				
+				//role child node
+				Node userRole = dom.createElement("role");
+				String role = azg.getUserRole(id).getId();
+				userRole.appendChild(dom.createTextNode(role));
+				
+				//add all clicd nodes into the parent node
+				userNode.appendChild(userId);
+				userNode.appendChild(userName);
+				userNode.appendChild(userRole);
+				list.appendChild(userNode);
+				
+			} catch (Exception e) {
+				//Exception with this user, log the error, skip this user and continue to the next
+			}
+		}
+		return Xml.writeDocumentToString(dom);
+	}
+	catch (Exception e) {
+		return "<exception/>";
+	}
+}
+public String updateResourceTypeToURL(String sessionid, String resourceId) throws AxisFault {
+  System.out.println("-------------------- updateResourceTypeToURL -------------------");
+  System.out.println("	> resourceId: " + resourceId);
+  Session session = establishSession(sessionid);
+  try{
+		ContentResourceEdit res = ContentHostingService.editResource(resourceId);
+		res.setContentType("text/url");
+		res.setResourceType("org.sakaiproject.content.types.urlResource");
+		ContentHostingService.commitResource(res, NotificationService.NOTI_NONE);
+		return "sucess";
+  }catch(Exception e){
+  	return "failure";
+  }
+}
+public String changeUserPassword(String sessionid, String userid, String pw) throws AxisFault {
+	Session session = establishSession(sessionid);
+	try{
+		UserEdit edit = UserDirectoryService.editUser(userid);
+		edit.setPassword(pw);
+		UserDirectoryService.commitEdit(edit);
+	}catch(UserNotDefinedException ende){
+		ende.printStackTrace();
+		return "failure " + ende.getMessage();
+	}catch(UserPermissionException upe){
+		upe.printStackTrace();
+		return "failure " + upe.getMessage();
+	}catch (UserLockedException ule){
+		ule.printStackTrace();
+		return "failure " + ule.getMessage();
+	}catch (UserAlreadyDefinedException e){
+		e.printStackTrace();
+		return "failure " + e.getMessage();
+	}
+	return "success";
+}
+	
+	public String createPrivateCollectionsToUsers(String sessionId, String folder) throws AxisFault {
+	
+		Session session = establishSession(sessionId);
+			
+		if (!"admin".equals(session.getUserId())) {
+			throw new AxisFault("Solo el usuario admin tiene permiso para invocar este servicio web");
+		}
+		
+		try {
+			SqlService sqlService = (SqlService)ComponentManager.get(SqlService.class);
+	        
+	        LOG.info("Start process ---> WS.createPrivateCollectionsToUsers()");
+	         
+	        // Todas los sites publicados, no de usuario y no especiales
+	        List<String> sites = sqlService.dbRead("select SITE_ID from SAKAI_SITE where IS_USER=0 and IS_SPECIAL=0");
+	        
+	        LOG.info("Numero de sites a procesar: " + sites.size());
+	        
+	        int nsites = 0;
+	        for (String site : sites) {
+	        	nsites++;
+	        	ContentCollectionEdit edit = null;
+	        	try {
+					edit = ContentHostingService.editCollection("/group/" + site + "/"); // comprobamos que existe la coleccion privada del site
+					ContentCollectionEdit collection = ContentHostingService.addCollection("/group/" + site + "/" + folder + "/");
+					
+					collection.getPropertiesEdit().addProperty(ResourceProperties.PROP_DISPLAY_NAME, folder);
+					collection.getPropertiesEdit().addProperty(ResourceProperties.PROP_HIDDEN_WITH_ACCESSIBLE_CONTENT, "true");
+					
+					ContentHostingService.commitCollection(collection);
+					
+				} catch (IdUnusedException e) {
+					// Probablemente la collection no existe, ignoramos 
+					LOG.warn("No existe collection en el site: " + site + ", error: " + e.toString());
+				} catch (IdUsedException e) {
+					// Probablemente la collection private ya se ha creado, ignoramos
+					LOG.warn("La coleccion ya existe: " + site + ", error: " + e.toString());
+				} catch (Exception e) {
+					// Otro error al crear la coleccion
+					LOG.warn("Error al crear la coleccion: " + site + ", error: " + e.toString());
+				} finally {
+					if (edit != null) ContentHostingService.cancelCollection(edit);
+				}
+				if (nsites % 1000 == 0) 
+					LOG.info("Procesados " + nsites + " sites de " + sites.size());
+	        }
+        } catch (Exception e) {
+			throw new AxisFault("WS createPrivateCollectionsToUsers(): Error: " + e.getMessage());
+		} 
+		
+		LOG.info("End process ---> WS.createPrivateCollectionsToUsers()");
+        
+		return "success";
+	}
+	
+	public String createPrivateCollection(String sessionId, String folder, String siteId) throws AxisFault {
+	
+		Session session = establishSession(sessionId);
+			
+		if (!"admin".equals(session.getUserId())) {
+			throw new AxisFault("Solo el usuario admin tiene permiso para invocar este servicio web");
+		}
+		
+		try {
+			LOG.info("Start process ---> WS.createPrivateCollection()");
+	        
+        	ContentCollectionEdit edit = null;
+        	try {
+				edit = ContentHostingService.editCollection("/group/" + siteId + "/"); // comprobamos que existe la coleccion privada del site
+				ContentCollectionEdit collection = ContentHostingService.addCollection("/group/" + siteId + "/" + folder + "/");
+				
+				collection.getPropertiesEdit().addProperty(ResourceProperties.PROP_DISPLAY_NAME, folder);
+				collection.getPropertiesEdit().addProperty(ResourceProperties.PROP_HIDDEN_WITH_ACCESSIBLE_CONTENT, "true");
+				
+				ContentHostingService.commitCollection(collection);
+				
+			} catch (IdUnusedException e) {
+				// Probablemente la collection no existe, ignoramos 
+				LOG.warn("No existe collection en el site: " + siteId + ", error: " + e.toString());
+			} catch (IdUsedException e) {
+				// Probablemente la collection private ya se ha creado, ignoramos
+				LOG.warn("La coleccion ya existe: " + siteId + ", error: " + e.toString());
+			} catch (Exception e) {
+				// Otro error al crear la coleccion
+				LOG.warn("Error al crear la coleccion: " + siteId + ", error: " + e.toString());
+			} finally {
+				if (edit != null) ContentHostingService.cancelCollection(edit);
+			}
+				
+        } catch (Exception e) {
+			throw new AxisFault("WS createPrivateCollection(): Error: " + e.getMessage());
+		} 
+		        
+		return "success";
+	}
+	
+	public String recalcularRealms(String sessionId, String siteId) throws AxisFault {
+		org.sakaiproject.authz.api.AuthzGroupService authzGroupService = (org.sakaiproject.authz.api.AuthzGroupService) ComponentManager.get(org.sakaiproject.authz.api.AuthzGroupService.class);
+		
+		Session session = establishSession(sessionId);
+		
+		String realmId = SiteService.siteReference(siteId);
+		
+		try {
+			AuthzGroup realm = authzGroupService.getAuthzGroup(realmId);
+
+			AuthzGroupService.save(realm);
+		}	
+		catch (Exception e)
+		{
+			LOG.error("WS recalcularRealms: " + e.getMessage());
+			return "error";
+		}
+		
+		return "success";
+	}
+    
+	public String recalcularUnRealm(String sessionId, String realmId) throws AxisFault {
+		org.sakaiproject.authz.api.AuthzGroupService authzGroupService = (org.sakaiproject.authz.api.AuthzGroupService) ComponentManager.get(org.sakaiproject.authz.api.AuthzGroupService.class);
+		
+		Session session = establishSession(sessionId);
+		
+		try {
+			AuthzGroup realm = authzGroupService.getAuthzGroup(realmId);
+
+			AuthzGroupService.save(realm);
+		}	
+		catch (Exception e)
+		{
+			LOG.error("WS recalcularUnRealm: " + e.getMessage());
+			return "error";
+		}
+		
+		return "success";
+	}
+    
+	//Funcion para activar o desactivar a un usuario en un site directamente
+	public String setMemberStatus(String sessionid, String siteid, String eid, boolean active) throws AxisFault { 
+			org.sakaiproject.authz.api.AuthzGroupService authzGroupService = (org.sakaiproject.authz.api.AuthzGroupService) ComponentManager.get(org.sakaiproject.authz.api.AuthzGroupService.class);
+
+	Session s = establishSession(sessionid); 
+	
+	try {
+		AuthzGroup site = authzGroupService.getAuthzGroup("/site/"+siteid);
+
+		
+		String userid = UserDirectoryService.getUserByEid(eid).getId();
+
+		Member membership = site.getMember(userid);
+
+		if (membership.isActive() && !active) {
+			LOG.error("membership is active but we want it to be inactive");
+			membership.setActive(false);
+		} else if (!membership.isActive() && active) {
+			LOG.error("membership is inactive, but we want it to be active");
+			membership.setActive(true);
+		}
+		authzGroupService.save(site);
+		
+	} catch (Exception e) {
+		LOG.error("WS setMemberStatus(): "+ e.getClass().getName() + " : "+ e.getMessage());
+		return "";
+	}
+	
+	return "success";
+	}
+	
+	/**
+	 * @param listBaterias
+	 * @param siteDest
+	 * @return
+	 */
+	public String changeAttachmentReferences(String sessionId, String listBaterias, String siteDest) throws AxisFault
+	{
+		Session session = establishSession(sessionId);
+		
+		AssessmentService assessmentService = new AssessmentService();
+		QuestionPoolService poolService = new QuestionPoolService();
+		ItemService itemService = new ItemService();
+		
+		String[] baterias = listBaterias.split(";");
+		
+		// Para cada batería
+		for (String qp : baterias) {
+			// Obtenemos los items de la bateria
+			QuestionPoolFacade qpf = poolService.getPool(Long.valueOf(qp), "admin");
+			Iterator<QuestionPoolItemData> iitems = qpf.getQuestionPoolItems().iterator();
+			
+			while (iitems.hasNext()) {
+				// Para cada item
+				QuestionPoolItemData qitem = iitems.next();
+				ItemFacade item = itemService.getItem(qitem.getItemId());
+				
+				// Obtenemos la lista de attachments del item
+			    Iterator<ItemAttachmentIfc> itemAttachmentSet = item.getItemAttachmentSet().iterator();
+				
+			    Set<ItemAttachmentIfc> listAttach = new HashSet<ItemAttachmentIfc>();
+			    while (itemAttachmentSet.hasNext()) {
+			    	
+			    	ItemAttachmentIfc attach = itemAttachmentSet.next();
+					try {
+						// Creamos el recurso como copia a partir del attachment original 
+						ContentResource resource = AssessmentService.getContentHostingService().getResource(attach.getResourceId());
+						ContentResource crc = ContentHostingService.addAttachmentResource( attach.getFilename(), siteDest, "Exámenes", resource.getContentType(), resource.getContent(), null);
+						
+						// Creamos el attachment
+						ItemAttachmentIfc attachCopy = assessmentService.createItemAttachment(item.getData(), crc.getId(), attach.getFilename(), ServerConfigurationService.getServerUrl() );
+						
+						// Borramos el attachment antiguo
+						assessmentService.removeItemAttachment(attach.getAttachmentId().toString());
+						AssessmentService.getContentHostingService().removeResource(resource.getId());
+						
+						// Añadimos el nuevo attachment a la lista de attachments del item
+						listAttach.add(attachCopy);
+						
+					} catch (Exception e) {
+						
+						LOG.error("WS Error: " + e.getMessage());
+					}
+			    }
+			    
+			    // Persistimos los nuevos attachments 
+			    item.setItemAttachmentSet(listAttach);
+			    itemService.saveItem(item);
+			}
+		}
+		
+		return "success";
+	}
+	
+		/**
+	 * @param ownerId buscaría todas las baterías de este usuario
+	 * @param listBaterias es un string formado por poolIds, separados por ;
+	 * @param siteDest el nuevo site al que referenciaran los nuevos attachments
+	 * @return
+	 */
+	public String changeAttachmentReferences(String sessionId, String ownerId, String listBaterias, String siteDest) throws AxisFault
+	{
+		Session session = establishSession(sessionId);
+		
+		AssessmentService assessmentService = new AssessmentService();
+		QuestionPoolService poolService = new QuestionPoolService();
+		ItemService itemService = new ItemService();
+		
+		// Si se nos pasado ownerId se obtienen todas sus baterías, si no obtendría las baterías
+		// a partir de listBaterias
+		Object[] baterias = null;
+		if ("".equals(ownerId)) {
+			baterias = listBaterias.split(";");
+		}
+		else {
+			List lbaterias = poolService.getPoolIdsByAgent(ownerId);
+			baterias = lbaterias.toArray();
+		}
+				
+		// Para cada batería
+		for (Object obj : baterias) {
+			Long qp = null;
+			if (obj.getClass().equals(Long.class)) {
+				qp = (Long)obj;
+			}
+			else {
+				qp = Long.valueOf((String)obj);
+			}
+		
+			// Obtenemos los items de la bateria
+			QuestionPoolFacade qpf = poolService.getPool(qp, "admin");
+			Iterator<QuestionPoolItemData> iitems = qpf.getQuestionPoolItems().iterator();
+			
+			while (iitems.hasNext()) {
+				// Para cada item
+				QuestionPoolItemData qitem = iitems.next();
+				ItemFacade item = itemService.getItem(qitem.getItemId());
+				
+				// Obtenemos la lista de attachments del item
+			    Iterator<ItemAttachmentIfc> itemAttachmentSet = item.getItemAttachmentSet().iterator();
+				
+			    Set<ItemAttachmentIfc> listAttach = new HashSet<ItemAttachmentIfc>();
+			    while (itemAttachmentSet.hasNext()) {
+			    	
+			    	ItemAttachmentIfc attach = itemAttachmentSet.next();
+					try {
+						// Creamos el recurso como copia a partir del attachment original 
+						ContentResource resource = AssessmentService.getContentHostingService().getResource(attach.getResourceId());
+						ContentResource crc = ContentHostingService.addAttachmentResource( attach.getFilename(), siteDest, "Exámenes", resource.getContentType(), resource.getContent(), null);
+						
+						// Creamos el attachment
+						ItemAttachmentIfc attachCopy = assessmentService.createItemAttachment(item.getData(), crc.getId(), attach.getFilename(), ServerConfigurationService.getServerUrl() );
+						
+						// Borramos el attachment antiguo
+						assessmentService.removeItemAttachment(attach.getAttachmentId().toString());
+						AssessmentService.getContentHostingService().removeResource(resource.getId());
+						
+						// Añadimos el nuevo attachment a la lista de attachments del item
+						listAttach.add(attachCopy);
+						
+					} catch (Exception e) {
+						
+						LOG.error("WS Error: " + e.getMessage());
+					}
+			    }
+			    
+			    // Persistimos los nuevos attachments 
+			    item.setItemAttachmentSet(listAttach);
+			    itemService.saveItem(item);
+			}
+		}
+		
+		return "success";
+	}	
+	
+}

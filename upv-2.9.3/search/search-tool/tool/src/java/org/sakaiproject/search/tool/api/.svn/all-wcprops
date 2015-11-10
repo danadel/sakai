@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/api
+END
+SearchBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/api/SearchBean.java
+END
+OpenSearchBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/api/OpenSearchBean.java
+END
+SearchBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/api/SearchBeanFactory.java
+END
+SearchAdminBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/api/SearchAdminBean.java
+END
+SherlockSearchBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/api/SherlockSearchBean.java
+END

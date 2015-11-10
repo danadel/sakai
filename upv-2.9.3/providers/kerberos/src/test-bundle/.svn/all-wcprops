@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/test-bundle
+END
+sample-test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/test-bundle/sample-test.properties
+END
+sample-sakai-jaas.conf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/test-bundle/sample-sakai-jaas.conf
+END
+sample-test_vi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/test-bundle/sample-test_vi.properties
+END

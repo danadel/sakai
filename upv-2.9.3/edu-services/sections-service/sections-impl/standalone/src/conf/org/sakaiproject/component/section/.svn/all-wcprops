@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/conf/org/sakaiproject/component/section
+END
+spring-db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/conf/org/sakaiproject/component/section/spring-db.xml
+END
+spring-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/conf/org/sakaiproject/component/section/spring-beans.xml
+END
+spring-hib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/conf/org/sakaiproject/component/section/spring-hib.xml
+END
+spring-services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/conf/org/sakaiproject/component/section/spring-services.xml
+END

@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 41
+.classpath
+.project
+.settings
+bin
+target
+
+K 13
+svn:mergeinfo
+V 235
+/jobscheduler/branches/SAK-13696:80285-81928
+/jobscheduler/branches/SAK-18864:81929-82102
+/jobscheduler/trunk:102744,103259,105132,107648,107683-107714,109505-109544,110847,118276,120195,120197,120200-120201,120892,120896,121272,122341
+END

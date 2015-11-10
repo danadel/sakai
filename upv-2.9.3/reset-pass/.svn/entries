@@ -1,0 +1,83 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/reset-pass
+https://source.sakaiproject.org/svn
+
+
+
+2013-12-04T14:35:38.273063Z
+132193
+vacercon@upvnet.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+account-validator-api
+dir
+
+reset-pass
+dir
+
+account-validator-tool
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:47:33.400248Z
+6675004ecd9cde5e59d8681e78c0eb8e
+2013-08-21T01:54:27.362905Z
+128767
+cle-release-team@collab.sakaiproject.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2950
+
+account-validator-pack
+dir
+
+reset-pass-help
+dir
+
+account-validator-impl
+dir
+
+assembly
+dir
+

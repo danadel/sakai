@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 47
+m2-target
+target
+.project
+.classpath
+.settings
+
+END

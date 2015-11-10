@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation
+END
+presentationExpired.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/presentationExpired.jsp
+END
+wizardFooter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/wizardFooter.inc
+END
+sharePresentation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/sharePresentation.jsp
+END
+createPresentation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/createPresentation.jsp
+END
+comments.inc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/comments.inc
+END
+addTemplate1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/addTemplate1.jsp
+END
+importTemplate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/importTemplate.jsp
+END
+addTemplate2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/addTemplate2.jsp
+END
+listPresentation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/listPresentation.jsp
+END
+insertImage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/insertImage.jsp
+END
+deletePresentationConfirmation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/deletePresentationConfirmation.jsp
+END
+addTemplate3.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/addTemplate3.jsp
+END
+listTemplate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/listTemplate.jsp
+END
+addTemplate4.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/addTemplate4.jsp
+END
+listLayout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/listLayout.jsp
+END
+presentationTop.inc
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/presentationTop.inc
+END
+renderPresentation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/renderPresentation.jsp
+END
+previewTemplate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/previewTemplate.jsp
+END
+editContent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/editContent.jsp
+END
+addItemDefinition.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/addItemDefinition.jsp
+END
+listComments.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/listComments.jsp
+END
+editPresentation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/editPresentation.jsp
+END
+sharePresentationMore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/sharePresentationMore.jsp
+END
+presentationPageNotFound.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/presentationPageNotFound.jsp
+END
+viewPresentationStats.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/viewPresentationStats.jsp
+END
+addLayout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/addLayout.jsp
+END
+wizardHeader.inc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/webapp/WEB-INF/jsp/presentation/wizardHeader.inc
+END

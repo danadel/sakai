@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables
+END
+AbstractImportable.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/AbstractImportable.java
+END
+DiscussionTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/DiscussionTopic.java
+END
+HtmlDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/HtmlDocument.java
+END
+TextDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/TextDocument.java
+END
+Assessment.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/Assessment.java
+END
+AssessmentAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/AssessmentAnswer.java
+END
+FileResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/FileResource.java
+END
+Announcement.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/Announcement.java
+END
+Folder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/Folder.java
+END
+WebLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/WebLink.java
+END
+AssessmentFileResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/AssessmentFileResource.java
+END
+AssessmentQuestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/AssessmentQuestion.java
+END
+QuestionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/QuestionPool.java
+END

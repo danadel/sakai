@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/319043/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services
+END
+CommonServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/CommonServiceException.java
+END
+GradingServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/GradingServiceException.java
+END
+GradingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/319043/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/GradingService.java
+END
+GradebookServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/GradebookServiceException.java
+END
+ItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/314253/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/ItemService.java
+END
+PublishedItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/PublishedItemService.java
+END
+AutoSubmitAssessmentsJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/AutoSubmitAssessmentsJob.java
+END
+QuestionPoolServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/QuestionPoolServiceException.java
+END
+QuestionPoolService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/131383/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/QuestionPoolService.java
+END
+FinFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/FinFormatException.java
+END
+SaLengthException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/SaLengthException.java
+END
+PersistenceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/PersistenceService.java
+END
+SectionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/services/SectionService.java
+END

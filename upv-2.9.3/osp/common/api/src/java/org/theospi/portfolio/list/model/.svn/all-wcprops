@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/list/model
+END
+ListConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/list/model/ListConfig.java
+END
+ColumnsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/list/model/ColumnsType.java
+END
+ColumnConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/list/model/ColumnConfig.java
+END
+Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/list/model/Column.java
+END

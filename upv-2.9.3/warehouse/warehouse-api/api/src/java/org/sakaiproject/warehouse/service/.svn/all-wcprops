@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-api/api/src/java/org/sakaiproject/warehouse/service
+END
+ParentPropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-api/api/src/java/org/sakaiproject/warehouse/service/ParentPropertyAccess.java
+END
+WarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-api/api/src/java/org/sakaiproject/warehouse/service/WarehouseTask.java
+END
+PropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-api/api/src/java/org/sakaiproject/warehouse/service/PropertyAccess.java
+END
+DataWarehouseManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-api/api/src/java/org/sakaiproject/warehouse/service/DataWarehouseManager.java
+END
+ChildWarehouseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-api/api/src/java/org/sakaiproject/warehouse/service/ChildWarehouseTask.java
+END
+ItemIndexInParentPropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130357/msub/upv.es/PoliformaT/upv-2.9.3/warehouse/warehouse-api/api/src/java/org/sakaiproject/warehouse/service/ItemIndexInParentPropertyAccess.java
+END

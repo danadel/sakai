@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130389/msub/upv.es/PoliformaT/upv-2.9.3/postem/postem-hbm/src/java/org/sakaiproject/component/app/postem/data
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130389/msub/upv.es/PoliformaT/upv-2.9.3/postem/postem-hbm/src/java/org/sakaiproject/component/app/postem/data/Pair.java
+END
+TemplateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130389/msub/upv.es/PoliformaT/upv-2.9.3/postem/postem-hbm/src/java/org/sakaiproject/component/app/postem/data/TemplateImpl.java
+END
+StudentGradesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130389/msub/upv.es/PoliformaT/upv-2.9.3/postem/postem-hbm/src/java/org/sakaiproject/component/app/postem/data/StudentGradesImpl.java
+END
+GradebookImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130389/msub/upv.es/PoliformaT/upv-2.9.3/postem/postem-hbm/src/java/org/sakaiproject/component/app/postem/data/GradebookImpl.java
+END
+StudentGradesImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130389/msub/upv.es/PoliformaT/upv-2.9.3/postem/postem-hbm/src/java/org/sakaiproject/component/app/postem/data/StudentGradesImpl.hbm.xml
+END
+GradebookImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130389/msub/upv.es/PoliformaT/upv-2.9.3/postem/postem-hbm/src/java/org/sakaiproject/component/app/postem/data/GradebookImpl.hbm.xml
+END

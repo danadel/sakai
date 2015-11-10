@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/api/src/java/org/sakaiproject/poll/hbm
+END
+Vote.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/api/src/java/org/sakaiproject/poll/hbm/Vote.hbm.xml
+END
+Poll.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/api/src/java/org/sakaiproject/poll/hbm/Poll.hbm.xml
+END
+Option.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/api/src/java/org/sakaiproject/poll/hbm/Option.hbm.xml
+END

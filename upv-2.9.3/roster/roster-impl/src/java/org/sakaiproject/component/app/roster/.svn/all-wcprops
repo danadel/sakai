@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-impl/src/java/org/sakaiproject/component/app/roster
+END
+ProfilePhotoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-impl/src/java/org/sakaiproject/component/app/roster/ProfilePhotoService.java
+END
+RosterManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-impl/src/java/org/sakaiproject/component/app/roster/RosterManagerImpl.java
+END
+RosterManagerTestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-impl/src/java/org/sakaiproject/component/app/roster/RosterManagerTestImpl.java
+END
+ParticipantImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-impl/src/java/org/sakaiproject/component/app/roster/ParticipantImpl.java
+END

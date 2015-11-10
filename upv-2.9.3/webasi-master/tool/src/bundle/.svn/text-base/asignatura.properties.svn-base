@@ -1,0 +1,6 @@
+asignatura_title = Listado de Asignaturas
+asignatura_instr = Estas son las asignaturas que tiene el master. Pulsa sobre el enlace para entrar al site de la asignatura.
+asignatura_code = Código de la asignatura
+asignatura_name = Nombre de la asignatura
+asignatura_nodefined = No hay asignaturas
+asignatura_summary	= Lista de asignaturas. La primera columna contiene el codigo de la asignatura y el enlace para entrar en el sitio de la asignatura y la segunda el titulo o nombre.

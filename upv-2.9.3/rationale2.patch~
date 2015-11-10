@@ -1,0 +1,334 @@
+Index: samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/Question.java
+===================================================================
+--- samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/Question.java	(revisión: 321735)
++++ samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/Question.java	(copia de trabajo)
+@@ -24,7 +24,8 @@
+ 	private boolean hasDiscount;
+ 	private String questionTypeAsString;
+ 	private boolean randomize;
+-	
++	private boolean rationale;
++
+ 	public Question() {
+ 		this.questionNumber = 0;
+ 		this.questionPoints = "";
+@@ -141,5 +142,13 @@
+ 	public void setRandomize(boolean randomize) {
+ 		this.randomize = randomize;
+ 	}
++
++	public boolean isRationale() {
++		return rationale;
++	}
++
++	public void setRationale(boolean rationale) {
++		this.rationale = rationale;
++	}
+ 	
+ }
+Index: samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages.properties
+===================================================================
+--- samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages.properties	(revisión: 321735)
++++ samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages.properties	(copia de trabajo)
+@@ -6,3 +6,4 @@
+ false=False
+ discount=discount(s?)
+ randomize=\#randomize
++rationale=\#rationale
+Index: samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages_ca.properties
+===================================================================
+--- samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages_ca.properties	(revisión: 321735)
++++ samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages_ca.properties	(copia de trabajo)
+@@ -5,4 +5,5 @@
+ false=Fals
+ true=Veritat
+ discount=Descompte(s?)
+-randomize=\#aleatorizar
+\ No newline at end of file
++randomize=\#aleatorizar
++rationale=\#raonament
+\ No newline at end of file
+Index: samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages_es.properties
+===================================================================
+--- samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages_es.properties	(revisión: 321735)
++++ samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages_es.properties	(copia de trabajo)
+@@ -5,4 +5,5 @@
+ false=Falso
+ true=Verdadero
+ discount=Descuento(s?)
+-randomize=\#aleatorizar
+\ No newline at end of file
++randomize=\#aleatorizar
++rationale=\#razonamiento
+\ No newline at end of file
+Index: samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/samlite/impl/SamLiteServiceImpl.java
+===================================================================
+--- samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/samlite/impl/SamLiteServiceImpl.java	(revisión: 321735)
++++ samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/samlite/impl/SamLiteServiceImpl.java	(copia de trabajo)
+@@ -78,7 +78,11 @@
+ 	private Pattern discountPattern;
+ 	String realPatternString = "((\\+||\\-)?(\\d+((\\.|\\,)\\d+)?)((E|e)(\\-|\\+)?\\d+)?)";
+ 	private Pattern randomizePattern;
++	private Pattern rationalePattern;
+ 	
++	
++
++
+ 	public void init() {	
+ 		// Initialization		
+ 		startOfQuestionNumericPattern = Pattern.compile("^(\\d+\\.|\\)|\\]\\s*)", Pattern.CASE_INSENSITIVE);
+@@ -184,7 +188,12 @@
+ 		unnecessaryFalsePattern = Pattern.compile("^" + stFalse + "$");
+ 		String txtRandomize = rb.getString("randomize", "#randomize");
+ 		randomizePattern = Pattern.compile("^" + txtRandomize + "$", Pattern.CASE_INSENSITIVE);
+-		
++		String txtRationale = rb.getString("rationale", "#rationale");
++		rationalePattern = Pattern.compile("^" + txtRationale + "$", Pattern.CASE_INSENSITIVE);
++
++
++
++
+ 		QuestionGroup questionGroup = new QuestionGroup(name, description);
+ 		
+ 		String cleanData = data; 
+@@ -259,7 +268,8 @@
+ 		boolean isEmptyTrue = unnecessaryTruePattern.matcher(line).find();
+ 		boolean isEmptyFalse = unnecessaryFalsePattern.matcher(line).find();
+ 		boolean randomize = randomizePattern.matcher(line).find();
+-					
++		boolean rationale = rationalePattern.matcher(line).find();
++
+ 		if (isEndOfQuestion) {
+ 			// Do nothing, we just want to ignore this line
+ 		} else if (isAnswer) {
+@@ -311,7 +321,21 @@
+ 					question.getQuestionType() == Question.MULTIPLE_CHOICE_MULTIPLE_ANSWER_QUESTION) {
+ 				question.setRandomize(randomize);
+ 			}
+-		} else {
++
++
++		} else if (rationale) {
++			if (question.getQuestionType() == Question.MULTIPLE_CHOICE_QUESTION || 
++					question.getQuestionType() == Question.MULTIPLE_CHOICE_MULTIPLE_ANSWER_QUESTION || 
++					question.getQuestionType() == Question.TRUE_FALSE_QUESTION) {
++				question.setRationale(rationale);
++			}
++
++			
++		}
++
++
++
++		else {
+ 			// If we didn't match anything, then assume it's just part of the question text
+ 			question.append(line);
+ 		}
+@@ -658,6 +682,7 @@
+ 		
+ 		buildMetaDataField(qtiMetaData, "qmd_itemtype", "True False");
+ 		buildMetaDataField(qtiMetaData, "TEXT_FORMAT", "HTML");
++		buildMetaDataField(qtiMetaData, "hasRationale", Boolean.valueOf(question.isRationale()).toString());
+ 		
+ 		ItemrubricType itemRubric = item.addNewItemrubric();
+ 		itemRubric.setView(ItemrubricType.View.ALL);
+@@ -684,7 +709,7 @@
+ 		
+ 		buildMetaDataField(qtiMetaData, "qmd_itemtype", "Multiple Choice");
+ 		buildMetaDataField(qtiMetaData, "TEXT_FORMAT", "HTML");
+-		buildMetaDataField(qtiMetaData, "hasRationale", "False");
++		buildMetaDataField(qtiMetaData, "hasRationale", Boolean.valueOf(question.isRationale()).toString());
+ 		buildMetaDataField(qtiMetaData, ItemMetaDataIfc.RANDOMIZE, Boolean.valueOf(question.isRandomize()).toString());
+ 		
+ 		ItemrubricType itemRubric = item.addNewItemrubric();
+@@ -717,7 +742,7 @@
+ 		
+ 		buildMetaDataField(qtiMetaData, "qmd_itemtype", "Multiple Correct Answer");
+ 		buildMetaDataField(qtiMetaData, "TEXT_FORMAT", "HTML");
+-		buildMetaDataField(qtiMetaData, "hasRationale", "False");
++		buildMetaDataField(qtiMetaData, "hasRationale", Boolean.valueOf(question.isRationale()).toString());
+ 		buildMetaDataField(qtiMetaData, ItemMetaDataIfc.RANDOMIZE, Boolean.valueOf(question.isRandomize()).toString());
+ 		
+ 		ItemrubricType itemRubric = item.addNewItemrubric();
+Index: samigo/samigo-app/src/webapp/jsf/samlite/samLiteEntry.jsp
+===================================================================
+--- samigo/samigo-app/src/webapp/jsf/samlite/samLiteEntry.jsp	(revisión: 321735)
++++ samigo/samigo-app/src/webapp/jsf/samlite/samLiteEntry.jsp	(copia de trabajo)
+@@ -144,7 +144,8 @@
+ 					    <div id="example_mc_question" class="inopPanel" style="display:none">
+ 					    	<strong><h:outputText value="#{samLiteMessages.example_instruction_label}"/></strong>
+ 					    	<h:outputText value="#{samLiteMessages.example_mc_instructions}"/><br/>
+-					    	<h:outputText value="#{samLiteMessages.example_mc_instructions_1}"/><p/>
++					    	<h:outputText value="#{samLiteMessages.example_mc_instructions_1}"/>
++					    	<h:outputText value="#{samLiteMessages.example_mc_instructions_2}"/><p/>
+ 				   			<strong><h:outputText value="#{samLiteMessages.example_example_label}"/></strong><br/>
+ 				   			<h:outputText value="#{samLiteMessages.example_mc_question_format4}"/><br/>
+ 				   			<h:outputText value="#{samLiteMessages.example_mc_question_text}"/><br/>
+@@ -153,6 +154,7 @@
+ 				   			<h:outputText value="#{samLiteMessages.example_mc_answer_c}"/><br/>
+ 				   			<h:outputText value="#{samLiteMessages.example_mc_answer_d}"/><br/>
+ 				   			<h:outputText value="#{samLiteMessages.example_mc_question_random}"/>
++				   			<h:outputText value="#{samLiteMessages.example_mc_question_rationale}"/>
+ 				   		</div>
+ 				    </td>
+ 				</tr>
+@@ -162,7 +164,8 @@
+ 						    <div id="example_mcmc_question" class="inopPanel" style="display:none">
+ 				    			<strong><h:outputText value="#{samLiteMessages.example_instruction_label}"/></strong>
+ 				    			<h:outputText value="#{samLiteMessages.example_mcmc_instructions}"/><br/>
+-				    			<h:outputText value="#{samLiteMessages.example_mcmc_instructions_1}"/><p/>
++				    			<h:outputText value="#{samLiteMessages.example_mcmc_instructions_1}"/>
++				    			<h:outputText value="#{samLiteMessages.example_mcmc_instructions_2}"/><p/>
+ 				    			<strong><h:outputText value="#{samLiteMessages.example_example_label}"/></strong><br/>
+ 				    			<h:outputText value="#{samLiteMessages.example_mcmc_question_format4}"/><br/>
+ 				    			<h:outputText value="#{samLiteMessages.example_mcmc_question_text}"/><br/>
+@@ -170,6 +173,7 @@
+ 				    			<h:outputText value="#{samLiteMessages.example_mcmc_answer_b}"/><br/>
+ 				    			<h:outputText value="#{samLiteMessages.example_mcmc_answer_c}"/><br/>
+ 				    			<h:outputText value="#{samLiteMessages.example_mcmc_question_random}"/><br/>
++				    			<h:outputText value="#{samLiteMessages.example_mcmc_question_rationale}"/><br/>
+ 				    		</div>
+ 					    </td>
+ 					  </tr>
+@@ -200,12 +204,15 @@
+ 					  	<td align="left" valign="top">
+ 						    <a href="javascript:toggleLayer('example_tf_question');"><h:outputText value="#{samLiteMessages.example_tf_label}"/></a>
+ 						    <div id="example_tf_question" class="inopPanel" style="display:none">
+-				    			<strong><h:outputText value="#{samLiteMessages.example_instruction_label}"/></strong><h:outputText value="#{samLiteMessages.example_tf_instructions}"/><p/>
++				    			<strong><h:outputText value="#{samLiteMessages.example_instruction_label}"/>
++				    			</strong><h:outputText value="#{samLiteMessages.example_tf_instructions}"/>
++				    			<h:outputText value="#{samLiteMessages.example_mcmc_instructions_2}"/><p/>
+ 				    			<strong><h:outputText value="#{samLiteMessages.example_example_label}"/></strong><br/>
+ 				    			<h:outputText value="#{samLiteMessages.example_tf_question_format4}"/><br/>
+ 				    			<h:outputText value="#{samLiteMessages.example_tf_question_text}"/><br/>
+ 				    			<h:outputText value="#{samLiteMessages.example_tf_answer_a}"/><br/>
+ 				    			<h:outputText value="#{samLiteMessages.example_tf_answer_b}"/>
++				    			<h:outputText value="#{samLiteMessages.example_mcmc_question_rationale}"/><br/>
+ 				    		</div>
+ 					    </td>
+ 					  </tr>
+Index: samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_es.properties
+===================================================================
+--- samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_es.properties	(revisión: 321735)
++++ samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_es.properties	(copia de trabajo)
+@@ -8,6 +8,7 @@
+ only_next=S\u00F3lo existe un bot\u00F3n de SIGUIENTE para contiuar.
+ add_more_answer_sects=A\u00F1adir m\u00E1s respuestas\:--
+ numbering=Numeraci\u00F3n
++is_retracted_url=Ya no se permite el env\u00EDo de este examen. Contacte con su profesor si tiene cualquier duda.
+ time_remaining=Tiempo restante\:
+ time_up=Tiempo finalizado
+ mutually_exclusive=Mutuamente Exclusivo \:
+@@ -21,6 +22,7 @@
+ dot=.
+ bg_image=BG Imagen
+ no_late_submission=La fecha de entrega para este examen ha pasado y no se permiten entregas m\u00E1s all\u00E1 de \u00E9sta. Por favor, consulte con su profesor si tiene cualquier duda. Pulse en "Volver" para volver a la p\u00E1gina de ex\u00E1menes.
++no_late_submission_url=Ha pasado la fecha de vencimiento para esta evaluaci\u00f3n y no se permiten env\u00edos m\u00e1s all\u00e1 de esa fecha. P\u00f3ngase en contacto con su instructor si tiene alguna pregunta.
+ upload_file=Subir un fichero
+ grading_options=Opciones de la Calificaci\u00F3n
+ alt_correct=Correcto
+Index: samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_es.properties
+===================================================================
+--- samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_es.properties	(revisión: 321735)
++++ samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_es.properties	(copia de trabajo)
+@@ -40,6 +40,7 @@
+ samlite_data=Informaci\u00F3n
+ example_mcmc_instructions=Cada respuesta debe comenzar por sus letra apropiada, en orden alfab\u00E9tico. La respuestas correctas deben ir precedidas de un asterisco (*).
+ example_mcmc_instructions_1=Opcionalmente, la palabra clave \#aleatorizar crear\u00E1 preguntas con las respuestas aleatorizadas
++example_mcmc_instructions_2=Opcionalmente, la palabra clave \#razonamiento crear\u00E1 preguntas con el razonamiento requerido
+ example_tf_question_format5=5.
+ example_tf_question_format4=5. (7 puntos) (1.5 descuento)
+ example_tf_question_format3=Pregunta 5
+@@ -61,6 +62,7 @@
+ example_mc_answer_c=c. Carlo Magno 
+ example_mcmc_question_text=\u00BFCuales de los siguientes escritores \n fueron espa\u00F1oles? 
+ example_mcmc_question_random=\#aleatorizar
++example_mcmc_question_rationale=\#razonamiento
+ example_mc_answer_b=b. Hernan Cort\u00E9s 
+ example_mc_answer_a=*a. Cristobal Col\u00F3n 
+ samlite_type=Tipo
+@@ -75,6 +77,7 @@
+ example_mc_question_format4=1. (10 puntos) (2.5 descuento)
+ example_mc_instructions=Cada respuesta debe comenzar con su letra apropiada, en orden alfab\u00E9tico. La respuesta correcta vendr\u00E1 precedida de un asterisco (*).
+ example_mc_instructions_1=Opcionalmente, la palabra clave \#aleatorizar crear\u00E1 preguntas con las respuestas aleatorizadas 
++example_mc_instructions_2=Opcionalmente, la palabra clave \#razonamiento crear\u00E1 preguntas con el razonamiento requerido
+ example_mc_question_format3=Pregunta 1
+ example_mc_question_format2=Pregunta (10 puntos) (2.5 descuento)
+ samlite_step_1_of_2=Paso 1 de 2
+@@ -83,6 +86,7 @@
+ example_fib_question_text=\u00BFDe qu\u00E9 color es una violeta?  ____ 
+ example_mc_question_text=\u00BFQui\u00E9n Descubri\u00F3 Am\u00E9rica?
+ example_mc_question_random=\#aleatorizar
++example_mc_question_rationale=\#razonamiento
+ samlite_infogroup=Informaci\u00F3n sobre Examen/Bater\u00EDa de preguntas
+ example_mcmc_label=M\u00FAltiple respuesta correcta 
+ example_se_question_text=Explica el objetivo de la educaci\u00F3n.
+Index: samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite.properties
+===================================================================
+--- samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite.properties	(revisión: 321735)
++++ samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite.properties	(copia de trabajo)
+@@ -21,6 +21,7 @@
+ example_mc_label=Multiple Choice
+ example_mc_instructions=Each answer should begin with its appropriate letter, in alphabetical order. The correct answer should be prefixed with an asterisk (*).
+ example_mc_instructions_1=Optionally, the key word \#randomize will create questions with randomized answers
++example_mc_instructions_2=Optionally, the key word \#rationale will create questions with required rationale
+ example_mc_question_format1=Question 1 (10 points) (2.5 discount)
+ example_mc_question_format2=Question (10 points) (2.5 discount)
+ example_mc_question_format3=Question 1
+@@ -32,10 +33,12 @@
+ example_mc_answer_c=c. Lincoln 
+ example_mc_answer_d=d. Clinton
+ example_mc_question_random=\#randomize
++example_mc_question_rationale=\#rationale
+ 
+ example_mcmc_label=Multiple Correct Answer
+ example_mcmc_instructions=Each answer should begin with its appropriate letter, in alphabetical order. The correct answer should be prefixed with an asterisk (*).
+ example_mcmc_instructions_1=Optionally, the key word \#randomize will create questions with randomized answers
++example_mcmc_instructions_2=Optionally, the key word \#rationale will create questions with required rationale
+ example_mcmc_question_format1=Question 2 (15 points) 
+ example_mcmc_question_format2=Question (15 points)
+ example_mcmc_question_format3=Question 2
+@@ -46,6 +49,7 @@
+ example_mcmc_answer_b=b. Ginny Woolf 
+ example_mcmc_answer_c=*c. Tom Eliot
+ example_mcmc_question_random=\#randomize
++example_mcmc_question_rationale=\#rationale
+ 
+ example_fib_label=Fill in the Blank
+ example_fib_instructions=The correct answer should be prefixed with an asterisk (*).
+Index: samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_ca.properties
+===================================================================
+--- samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_ca.properties	(revisión: 321735)
++++ samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_ca.properties	(copia de trabajo)
+@@ -42,6 +42,7 @@
+ samlite_data=Dades
+ example_mcmc_instructions=Cada resposta ha de comen\u00E7ar amb la lletra apropiada, en ordre alfab\u00E8tic. La resposta correcta ha de dur al davant un asterisc (*).
+ example_mcmc_instructions_1=Opcionalment, la paraula clau \#aleatorizar crear\u00E0 preguntes amb les respostes aleatorizades
++example_mcmc_instructions_2=Opcionalment, la paraula clau \#raonament crear\u00E0 preguntes amb el raonament requerit
+ example_tf_question_format5=5.
+ example_tf_question_format4=5. (7 punts) (1.5 descompte)
+ example_tf_question_format3=Pregunta 5
+@@ -63,6 +64,7 @@
+ example_mc_answer_c=c. Lincoln 
+ example_mcmc_question_text=Quins dels seg\u00FCents escriptors \n eren ciutadans nordamericans en algun moment de les seves vides? 
+ example_mcmc_question_random=\#aleatorizar
++example_mcmc_question_rationale=\#raonament
+ example_mc_answer_b=b. Jefferson 
+ example_mc_answer_a=*a. Washington 
+ samlite_type=Tipus
+@@ -76,6 +78,7 @@
+ example_mc_question_format4=1. (10 punts) (2.5 descompte)
+ example_mc_instructions=Cada resposta ha de comen\u00E7ar amb la lletra apropiada, en ordre alfab\u00E8tic. La resposta correcta ha de dur al davant un asterisc(*).
+ example_mc_instructions_1=Opcionalment, la paraula clau \#aleatorizar crear\u00E0 preguntes amb les respostes aleatorizades 
++example_mc_instructions_2=Opcionalment, la paraula clau \#raonament crear\u00E0 preguntes amb el raonament requerit
+ example_mc_question_format3=Pregunta 1
+ example_mc_question_format2=Pregunta (10 punts) (2.5 descompte)
+ samlite_step_1_of_2=Pas 1 of 2
+@@ -84,6 +87,7 @@
+ example_fib_question_text=De quin color \u00E9s el cel?  ____ 
+ example_mc_question_text=Qui va ser el primer president dels EEUU?
+ example_mc_question_random=\#aleatorizar
++example_mc_question_rationale=\#raonament
+ samlite_infogroup=Informaci\u00F3 sobre l'examen/el fons de preguntes
+ example_mcmc_label=Resposta correcta m\u00FAltiple
+ example_se_question_text=Explica la finalitat de l'educaci\u00F3.

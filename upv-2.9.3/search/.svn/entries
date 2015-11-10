@@ -1,0 +1,126 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/search
+https://source.sakaiproject.org/svn
+
+
+
+2013-12-04T14:35:38.273063Z
+132193
+vacercon@upvnet.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+search-assembly
+dir
+
+search-test
+dir
+
+search-integration-test
+dir
+
+search-model
+dir
+
+search-impl
+dir
+
+src
+dir
+
+checklocalsegments.sh
+file
+
+
+
+
+2015-11-09T08:45:55.888250Z
+d09599845b345b436fc0c6762c8bc058
+2008-01-08T16:07:30.965919Z
+39820
+ian@caret.cam.ac.uk
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+139
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:45:55.892250Z
+aab07de64d20b808f7ede776c7d5d0aa
+2013-08-21T01:44:00.931569Z
+128759
+cle-release-team@collab.sakaiproject.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13077
+
+search-help
+dir
+
+search-api
+dir
+
+search-tool
+dir
+
+search-util
+dir
+

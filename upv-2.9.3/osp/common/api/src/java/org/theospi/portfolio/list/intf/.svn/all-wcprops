@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/list/intf
+END
+DecoratedListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/list/intf/DecoratedListItem.java
+END
+CustomLinkListGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/list/intf/CustomLinkListGenerator.java
+END
+ListItemUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/list/intf/ListItemUtils.java
+END
+ListService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/list/intf/ListService.java
+END
+ListGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/list/intf/ListGenerator.java
+END
+ActionableListGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/list/intf/ActionableListGenerator.java
+END

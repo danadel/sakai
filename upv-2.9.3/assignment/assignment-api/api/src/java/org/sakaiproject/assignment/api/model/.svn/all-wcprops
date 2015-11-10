@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model
+END
+AssignmentAllPurposeItemAccess.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentAllPurposeItemAccess.hbm.xml
+END
+AssignmentSupplementItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentSupplementItemService.java
+END
+AssignmentModelAnswerItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentModelAnswerItem.java
+END
+AssignmentSupplementItem.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentSupplementItem.hbm.xml
+END
+AssignmentSupplementItemWithAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentSupplementItemWithAttachment.java
+END
+AssignmentNoteItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentNoteItem.java
+END
+AssignmentSupplementItemAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentSupplementItemAttachment.java
+END
+AssignmentAllPurposeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentAllPurposeItem.java
+END
+AssignmentAllPurposeItemAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentAllPurposeItemAccess.java
+END
+AssignmentSupplementItemAttachment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentSupplementItemAttachment.hbm.xml
+END

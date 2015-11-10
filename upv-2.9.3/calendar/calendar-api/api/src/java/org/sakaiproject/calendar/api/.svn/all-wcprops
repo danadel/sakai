@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api
+END
+ExternalCalendarSubscriptionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/ExternalCalendarSubscriptionService.java
+END
+RecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/RecurrenceRule.java
+END
+ExternalSubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/ExternalSubscription.java
+END
+Calendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/Calendar.java
+END
+CalendarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/CalendarService.java
+END
+CalendarEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/CalendarEvent.java
+END
+CalendarImporterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/CalendarImporterService.java
+END
+CalendarEventVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/CalendarEventVector.java
+END
+CalendarEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/CalendarEdit.java
+END
+CalendarEventEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/CalendarEventEdit.java
+END

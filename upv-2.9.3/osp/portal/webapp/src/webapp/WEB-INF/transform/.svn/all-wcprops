@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/webapp/src/webapp/WEB-INF/transform
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/webapp/src/webapp/WEB-INF/transform/test.html
+END
+osp-portal.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/webapp/src/webapp/WEB-INF/transform/osp-portal.xsl
+END
+sites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/webapp/src/webapp/WEB-INF/transform/sites.xml
+END
+passthrough.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/webapp/src/webapp/WEB-INF/transform/passthrough.xsl
+END
+testCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/webapp/src/webapp/WEB-INF/transform/testCategory.xml
+END
+charon-portal.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/webapp/src/webapp/WEB-INF/transform/charon-portal.xsl
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/webapp/src/webapp/WEB-INF/transform/test.xml
+END
+toolCategory.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/portal/webapp/src/webapp/WEB-INF/transform/toolCategory.xsl
+END

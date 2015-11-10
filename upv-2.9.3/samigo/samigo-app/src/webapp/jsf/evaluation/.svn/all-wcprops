@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/314216/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation
+END
+exportResponses.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/exportResponses.jsp
+END
+discrepancyInData.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/discrepancyInData.jsp
+END
+createNewEmail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/132064/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/createNewEmail.jsp
+END
+detailedStatistics.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/detailedStatistics.jsp
+END
+gradeStudentResult.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/314021/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/gradeStudentResult.jsp
+END
+confirmRetake.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/confirmRetake.jsp
+END
+confirmEmailSent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/confirmEmailSent.jsp
+END
+submissionStatus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/132416/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/submissionStatus.jsp
+END
+modelShortAnswer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/modelShortAnswer.jsp
+END
+emailAttachment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/emailAttachment.jsp
+END
+gradeStudentResultAttachment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/gradeStudentResultAttachment.jsp
+END
+emailError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/emailError.jsp
+END
+fullShortAnswer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/fullShortAnswer.jsp
+END
+totalScores.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/132416/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/totalScores.jsp
+END
+questionScore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/314021/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/questionScore.jsp
+END
+modelShortAnswerQS.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/modelShortAnswerQS.jsp
+END
+totalScoresCommentPopUp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/totalScoresCommentPopUp.jsp
+END
+evaluationHeadings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/evaluationHeadings.jsp
+END
+histogramScores.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/histogramScores.jsp
+END
+questionScoreAttachment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/questionScoreAttachment.jsp
+END
+rationale.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/evaluation/rationale.jsp
+END

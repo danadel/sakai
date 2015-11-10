@@ -1,0 +1,61 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search
+https://source.sakaiproject.org/svn
+
+
+
+2013-01-22T16:40:50.280346Z
+118571
+ottenhoff@longsight.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+entitybroker
+dir
+
+component
+dir
+
+filter
+dir
+
+mbeans
+dir
+
+transaction
+dir
+
+index
+dir
+
+api
+dir
+
+journal
+dir
+
+util
+dir
+
+indexer
+dir
+
+optimize
+dir
+

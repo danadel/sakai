@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/message
+END
+TriggerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/message/TriggerServiceImpl.java
+END
+MessageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/message/MessageServiceImpl.java
+END
+PreferenceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/message/PreferenceServiceImpl.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/webapp/WEB-INF
+END
+syllabus_jsf.tld
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/webapp/WEB-INF/syllabus_jsf.tld
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/webapp/WEB-INF/faces-config.xml
+END
+local.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/webapp/WEB-INF/local.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/webapp/WEB-INF/web.xml
+END

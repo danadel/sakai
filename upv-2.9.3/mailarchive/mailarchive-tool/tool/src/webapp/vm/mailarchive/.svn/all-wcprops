@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-tool/tool/src/webapp/vm/mailarchive
+END
+chef_mailbox-confirm_remove.vm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-tool/tool/src/webapp/vm/mailarchive/chef_mailbox-confirm_remove.vm
+END
+chef_mailbox-view.vm
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-tool/tool/src/webapp/vm/mailarchive/chef_mailbox-view.vm
+END
+chef_mailbox-List.vm
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-tool/tool/src/webapp/vm/mailarchive/chef_mailbox-List.vm
+END
+chef_mailbox-customize.vm
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-tool/tool/src/webapp/vm/mailarchive/chef_mailbox-customize.vm
+END

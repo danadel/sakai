@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql
+END
+sakai_site_2_5_3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_site_2_5_3.sql
+END
+sakai_content_delete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_content_delete.sql
+END
+sakai_realm.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_realm.sql
+END
+sakai_preferences.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_preferences.sql
+END
+sakai_content_registry.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_content_registry.sql
+END
+sakai_realm_2_4_0_001.sql
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_realm_2_4_0_001.sql
+END
+sakai_site.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_site.sql
+END
+sakai_site_2_4_0_001.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_site_2_4_0_001.sql
+END
+sakai_content.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_content.sql
+END
+sakai_user.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_user.sql
+END
+sakai_site_group.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_site_group.sql
+END
+sakai_event.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_event.sql
+END
+sakai_cluster.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_cluster.sql
+END
+sakai_session.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_session.sql
+END
+sakai_notification.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/mssql/sakai_notification.sql
+END

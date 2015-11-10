@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/api-impl/src/java/org/theospi/portfolio/tagging/impl
+END
+DecoratedTaggingProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/api-impl/src/java/org/theospi/portfolio/tagging/impl/DecoratedTaggingProviderImpl.java
+END
+DecoratedTaggableItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/api-impl/src/java/org/theospi/portfolio/tagging/impl/DecoratedTaggableItemImpl.java
+END
+MatrixTaggingProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/api-impl/src/java/org/theospi/portfolio/tagging/impl/MatrixTaggingProviderImpl.java
+END

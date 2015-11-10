@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/321648/msub/upv.es/PoliformaT/upv-2.9.3/oauthupv/api/src/java/es/upv/seguridad
+END
+LimitedPermissionsAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/321644/msub/upv.es/PoliformaT/upv-2.9.3/oauthupv/api/src/java/es/upv/seguridad/LimitedPermissionsAdvisor.java
+END
+ServicioOAuthUPV.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/321648/msub/upv.es/PoliformaT/upv-2.9.3/oauthupv/api/src/java/es/upv/seguridad/ServicioOAuthUPV.java
+END
+MensajeCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/321644/msub/upv.es/PoliformaT/upv-2.9.3/oauthupv/api/src/java/es/upv/seguridad/MensajeCheck.java
+END
+OAuthPostFilterUPV.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/321644/msub/upv.es/PoliformaT/upv-2.9.3/oauthupv/api/src/java/es/upv/seguridad/OAuthPostFilterUPV.java
+END
+OAuthPreFilterUPV.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/321648/msub/upv.es/PoliformaT/upv-2.9.3/oauthupv/api/src/java/es/upv/seguridad/OAuthPreFilterUPV.java
+END

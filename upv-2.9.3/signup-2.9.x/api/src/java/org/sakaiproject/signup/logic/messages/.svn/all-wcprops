@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/messages
+END
+SignupEmailNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/messages/SignupEmailNotification.java
+END
+SignupEventTrackingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/messages/SignupEventTrackingInfo.java
+END
+SignupEventTrackingInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/messages/SignupEventTrackingInfoImpl.java
+END
+SignupTimeslotChanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/messages/SignupTimeslotChanges.java
+END

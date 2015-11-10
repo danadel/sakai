@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm
+END
+MessageThread.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/MessageThread.hbm.xml
+END
+WallItem.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/WallItem.hbm.xml
+END
+ProfileImageUploaded.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/ProfileImageUploaded.hbm.xml
+END
+ProfilePreferences.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/ProfilePreferences.hbm.xml
+END
+MessageParticipant.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/MessageParticipant.hbm.xml
+END
+Message.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/Message.hbm.xml
+END
+SakaiPersonMeta.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/SakaiPersonMeta.hbm.xml
+END
+CompanyProfile.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/CompanyProfile.hbm.xml
+END
+ProfileFriend.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/ProfileFriend.hbm.xml
+END
+SocialNetworkingInfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/SocialNetworkingInfo.hbm.xml
+END
+ProfilePrivacy.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/ProfilePrivacy.hbm.xml
+END
+ProfileImageOfficial.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/ProfileImageOfficial.hbm.xml
+END
+WallItemComment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/WallItemComment.hbm.xml
+END
+GalleryImage.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/GalleryImage.hbm.xml
+END
+ExternalIntegrationInfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/ExternalIntegrationInfo.hbm.xml
+END
+ProfileStatus.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/ProfileStatus.hbm.xml
+END
+ProfileKudos.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/ProfileKudos.hbm.xml
+END
+ProfileImageExternal.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/hbm/ProfileImageExternal.hbm.xml
+END

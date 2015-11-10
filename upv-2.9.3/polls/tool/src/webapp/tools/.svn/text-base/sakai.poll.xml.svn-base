@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<registration>
+	<tool id="sakai.poll"
+		title="Polls"
+		description="For anonymous polls or voting">
+		<category name="course" />
+		<category name="project" />
+		<category name="sitecfp" />
+		<category name="siteford" />
+		<category name="siteentidad" />
+		<category name="siteupv" />
+		<category name="sitemas" />				
+		<category name="sitecen" />
+	</tool>	
+</registration>

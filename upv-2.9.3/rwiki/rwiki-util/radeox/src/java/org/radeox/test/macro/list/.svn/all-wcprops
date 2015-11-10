@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/list
+END
+SimpleListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/list/SimpleListTest.java
+END
+AllListTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/list/AllListTests.java
+END
+ExampleListFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/list/ExampleListFormatterTest.java
+END
+ListFormatterSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/list/ListFormatterSupport.java
+END
+AtoZListFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/list/AtoZListFormatterTest.java
+END

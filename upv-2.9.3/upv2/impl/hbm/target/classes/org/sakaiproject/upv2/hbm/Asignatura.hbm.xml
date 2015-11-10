@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping default-cascade="none" default-lazy="false" package="org.sakaiproject.upv2.model">
+	<class name="org.sakaiproject.upv2.model.Asignatura" 
+	       table="SAK_ASIGNATURAS" discriminator-value="1">
+
+		<id name="codigo" column="CODIGO" type="long">
+			<generator class="native">
+				<param name="sequence">SAK_CODIGOS_SE</param>
+			</generator>
+		</id>		
+		
+		<property name="propietario" column="PROPIETARIO" type="string" /> 
+
+		<property name="origen" column="CODIGO_ORIGEN" type="long"/>
+
+		<property name="nombre" column="NOMBRE" type="string" not-null="true"/>
+
+		<property name="nombrev" column="NOMBREV" type="string" />
+
+		<property name="nombrei" column="NOMBREI" type="string"/>
+
+		<property name="sincronizar" column="SINCRONIZAR" type="string" not-null="true"/>
+		
+		<property name="fechaAlta" column="FECHA_ALTA" type="timestamp"/>
+		
+		<property name="fechaBaja" column="FECHA_BAJA" type="timestamp"/>
+		
+		<property name="fechaMod" column="FECHA_MOD" type="timestamp"/>
+		
+	</class>
+	
+    <query name="findAsignaturaByCodigo">
+        <![CDATA[from org.sakaiproject.upv2.model.Asignatura as asi where asi.propietario=:propietario and asi.origen = :codigo]]>
+    </query>
+    <query name="findAsignaturaByNombre">
+        <![CDATA[from org.sakaiproject.upv2.model.Asignatura as asi where asi.propietario=:propietario and upper(asi.nombre) like upper(:nombre||'%')]]>
+    </query>    
+	
+</hibernate-mapping>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/test
+END
+MockContentCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/test/MockContentCollection.java
+END
+MockContentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/test/MockContentEntity.java
+END
+ContentIntegrationTestDisabled.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/test/ContentIntegrationTestDisabled.java
+END
+ContentHostingServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/test/ContentHostingServiceTest.java
+END
+SortTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/test/SortTest.java
+END
+MockContentResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/test/MockContentResource.java
+END

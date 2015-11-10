@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control
+END
+formCreate.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control/formCreate.xslt
+END
+passthrough.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control/passthrough.xslt
+END
+customTest.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control/customTest.xslt
+END
+formView.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control/formView.xslt
+END
+formCreateShell.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control/formCreateShell.xslt
+END
+formFieldTemplate.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/resources/org/sakaiproject/metaobj/shared/control/formFieldTemplate.xslt
+END

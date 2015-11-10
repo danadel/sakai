@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test
+END
+AuthenticatedUserProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test/AuthenticatedUserProviderTest.java
+END
+ContextualDisplayServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test/ContextualDisplayServiceTest.java
+END
+GetUsersByEidTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test/GetUsersByEidTest.java
+END
+AuthenticationCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test/AuthenticationCacheTest.java
+END
+UserDirectoryServiceGetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test/UserDirectoryServiceGetTest.java
+END
+RequireLocalAccountLegacyAuthenticationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test/RequireLocalAccountLegacyAuthenticationTest.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting
+END
+ContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/ContentDigester.java
+END
+SanslanContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/SanslanContentDigester.java
+END
+ContentHostingContentProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/ContentHostingContentProducer.java
+END
+PPTContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/PPTContentDigester.java
+END
+XLContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/XLContentDigester.java
+END
+DefaultContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/DefaultContentDigester.java
+END
+HtmlContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/HtmlContentDigester.java
+END
+DefaultFullContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/DefaultFullContentDigester.java
+END
+PoiContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/PoiContentDigester.java
+END
+TikaContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/TikaContentDigester.java
+END
+PDFContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/PDFContentDigester.java
+END
+BaseContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/BaseContentDigester.java
+END

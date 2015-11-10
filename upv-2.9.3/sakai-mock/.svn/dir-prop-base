@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 31
+target,bin,.classpath,.project
+
+K 13
+svn:mergeinfo
+V 38
+/sakai-mock/trunk:109505-109544,111514
+END

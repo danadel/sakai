@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130335/msub/upv.es/PoliformaT/upv-2.9.3/shortenedurl/impl/src/java/org/sakaiproject/shortenedurl/impl
+END
+NoOpUrlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130335/msub/upv.es/PoliformaT/upv-2.9.3/shortenedurl/impl/src/java/org/sakaiproject/shortenedurl/impl/NoOpUrlService.java
+END
+BitlyUrlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130335/msub/upv.es/PoliformaT/upv-2.9.3/shortenedurl/impl/src/java/org/sakaiproject/shortenedurl/impl/BitlyUrlService.java
+END
+RandomisedUrlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130335/msub/upv.es/PoliformaT/upv-2.9.3/shortenedurl/impl/src/java/org/sakaiproject/shortenedurl/impl/RandomisedUrlService.java
+END
+BaseShortenedUrlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130335/msub/upv.es/PoliformaT/upv-2.9.3/shortenedurl/impl/src/java/org/sakaiproject/shortenedurl/impl/BaseShortenedUrlService.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/integration-support/src/conf/org/sakaiproject/component/section/support
+END
+spring-hib-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/integration-support/src/conf/org/sakaiproject/component/section/support/spring-hib-test.xml
+END
+spring-integrationSupport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/integration-support/src/conf/org/sakaiproject/component/section/support/spring-integrationSupport.xml
+END
+spring-services-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/integration-support/src/conf/org/sakaiproject/component/section/support/spring-services-test.xml
+END

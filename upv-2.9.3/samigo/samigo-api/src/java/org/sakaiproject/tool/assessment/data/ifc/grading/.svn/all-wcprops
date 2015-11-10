@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/131572/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/grading
+END
+ItemGradingIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/grading/ItemGradingIfc.java
+END
+AssessmentGradingSummaryIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/grading/AssessmentGradingSummaryIfc.java
+END
+MediaIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/grading/MediaIfc.java
+END
+StudentGradingSummaryIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/grading/StudentGradingSummaryIfc.java
+END
+AssessmentGradingIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/131572/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/grading/AssessmentGradingIfc.java
+END
+ItemGradingAttachmentIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/data/ifc/grading/ItemGradingAttachmentIfc.java
+END

@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Instruccions de preguntes de tipus àudio</title>
+</head>
+
+<body>
+<p><strong>CONFIGURACIÓ PER A GUARDAR SONS D'ÀUDIO</strong><br />
+  Aquest tipus de pregunta permet a l'alumne enregistrar sons d'àudio per mitjà d'un connector (plug-in) de Java. El connector de Java és una petita aplicació que s'executa en la JVM (màquina virtual de Java) de l'ordinador de l'usuari.  Per defecte, la JVM té unes polítiques de seguretat que impedeixen  guardar arxius de so. Per això cal canviar aquestes polítiques  de seguretat si volem guardar aquests arxius.<br />
+  Podem fer-ho de dues maneres:</p>
+<ol>
+  <li>Signant, amb  un certificat digital, l'arxiu  jar del connector. Aquesta és l'opció idònia, però el problema és que, de moment,  la UPV no disposa d'un certificat digital.</li>
+  <li>Editant el fitxer on es troba la política de  seguretat de la JVM. Aquesta és l'opció que  utilitzarem. Cal seguir  els passos següents.</li>
+</ol>
+<p><strong>PASSOS</strong></p>
+<p>En primer lloc, hem de localitzar el directori on s'ha  instal.lat la JVM que utilitza el sistema operatiu. Habitualment, en  els sistemes Windows es troba en el directori: <br />
+  <strong>C:\Arxius de programa\Java\jre6\lib\security</strong><br />
+  Després, polsem el botó dret del ratolí sobre l'arxiu "<strong>java.policy</strong>" i  seleccionem "<strong>Edit with Notepad++</strong>", tal com mostra la figura 1.<br />
+  <strong><img width="567" height="425" src="audio_questions_poliformat1.jpg" alt="exam62.jpg" /></strong><strong> </strong><br />
+  <strong>Figura 1</strong><br />
+  Finalment, editem l'arxiu afegint al final d'aquest  les següents línies de codi (vegeu la figura 2):<br />
+  <strong>grant {</strong><br />
+  <strong>                permission  javax.sound.sampled.AudioPermission &quot;record&quot;;</strong><br />
+  <strong>                permission  java.io.FilePermission &quot;&lt;&lt;ALL FILES&gt;&gt;&quot;, &quot;read,  write&quot;;</strong><br />
+  <strong>                permission  java.util.PropertyPermission &quot;user.dir&quot;, &quot;read&quot;;</strong><br />
+  <strong>};</strong><br />
+  <img width="567" height="528" src="audio_questions_poliformat2.jpg" alt="exam63.jpg" /> <br />
+  <strong>Figura 2</strong></p>
+</bodi>
+</html>

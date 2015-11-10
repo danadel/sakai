@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-util/src/java/net/oauth/signature/pem
+END
+PEMReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-util/src/java/net/oauth/signature/pem/PEMReader.java
+END
+DerParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-util/src/java/net/oauth/signature/pem/DerParser.java
+END
+PKCS1EncodedKeySpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-util/src/java/net/oauth/signature/pem/PKCS1EncodedKeySpec.java
+END
+Asn1Object.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-util/src/java/net/oauth/signature/pem/Asn1Object.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet
+END
+PortletRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/PortletRegistry.java
+END
+PortletToolRenderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/PortletToolRenderService.java
+END
+SakaiPortletWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/SakaiPortletWindow.java
+END

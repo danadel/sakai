@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test
+END
+DBImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/DBImpl.java
+END
+StatsManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/StatsManagerTest.java
+END
+StatsUpdateManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/StatsUpdateManagerTest.java
+END
+EventAggregatorTestPerf.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/EventAggregatorTestPerf.java
+END
+DB.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/DB.java
+END
+ReportManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/ReportManagerTest.java
+END

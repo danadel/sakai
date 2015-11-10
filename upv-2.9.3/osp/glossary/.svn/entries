@@ -1,0 +1,80 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary
+https://source.sakaiproject.org/svn
+
+
+
+2013-12-13T12:39:44.275024Z
+132552
+vacercon@upvnet.upv.es
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+component
+dir
+
+api-impl
+dir
+
+help
+dir
+
+api
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:52:24.752242Z
+78699d702ee7af079e0e46841414f2c7
+2013-08-22T14:19:54.766879Z
+128909
+matthew@longsight.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1616
+
+tool
+dir
+
+tool-lib
+dir
+

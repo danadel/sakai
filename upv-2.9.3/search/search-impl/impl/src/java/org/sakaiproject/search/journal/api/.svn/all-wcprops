@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api
+END
+JournalErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/JournalErrorException.java
+END
+JournalManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/JournalManager.java
+END
+JournalManagerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/JournalManagerState.java
+END
+IndexStorageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/IndexStorageProvider.java
+END
+JournalExhausetedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/JournalExhausetedException.java
+END
+JournaledObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/JournaledObject.java
+END
+MergeTransactionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/MergeTransactionListener.java
+END
+JournaledIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/JournaledIndex.java
+END
+IndexListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/IndexListener.java
+END
+IndexCloser.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/IndexCloser.java
+END
+IndexMonitorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/IndexMonitorListener.java
+END
+ThreadBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/ThreadBinder.java
+END
+ManagementOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/ManagementOperation.java
+END
+IndexMergeTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/IndexMergeTransaction.java
+END
+JournalStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/JournalStorage.java
+END
+JournalStorageState.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/journal/api/JournalStorageState.java
+END

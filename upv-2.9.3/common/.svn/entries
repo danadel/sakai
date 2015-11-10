@@ -1,0 +1,125 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/common
+https://source.sakaiproject.org/svn
+
+
+
+2013-10-11T11:08:07.942059Z
+130359
+vacercon@upvnet.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+archive-assembly
+dir
+
+privacy-components
+dir
+
+impl
+dir
+
+ddl
+dir
+
+common-assembly
+dir
+
+import-handlers
+dir
+
+privacy-comp-impl
+dir
+
+import-impl
+dir
+
+privacy-integration-test
+dir
+
+pack
+dir
+
+archive-impl
+dir
+
+manager-api
+dir
+
+privacy-hbm
+dir
+
+privacy-api
+dir
+
+import-pack
+dir
+
+import-parsers
+dir
+
+src
+dir
+
+edu-person-api
+dir
+
+common-composite-component
+dir
+
+archive-api
+dir
+
+type-api
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:48:59.860246Z
+341cbb154335475ad2465977857fbcc3
+2013-08-21T01:04:36.294908Z
+128726
+cle-release-team@collab.sakaiproject.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7777
+

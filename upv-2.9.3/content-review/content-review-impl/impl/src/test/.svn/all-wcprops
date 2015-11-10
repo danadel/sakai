@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/315319/msub/upv.es/PoliformaT/upv-2.9.3/content-review/content-review-impl/impl/src/test
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/315319/msub/upv.es/PoliformaT/upv-2.9.3/content-review/content-review-impl/impl/src/test/log4j.properties
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/315319/msub/upv.es/PoliformaT/upv-2.9.3/content-review/content-review-impl/impl/src/test/hibernate.properties
+END
+hibernate-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/315319/msub/upv.es/PoliformaT/upv-2.9.3/content-review/content-review-impl/impl/src/test/hibernate-test.xml
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/315319/msub/upv.es/PoliformaT/upv-2.9.3/content-review/content-review-impl/impl/src/test/hibernate.cfg.xml
+END

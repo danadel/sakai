@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean
+END
+HomeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/HomeBean.java
+END
+FullSearchBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/FullSearchBean.java
+END
+ErrorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/ErrorBean.java
+END
+PrePopulateBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/PrePopulateBean.java
+END
+PreferencesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/PreferencesBean.java
+END
+HistoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/HistoryBean.java
+END
+RoleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/RoleBean.java
+END
+ToolConfigBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/ToolConfigBean.java
+END
+PresenceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/PresenceBean.java
+END
+GenericDiffBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/GenericDiffBean.java
+END
+SearchBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/SearchBean.java
+END
+DiffBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/DiffBean.java
+END
+AuthZGroupBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/AuthZGroupBean.java
+END
+ViewBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/ViewBean.java
+END
+PermissionsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/PermissionsBean.java
+END
+RecentlyVisitedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/RecentlyVisitedBean.java
+END
+AuthZGroupEditBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/AuthZGroupEditBean.java
+END
+ResourceLoaderBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/ResourceLoaderBean.java
+END
+UpdatePermissionsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/UpdatePermissionsBean.java
+END
+RenderBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/RenderBean.java
+END
+MultiRealmEditBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/MultiRealmEditBean.java
+END
+ReferencesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/ReferencesBean.java
+END
+AuthZGroupCollectionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/AuthZGroupCollectionBean.java
+END
+EditBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/bean/EditBean.java
+END

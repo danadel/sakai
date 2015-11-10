@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <name>Sakai Webasimaster API</name>
+    <groupId>org.sakaiproject.webasimaster</groupId>
+    <artifactId>webasimaster-api</artifactId>
+    <organization>
+        <name>Sakai Project</name>
+        <url>http://sakaiproject.org/</url>
+    </organization>
+    <inceptionYear>2008</inceptionYear>
+    <description>Webasimaster interfaces (API)</description>
+    <packaging>jar</packaging>
+    <properties>
+        <deploy.target>shared</deploy.target>
+    </properties>
+
+    <!-- the base is parent -->
+    <parent>
+        <groupId>org.sakaiproject</groupId>
+        <artifactId>webasimaster</artifactId>
+        <version>0.1</version><!--Webasimaster.version-->
+    </parent>
+
+    <dependencies>
+		<dependency>
+		      <groupId>commons-lang</groupId>
+		      <artifactId>commons-lang</artifactId>
+		      <version>${sakai.commons.lang.version}</version>
+    	</dependency>    	
+    </dependencies>
+
+    <build>
+        <resources>
+            <resource>
+                <directory>${basedir}/src/java</directory>
+                <includes>
+                    <include>**/*.xml</include>
+                    <include>**/*.java</include>
+                </includes>
+                <filtering>false</filtering>
+            </resource>
+            
+        </resources>
+    </build>
+
+</project>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/313989/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/webapp/templates
+END
+voteQuestion.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/webapp/templates/voteQuestion.html
+END
+voteAdd.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/webapp/templates/voteAdd.html
+END
+voteThanks.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/webapp/templates/voteThanks.html
+END
+votePolls.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/313989/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/webapp/templates/votePolls.html
+END
+votePermissions.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/webapp/templates/votePermissions.html
+END
+pollOption.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/webapp/templates/pollOption.html
+END
+voteResults.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/webapp/templates/voteResults.html
+END
+pollOptionDelete.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/webapp/templates/pollOptionDelete.html
+END

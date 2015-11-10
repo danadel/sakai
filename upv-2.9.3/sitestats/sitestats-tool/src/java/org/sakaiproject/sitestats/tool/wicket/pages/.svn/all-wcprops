@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/132603/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/pages
+END
+ReportsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/pages/ReportsPage.java
+END
+NotAuthorizedPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/pages/NotAuthorizedPage.java
+END
+ServerWidePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/pages/ServerWidePage.java
+END
+PreferencesPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/pages/PreferencesPage.java
+END
+ReportsEditPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/132603/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/pages/ReportsEditPage.java
+END
+ReportDataPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/pages/ReportDataPage.java
+END
+OverviewPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/pages/OverviewPage.java
+END
+AdminReportsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/pages/AdminReportsPage.java
+END
+AdminPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/pages/AdminPage.java
+END
+BasePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/pages/BasePage.java
+END
+MaximizedImagePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-tool/src/java/org/sakaiproject/sitestats/tool/wicket/pages/MaximizedImagePage.java
+END

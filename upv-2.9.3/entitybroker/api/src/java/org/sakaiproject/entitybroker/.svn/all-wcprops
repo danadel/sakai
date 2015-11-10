@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/api/src/java/org/sakaiproject/entitybroker
+END
+EntityReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/api/src/java/org/sakaiproject/entitybroker/EntityReference.java
+END
+EntityBrokerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/api/src/java/org/sakaiproject/entitybroker/EntityBrokerManager.java
+END
+EntityBroker.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/api/src/java/org/sakaiproject/entitybroker/EntityBroker.java
+END
+DeveloperHelperService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/api/src/java/org/sakaiproject/entitybroker/DeveloperHelperService.java
+END
+EntityView.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/api/src/java/org/sakaiproject/entitybroker/EntityView.java
+END
+IdEntityReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/api/src/java/org/sakaiproject/entitybroker/IdEntityReference.java
+END

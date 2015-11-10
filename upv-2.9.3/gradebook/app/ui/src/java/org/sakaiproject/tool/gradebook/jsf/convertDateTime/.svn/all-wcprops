@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/318538/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/convertDateTime
+END
+DateTimeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/318538/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/convertDateTime/DateTimeConverter.java
+END
+ConvertDateTimeTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/318538/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/convertDateTime/ConvertDateTimeTag.java
+END

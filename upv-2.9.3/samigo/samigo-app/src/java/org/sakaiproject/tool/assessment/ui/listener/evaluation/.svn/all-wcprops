@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/316133/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation
+END
+StudentScoreUpdateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/316129/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/StudentScoreUpdateListener.java
+END
+StudentScoreAttachmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/StudentScoreAttachmentListener.java
+END
+HistogramListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/314945/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/HistogramListener.java
+END
+SubmissionStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/SubmissionStatusListener.java
+END
+ConfirmRetakeAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/ConfirmRetakeAssessmentListener.java
+END
+QuestionScoreListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/316129/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/QuestionScoreListener.java
+END
+ResetQuestionScoreListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/ResetQuestionScoreListener.java
+END
+QuestionScoreUpdateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/316133/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/QuestionScoreUpdateListener.java
+END
+TotalScoreListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/131951/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/TotalScoreListener.java
+END
+RetakeAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/131728/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/RetakeAssessmentListener.java
+END
+TotalScoreUpdateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/133130/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/TotalScoreUpdateListener.java
+END
+StudentScoreListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/316129/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/StudentScoreListener.java
+END
+ResetTotalScoreListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/ResetTotalScoreListener.java
+END
+QuestionScorePagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/QuestionScorePagerListener.java
+END
+ExportResponsesListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/ExportResponsesListener.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool
+END
+SimplePageItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/SimplePageItem.java
+END
+ToolApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/ToolApi.java
+END
+SimplePagePeerEvalResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/SimplePagePeerEvalResult.java
+END
+SimplePageComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/SimplePageComment.java
+END
+SimplePagePeerEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/SimplePagePeerEval.java
+END
+SimplePageLogEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/SimplePageLogEntry.java
+END
+SimplePageQuestionResponseTotals.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/SimplePageQuestionResponseTotals.java
+END
+SimplePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/SimplePage.java
+END
+LessonBuilderAccessAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/LessonBuilderAccessAPI.java
+END
+AjaxFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/AjaxFilter.java
+END
+SimplePageProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/SimplePageProperty.java
+END
+SimpleStudentPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/SimpleStudentPage.java
+END
+SimplePageQuestionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/SimplePageQuestionResponse.java
+END
+SimplePageQuestionAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/SimplePageQuestionAnswer.java
+END
+SimplePageGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/317851/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder-10.4/api/src/java/org/sakaiproject/lessonbuildertool/SimplePageGroup.java
+END

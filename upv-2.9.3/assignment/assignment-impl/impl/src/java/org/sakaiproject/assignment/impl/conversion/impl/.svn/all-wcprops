@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/319945/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-impl/impl/src/java/org/sakaiproject/assignment/impl/conversion/impl
+END
+AssignmentSubmissionAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/319945/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-impl/impl/src/java/org/sakaiproject/assignment/impl/conversion/impl/AssignmentSubmissionAccess.java
+END
+CombineDuplicateSubmissionsConversionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-impl/impl/src/java/org/sakaiproject/assignment/impl/conversion/impl/CombineDuplicateSubmissionsConversionHandler.java
+END
+RemoveDuplicateSubmissionsConversionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-impl/impl/src/java/org/sakaiproject/assignment/impl/conversion/impl/RemoveDuplicateSubmissionsConversionHandler.java
+END
+SubmitterIdAssignmentsConversionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-impl/impl/src/java/org/sakaiproject/assignment/impl/conversion/impl/SubmitterIdAssignmentsConversionHandler.java
+END
+upgradeschema.config
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-impl/impl/src/java/org/sakaiproject/assignment/impl/conversion/impl/upgradeschema.config
+END
+SAXSerializablePropertiesAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-impl/impl/src/java/org/sakaiproject/assignment/impl/conversion/impl/SAXSerializablePropertiesAccess.java
+END

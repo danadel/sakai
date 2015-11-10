@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/132258/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive
+END
+mailarchive-runconversion.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/mailarchive-runconversion.sh
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/pom.xml
+END
+upgradeschema-2.6-mysql.config
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/upgradeschema-2.6-mysql.config
+END
+upgradeschema-2.6-oracle.config
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/130341/msub/upv.es/PoliformaT/upv-2.9.3/mailarchive/upgradeschema-2.6-oracle.config
+END

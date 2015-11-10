@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/service/impl
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/service/impl/StringUtils.java
+END
+SearchServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/service/impl/SearchServiceImpl.java
+END
+SearchNotificationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/service/impl/SearchNotificationAction.java
+END
+ConcurrentSearchServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/service/impl/ConcurrentSearchServiceImpl.java
+END
+SearchIndexBuilderWorkerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/service/impl/SearchIndexBuilderWorkerImpl.java
+END
+SearchReloadNotificationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/service/impl/SearchReloadNotificationAction.java
+END
+SearchListResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/service/impl/SearchListResponseImpl.java
+END
+BaseSearchServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/service/impl/BaseSearchServiceImpl.java
+END
+SearchListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/service/impl/SearchListImpl.java
+END
+SearchResultResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/service/impl/SearchResultResponseImpl.java
+END
+SearchIndexBuilderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/service/impl/SearchIndexBuilderImpl.java
+END
+SearchResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/component/service/impl/SearchResultImpl.java
+END

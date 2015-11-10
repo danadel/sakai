@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130347/msub/upv.es/PoliformaT/upv-2.9.3/velocity/tool/src/templates/vm/editor/FCKeditor
+END
+sakai_body.vm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130347/msub/upv.es/PoliformaT/upv-2.9.3/velocity/tool/src/templates/vm/editor/FCKeditor/sakai_body.vm
+END
+sakai_header.vm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130347/msub/upv.es/PoliformaT/upv-2.9.3/velocity/tool/src/templates/vm/editor/FCKeditor/sakai_header.vm
+END

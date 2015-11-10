@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130329/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-component-shared/src/java/org/sakaiproject/component/app/profile
+END
+ProfileManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130329/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-component-shared/src/java/org/sakaiproject/component/app/profile/ProfileManagerImpl.java
+END
+LegacyProfileManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130329/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-component-shared/src/java/org/sakaiproject/component/app/profile/LegacyProfileManagerImpl.java
+END
+ProfileImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130329/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-component-shared/src/java/org/sakaiproject/component/app/profile/ProfileImpl.java
+END

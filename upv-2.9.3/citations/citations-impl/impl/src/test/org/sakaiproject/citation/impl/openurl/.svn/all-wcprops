@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/test/org/sakaiproject/citation/impl/openurl
+END
+test-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/test/org/sakaiproject/citation/impl/openurl/test-beans.xml
+END
+OpenURLServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/test/org/sakaiproject/citation/impl/openurl/OpenURLServiceImplTest.java
+END
+KEVFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/test/org/sakaiproject/citation/impl/openurl/KEVFormatTest.java
+END
+SamplePrimoOpenURLs.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/test/org/sakaiproject/citation/impl/openurl/SamplePrimoOpenURLs.java
+END
+UtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/test/org/sakaiproject/citation/impl/openurl/UtilsTest.java
+END

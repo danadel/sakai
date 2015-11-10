@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic
+END
+ProfileKudosLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/ProfileKudosLogic.java
+END
+ProfileSearchLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/ProfileSearchLogic.java
+END
+ProfileExternalIntegrationLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/ProfileExternalIntegrationLogic.java
+END
+ProfileWorksiteLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/ProfileWorksiteLogic.java
+END
+SakaiProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/SakaiProxy.java
+END
+ProfileLinkLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/ProfileLinkLogic.java
+END
+ProfileMessagingLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/ProfileMessagingLogic.java
+END
+ProfilePrivacyLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/ProfilePrivacyLogic.java
+END
+ProfileLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/ProfileLogic.java
+END
+ProfileWallLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/ProfileWallLogic.java
+END
+ProfilePreferencesLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/ProfilePreferencesLogic.java
+END
+ProfileConnectionsLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/ProfileConnectionsLogic.java
+END
+ProfileImageLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/ProfileImageLogic.java
+END
+ProfileStatusLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/logic/ProfileStatusLogic.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-util/src/test/org/sakaiproject/search/util/test
+END
+fragment.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-util/src/test/org/sakaiproject/search/util/test/fragment.html
+END
+testutf8.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-util/src/test/org/sakaiproject/search/util/test/testutf8.html
+END
+invalidhtml.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-util/src/test/org/sakaiproject/search/util/test/invalidhtml.html
+END
+validxhtml.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-util/src/test/org/sakaiproject/search/util/test/validxhtml.html
+END
+FileUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-util/src/test/org/sakaiproject/search/util/test/FileUtilsTest.java
+END
+parsertest.config
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-util/src/test/org/sakaiproject/search/util/test/parsertest.config
+END
+HTMLParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-util/src/test/org/sakaiproject/search/util/test/HTMLParserTest.java
+END

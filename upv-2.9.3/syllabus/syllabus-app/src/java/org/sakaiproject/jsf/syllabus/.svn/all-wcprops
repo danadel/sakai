@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus
+END
+SyllabusShowAreaRender.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusShowAreaRender.java
+END
+SyllabusIfTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusIfTag.java
+END
+SyllabusTableComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusTableComponent.java
+END
+SyllabusIfNotTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusIfNotTag.java
+END
+SyllabusShowAreaComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusShowAreaComponent.java
+END
+SyllabusIfRender.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusIfRender.java
+END
+SyllabusIfNotRender.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusIfNotRender.java
+END
+SyllabusIframeTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusIframeTag.java
+END
+SyllabusIfComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusIfComponent.java
+END
+SyllabusIfNotComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusIfNotComponent.java
+END
+SyllabusIframeRender.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusIframeRender.java
+END
+SyllabusTableTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusTableTag.java
+END
+SyllabusShowAreaTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusShowAreaTag.java
+END
+SyllabusIframeComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130352/msub/upv.es/PoliformaT/upv-2.9.3/syllabus/syllabus-app/src/java/org/sakaiproject/jsf/syllabus/SyllabusIframeComponent.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/docs/database/common
+END
+common-conversion-1.1-1.2-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/docs/database/common/common-conversion-1.1-1.2-mysql.sql
+END
+common-conversion-1.1-1.2-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/docs/database/common/common-conversion-1.1-1.2-oracle.sql
+END
+common-conversion-1.2-1.3-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/docs/database/common/common-conversion-1.2-1.3-mysql.sql
+END
+common-conversion-1.2-1.3-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/docs/database/common/common-conversion-1.2-1.3-oracle.sql
+END
+common-conversion-1.2-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/docs/database/common/common-conversion-1.2-mysql.sql
+END
+common-conversion-1.2-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/docs/database/common/common-conversion-1.2-oracle.sql
+END
+common-conversion-1.3-1.4-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/docs/database/common/common-conversion-1.3-1.4-mysql.sql
+END
+common-conversion-1.3-1.4-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/docs/database/common/common-conversion-1.3-1.4-oracle.sql
+END
+common-conversion-1.4-1.5-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/docs/database/common/common-conversion-1.4-1.5-mysql.sql
+END
+common-conversion-1.4-1.5-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/docs/database/common/common-conversion-1.4-1.5-oracle.sql
+END

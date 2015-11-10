@@ -1,0 +1,42 @@
+#parse("/vm/assignment/assignment_macros.vm")
+<div class="portletBody">
+
+	<h3>
+		$tlang.getString("gen.assig")<span class="highlight"> - $tlang.getString("gen.savdra")</span>
+	</h3>	
+
+	<div class="alertMessage">$tlang.getString("save_draft_warm")</div>
+	
+	<form name="addSubmissionForm" action="#toolForm("AssignmentAction")" method="post" onsubmit="return true;">
+		<input type="hidden" name="assignmentId" value="$assignment.Id" />
+		<input type="hidden" name="eventSubmit_doRead_add_submission_form" value="x" />
+		<input type="hidden" name="option" value="cancel" />
+		<input type="hidden" name="$name_submission_text" value="$validator.escapeHtmlFormattedTextarea($!value_submission_text)" />
+		<input type="hidden" name="$name_submission_honor_pledge_yes" value="$value_submission_honor_pledge_yes" />
+		
+		<div class="act">
+			<input
+				class="disableme" 
+				type="button" 
+				accesskey="d"
+				name="save" 
+				id="save" 
+				value="$tlang.getString("gen.savdra")"
+				onclick="showNotif('submitnotif','save','addSubmissionForm');document.addSubmissionForm.option.value='save_draft'; document.addSubmissionForm.submit(); return false;"
+			/>
+			<input
+				class="disableme" 
+				type="button" 
+				name="cancel" 
+				accesskey="c"
+				id="cancel" 
+				value="$tlang.getString("gen.can")"
+				onclick="document.addSubmissionForm.option.value='revise';document.addSubmissionForm.submit(); return false;"
+			/>
+			
+			<span id="submitnotif" style="visibility:hidden">$tlang.getString("gen.proces")</span>
+		</div>
+		<input type="hidden" name="sakai_csrf_token" value="$sakai_csrf_token" />
+	</form>
+</div>
+

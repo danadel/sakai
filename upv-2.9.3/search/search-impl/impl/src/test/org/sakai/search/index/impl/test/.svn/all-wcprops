@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakai/search/index/impl/test
+END
+SearchListResponseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakai/search/index/impl/test/SearchListResponseTest.java
+END
+HttpSearchManualtest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakai/search/index/impl/test/HttpSearchManualtest.java
+END
+ClusterFSIndexStorageEclipsetest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/test/org/sakai/search/index/impl/test/ClusterFSIndexStorageEclipsetest.java
+END

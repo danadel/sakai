@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/privacy-hbm/src/java/org/sakaiproject/hbm/sql
+END
+schema-export-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/privacy-hbm/src/java/org/sakaiproject/hbm/sql/schema-export-mysql.sql
+END
+schema-export-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/privacy-hbm/src/java/org/sakaiproject/hbm/sql/schema-export-oracle.sql
+END
+schema-export-hsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/privacy-hbm/src/java/org/sakaiproject/hbm/sql/schema-export-hsql.sql
+END

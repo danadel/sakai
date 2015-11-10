@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/api
+END
+ApiConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/api/ApiConverter.java
+END
+JavaApiConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/api/JavaApiConverter.java
+END
+RubyApiConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/api/RubyApiConverter.java
+END
+BaseApiConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/api/BaseApiConverter.java
+END
+ApiDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/macro/api/ApiDoc.java
+END

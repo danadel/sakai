@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130387/msub/upv.es/PoliformaT/upv-2.9.3/pack/sakai-2.9.3/pack-src
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/130387/msub/upv.es/PoliformaT/upv-2.9.3/pack/sakai-2.9.3/pack-src/.svnignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/130387/msub/upv.es/PoliformaT/upv-2.9.3/pack/sakai-2.9.3/pack-src/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/130387/msub/upv.es/PoliformaT/upv-2.9.3/pack/sakai-2.9.3/pack-src/build.xml
+END

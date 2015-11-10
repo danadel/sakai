@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt
+END
+ArtifactFinderManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/ArtifactFinderManagerImpl.java
+END
+HomeFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/HomeFactoryImpl.java
+END
+ContentWrappedArtifactFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/ContentWrappedArtifactFinder.java
+END
+WrappedArtifactFinderManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/WrappedArtifactFinderManager.java
+END
+ContentHostingUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/ContentHostingUtil.java
+END
+IdManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/IdManagerImpl.java
+END
+EntityProducerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/shared/mgt/EntityProducerBase.java
+END

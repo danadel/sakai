@@ -1,0 +1,135 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/providers
+https://source.sakaiproject.org/svn
+
+
+
+2013-11-15T10:14:00.354132Z
+131574
+vacercon@upvnet.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+cm-authz-provider
+dir
+
+sample
+dir
+
+jldap-mock
+dir
+
+hybrid
+dir
+
+cm-authz-integration-test
+dir
+
+allhands
+dir
+
+jldap-integration-test
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:46:05.828250Z
+9331427f77d55f7db52d6236a1da91b8
+2013-08-22T14:19:54.766879Z
+128909
+matthew@longsight.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2897
+
+jldap
+dir
+
+imsent
+dir
+
+openldap
+dir
+
+component
+dir
+
+federating
+dir
+
+README.txt
+file
+
+
+
+
+2015-11-09T08:46:05.828250Z
+3f26f39a81cc7b2771d6f7e697f778b4
+2006-09-09T20:18:24.661580Z
+14311
+csev@umich.edu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+730
+
+kerberos
+dir
+

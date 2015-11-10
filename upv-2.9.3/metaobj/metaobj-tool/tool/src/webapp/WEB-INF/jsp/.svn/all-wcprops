@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/jsp
+END
+chooseFormType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/jsp/chooseFormType.jsp
+END
+confirmStructuredArtifactDefPublish.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/jsp/confirmStructuredArtifactDefPublish.jsp
+END
+importStructuredArtifactDefinition.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/jsp/importStructuredArtifactDefinition.jsp
+END
+formUsage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/jsp/formUsage.jsp
+END
+listStructuredArtifactDefinitions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/jsp/listStructuredArtifactDefinitions.jsp
+END
+template.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/jsp/template.jsp
+END
+authzFailed.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/jsp/authzFailed.jsp
+END
+editPermissions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/jsp/editPermissions.jsp
+END
+confirmStructuredArtifactDefDelete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/jsp/confirmStructuredArtifactDefDelete.jsp
+END
+include.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/jsp/include.jsp
+END
+addStructuredArtifactDefinition.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/jsp/addStructuredArtifactDefinition.jsp
+END

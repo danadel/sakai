@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/321699/msub/upv.es/PoliformaT/upv-2.9.3/samigo
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/131695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/pom.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/README.txt
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/hibernate.properties
+END
+project.xml.standalone
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/project.xml.standalone
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/build.xml
+END
+.xdoclet
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/.xdoclet
+END
+.mystrutsdata
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/.mystrutsdata
+END
+.mymetadata
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/.mymetadata
+END

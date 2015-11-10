@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 51
+derby.log
+target
+.project
+.classpath
+.settings
+bin
+
+END

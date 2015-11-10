@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/320141/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl
+END
+CourseManagementServiceFederatedImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseManagementServiceFederatedImpl.java
+END
+CourseManagementServiceSampleChainImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseManagementServiceSampleChainImpl.java
+END
+CourseManagementAdministrationHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseManagementAdministrationHibernateImpl.java
+END
+CourseManagementServiceUpvChainImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/320141/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseManagementServiceUpvChainImpl.java
+END
+IndexGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/IndexGenerator.java
+END
+DataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/DataLoader.java
+END
+CourseManagementServiceHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseManagementServiceHibernateImpl.java
+END
+SampleDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/SampleDataLoader.java
+END

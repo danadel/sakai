@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-participant-helper/src/java/org/sakaiproject/site/tool/helper/participant/rsf
+END
+ConfirmProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-participant-helper/src/java/org/sakaiproject/site/tool/helper/participant/rsf/ConfirmProducer.java
+END
+EmailNotiProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-participant-helper/src/java/org/sakaiproject/site/tool/helper/participant/rsf/EmailNotiProducer.java
+END
+AddViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-participant-helper/src/java/org/sakaiproject/site/tool/helper/participant/rsf/AddViewParameters.java
+END
+SameRoleProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-participant-helper/src/java/org/sakaiproject/site/tool/helper/participant/rsf/SameRoleProducer.java
+END
+AddProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-participant-helper/src/java/org/sakaiproject/site/tool/helper/participant/rsf/AddProducer.java
+END
+DifferentRoleProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-participant-helper/src/java/org/sakaiproject/site/tool/helper/participant/rsf/DifferentRoleProducer.java
+END

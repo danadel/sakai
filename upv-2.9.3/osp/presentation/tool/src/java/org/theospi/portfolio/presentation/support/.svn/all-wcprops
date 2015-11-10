@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/support
+END
+UpdatePresentationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/support/UpdatePresentationValidator.java
+END
+CreatePresentationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/support/CreatePresentationValidator.java
+END
+PresentationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/support/PresentationService.java
+END
+CreatePresentationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/support/CreatePresentationCommand.java
+END
+AgentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/support/AgentWrapper.java
+END

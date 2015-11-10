@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/316069/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers
+END
+ShowItemProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/316069/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/ShowItemProducer.java
+END
+ReorderProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/ReorderProducer.java
+END
+ReloadPageProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/ReloadPageProducer.java
+END
+AssignmentPickerProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/AssignmentPickerProducer.java
+END
+LinkTrackerProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/LinkTrackerProducer.java
+END
+PagePickerProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/PagePickerProducer.java
+END
+PermissionsHelperProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/PermissionsHelperProducer.java
+END
+ShowPageProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/316069/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/ShowPageProducer.java
+END
+GradingPaneProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/GradingPaneProducer.java
+END
+PreviewProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/PreviewProducer.java
+END
+EditPageProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/EditPageProducer.java
+END
+ResourcePickerProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/ResourcePickerProducer.java
+END
+CommentsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/CommentsProducer.java
+END
+QuizPickerProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/QuizPickerProducer.java
+END
+ForumPickerProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/ForumPickerProducer.java
+END
+BltiPickerProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/BltiPickerProducer.java
+END
+RemovePageProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/RemovePageProducer.java
+END
+IFrameWindowProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/producers/IFrameWindowProducer.java
+END

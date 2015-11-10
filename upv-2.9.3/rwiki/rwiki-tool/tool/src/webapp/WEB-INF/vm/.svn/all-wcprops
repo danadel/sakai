@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/317802/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm
+END
+macros.vm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/131425/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/macros.vm
+END
+edit.vm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/edit.vm
+END
+printview.vm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/printview.vm
+END
+full_search.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/full_search.vm
+END
+permission.vm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/permission.vm
+END
+info.vm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/317802/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/info.vm
+END
+fragmentview.vm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/fragmentview.vm
+END
+preferences.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/preferences.vm
+END
+history.vm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/history.vm
+END
+review.vm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/review.vm
+END
+fragmentpreview.vm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/fragmentpreview.vm
+END
+search.vm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/search.vm
+END
+editRealm.vm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/editRealm.vm
+END
+editRealm-many.vm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/editRealm-many.vm
+END
+diff.vm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/diff.vm
+END
+publicview.vm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/publicview.vm
+END
+view.vm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/view.vm
+END
+editRealm-manyv2.vm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/editRealm-manyv2.vm
+END
+preview.vm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/preview.vm
+END
+title.vm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/title.vm
+END

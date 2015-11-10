@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/impl/src/test/org/sakaiproject/mailsender/logic/impl
+END
+ExternalLogicImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/impl/src/test/org/sakaiproject/mailsender/logic/impl/ExternalLogicImplTest.java
+END
+ComposeLogicImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/impl/src/test/org/sakaiproject/mailsender/logic/impl/ComposeLogicImplTest.java
+END
+ConfigLogicImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/impl/src/test/org/sakaiproject/mailsender/logic/impl/ConfigLogicImplTest.java
+END

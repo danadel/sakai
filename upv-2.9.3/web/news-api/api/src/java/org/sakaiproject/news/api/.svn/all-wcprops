@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/news-api/api/src/java/org/sakaiproject/news/api
+END
+NewsFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/news-api/api/src/java/org/sakaiproject/news/api/NewsFormatException.java
+END
+NewsChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/news-api/api/src/java/org/sakaiproject/news/api/NewsChannel.java
+END
+NewsConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/news-api/api/src/java/org/sakaiproject/news/api/NewsConnectionException.java
+END
+NewsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/news-api/api/src/java/org/sakaiproject/news/api/NewsItem.java
+END
+NewsItemEnclosure.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/news-api/api/src/java/org/sakaiproject/news/api/NewsItemEnclosure.java
+END
+NewsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/news-api/api/src/java/org/sakaiproject/news/api/NewsService.java
+END

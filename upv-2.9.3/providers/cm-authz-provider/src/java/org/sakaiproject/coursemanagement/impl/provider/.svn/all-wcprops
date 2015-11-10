@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/cm-authz-provider/src/java/org/sakaiproject/coursemanagement/impl/provider
+END
+BaseRoleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/cm-authz-provider/src/java/org/sakaiproject/coursemanagement/impl/provider/BaseRoleResolver.java
+END
+CourseSetRoleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/cm-authz-provider/src/java/org/sakaiproject/coursemanagement/impl/provider/CourseSetRoleResolver.java
+END
+RoleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/cm-authz-provider/src/java/org/sakaiproject/coursemanagement/impl/provider/RoleResolver.java
+END
+CourseOfferingRoleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/cm-authz-provider/src/java/org/sakaiproject/coursemanagement/impl/provider/CourseOfferingRoleResolver.java
+END
+CourseManagementGroupProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/cm-authz-provider/src/java/org/sakaiproject/coursemanagement/impl/provider/CourseManagementGroupProvider.java
+END
+SectionRoleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/cm-authz-provider/src/java/org/sakaiproject/coursemanagement/impl/provider/SectionRoleResolver.java
+END

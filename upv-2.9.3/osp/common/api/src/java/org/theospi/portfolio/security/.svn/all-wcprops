@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/security
+END
+Authorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/security/Authorization.java
+END
+DefaultRealmManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/security/DefaultRealmManager.java
+END
+AudienceSelectionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/security/AudienceSelectionHelper.java
+END
+AuthorizationFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/security/AuthorizationFacade.java
+END
+AuthorizationFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/security/AuthorizationFailedException.java
+END

@@ -1,0 +1,1 @@
+See: http://etudes.org/release/melete/install-upgrade-guide.htm

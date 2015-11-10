@@ -1,0 +1,77 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/edu-services
+https://source.sakaiproject.org/svn
+
+
+
+2015-07-14T13:04:55.718248Z
+320141
+vacercon@upvnet.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+sections-service
+dir
+
+src
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:46:44.728249Z
+517b66d638083b473d4297ab835d185d
+2013-08-21T01:13:33.722472Z
+128730
+cle-release-team@collab.sakaiproject.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8635
+
+edu-services-assembly
+dir
+
+gradebook-service
+dir
+
+cm-service
+dir
+

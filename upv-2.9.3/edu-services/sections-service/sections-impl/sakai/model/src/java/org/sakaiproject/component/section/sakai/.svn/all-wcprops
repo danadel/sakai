@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/318026/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/model/src/java/org/sakaiproject/component/section/sakai
+END
+CourseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/model/src/java/org/sakaiproject/component/section/sakai/CourseImpl.java
+END
+CourseSectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/318026/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/model/src/java/org/sakaiproject/component/section/sakai/CourseSectionImpl.java
+END
+ParticipationRecordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/model/src/java/org/sakaiproject/component/section/sakai/ParticipationRecordImpl.java
+END
+SectionEnrollmentsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/model/src/java/org/sakaiproject/component/section/sakai/SectionEnrollmentsImpl.java
+END
+MeetingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/model/src/java/org/sakaiproject/component/section/sakai/MeetingImpl.java
+END
+GroupParticipantImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/model/src/java/org/sakaiproject/component/section/sakai/GroupParticipantImpl.java
+END
+InstructorRecordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/model/src/java/org/sakaiproject/component/section/sakai/InstructorRecordImpl.java
+END
+TeachingAssistantRecordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/model/src/java/org/sakaiproject/component/section/sakai/TeachingAssistantRecordImpl.java
+END
+EnrollmentRecordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/model/src/java/org/sakaiproject/component/section/sakai/EnrollmentRecordImpl.java
+END
+UserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/model/src/java/org/sakaiproject/component/section/sakai/UserImpl.java
+END

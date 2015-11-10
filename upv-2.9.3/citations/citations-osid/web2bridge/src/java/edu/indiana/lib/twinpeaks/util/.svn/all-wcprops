@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util
+END
+DomUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/DomUtils.java
+END
+LogUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/LogUtils.java
+END
+CookieData.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/CookieData.java
+END
+ByteUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/ByteUtils.java
+END
+SearchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/SearchException.java
+END
+StatusUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/StatusUtils.java
+END
+CaseBlindHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/CaseBlindHashMap.java
+END
+HttpTransactionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/HttpTransactionUtils.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/StringUtils.java
+END
+SessionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/SessionContext.java
+END
+SessionTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/SessionTimeoutException.java
+END
+CookieUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/CookieUtils.java
+END
+DomException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/DomException.java
+END
+ParameterMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-osid/web2bridge/src/java/edu/indiana/lib/twinpeaks/util/ParameterMap.java
+END

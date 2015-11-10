@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl
+END
+XPathHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/XPathHelper.java
+END
+IMSFileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/IMSFileParser.java
+END
+ManifestItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/ManifestItem.java
+END
+Manifest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/Manifest.java
+END
+ManifestFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/ManifestFile.java
+END
+BasicImportDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/BasicImportDataSource.java
+END
+BasicImportMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/BasicImportMetadata.java
+END
+BasicImportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/BasicImportService.java
+END
+ManifestResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/ManifestResource.java
+END
+ZipFileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/import-impl/src/java/org/sakaiproject/importer/impl/ZipFileParser.java
+END

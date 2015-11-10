@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/facade/impl/standalone
+END
+AuthnStandaloneImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/facade/impl/standalone/AuthnStandaloneImpl.java
+END
+ContextStandaloneImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/facade/impl/standalone/ContextStandaloneImpl.java
+END
+AuthnTestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/facade/impl/standalone/AuthnTestImpl.java
+END
+AuthzStandaloneImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/facade/impl/standalone/AuthzStandaloneImpl.java
+END
+ContextTestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/facade/impl/standalone/ContextTestImpl.java
+END

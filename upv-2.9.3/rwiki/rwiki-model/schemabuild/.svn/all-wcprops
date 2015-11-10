@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/schemabuild
+END
+hsqldb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/schemabuild/hsqldb.properties
+END
+mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/schemabuild/mysql.properties
+END
+oracle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-model/schemabuild/oracle.properties
+END

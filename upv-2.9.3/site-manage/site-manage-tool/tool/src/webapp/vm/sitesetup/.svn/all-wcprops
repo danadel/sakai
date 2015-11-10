@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/321244/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup
+END
+chef_site-importSitesMigrate.vm
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-importSitesMigrate.vm
+END
+chef_site-newSiteConfirm.vm
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130929/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-newSiteConfirm.vm
+END
+chef_site-newSiteCourseManual.vm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-newSiteCourseManual.vm
+END
+chef_site-siteInfo-editInfoConfirm.vm
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130929/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-editInfoConfirm.vm
+END
+chef_site-siteInfo-importSelection.vm
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-importSelection.vm
+END
+chef_site-newSiteCourse.vm
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-newSiteCourse.vm
+END
+chef_site-addRemoveFeatureConfirm.vm
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/321244/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-addRemoveFeatureConfirm.vm
+END
+chef_site-siteInfo-importMtrlCopyConfirm.vm
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-importMtrlCopyConfirm.vm
+END
+chef_site-modifyENW.vm
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-modifyENW.vm
+END
+chef_site-findCourse.vm
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-findCourse.vm
+END
+chef_site-siteInfo-importMigrate.vm
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-importMigrate.vm
+END
+chef_site-siteInfo-importMtrlMaster.vm
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-importMtrlMaster.vm
+END
+chef_site-siteInfo-addCourseConfirm.vm
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-addCourseConfirm.vm
+END
+chef_site-siteDeleteConfirm.vm
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteDeleteConfirm.vm
+END
+chef_site-siteInfo-importMtrlCopyConfirmMsg.vm
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-importMtrlCopyConfirmMsg.vm
+END
+chef_site-list.vm
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-list.vm
+END
+chef_site-type-confirm.vm
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-type-confirm.vm
+END
+chef_site-siteInfo-editInfo.vm
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130929/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-editInfo.vm
+END
+chef_site-type.vm
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-type.vm
+END
+chef_site-importSites.vm
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-importSites.vm
+END
+chef_site-siteInfo-importMtrlCopy.vm
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-importMtrlCopy.vm
+END
+chef_site-editFeatures.vm
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/321243/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-editFeatures.vm
+END
+chef_site-siteInfo-editAccess.vm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130919/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-editAccess.vm
+END
+chef_site-siteInfo-importUser.vm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-importUser.vm
+END
+chef_site-siteInfo-duplicate.vm
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-duplicate.vm
+END
+chef_site-siteInfo-import.vm
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-import.vm
+END
+chef_site-siteInfo-editClass.vm
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-editClass.vm
+END
+chef_site-siteInfo-list.vm
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/313900/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-siteInfo-list.vm
+END
+chef_site-questions.vm
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130351/msub/upv.es/PoliformaT/upv-2.9.3/site-manage/site-manage-tool/tool/src/webapp/vm/sitesetup/chef_site-questions.vm
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard
+END
+editWizardSupport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/editWizardSupport.jsp
+END
+editWizardCategory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/editWizardCategory.jsp
+END
+steps.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/steps.jspf
+END
+editWizard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/editWizard.jsp
+END
+wizardGuidance.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/wizardGuidance.jspf
+END
+editWizardType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/editWizardType.jsp
+END
+builderButtons.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/builderButtons.jspf
+END
+runWizardEnd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/runWizardEnd.jsp
+END
+manageWizardStatus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/manageWizardStatus.jsp
+END
+confirmDeletePage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/confirmDeletePage.jsp
+END
+confirmDeleteCategory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/confirmDeleteCategory.jsp
+END
+listWizards.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/listWizards.jsp
+END
+confirmSubmit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/confirmSubmit.jsp
+END
+editWizardProperties.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/editWizardProperties.jsp
+END
+runWizard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/runWizard.jsp
+END
+runWizardGuidance.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/runWizardGuidance.jsp
+END
+editWizardPages.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/editWizardPages.jsp
+END
+showWizardOwnerMessage.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/showWizardOwnerMessage.jspf
+END
+completeWizard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/completeWizard.jsp
+END
+importWizard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/importWizard.jsp
+END
+wizardPropertiesFrame.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/wizardPropertiesFrame.jspf
+END
+editWizardDesign.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/editWizardDesign.jsp
+END
+confirmDeleteWizard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/wizard/tool/src/webapp/wizard/confirmDeleteWizard.jsp
+END

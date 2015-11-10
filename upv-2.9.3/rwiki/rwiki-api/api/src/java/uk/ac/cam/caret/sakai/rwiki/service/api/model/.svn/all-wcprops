@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model
+END
+DataMigrationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/DataMigrationController.java
+END
+RWikiObjectContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiObjectContent.java
+END
+RWikiHistoryObjectContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiHistoryObjectContent.java
+END
+RWikiCurrentObjectContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiCurrentObjectContent.java
+END
+RWikiProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiProperty.java
+END
+RWikiObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiObject.java
+END
+RWikiHistoryObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiHistoryObject.java
+END
+RWikiCurrentObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiCurrentObject.java
+END
+RWikiPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiPermissions.java
+END
+DataMigrationAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/DataMigrationAgent.java
+END
+RWikiEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiEntity.java
+END

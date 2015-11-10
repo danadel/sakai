@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-impl/impl/src/java/org/sakaiproject/chat2/model/impl
+END
+ChatManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-impl/impl/src/java/org/sakaiproject/chat2/model/impl/ChatManagerImpl.java
+END
+ChatMessageEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-impl/impl/src/java/org/sakaiproject/chat2/model/impl/ChatMessageEntityProvider.java
+END
+ChatContentProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-impl/impl/src/java/org/sakaiproject/chat2/model/impl/ChatContentProducer.java
+END
+ChatChannelEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-impl/impl/src/java/org/sakaiproject/chat2/model/impl/ChatChannelEntityProvider.java
+END
+ChatEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-impl/impl/src/java/org/sakaiproject/chat2/model/impl/ChatEntityProducer.java
+END
+ChatRestDelivery.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-impl/impl/src/java/org/sakaiproject/chat2/model/impl/ChatRestDelivery.java
+END
+ChatDataMigration.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-impl/impl/src/java/org/sakaiproject/chat2/model/impl/ChatDataMigration.java
+END
+ChatRestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-impl/impl/src/java/org/sakaiproject/chat2/model/impl/ChatRestListener.java
+END

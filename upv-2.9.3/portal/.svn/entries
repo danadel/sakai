@@ -1,0 +1,104 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/portal
+https://source.sakaiproject.org/svn
+
+
+
+2015-10-14T20:27:01.493233Z
+321505
+rmengod@cc.upv.es
+has-props
+
+
+svn:externals
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+portal-charon
+dir
+
+portal-util
+dir
+
+portal-tool
+dir
+
+portal-render-impl
+dir
+
+portal-chat
+dir
+
+portal-assembly
+dir
+
+portal-render-engine-impl
+dir
+
+portal-render-api
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:52:07.864242Z
+664b2380afac978df847a54c399501d9
+2013-08-21T02:44:28.763096Z
+128803
+cle-release-team@collab.sakaiproject.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5117
+
+portal-service-impl
+dir
+
+portal-shared-deploy
+dir
+
+portal-impl
+dir
+
+editor-tool
+dir
+
+portal-portlet-tool
+dir
+
+portal-api
+dir
+

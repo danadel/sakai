@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate
+END
+SakaiCacheProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/SakaiCacheProvider.java
+END
+VendorHbmTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/VendorHbmTransformer.java
+END
+AdditionalHibernateMappings.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/AdditionalHibernateMappings.java
+END
+AddableSessionFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/AddableSessionFactoryBean.java
+END
+HibernateJMXAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/HibernateJMXAgent.java
+END

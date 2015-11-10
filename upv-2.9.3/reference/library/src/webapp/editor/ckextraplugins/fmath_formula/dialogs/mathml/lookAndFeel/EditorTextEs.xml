@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<translate>
+		<text id="propComboLEFT">IZQUIERDA</text>
+		<text id="propComboCENTER">CENTRADO</text>
+		<text id="propComboRIGHT">DERECHA</text>
+		<text id="propComboTOP">SUPERIOR</text>
+		<text id="propComboBOTTOM">INFERIOR</text>
+		<text id="propComboNONE">NINGUNO</text>
+		<text id="propComboSOLID">SOLIDO</text>
+		<text id="propComboDASHED">DISCONTINUA</text>		
+		<text id="propLabelText">Texto:</text>
+		<text id="propLabelHref">HRef:</text>
+		<text id="propLabelBorder">Borde:</text>
+		<text id="propLabelBorderColor">Color borde:</text>
+		<text id="propLabelVariant">Fuente:</text>
+		<text id="propLabelSize">Tamaño:</text>
+		<text id="propLabelColor">Color:</text>
+		<text id="propLabelBackcolor">ColorFondo:</text>
+		<text id="propLabelShiftSup">Superscript desplazar:</text>
+		<text id="propLabelShiftY">Desplazar Y:</text>
+		<text id="propLabelShiftX">Desplazar X:</text>
+		<text id="propLabelBevelled">Biselado:</text>
+		<text id="propLabelNumAlign">Alinear numerador:</text>
+		<text id="propLabelDenumAlign">Alinear denominador:</text>
+		<text id="propLabelThickness">Anchura de línea:</text>
+		<text id="propLabelNumber">Número:</text>
+		<text id="propLabelRowalign">Alinear fila:</text>
+		<text id="propLabelRowspan">Expandir fila:</text>
+		<text id="propLabelColumnalign">Alinear columna:</text>
+		<text id="propLabelColumnspan">Expandir columna:</text>
+		<text id="propLabelFrame">Marco:</text>
+		<text id="propLabelFramespacing">Espaciado de marco:</text>
+		<text id="propLabelRowlines">Líneas de fila:</text>
+		<text id="propLabelRowspacing">Espaciado de filas:</text>
+		<text id="propLabelColumnlines">Líneas de columna:</text>
+		<text id="propLabelColumnspacing">Espaciado de columnas:</text>
+		<text id="propLabelOpen">Abrir:</text>
+		<text id="propLabelClose">Cerrar:</text>
+		<text id="propLabelLongdiv">Divisió3n longitudinal:</text>		
+		<text id="propLabelActuarial">Actuarial:</text>		
+		<text id="propLabelRadical">Radical:</text>
+		<text id="propLabelBox">Cuadrado:</text>
+		<text id="propLabelRoundedbox">Cuadrado redondeado:</text>
+		<text id="propLabelCircle">Círculo:</text>
+		<text id="propLabelLeft">Izquierda:</text>
+		<text id="propLabelRight">Derecha:</text>
+		<text id="propLabelTop">Superior:</text>
+		<text id="propLabelBottom">Inferior:</text>
+		<text id="propLabelUpdiagonalstrike">Diagonal superior:</text>
+		<text id="propLabelDowndiagonalstrike">Diagonal inferior:</text>
+		<text id="propLabelVerticalstrike">Vertical:</text>
+		<text id="propLabelHorizontalstrike">Horizontal:</text>
+		<text id="propLabelMadruwb">Madruwb:</text>
+		<text id="propLabelWidth">Ancho:"</text>
+		<text id="propLabelHeight">Alto:"</text>
+		<text id="propLabelBreak">Is break?"</text>
+		<text id="propLabelLspace">Espacio a la izquieda:</text>
+		<text id="propLabelDepth">Anchura:</text>
+		<text id="propLabelStretchy">Es elástico?</text>
+		<text id="propLabelMaxsize">Tamaño máximo:</text>
+		<text id="propLabelMinsize">Tamaño mínimo:</text>
+		<text id="propLabelShiftSub">Desplazar subíndice:</text>
+		<text id="propLabelNbPrescripts">Nb preinscripciones:</text>
+		<text id="propLabelNbPostscripts">Nb postinscripciones:</text>
+		
+		<text id="propLabelCharalign">Alinear carácter:</text>
+		<text id="propLabelCharspacing">Espaciar carácter:</text>		
+		<text id="propPosition">Posición:</text>		
+		<text id="propLength">Longitud:</text>				
+		<text id="propShift">Desplazar:</text>
+		<text id="propLeftoverhang">Sobre la izquieda:</text>
+		<text id="propRightoverhang">Sobre la derecha:</text>		
+
+		
+		<text id="propUpdateButton">Actualizar</text>		
+
+		<text id="mathProperties">propiedades matemáticas</text>
+		<text id="mrowProperties">propiedades columna</text>
+		<text id="mfencedProperties">propiedades cercado</text>
+		<text id="mencloseProperties">propiedades encerrar</text>
+		<text id="mphantomProperties">propiedades fantasma</text>
+		<text id="mpaddedProperties">propiedades de relleno</text>
+		<text id="merrorProperties">propiedades de error</text>
+		<text id="mspaceProperties">propiedades de espaciado</text>
+		<text id="mfracProperties">propiedades fracción</text>
+		<text id="msqrtProperties">propiedades raíz cuadrada</text>
+		<text id="mrootProperties">propiedades de raíz</text>
+		<text id="mmultiscriptsProperties">propiedades multiscripts</text>
+		<text id="noneProperties">ninguna propiedad</text>
+		<text id="msupProperties">propiedades msup</text>
+		<text id="msubProperties">propiedades msub</text>
+		<text id="msubsupProperties">propiedades subsup</text>
+		<text id="moverProperties">mover propiedades</text>
+		<text id="munderProperties">propiedades bajo</text>
+		<text id="munderoverProperties">propiedades bajosobre</text>
+		<text id="mnProperties">propiedades mn</text>
+		<text id="mtextProperties">propiedades mtexto</text>
+		<text id="moProperties">propiedades mo </text>
+		<text id="miProperties">propiedades mi</text>
+		<text id="msProperties">propiedades ms</text>
+		<text id="mtableProperties">propiedades tabla</text>
+		<text id="mtrProperties">propiedades tr</text>
+		<text id="mtdProperties">propiedades td</text>
+		<text id="mstyleProperties">propiedades estilo</text>
+		<text id="mactionProperties">propiedades acción</text>
+		<text id="mstackProperties">propiedades pila</text>
+		<text id="msrowProperties">propiedades fila</text>
+		<text id="mslineProperties">propiedades línea</text>
+		<text id="mscarriesProperties">propiedades acarreos</text>
+		<text id="mscarryProperties">propiedades acarreo</text>
+		<text id="mlongdivProperties">propiedades división longitudinal</text>
+		<text id="msgroupProperties">propiedades grupo</text>
+		<text id="mprescriptsProperties">propiedades índices</text>
+		
+		<text id="mathElement">Elemento de nivel superior</text>
+		<text id="mrowElement">Grupo de elementos</text>
+		<text id="mfencedElement">Cercados</text>
+		<text id="mencloseElement">Encerrar contenido</text>
+		<text id="mphantomElement">Contenido invisible</text>
+		<text id="mpaddedElement">Espacio alrededor del contenido</text>
+		<text id="merrorElement">Mensaje de error</text>
+		<text id="mspaceElement">Espacio en blanco</text>
+		<text id="mfracElement">Fracción</text>
+		<text id="msqrtElement">Raíz cuadrada</text>
+		<text id="mrootElement">Radical con índice</text>
+		<text id="mmultiscriptsElement">Preíndices y tensor</text>
+		<text id="noneElement">Elemento vacío</text>
+		<text id="msupElement">Superíndice</text>
+		<text id="msubElement">Supíndice</text>
+		<text id="msubsupElement">Sub-Superíndice</text>
+		<text id="moverElement">Sobre índice</text>
+		<text id="munderElement">Bajo índice</text>
+		<text id="munderoverElement">Bajo-Sobre índice</text>
+		<text id="mnElement">Número</text>
+		<text id="mtextElement">Texto</text>
+		<text id="moElement">Operador</text>
+		<text id="miElement">Identificador</text>
+		<text id="msElement">Cadena de literales</text>
+		<text id="mtableElement">Tabla</text>
+		<text id="mtrElement">Fila en una tabla</text>
+		<text id="mtdElement">Celda en una tabla</text>
+		<text id="mstyleElement">Cambiar estilo</text>
+		<text id="mactionElement">Unir acciones</text>
+		<text id="mstackElement">Filas de números</text>
+		<text id="msrowElement">Una fila de números</text>
+		<text id="mslineElement">Línea horizontal</text>
+		<text id="mscarriesElement">Fila de acarreos</text>
+		<text id="mscarryElement">Acarreo</text>
+		<text id="mlongdivElement">División larga</text>
+		<text id="msgroupElement">Grupo de números</text>
+		<text id="mprescriptsElement">Elemento separador</text>
+		
+		<text id="mathDesc">MathML especifica un nivel superior simple o elemento matemático raíz. Todo otro contenido MathML debe estar contenido en un elemento math</text>
+		<text id="mrowDesc">Un elemento mrow se usa para agrupar cualquier número de sub-expresiones</text>
+		<text id="mfencedDesc">Envolver el contenido con un par de vallas.</text>
+		<text id="mencloseDesc">Encerrar contenido con un símbolo extendible, como un signo de división larga</text>
+		<text id="mphantomDesc">Hacer contenido visible pero presevar su tamaño</text>
+		<text id="mpaddedDesc">Ajustar espacio alrededor del contenido</text>
+		<text id="merrorDesc">Encerrar un mensaje de error del pre-procesador</text>
+		<text id="mspaceDesc">Blank space of any desired sizeEspacio en blanco de un tamaño deseado</text>
+		<text id="mfracDesc">Fracción</text>
+		<text id="msqrtDesc">Raíz cuadrada</text>
+		<text id="mrootDesc">Radical con índice especificado</text>
+		<text id="mmultiscriptsDesc">Adjuntar subíndices e índices de tensores a una base</text>
+		<text id="noneDesc">Elemento vacío</text>
+		<text id="msupDesc">Añadir superíndice a una base</text>
+		<text id="msubDesc">Añadir subíndicea una base</text>
+		<text id="msubsupDesc">Añadir un par subíndice-superíndice a una base</text>
+		<text id="moverDesc">Añadir un supraíndice a una base</text>
+		<text id="munderDesc">Añadir un infraíndice a una base</text>
+		<text id="munderoverDesc">Añadir un par infraíndice-supraíndice a una base</text>
+		<text id="mnDesc">Representa una secuencia de dígitos, quizás incluyendo un punto decimal, representando un entero sin signo o un nñmero real.</text>
+		<text id="mtextDesc">Representa texto arbritario que debe ser renderizado consigo mismo</text>
+		<text id="moDesc">Representa un operador o algo que debe ser renderizado como un operador</text>
+		<text id="miDesc">Representa un nombre simbólico o texto arbritario que debe ser rendeirzado como un identificador</text>
+		<text id="msDesc">Representar como "cadena de literales" en expresiones significa que debe ser interpretado por el sistemas de computación de algebra o otros sistemas conteniendo lenguajes de programación.</text>
+		<text id="mtableDesc">Representa una talba</text>
+		<text id="mtrDesc">Representa una fila en una tabla</text>
+		<text id="mtdDesc">Representa una entrada, o celda, en una tabla</text>
+		<text id="mstyleDesc">Se usa para hacer cambios de estilo que afectan al renderizado de su contenido</text>
+		<text id="mactionDesc">Proporciona un mecanismo para unir acciones a expresiones</text>
+		<text id="mstackDesc">Se usa para trazar filas o numero que son alineados en cada dígito</text>
+		<text id="msrowDesc">Representa una fila con una "Fila de números"</text>
+		<text id="mslineDesc">Línea horizontal</text>
+		<text id="mscarriesDesc">Fila en una "Fila de numeros" la cual contiene acarreos</text>
+		<text id="mscarryDesc">Representa en acarreo de una columna individual</text>
+		<text id="mlongdivDesc">División larga</text>
+		<text id="msgroupDesc">Representa un grupo de filas i una "Fila de números" que esta desplazado por una cantidades similares</text>
+		<text id="mprescriptsDesc">Separa elementos en preinscripciones</text>
+		
+		<text id="commonProperties">Propiedades comunes:</text>
+		<text id="styleProperties">Estilo de propiedades:</text>
+		<text id="fenceOpen">Abrir:</text>		
+		<text id="fenceClose">Cerrar:</text>
+		<text id="matrixChoiceLines">Nb de líneas:</text>
+		<text id="matrixChoiceColumns">Nb de columnas:</text>
+		<text id="matrixChoiceButton">Crear una matriz</text>
+		<text id="gradeChoiceLines">Grado:</text>		
+		<text id="PolynomCreateButton">Crear Polinómio</text>
+		<text id="EquationCreateButton">Crear Ecuación</text>	
+		
+		<text id="functionPanelTitle">Generar una función polinomial ...</text>
+		<text id="equationPanelTitle">Generar una ecuación polinomial ...</text>
+		<text id="tablePanelTitle">Tabla customizada ...</text>
+		<text id="matrixPanelTitle">Matriz customizada ...</text>		
+		<text id="additionPanelTitle">Generar suma ...</text>	
+		<text id="additonCreateButton">Crear suma</text>
+		<text id="additonDisplayCarries">Mostrar acarreos</text>
+		<text id="additionSignPosition">Posición del signo "+":</text>		
+		<text id="additionSignNW">Superior - Izquierda</text>
+		<text id="additionSignSW">Inferior - Izquierda</text>
+		<text id="additionSignNE">Superior - Derecha</text>
+		<text id="additionSignSE">Inferior - Izquierda</text>
+
+		
+		<text id="currentElement">Elemento seleccionado</text>
+		<text id="insertElement">Añadair elemento</text>
+		<text id="newElementButton">Añadir nuevo elemento</text>		
+		
+		<text id="font-normal">Serif</text>
+		<text id="font-sans-serif">Sans Serif</text>
+		<text id="font-script">Script</text>
+		<text id="font-double-struck">Estructura doble</text>
+		<text id="font-fraktur">Fraktur</text>
+		<text id="font-monospace">Monospace</text>
+		<text id="font-circle">Círculo</text>
+
+		<text id="lookAndFeelXP">Xp</text>
+		<text id="lookAndFeelXpBlue">Azul</text>		
+		<text id="lookAndFeelXpRed">Rojo</text>		
+		<text id="lookAndFeelXpGreen">Verde</text>				
+		
+		<text id="lookAndFeelYui">Yui</text>
+		<text id="lookAndFeelYuiBlack">Por defecto</text>		
+		
+		<text id="lookAndFeelCKE">CKEditor</text>
+		<text id="lookAndFeelCKEBlue">Por defecto</text>		
+		
+		<text id="lookAndFeelTiny">TinyMCE</text>
+		<text id="lookAndFeelTinyDefault">Por defecto</text>
+		<text id="lookAndFeelTinyRed">Rojo</text>		
+
+		<text id="languageEn">English</text>		
+		<text id="languageFr">French</text>		
+		<text id="languageRo">Romanian</text>	
+		<text id="languageEs">Español</text>
+		
+	<!-- added for version 2.3 -->
+		<text id="subtractionPanelTitle">Generar resta ...</text>			
+		<text id="subtractionCreateButton">Crear resta</text>
+		<text id="subtractionDisplayCarries">Mostrara acarreos</text>
+		<text id="subtractionSignPosition">Posición del signo "-":</text>		
+		<text id="subtractionSignNW">Superior - Derecha</text>
+		<text id="subtractionSignSW">Inferior - Izquierda</text>
+		<text id="subtractionSignNE">Superior - Derecha</text>
+		<text id="subtractionSignSE">Inferior - Derecha</text>
+		
+		<text id="multiplicationPanelTitle">Generar multiplicación ...</text>			
+		<text id="multiplicationCreateButton">Crear multiplicación</text>
+		<text id="multiplicationDisplayCarries">Mostrar acarreos</text>
+		<text id="multiplicationSignPosition">Posición del signo "x":</text>		
+		<text id="multiplicationSignNW">Superior - Derecha</text>
+		<text id="multiplicationSignSW">Inferior - Izquierda</text>
+		<text id="multiplicationSignNE">Superior - Derecha</text>
+		<text id="multiplicationSignSE">Inferior - Izquierda</text>
+
+		<text id="propLabelCrossout">Tachar:</text>
+		<text id="propComboNONE">NINGUNO</text>
+		<text id="propComboUPDIAGONALSTRIKE">Diagonal superior</text>
+		<text id="propComboDOWNDIAGONALSTRIKE">Diagonal inferior</text>
+		<text id="propComboVERTICALSTRIKE">Vertical</text>
+		<text id="propComboHORIZONTALSTRIKE">Horizontal</text>		
+
+		<text id="divisionPanelTitle">Generar división ...</text>			
+		<text id="divisionCreateButton">Crear División</text>
+		<text id="divisionPrecision">Precisión:</text>		
+		<text id="divisionSelect">Seleccionar tipo:</text>				
+		
+		<text id="propComboLEFTTOP">Izquierda Arriba</text>		
+		<text id="propComboSTACKEDRIGHTRIGHT">Apilador a la derecha</text>
+		<text id="propComboMEDIUMSTACKEDRIGHTRIGHT">Apilados al medio</text>
+		<text id="propComboSHORTSTACKEDRIGHTRIGHT">Apilado corto</text>
+		<text id="propComboRIGHTTOP">Derecha Arriba</text>
+		<text id="propComboLEFT/\RIGHT">Izquierda / \ Derecha</text>
+		<text id="propComboLEFT)(RIGHT">Izquierda ) ( Derecha</text>
+		<text id="propCombo:RIGHT=RIGHT">: Derecha = Derecha</text>
+		<text id="propComboSTACKEDLEFTLEFT">Apilar Izquierda</text>
+		<text id="propComboSTACKEDLEFTLINETOP">Apilar Izquiedra Arriba</text>
+			
+		<text id="alertTitle">Alerta</text>
+		<text id="alertOk">Ok</text>
+		<text id="alert_error_conversion_latex">Error de conversion de LaTeX !!!</text>
+		<text id="alert_error_conversion_word">Error de conversion de Microsoft Word !!!</text>
+		<text id="alert_error_insert">Error al insertar fórmula mathml !!!</text>
+		<text id="alert_no_insertion">Ninguna fórmula para insertar !!!</text>
+
+		<text id="openInsert">Elegir archive e insertar...</text>
+		<text id="openInsertOverride">Sobreescribir Formula</text>
+		<text id="openMathmlType">Archivos MathML (*.txt or *.mathml)</text>
+		<text id="openLatexType">Archivos LaTeX (*.txt or *.tex)</text>
+		<text id="openWordType">Archivos Microsoft Word (*.docx)</text>
+		
+		<text id="saveMathmlType">Guardar como archivo MathML (*.mathml)</text>
+		<text id="saveLatexType">Guardar como archivo LaTeX (*.tex)</text>
+		<text id="saveWordType">Guardar como archivo Microsoft Word (*.docx)</text>
+		<text id="saveImageType">Guardar como archivo de imagen (*.jpeg, *.png)</text>
+		<text id="saveButton">Guardar como ...</text>
+
+		<text id="saveMathMLDefType">Usar Entidades</text>
+		<text id="saveMathMLUnicodeType">Usar valores Unicode</text>
+		<text id="saveMathMLCharType">Usar carácteres</text>
+	
+		<text id="saveImgJpgType">Imagen JPEG</text>
+		<text id="saveImgPngType">Imagne PNG</text>
+		<text id="saveImgJpgCompression">Compresión:</text>
+		<text id="savePngTransparent">Fondo transparent</text>
+		
+	<!-- tooltip -->	
+		<text id="tt_menu_file_new">Nueva Formula</text>
+		<text id="tt_menu_file_open">Abrir / Importar / Insertar Fórmula...</text>
+		<text id="tt_menu_file_save">Guardar / Exportar Fórmula...</text>
+		<text id="tt_menu_file_image">Crear imagen para fórmula</text>
+		<text id="tt_menu_file_xml">Ver MathML</text>
+		<text id="tt_menu_file_tex">Ver Latex</text>
+		<text id="tt_menu_file_prop">Ver Propiedades</text>
+		<text id="tt_menu_style_zoom">Zoom</text>
+		<text id="tt_menu_edit_cut">Cortar</text>
+		<text id="tt_menu_edit_copy">Copiar</text>
+		<text id="tt_menu_edit_paste">Pegar</text>
+		<text id="tt_menu_edit_undo">Deshacer</text>
+		<text id="tt_menu_edit_redo">Rehacer</text>
+		<text id="tt_menu_style_family">Cambiar las fuentes</text>
+		<text id="tt_menu_style_size">Cambiar tamaño de fuente</text>
+		<text id="tt_menu_style_bold">Cambiar a negrita</text>
+		<text id="tt_menu_style_italic">Cambiar a cursiva</text>
+		<text id="tt_menu_style_color">Cambiar el color</text>
+		<text id="tt_menu_style_bgcolor">Cambiar el color de fondo</text>
+		<text id="tt_toolbar_E1_0">Fuente Sans-Serif</text>
+		<text id="tt_toolbar_E1_1">Fuente Monospace</text>
+		<text id="tt_toolbar_E1_2">Fuente Fraktur</text>
+		<text id="tt_toolbar_E1_3">Fuente Double Struck</text>
+		<text id="tt_toolbar_E1_4">Fuente Script</text>
+		<text id="tt_toolbar_E1_5">Fuente Greek</text>
+		<text id="tt_toolbar_E1_6">Fuente Cirilica</text>
+		<text id="tt_toolbar_E1_7">Latina Font</text>
+		<text id="tt_toolbar_Unicode">Caracteres Unicode</text>
+		<text id="tt_toolbar_Equation1">Simbolos básicos</text>
+		<text id="tt_toolbar_Fraction1">Fracción, Radical y Accento</text>
+		<text id="tt_toolbar_Fence">Paréntesis</text>
+		<text id="tt_toolbar_Sum">Suma, Prodructo e Integrales</text>
+		<text id="tt_toolbar_Matrix">Matriz</text>
+		<text id="tt_toolbar_space">Espacios</text>
+		<text id="tt_toolbar_wizard">Asistente</text>
+		<text id="tt_toolbar_sample">Función</text>
+		<text id="tt_toolbar_trigo">Función trigonométrica</text>
+
+		<text id="tt_toolbar_E2_7">Símbolos (Conjunto 1)</text>
+		<text id="tt_toolbar_E2_8">Símbolos (Conjunto 2)</text>
+		<text id="tt_toolbar_E2_9">Símbolos (Conjunto 3)</text>
+		<text id="tt_toolbar_E2_5">Flechas (Conjunto 1)</text>
+		<text id="tt_toolbar_E2_6">Flechas (Conjunto 2)</text>
+		<text id="tt_toolbar_E2_0">Símbolos de puntuación</text>
+		<text id="tt_toolbar_E2_1">Super y Sub índices</text>
+		<text id="tt_toolbar_E2_2">Moneda</text>
+		<text id="tt_toolbar_E2_3">Símbolos varios</text>
+		<text id="tt_toolbar_E2_4">Simbolos de carta y formas numéricas</text>
+
+		<text id="tt_toolbar_E4_1">Formas geométricas 1</text>
+		<text id="tt_toolbar_E4_2">Flechas suplementarias</text>
+		<text id="tt_toolbar_E4_3">Cuadro de dibujo</text>
+		<text id="tt_toolbar_E4_4">Elementos de bloque</text>
+		<text id="tt_toolbar_E4_0">Dibujos</text>
+		
+		<text id="tt_toolbar_trigo_sin">Ratios básicos trigonométricos</text>
+		<text id="tt_toolbar_trigo_arcsin">Ratios trigonométricos inversos</text>
+		
+		<text id="tt_menu_look_design">Cambiar diseño del editor</text>
+		<text id="tt_menu_look_theme">Cambiar tema</text>
+		<text id="tt_menu_look_language">Cambiar idioma</text>
+
+		<text id="tt_menu_help">Ayuda</text>
+	</translate>
+</configuration>

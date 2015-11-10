@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/xdocs/db-demo-2.4.x-fix
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/xdocs/db-demo-2.4.x-fix/readme.txt
+END
+SAK-12572-move-2007-to-2008-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/xdocs/db-demo-2.4.x-fix/SAK-12572-move-2007-to-2008-mysql.sql
+END
+SAK-12572-move-2007-to-2008-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/xdocs/db-demo-2.4.x-fix/SAK-12572-move-2007-to-2008-oracle.sql
+END
+SAK-12572-move-2007-to-2008-hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/xdocs/db-demo-2.4.x-fix/SAK-12572-move-2007-to-2008-hsqldb.sql
+END

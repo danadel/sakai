@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/eventpurge
+END
+EventLogPurgeJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/eventpurge/EventLogPurgeJob.java
+END
+EventPurgeConfigurationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/eventpurge/EventPurgeConfigurationValidator.java
+END
+Messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/eventpurge/Messages.properties
+END
+Messages_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/eventpurge/Messages_mn.properties
+END

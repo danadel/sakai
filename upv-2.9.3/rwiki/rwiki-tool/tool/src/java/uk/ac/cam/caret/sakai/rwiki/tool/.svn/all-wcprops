@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/131424/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool
+END
+ExcludeEscapeHtmlReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/ExcludeEscapeHtmlReference.java
+END
+VelocityDispatchServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/VelocityDispatchServlet.java
+END
+DefaultRequestDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/DefaultRequestDispatcher.java
+END
+MapDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/MapDispatcher.java
+END
+VelocityInlineDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/VelocityInlineDispatcher.java
+END
+ModelMigrationContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/ModelMigrationContextListener.java
+END
+WebappLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/WebappLoader.java
+END
+RequestScopeSuperBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/131424/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/RequestScopeSuperBean.java
+END
+RequestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/RequestHelper.java
+END
+RWikiServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/RWikiServlet.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/jsf/roster
+END
+RosterDisplayHTMLRender.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/jsf/roster/RosterDisplayHTMLRender.java
+END
+HtmlSortHeaderRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/jsf/roster/HtmlSortHeaderRenderer.java
+END
+RosterDisplayHTMLComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/jsf/roster/RosterDisplayHTMLComponent.java
+END
+GroupTextTruncateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/jsf/roster/GroupTextTruncateConverter.java
+END
+TextTruncateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/jsf/roster/TextTruncateConverter.java
+END
+RosterDisplayHTMLTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/jsf/roster/RosterDisplayHTMLTag.java
+END

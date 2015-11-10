@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 37
+.project
+.classpath
+.settings
+target
+
+K 13
+svn:mergeinfo
+V 94
+/mailsender/trunk:101783,105146,105163,106756,109505-109544,117037,117119,118110,121555,123807
+END

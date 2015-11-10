@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/api-impl/src/java/org/theospi/portfolio/matrix/model/impl
+END
+WizardPageDefinitionEntityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/api-impl/src/java/org/theospi/portfolio/matrix/model/impl/WizardPageDefinitionEntityImpl.java
+END
+MatrixHttpAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/api-impl/src/java/org/theospi/portfolio/matrix/model/impl/MatrixHttpAccess.java
+END
+MatrixCellEntityProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/api-impl/src/java/org/theospi/portfolio/matrix/model/impl/MatrixCellEntityProviderImpl.java
+END
+MatrixContentEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/api-impl/src/java/org/theospi/portfolio/matrix/model/impl/MatrixContentEntityProducer.java
+END
+ScaffoldingEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/matrix/api-impl/src/java/org/theospi/portfolio/matrix/model/impl/ScaffoldingEntityProducer.java
+END

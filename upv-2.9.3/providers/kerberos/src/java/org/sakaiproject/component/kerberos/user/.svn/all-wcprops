@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/java/org/sakaiproject/component/kerberos/user
+END
+NullCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/java/org/sakaiproject/component/kerberos/user/NullCallbackHandler.java
+END
+KerberosUserDirectoryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/java/org/sakaiproject/component/kerberos/user/KerberosUserDirectoryProvider.java
+END
+JassAuthenticate.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/java/org/sakaiproject/component/kerberos/user/JassAuthenticate.java
+END
+UsernamePasswordCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/java/org/sakaiproject/component/kerberos/user/UsernamePasswordCallback.java
+END

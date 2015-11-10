@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 37
+m2-target
+target
+jcoverage.ser
+bin
+
+
+
+END

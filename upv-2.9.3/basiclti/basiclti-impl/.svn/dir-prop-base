@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 69
+target
+.settings
+.classpath
+.project
+testdb.properties
+testdb.script
+
+END

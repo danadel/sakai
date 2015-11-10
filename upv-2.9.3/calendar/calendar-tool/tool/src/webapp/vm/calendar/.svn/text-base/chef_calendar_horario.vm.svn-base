@@ -1,0 +1,13 @@
+<div class="portletBody"> 
+	#if($menu)#toolbar($menu)#end
+	<iframe 
+		width="100%"
+		height="2000"
+		id="horarioframe"
+		frameborder="0"
+		marginwidth="0"
+		marginheight="0"
+		scrolling="auto"
+		src="$!urlHorario">
+	</iframe>
+</div>

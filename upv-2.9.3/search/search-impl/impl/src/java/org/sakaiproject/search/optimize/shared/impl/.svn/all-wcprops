@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/shared/impl
+END
+OptimizeSharedTransactionListenerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/shared/impl/OptimizeSharedTransactionListenerImpl.java
+END
+SharedFilesystemSaveTransactionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/shared/impl/SharedFilesystemSaveTransactionListener.java
+END
+SharedFilesystemLoadTransactionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/shared/impl/SharedFilesystemLoadTransactionListener.java
+END
+JournalOptimizationTransactionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/shared/impl/JournalOptimizationTransactionImpl.java
+END
+OptimizeJournalManagerStateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/shared/impl/OptimizeJournalManagerStateImpl.java
+END
+JournalOptimizationStartTransactionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/shared/impl/JournalOptimizationStartTransactionListener.java
+END
+JournalOptimizationManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/shared/impl/JournalOptimizationManagerImpl.java
+END
+DbJournalOptimizationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/shared/impl/DbJournalOptimizationManager.java
+END
+JournalOptimizationOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/shared/impl/JournalOptimizationOperation.java
+END
+JournalOptimizationEndTransactionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/optimize/shared/impl/JournalOptimizationEndTransactionListener.java
+END

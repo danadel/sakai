@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<registration>
+
+	<tool
+			id="sakai.upv.encuestas"
+			title="sakai.upv.encuestas"
+			description="Herramienta de Encuestas"
+			accessSecurity="tool">
+
+		<category name="siteupv" />
+		<category name="sitecfp" />
+		<category name="sitemas" />
+		<category name="sitepatu" />
+		<category name="course" />
+		<category name="project" />
+
+	</tool>
+
+</registration>

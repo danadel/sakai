@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks
+END
+ReferenceParseableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/ReferenceParseableEntityProviderMock.java
+END
+EntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/EntityProviderMock.java
+END
+BrowsableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/BrowsableEntityProviderMock.java
+END
+DescribePropertiesableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/DescribePropertiesableEntityProviderMock.java
+END
+CRUDableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/CRUDableEntityProviderMock.java
+END
+testPrefixCustom.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/testPrefixCustom.properties
+END
+RESTfulEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/RESTfulEntityProviderMock.java
+END
+ActionsExecutionEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/ActionsExecutionEntityProviderMock.java
+END
+RedirectableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/RedirectableEntityProviderMock.java
+END
+EntityViewAccessProviderManagerMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/EntityViewAccessProviderManagerMock.java
+END
+CoreEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/CoreEntityProviderMock.java
+END
+RequestStoreableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/RequestStoreableEntityProviderMock.java
+END
+EntityViewAccessProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/EntityViewAccessProviderMock.java
+END
+ResolvableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/ResolvableEntityProviderMock.java
+END
+ActionsDefineableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/ActionsDefineableEntityProviderMock.java
+END
+ActionsEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/ActionsEntityProviderMock.java
+END
+RedirectDefineableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/RedirectDefineableEntityProviderMock.java
+END
+RedirectControllableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/RedirectControllableEntityProviderMock.java
+END
+HttpServletAccessProviderManagerMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/HttpServletAccessProviderManagerMock.java
+END
+DescribeableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/DescribeableEntityProviderMock.java
+END
+TaggableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/TaggableEntityProviderMock.java
+END
+PropertyableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/PropertyableEntityProviderMock.java
+END
+HttpServletAccessProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/HttpServletAccessProviderMock.java
+END
+BrowseSearchableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/BrowseSearchableEntityProviderMock.java
+END
+SerializeableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/SerializeableEntityProviderMock.java
+END
+TagEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/TagEntityProviderMock.java
+END
+testPrefixCustom_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/testPrefixCustom_mn.properties
+END

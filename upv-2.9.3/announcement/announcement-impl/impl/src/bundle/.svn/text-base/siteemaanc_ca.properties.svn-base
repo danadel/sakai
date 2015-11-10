@@ -1,0 +1,27 @@
+#X-Generator: crowdin.net
+Announcement=Av\u00ED\u00ADs
+
+Attachments=Fitxers adjunts\:
+
+noti.header.add=S''ha afegit un av\u00EDs a l''espai "{0}" a (<a href\="{1}">{1}</a>)
+noti.header.update=S''ha actualitzat un av\u00EDs a l''espai "{0}"  a (<a href\="{1}">{1}</a>)
+noti.subj=[ {0} - Av\u00EDs ] {1}
+noti.tag.html=<hr/><br/>Aquest missatge autom\u00E0tic de notificaci\u00F3 l'ha enviat {0} (<a href\="{1}">{1}</a>) des de l'espai  {2} .<br/> Pot modificar la manera en la qual rep les notificacions des d'"El meu espai de treball > Prefer\u00E8ncies".<br/>
+noti.tag=----------------------  Aquest missatge autom\u00E0tic de notificaci\u00F3 l'ha enviat {0} ({1}) des de l'espai {2} . Pot modificar la manera en la qual rep les notificacions des d'"El meu espai de treball > Prefer\u00E8ncies".
+at_date=el
+
+
+Subject=Assumpte\:
+From=De
+Date=Data
+Message=Missatge\:
+Group=Grup\: 
+
+Public=P\u00FAblic
+Allgroups=Espai
+
+
+#######################333#UPV Revision###################
+syllabus_new_posted_item=L'\u00EDtem nou s'ha enviat
+syllabus_existed_item_changed=L'\u00EDtem existent s'ha modificat
+syllabus_posted_deleted=S'ha esborrat l'\u00EDtem enviat

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/test/org/sakaiproject/component/kerberos/user
+END
+AbstractAuthenticateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/test/org/sakaiproject/component/kerberos/user/AbstractAuthenticateTest.java
+END
+VerifyJassAuthenticateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/test/org/sakaiproject/component/kerberos/user/VerifyJassAuthenticateTest.java
+END
+SimpleJassAuthenticateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/test/org/sakaiproject/component/kerberos/user/SimpleJassAuthenticateTest.java
+END
+ThreadedJaasAuthenticateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/kerberos/src/test/org/sakaiproject/component/kerberos/user/ThreadedJaasAuthenticateTest.java
+END

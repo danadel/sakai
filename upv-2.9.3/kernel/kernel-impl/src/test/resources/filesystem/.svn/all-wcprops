@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/resources/filesystem
+END
+sakai-configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/resources/filesystem/sakai-configuration.xml
+END
+some-peculiar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/resources/filesystem/some-peculiar.properties
+END
+sakai.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/resources/filesystem/sakai.properties
+END

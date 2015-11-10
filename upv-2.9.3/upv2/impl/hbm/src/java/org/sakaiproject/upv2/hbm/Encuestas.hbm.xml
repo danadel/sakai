@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping default-cascade="none" default-lazy="false" package="org.sakaiproject.upv2.model">
+	<class name="org.sakaiproject.upv2.model.Encuestas" table="SAK_ENCUESTAS">
+
+		<id name="codigo" column="CODIGO" type="integer">
+			<generator class="native">
+				<param name="sequence">SAK_CODIGOS_SE</param>
+			</generator>
+		</id>
+		
+		<property name="idPase" column="ID_PASE" type="integer" />
+
+		<property name="codigoSiteSakai" column="CODIGO_SITE_SAKAI" type="string"/>
+		
+		<property name="loginCreador" column="LOGIN_CREADOR" type="string"/>
+		
+		<property name="codigoGrupoSakai" column="CODIGO_GRUPO_SAKAI" type="string"/>				
+
+	</class>
+	
+	<query name="findEncuestasByCodigoSiteSakai">
+        <![CDATA[from org.sakaiproject.upv2.model.Encuestas as pase where pase.codigoSiteSakai = :codigoSiteSakai]]>
+    </query>
+    
+    
+    
+</hibernate-mapping>

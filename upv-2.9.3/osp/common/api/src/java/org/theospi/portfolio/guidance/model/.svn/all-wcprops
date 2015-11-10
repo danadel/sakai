@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/guidance/model
+END
+GuidanceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/guidance/model/GuidanceItem.java
+END
+Guidance.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/guidance/model/Guidance.java
+END
+Guidance.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/guidance/model/Guidance.hbm.xml
+END
+GuidanceItemAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/guidance/model/GuidanceItemAttachment.java
+END

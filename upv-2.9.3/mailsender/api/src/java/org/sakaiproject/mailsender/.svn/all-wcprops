@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/api/src/java/org/sakaiproject/mailsender
+END
+AttachmentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/api/src/java/org/sakaiproject/mailsender/AttachmentException.java
+END
+MailsenderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/api/src/java/org/sakaiproject/mailsender/MailsenderException.java
+END

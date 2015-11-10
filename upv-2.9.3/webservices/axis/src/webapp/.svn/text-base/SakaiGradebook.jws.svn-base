@@ -1,0 +1,293 @@
+/*
+ *   SakaiGradebook.jws - updated for Sakai 2.4.x by Steve Swinsburg (s.swinsburg@lancaster.ac.uk)
+ *
+ */
+ 
+import java.util.List;
+import java.util.Iterator;
+import org.sakaiproject.tool.api.Session;
+import org.sakaiproject.tool.cover.SessionManager;
+
+import org.sakaiproject.site.cover.SiteService;
+import org.sakaiproject.service.gradebook.shared.GradebookExternalAssessmentService;
+import org.sakaiproject.service.gradebook.shared.GradebookService;
+import org.sakaiproject.service.gradebook.shared.Assignment;
+import org.apache.axis.AxisFault;
+
+
+import org.sakaiproject.component.cover.ComponentManager;
+
+
+public class SakaiGradebook {
+	
+	private Session establishSession(String id) throws AxisFault 
+	{
+		Session s = SessionManager.getSession(id);
+		
+		if (s == null)
+		{
+			throw new AxisFault("Session "+id+" is not active");
+		}
+		s.setActive();
+		SessionManager.setCurrentSession(s);
+		return s;
+	}
+	
+	
+	//TODO
+	// addAssignment()
+	// getAssignmentScore()
+	// setAssignmentScore()
+	
+	//see gradebook/service/impl/src/java/org/sakaiproject/component/gradebook/GradebookServiceHibernateImpl.java
+
+	/**
+	 * 
+	 * @param sessionId obtenida previamente llamando al ws login 
+	 * @param siteId El identificador del site
+	 * @param publishedAssessmentId El identificador del examen publicado
+	 * @param studentUid El dni del alumno
+	 * @param points La nota que queremos poner al alumno (con punto como decimal)
+	 * @return
+	 */
+	public String updateGradeToGradebook(String sessionId, String siteId, String publishedAssessmentId, String studentUid, String points) throws AxisFault
+	{
+		// Establecer la sesion
+		Session session = establishSession(sessionId);
+		
+		try {
+			// Obtenemos el siteId
+			String gradebookUid = siteId;
+			
+			// Gradebook service
+			GradebookService gs = (GradebookService) ComponentManager.get("org.sakaiproject.service.gradebook.GradebookService");
+			GradebookExternalAssessmentService ge = (GradebookExternalAssessmentService) ComponentManager.get("org.sakaiproject.service.gradebook.GradebookExternalAssessmentService");
+					
+			// check user is allowed to access gradebook
+			if (!gs.currentUserHasGradingPerm(gradebookUid)) {
+				return "Permission Denied";
+			}
+			
+			// Suponemos que el gradebook ya existe. Simplemente ponemos la nota del alumno
+			ge.updateExternalAssessmentScore(gradebookUid, publishedAssessmentId, studentUid, points);
+		
+		} catch (Exception e) {  
+			return e.getClass().getName() + " : " + e.getMessage();
+	    }
+		
+		return "ok";
+	}
+
+	/**
+	 * 
+	 * @param sessionId obtenida previamente llamando al ws login 
+	 * @param siteId El identificador del site
+	 * @param assignmentName El nombre de la tarea en calificaciones
+	 * @param studentUid El dni del alumno
+	 * @param points La nota que queremos poner al alumno (con punto como decimal)
+	 * @return
+	 */
+	public String updateGradeFromAssignment(String sessionId, String siteId, String assignmentName, String studentUid, String points) throws AxisFault
+	{
+		// Establecer la sesion
+		Session session = establishSession(sessionId);
+		
+		try {
+			// Obtenemos el siteId
+			String gradebookUid = siteId;
+			
+			// Gradebook service
+			GradebookService gs = (GradebookService) ComponentManager.get("org.sakaiproject.service.gradebook.GradebookService");
+					
+			// check user is allowed to access gradebook
+			if (!gs.currentUserHasGradingPerm(gradebookUid)) {
+				return "Permission Denied";
+			}
+			
+			// Suponemos que el gradebook ya existe. Simplemente ponemos la nota del alumno
+			gs.setAssignmentScoreString(gradebookUid, assignmentName, studentUid, points, "web service");
+		
+		} catch (Exception e) {  
+			return e.getClass().getName() + " : " + e.getMessage();
+	    }
+		
+		return "ok";
+	}
+	
+	public String removeAssignment(String sessionid, String gradebookUid, String assignmentName ) throws AxisFault
+	{
+		String result = "";
+	    Session s = establishSession(sessionid);
+	   
+	    try {
+	
+			GradebookService gs = (GradebookService) ComponentManager.get("org.sakaiproject.service.gradebook.GradebookService");
+	
+	        // check user is allowed to access gradebook
+			if (!gs.currentUserHasGradingPerm(gradebookUid)) {
+				return "Permission Denied";
+			}
+			
+			if (gs.isAssignmentDefined(gradebookUid, assignmentName)) {
+			
+				List Assignments = gs.getAssignments(gradebookUid);
+				for (Iterator iAssignment = Assignments.iterator(); iAssignment.hasNext();) {
+			    	Assignment a = (Assignment)iAssignment.next();
+			    
+			    	if (a.getName().equals(assignmentName)) {
+						gs.removeAssignment(a.getId());	    	
+			    	}
+		        }
+	        }
+	        else {
+	        	result = "No existe ningun gradebook con ese nombre en el sitio\n";
+	        }
+	
+	    } catch (Exception e) {  
+			return e.getClass().getName() + " : " + e.getMessage();
+	    }
+	
+		return result + "success";
+	}
+	
+	/*public String addExternalAssessment(String sessionid, String gradebookUid, String externalId,  String externalUrl, String assignmentName, String longVarValue, String toolName) throws AxisFault
+	{
+
+		Session s = establishSession(sessionid);
+
+		try {
+
+			org.sakaiproject.service.framework.component.ComponentManager
+			sakaiCompMgr = org.sakaiproject.service.framework.component.cover.ComponentManager.getInstance();
+			GradebookService aGradebookService = (GradebookService) sakaiCompMgr.get("org.sakaiproject.service.gradebook.GradebookService");
+
+	        if (! aGradebookService.isUserAbleToGradeStudent(gradebookUid,"..nonexistentstudent.."))
+			return "Permission Denied";
+
+			Calendar calVar = Calendar.getInstance();
+			Date currentTimeVar = calVar.getTime();
+			long longVar = Long.parseLong(longVarValue);
+
+
+			aGradebookService.addExternalAssessment(gradebookUid,externalId,externalUrl,assignmentName,longVar,currentTimeVar,toolName);
+
+		} catch (Exception e) {  
+			return e.getClass().getName() + " : " + e.getMessage();
+		}
+		return "success";
+
+	}*/
+
+	/*public String updateExternalAssessment(String sessionid, String gradebookUid, String externalId, String studentList, String scoreList) throws AxisFault
+	{
+
+    	Session s = establishSession(sessionid);
+
+    	String errlist = "";
+
+	    try {
+	
+			org.sakaiproject.service.framework.component.ComponentManager sakaiCompMgr = org.sakaiproject.service.framework.component.cover.ComponentManager.getInstance();
+			GradebookService aGradebookService = (GradebookService) sakaiCompMgr.get("org.sakaiproject.service.gradebook.GradebookService");
+	
+			String[] inputtedLoginNameArray = studentList.split(",");
+			String[] inputtedGradeArray = scoreList.split(",");
+			for (int x = 0; x<inputtedLoginNameArray.length; x++) {
+				String studentID= inputtedLoginNameArray[x];
+				String pointsStringVar = inputtedGradeArray[x];
+				Double points = new Double(pointsStringVar);
+	
+		        if (aGradebookService.isUserAbleToGradeStudent(gradebookUid,studentID))
+					aGradebookService.updateExternalAssessmentScore(gradebookUid,externalId,studentID,points);
+				else
+					errlist = errlist + "," + studentID;
+	        }
+	
+	    } catch (Exception e) {  
+			return e.getClass().getName() + " : " + e.getMessage();
+	    }
+
+		if (errlist.length() == 0)
+  			return "success";
+		else 
+  			return "Permission defined for students " + errlist.substring(1);
+
+	}*/
+
+	/*public String removeExternalAssessment(String sessionid, String gradebookUid, String externalId ) throws AxisFault
+	{
+	
+	    Session s = establishSession(sessionid);
+	   
+	    try {
+	
+			org.sakaiproject.service.framework.component.ComponentManager sakaiCompMgr = org.sakaiproject.service.framework.component.cover.ComponentManager.getInstance();
+			GradebookService aGradebookService = (GradebookService) sakaiCompMgr.get("org.sakaiproject.service.gradebook.GradebookService");
+	
+	        if (! aGradebookService.isUserAbleToGradeStudent(gradebookUid,"..nonexistentstudent.."))
+			return "Permission Denied";
+	
+			aGradebookService.removeExternalAssessment(gradebookUid,externalId);
+	    } catch (Exception e) {  
+			return e.getClass().getName() + " : " + e.getMessage();
+	    }
+	
+		return "success";
+	}*/
+
+
+	/*public String getAssignments(String sessionid, String gradebookUid) throws AxisFault
+	{
+
+	    Session s = establishSession(sessionid);
+	    String retval = "";
+	   
+	    try {
+	
+			org.sakaiproject.service.framework.component.ComponentManager sakaiCompMgr = org.sakaiproject.service.framework.component.cover.ComponentManager.getInstance();
+			GradebookService aGradebookService = (GradebookService) sakaiCompMgr.get("org.sakaiproject.service.gradebook.GradebookService");
+	
+	        if (! aGradebookService.isUserAbleToGradeStudent(gradebookUid,"..nonexistentstudent.."))
+			return "Permission Denied";
+	
+	        List Assignments = aGradebookService.getAssignments(gradebookUid);
+			for (Iterator iAssignment = Assignments.iterator(); iAssignment.hasNext();) {
+		    	Assignment a = (Assignment)iAssignment.next();
+		    
+		    	retval = retval + "," + a.getName();
+	        }
+
+    	} catch (Exception e) {  
+			return e.getClass().getName() + " : " + e.getMessage();
+    	}
+
+		if (retval.length() == 0)
+  			return retval;
+		else
+  			return retval.substring(1);
+	}*/
+
+	/*public String isUserAbleToGradeStudent(String sessionid, String gradebookUid, String studentUid) throws AxisFault
+	{
+
+	    Session s = establishSession(sessionid);
+	    boolean retval;
+	   
+	    try {
+	
+			org.sakaiproject.service.framework.component.ComponentManager sakaiCompMgr = org.sakaiproject.service.framework.component.cover.ComponentManager.getInstance();
+			GradebookService aGradebookService = (GradebookService) sakaiCompMgr.get("org.sakaiproject.service.gradebook.GradebookService");
+	        retval = aGradebookService.isUserAbleToGradeStudent(gradebookUid, studentUid);
+	
+	    } catch (Exception e) {  
+			return e.getClass().getName() + " : " + e.getMessage();
+	    }
+	
+		if (retval)
+	  		return "true";
+		else
+	  		return "false";
+		}
+	}*/
+
+}

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/impl/src/resources
+END
+mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/impl/src/resources/mysql.properties
+END
+oracle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/impl/src/resources/oracle.properties
+END
+hsqldb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/313982/msub/upv.es/PoliformaT/upv-2.9.3/delegatedaccess/impl/src/resources/hsqldb.properties
+END

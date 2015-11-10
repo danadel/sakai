@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130332/msub/upv.es/PoliformaT/upv-2.9.3/reset-pass/account-validator-pack/src/webapp/WEB-INF
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130332/msub/upv.es/PoliformaT/upv-2.9.3/reset-pass/account-validator-pack/src/webapp/WEB-INF/components.xml
+END
+hibernate-hbms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130332/msub/upv.es/PoliformaT/upv-2.9.3/reset-pass/account-validator-pack/src/webapp/WEB-INF/hibernate-hbms.xml
+END
+spring-hibernate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130332/msub/upv.es/PoliformaT/upv-2.9.3/reset-pass/account-validator-pack/src/webapp/WEB-INF/spring-hibernate.xml
+END

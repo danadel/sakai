@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command
+END
+Dispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/Dispatcher.java
+END
+RevertCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/RevertCommand.java
+END
+SimpleCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/SimpleCommand.java
+END
+CommentNewCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/CommentNewCommand.java
+END
+EditAuthZGroupCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/EditAuthZGroupCommand.java
+END
+SaveCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/SaveCommand.java
+END
+UpdatePermissionsCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/UpdatePermissionsCommand.java
+END
+HelperCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/HelperCommand.java
+END
+AddAttachmentReturnCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/AddAttachmentReturnCommand.java
+END
+BasicHttpCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/BasicHttpCommand.java
+END
+CommentSaveCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/CommentSaveCommand.java
+END
+EditManyAuthZGroupCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/EditManyAuthZGroupCommand.java
+END
+UpdatePreferencesCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-tool/tool/src/java/uk/ac/cam/caret/sakai/rwiki/tool/command/UpdatePreferencesCommand.java
+END

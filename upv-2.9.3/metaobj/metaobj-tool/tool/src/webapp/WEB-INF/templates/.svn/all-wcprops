@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/templates
+END
+editXmlElement.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/templates/editXmlElement.vm
+END
+viewXmlElement.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/templates/viewXmlElement.vm
+END
+listXmlElement.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-tool/tool/src/webapp/WEB-INF/templates/listXmlElement.vm
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/tool/src/webapp/WEB-INF
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/tool/src/webapp/WEB-INF/applicationContext.xml
+END
+requestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/tool/src/webapp/WEB-INF/requestContext.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/tool/src/webapp/WEB-INF/web.xml
+END

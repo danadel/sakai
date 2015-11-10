@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/model
+END
+SearchOutputItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/model/SearchOutputItem.java
+END
+MasterRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/model/MasterRecord.java
+END
+SearchTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/model/SearchTerm.java
+END
+AdminOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/model/AdminOption.java
+END
+WorkerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/model/WorkerThread.java
+END
+SearchPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/model/SearchPage.java
+END
+Segment.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-tool/tool/src/java/org/sakaiproject/search/tool/model/Segment.java
+END

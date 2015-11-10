@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/api/src/java/org/sakaiproject/videoconference/api/model
+END
+VideoconferenceGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/api/src/java/org/sakaiproject/videoconference/api/model/VideoconferenceGroup.java
+END
+VideoconferenceRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/api/src/java/org/sakaiproject/videoconference/api/model/VideoconferenceRoom.java
+END
+VideoconferenceRoomType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/api/src/java/org/sakaiproject/videoconference/api/model/VideoconferenceRoomType.java
+END
+VideoconferenceUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130429/msub/upv.es/PoliformaT/upv-2.9.3/webconference/api/src/java/org/sakaiproject/videoconference/api/model/VideoconferenceUser.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/archive-impl/impl/src/java/org/sakaiproject/archive/impl
+END
+BasicArchiveService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/archive-impl/impl/src/java/org/sakaiproject/archive/impl/BasicArchiveService.java
+END
+ImportMetadataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/archive-impl/impl/src/java/org/sakaiproject/archive/impl/ImportMetadataImpl.java
+END
+ImportMetadataServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130359/msub/upv.es/PoliformaT/upv-2.9.3/common/archive-impl/impl/src/java/org/sakaiproject/archive/impl/ImportMetadataServiceImpl.java
+END

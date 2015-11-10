@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio
+END
+AudioSampleGraphPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/AudioSampleGraphPanel.java
+END
+AudioSamplingData.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/AudioSamplingData.java
+END
+AudioControlContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/AudioControlContext.java
+END
+AudioRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/AudioRecorder.java
+END
+AudioFormatPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/AudioFormatPanel.java
+END
+AudioRecorderParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/AudioRecorderParams.java
+END
+AudioRecorderApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/AudioRecorderApplet.java
+END
+AudioMeterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/AudioMeterPanel.java
+END
+ColorBackgroundPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/ColorBackgroundPanel.java
+END
+SpringUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/SpringUtilities.java
+END
+AudioUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/AudioUtil.java
+END
+ColorModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/ColorModel.java
+END
+AudioConfigHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/AudioConfigHelp.java
+END
+AudioPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-audio/src/java/org/sakaiproject/tool/assessment/audio/AudioPanel.java
+END

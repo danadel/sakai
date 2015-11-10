@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/132119/msub/upv.es/PoliformaT/upv-2.9.3/web/web-tool/tool/src/webapp/vm/web
+END
+chef_iframe-customize.vm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/web-tool/tool/src/webapp/vm/web/chef_iframe-customize.vm
+END
+chef_iframe.vm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/web-tool/tool/src/webapp/vm/web/chef_iframe.vm
+END
+chef_iframe-site-customize.vm
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/132119/msub/upv.es/PoliformaT/upv-2.9.3/web/web-tool/tool/src/webapp/vm/web/chef_iframe-site-customize.vm
+END
+chef_iframe-annotatedurl-customize.vm
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/web-tool/tool/src/webapp/vm/web/chef_iframe-annotatedurl-customize.vm
+END

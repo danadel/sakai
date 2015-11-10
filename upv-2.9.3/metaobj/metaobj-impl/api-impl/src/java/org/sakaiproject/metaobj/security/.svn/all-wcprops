@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security
+END
+AllowMapSecurityAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/AllowMapSecurityAdvisor.java
+END
+FunctionConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/FunctionConstants.java
+END
+AllowChildrenMapSecurityAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/AllowChildrenMapSecurityAdvisor.java
+END
+AnonymousAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/security/AnonymousAgent.java
+END

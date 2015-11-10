@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/configuration/bundles/src/bundle/org/sakaiproject/config/bundle
+END
+experimental.sakai.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/configuration/bundles/src/bundle/org/sakaiproject/config/bundle/experimental.sakai.properties
+END
+default.sakai.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/configuration/bundles/src/bundle/org/sakaiproject/config/bundle/default.sakai.properties
+END
+demo.sakai.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/configuration/bundles/src/bundle/org/sakaiproject/config/bundle/demo.sakai.properties
+END
+auto.sakai.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/configuration/bundles/src/bundle/org/sakaiproject/config/bundle/auto.sakai.properties
+END

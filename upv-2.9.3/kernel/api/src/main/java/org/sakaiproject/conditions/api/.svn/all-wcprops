@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/conditions/api
+END
+ConditionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/conditions/api/ConditionProvider.java
+END
+ConditionTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/conditions/api/ConditionTemplate.java
+END
+EvaluationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/conditions/api/EvaluationAction.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/conditions/api/Condition.java
+END
+ConditionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/conditions/api/ConditionService.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/conditions/api/Rule.java
+END
+EventKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/conditions/api/EventKey.java
+END
+Operator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/conditions/api/Operator.java
+END
+ConditionTemplateSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/132069/msub/upv.es/PoliformaT/upv-2.9.3/kernel/api/src/main/java/org/sakaiproject/conditions/api/ConditionTemplateSet.java
+END

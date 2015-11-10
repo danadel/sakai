@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/types
+END
+EmailType.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/types/EmailType.java
+END
+PrivacyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/types/PrivacyType.java
+END
+PreferenceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/api/src/java/org/sakaiproject/profile2/types/PreferenceType.java
+END

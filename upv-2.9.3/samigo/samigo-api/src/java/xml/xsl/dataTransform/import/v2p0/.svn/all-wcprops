@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/xml/xsl/dataTransform/import/v2p0
+END
+extractItem.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/xml/xsl/dataTransform/import/v2p0/extractItem.xsl
+END
+extractSection.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/xml/xsl/dataTransform/import/v2p0/extractSection.xsl
+END
+extractAssessment.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-api/src/java/xml/xsl/dataTransform/import/v2p0/extractAssessment.xsl
+END

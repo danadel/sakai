@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 31
+target,bin,.classpath,.project
+
+K 13
+svn:mergeinfo
+V 42
+/profile/trunk:103259,109505-109544,122960
+END

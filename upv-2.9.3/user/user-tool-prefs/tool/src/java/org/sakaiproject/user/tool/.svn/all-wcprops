@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/306242/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool-prefs/tool/src/java/org/sakaiproject/user/tool
+END
+UserPrefsTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/306242/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool-prefs/tool/src/java/org/sakaiproject/user/tool/UserPrefsTool.java
+END
+PreferenceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130355/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool-prefs/tool/src/java/org/sakaiproject/user/tool/PreferenceServlet.java
+END
+PrivacyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130355/msub/upv.es/PoliformaT/upv-2.9.3/user/user-tool-prefs/tool/src/java/org/sakaiproject/user/tool/PrivacyBean.java
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/impl/src/resources/org/sakaiproject/entitybroker
+END
+spring-jdbc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/impl/src/resources/org/sakaiproject/entitybroker/spring-jdbc.xml
+END

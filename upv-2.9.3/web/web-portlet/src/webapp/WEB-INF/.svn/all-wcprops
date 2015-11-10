@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/133902/msub/upv.es/PoliformaT/upv-2.9.3/web/web-portlet/src/webapp/WEB-INF
+END
+portlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/web-portlet/src/webapp/WEB-INF/portlet.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/web-portlet/src/webapp/WEB-INF/web.xml
+END
+velocity.config
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/web-portlet/src/webapp/WEB-INF/velocity.config
+END

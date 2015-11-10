@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/321688/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment
+END
+chef_assignments_tags_list.vm
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_tags_list.vm
+END
+chef_assignments_options.vm
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_options.vm
+END
+chef_assignments_student_view_submission.vm
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130828/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_student_view_submission.vm
+END
+chef_assignments_instructor_view_assignment.vm
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130828/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_instructor_view_assignment.vm
+END
+chef_assignments_instructor_list_assignment_groups.vm
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130853/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_instructor_list_assignment_groups.vm
+END
+chef_assignments_student_preview_submission.vm
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_student_preview_submission.vm
+END
+chef_assignments_student_view_submission_confirmation.vm
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_student_view_submission_confirmation.vm
+END
+chef_assignments_instructor_report_submissions.vm
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130817/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_instructor_report_submissions.vm
+END
+chef_assignments_instructor_preview_assignment.vm
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_instructor_preview_assignment.vm
+END
+chef_assignments_instructor_list_submissions.vm
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/315906/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_instructor_list_submissions.vm
+END
+chef_assignments_student_view_assignment.vm
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_student_view_assignment.vm
+END
+chef_assignments_instructor_uploadAll.vm
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130940/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_instructor_uploadAll.vm
+END
+chef_assignments_instructor_student_list_submissions.vm
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_instructor_student_list_submissions.vm
+END
+assignment_macros.vm
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/assignment_macros.vm
+END
+chef_assignments_instructor_grading_group_submissions.vm
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/321688/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_instructor_grading_group_submissions.vm
+END
+chef_assignments_instructor_new_edit_assignment.vm
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_instructor_new_edit_assignment.vm
+END
+chef_assignments_instructor_grading_submission.vm
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/308073/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_instructor_grading_submission.vm
+END
+chef_assignments_student_view_grade.vm
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_student_view_grade.vm
+END
+chef_assignments_instructor_preview_grading_submission.vm
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_instructor_preview_grading_submission.vm
+END
+chef_assignments_student_save_draft.vm
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/131086/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_student_save_draft.vm
+END
+chef_assignments_list_assignments.vm
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/321220/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_list_assignments.vm
+END
+chef_assignments_instructor_reorder_assignment.vm
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130900/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_instructor_reorder_assignment.vm
+END
+chef_assignments_instructor_delete_assignment.vm
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-tool/tool/src/webapp/vm/assignment/chef_assignments_instructor_delete_assignment.vm
+END

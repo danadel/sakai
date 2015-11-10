@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/319753/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper
+END
+AttachmentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/AttachmentHelper.java
+END
+MetaDataList.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/MetaDataList.java
+END
+AuthoringHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/131473/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/AuthoringHelper.java
+END
+ExtractionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/319753/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/ExtractionHelper.java
+END
+AuthoringXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/AuthoringXml.java
+END
+QTIHelperFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/QTIHelperFactory.java
+END

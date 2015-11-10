@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/java/org/theospi/portfolio/help/control
+END
+GlossaryImportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/java/org/theospi/portfolio/help/control/GlossaryImportController.java
+END
+GlossaryListController.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/java/org/theospi/portfolio/help/control/GlossaryListController.java
+END
+GlossaryRemoveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/java/org/theospi/portfolio/help/control/GlossaryRemoveController.java
+END
+GlossaryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/java/org/theospi/portfolio/help/control/GlossaryController.java
+END
+GlossaryEntryValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/java/org/theospi/portfolio/help/control/GlossaryEntryValidator.java
+END
+HelpController.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/java/org/theospi/portfolio/help/control/HelpController.java
+END
+GlossaryEditController.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/tool/src/java/org/theospi/portfolio/help/control/GlossaryEditController.java
+END

@@ -1,0 +1,125 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/reference/library/src/webapp/skin
+https://source.sakaiproject.org/svn
+
+
+
+2015-10-15T06:26:49.441433Z
+321508
+anueda@asic.upv.es
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+neo-ux
+dir
+
+gen-u
+dir
+
+examp-u
+dir
+
+default-horiz
+dir
+
+neo-default29
+dir
+
+f-upv2
+dir
+
+neo-rtl
+dir
+
+neo-fupv3
+dir
+
+neo-oae
+dir
+
+neo-some-u
+dir
+
+default
+dir
+
+neo-gen-u
+dir
+
+neo-examp-u
+dir
+
+neo-default-horiz
+dir
+
+ux
+dir
+
+tool_base.css
+file
+
+
+
+
+2015-11-09T08:49:27.976246Z
+d2f414268048052777aa5665ad4b717d
+2014-09-22T09:54:22.537486Z
+313772
+anueda@asic.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24524
+
+rtl
+dir
+
+neo-default
+dir
+
+oae
+dir
+
+upvtoolicons
+dir
+
+images
+dir
+
+some-u
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-util/util/src/java/org/sakaiproject/portal/util
+END
+URLUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-util/util/src/java/org/sakaiproject/portal/util/URLUtils.java
+END
+BufferedServletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-util/util/src/java/org/sakaiproject/portal/util/BufferedServletResponse.java
+END
+ByteArrayServletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-util/util/src/java/org/sakaiproject/portal/util/ByteArrayServletResponse.java
+END
+ErrorReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-util/util/src/java/org/sakaiproject/portal/util/ErrorReporter.java
+END
+ToolURLManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-util/util/src/java/org/sakaiproject/portal/util/ToolURLManagerImpl.java
+END

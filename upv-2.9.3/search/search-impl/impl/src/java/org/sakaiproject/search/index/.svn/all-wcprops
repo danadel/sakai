@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index
+END
+IndexReloadListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/IndexReloadListener.java
+END
+ClusterFilesystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/ClusterFilesystem.java
+END
+IndexStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/IndexStorage.java
+END
+AnalyzerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/AnalyzerFactory.java
+END
+SegmentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/SegmentInfo.java
+END

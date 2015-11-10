@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/spring
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/spring/applicationContext.xml
+END
+integrationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/spring/integrationContext.xml
+END
+samigoApi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/spring/samigoApi.xml
+END
+BeanDefinitionsStandalone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/spring/BeanDefinitionsStandalone.xml
+END
+SpringBeanLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/spring/SpringBeanLocator.java
+END
+BeanDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/spring/BeanDefinitions.xml
+END
+applicationContextStandalone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/spring/applicationContextStandalone.xml
+END
+integrationContextStandalone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-services/src/java/org/sakaiproject/spring/integrationContextStandalone.xml
+END

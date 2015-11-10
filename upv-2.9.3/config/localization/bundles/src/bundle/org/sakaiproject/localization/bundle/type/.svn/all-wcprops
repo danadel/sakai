@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type
+END
+types.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types.properties
+END
+types_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_ca.properties
+END
+types_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_ru.properties
+END
+types_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_pt_PT.properties
+END
+types_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_de.properties
+END
+types_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_sv.properties
+END
+types_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_ja.properties
+END
+types_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_tr_TR.properties
+END
+types_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_fr_FR.properties
+END
+types_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_zh_CN.properties
+END
+types_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_ar.properties
+END
+types_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_pt_BR.properties
+END
+types_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_pl_PL.properties
+END
+types_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_es.properties
+END
+types_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_nl.properties
+END
+types_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_mn.properties
+END
+types_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_fr_CA.properties
+END
+types_en_GB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/132193/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_en_GB.properties
+END
+types_es_MX.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_es_MX.properties
+END
+types_vi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130375/msub/upv.es/PoliformaT/upv-2.9.3/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle/type/types_vi.properties
+END

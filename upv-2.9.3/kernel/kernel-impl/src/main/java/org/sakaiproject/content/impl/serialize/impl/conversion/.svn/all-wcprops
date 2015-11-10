@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion
+END
+SAXSerializableResourceAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/SAXSerializableResourceAccess.java
+END
+upgradeschema.config
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/upgradeschema.config
+END
+ConvertTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/ConvertTime.java
+END
+SAXSerializableCollectionAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/SAXSerializableCollectionAccess.java
+END
+Type1BlobResourcesConversionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/Type1BlobResourcesConversionHandler.java
+END
+SAXSerializablePropertiesAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/SAXSerializablePropertiesAccess.java
+END
+Type1BlobCollectionConversionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/Type1BlobCollectionConversionHandler.java
+END
+ConversionTimeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/ConversionTimeService.java
+END
+FileSizeResourcesConversionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/FileSizeResourcesConversionHandler.java
+END

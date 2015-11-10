@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-api/api/src/java/org/sakaiproject/search/dao
+END
+SearchBuilderItemDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-api/api/src/java/org/sakaiproject/search/dao/SearchBuilderItemDao.java
+END
+SearchIndexBuilderWorkerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-api/api/src/java/org/sakaiproject/search/dao/SearchIndexBuilderWorkerDao.java
+END

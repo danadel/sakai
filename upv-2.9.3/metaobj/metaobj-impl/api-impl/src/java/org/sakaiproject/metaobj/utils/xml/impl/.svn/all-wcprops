@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl
+END
+SimpleSchemaNodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/SimpleSchemaNodeImpl.java
+END
+NumberValueRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/NumberValueRange.java
+END
+NumberElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/NumberElementType.java
+END
+RefAttributeSchemaNodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/RefAttributeSchemaNodeImpl.java
+END
+DecimalElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/DecimalElementType.java
+END
+UriElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/UriElementType.java
+END
+AttributeSchemaNodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/AttributeSchemaNodeImpl.java
+END
+DateFormatterElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/DateFormatterElementType.java
+END
+FormatterElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/FormatterElementType.java
+END
+ComplexSchemaNodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/ComplexSchemaNodeImpl.java
+END
+ElementTypeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/ElementTypeFactory.java
+END
+RefSchemaNodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/RefSchemaNodeImpl.java
+END
+CustomTypeSchemaNodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/CustomTypeSchemaNodeImpl.java
+END
+ValidatedNodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/ValidatedNodeImpl.java
+END
+BaseElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/BaseElementType.java
+END
+SchemaNodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/SchemaNodeImpl.java
+END
+BooleanElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-impl/api-impl/src/java/org/sakaiproject/metaobj/utils/xml/impl/BooleanElementType.java
+END

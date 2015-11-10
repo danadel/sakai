@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/intf
+END
+FormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/intf/FormController.java
+END
+ControllerFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/intf/ControllerFilter.java
+END
+ListScrollIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/intf/ListScrollIndexer.java
+END
+ListScroll.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/intf/ListScroll.java
+END
+LoadObjectController.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/intf/LoadObjectController.java
+END
+VelocityEngineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/intf/VelocityEngineFactory.java
+END
+CancelableController.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/intf/CancelableController.java
+END
+CommonModelController.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/intf/CommonModelController.java
+END
+CustomCommandController.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/intf/CustomCommandController.java
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/intf/Controller.java
+END

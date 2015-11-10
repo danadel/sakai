@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user
+END
+ConsensusLdapConnectionLivenessValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/ConsensusLdapConnectionLivenessValidatorTest.java
+END
+SearchExecutingLdapConnectionLivenessValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/SearchExecutingLdapConnectionLivenessValidatorTest.java
+END
+SimpleLdapAttributeMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/SimpleLdapAttributeMapperTest.java
+END
+PoolingLdapConnectionManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/PoolingLdapConnectionManagerTest.java
+END
+NativeLdapConnectionLivenessValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/NativeLdapConnectionLivenessValidatorTest.java
+END
+SearchExecutingLdapConnectionLivenessValidatorInitializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/SearchExecutingLdapConnectionLivenessValidatorInitializationTest.java
+END
+TestMemoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/TestMemoryService.java
+END
+JLDAPDirectoryProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/JLDAPDirectoryProviderTest.java
+END
+PooledLDAPConnectionFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/PooledLDAPConnectionFactoryTest.java
+END
+EmptyStringUserTypeMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/EmptyStringUserTypeMapperTest.java
+END
+MultipleEmailLdapAttributeMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/MultipleEmailLdapAttributeMapperTest.java
+END
+GenericObjectPoolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/GenericObjectPoolTest.java
+END
+PooledLDAPConnectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/PooledLDAPConnectionTest.java
+END
+TestCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/TestCache.java
+END
+MaxLifetimeLdapConnectionLivenessValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/MaxLifetimeLdapConnectionLivenessValidatorTest.java
+END
+VarargsMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/VarargsMethod.java
+END
+RegexpBlacklistEidValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/RegexpBlacklistEidValidatorTest.java
+END
+StringUserTypeMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/StringUserTypeMapperTest.java
+END
+EmailAddressDerivingLdapAttributeMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130390/msub/upv.es/PoliformaT/upv-2.9.3/providers/jldap/src/test/edu/amc/sakai/user/EmailAddressDerivingLdapAttributeMapperTest.java
+END

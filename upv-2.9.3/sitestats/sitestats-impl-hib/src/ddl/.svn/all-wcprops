@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/ddl
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/ddl/hibernate.cfg.xml
+END
+hibernate-derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/ddl/hibernate-derby.properties
+END
+hibernate-mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/ddl/hibernate-mysql.properties
+END
+hibernate-oracle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/ddl/hibernate-oracle.properties
+END
+hibernate-postgres.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/ddl/hibernate-postgres.properties
+END
+hibernate-db2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/ddl/hibernate-db2.properties
+END
+hibernate-hsqldb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/ddl/hibernate-hsqldb.properties
+END
+hibernate-mssql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/ddl/hibernate-mssql.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl-hib/src/ddl/pom.xml
+END

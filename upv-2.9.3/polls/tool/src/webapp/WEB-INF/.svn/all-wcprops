@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/webapp/WEB-INF
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/webapp/WEB-INF/applicationContext.xml
+END
+requestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/webapp/WEB-INF/requestContext.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/webapp/WEB-INF/web.xml
+END

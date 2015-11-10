@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 18
+.settings
+
+target
+
+K 13
+svn:mergeinfo
+V 580
+/lessonbuilder/branches/csev/tool:95562-95956
+/lessonbuilder/branches/jeney/tool:94886-95840
+/lessonbuilder/branches/lessonbuilder-1.3.x/tool:97309,97328,97713,97782,97795,98012-98017,98409-98411
+/lessonbuilder/branches/lessonbuilder-1.4.x/tool:102959-102960
+/lessonbuilder/rutgers/lessonbuilder/branches/common-cartridge/tool:94743-94792
+/lessonbuilder/rutgers/lessonbuilder/branches/jeney/tool:94838-94885
+/lessonbuilder/trunk:310381
+/lessonbuilder/trunk/tool:306240,306647,307835,308067,308293,310381,310546,310933,312220,312362,312784,314688,314760,314828,314834,314877,315916
+END

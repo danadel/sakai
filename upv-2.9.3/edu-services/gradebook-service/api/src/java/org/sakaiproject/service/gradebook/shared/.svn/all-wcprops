@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/319874/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared
+END
+GradebookArchiveService.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookArchiveService.java
+END
+AssessmentNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/AssessmentNotFoundException.java
+END
+GradebookConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookConfiguration.java
+END
+ExternalAssignmentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/ExternalAssignmentProvider.java
+END
+CategoryDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/CategoryDefinition.java
+END
+GradebookExternalAssessmentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/319874/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookExternalAssessmentService.java
+END
+GradebookPermissionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookPermissionService.java
+END
+GradebookNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookNotFoundException.java
+END
+ExternalAssignmentProviderCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/ExternalAssignmentProviderCompat.java
+END
+GradeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradeDefinition.java
+END
+GradebookFrameworkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookFrameworkService.java
+END
+GradingScaleDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradingScaleDefinition.java
+END
+ConflictingExternalIdException.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/ConflictingExternalIdException.java
+END
+InvalidCategoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/InvalidCategoryException.java
+END
+StaleObjectModificationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/StaleObjectModificationException.java
+END
+ConflictingSpreadsheetNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/ConflictingSpreadsheetNameException.java
+END
+ConflictingAssignmentNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/ConflictingAssignmentNameException.java
+END
+Assignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/Assignment.java
+END
+InvalidGradeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/InvalidGradeException.java
+END
+AssignmentHasIllegalPointsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/AssignmentHasIllegalPointsException.java
+END
+CommentDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/CommentDefinition.java
+END
+MultipleAssignmentSavingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/MultipleAssignmentSavingException.java
+END
+GradebookExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookExistsException.java
+END
+GradebookException.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookException.java
+END
+ConflictingCategoryNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/ConflictingCategoryNameException.java
+END
+UnknownUserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/UnknownUserException.java
+END
+GradebookService.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookService.java
+END

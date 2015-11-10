@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <name>Sakai Webasimaster Components Pack</name>
+    <groupId>org.sakaiproject.webasimaster</groupId>
+    <artifactId>webasimaster-pack</artifactId>
+    <organization>
+        <name>Sakai Project</name>
+        <url>http://sakaiproject.org/</url>
+    </organization>
+    <inceptionYear>2008</inceptionYear>
+    <description>Webasimaster components pack (special Sakai convention)</description>
+    <packaging>sakai-component</packaging>
+    <properties>
+        <deploy.target>components</deploy.target>
+    </properties>
+
+    <!-- the base is parent -->
+    <parent>
+        <groupId>org.sakaiproject</groupId>
+        <artifactId>webasimaster</artifactId>
+        <version>0.1</version><!--Webasimaster.version-->
+    </parent>
+
+    <dependencies>
+
+        <!-- internal dependencies -->
+        <dependency>
+            <groupId>org.sakaiproject.webasimaster</groupId>
+            <artifactId>webasimaster-impl</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
+    </dependencies>
+
+    <build />
+
+</project>

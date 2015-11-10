@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/test-harness/src/main/java/org/sakaiproject/test
+END
+SakaiTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/test-harness/src/main/java/org/sakaiproject/test/SakaiTestBase.java
+END
+SakaiTestTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/test-harness/src/main/java/org/sakaiproject/test/SakaiTestTimer.java
+END
+SakaiDependencyInjectionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/test-harness/src/main/java/org/sakaiproject/test/SakaiDependencyInjectionTests.java
+END
+ComponentContainerEmulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/test-harness/src/main/java/org/sakaiproject/test/ComponentContainerEmulator.java
+END

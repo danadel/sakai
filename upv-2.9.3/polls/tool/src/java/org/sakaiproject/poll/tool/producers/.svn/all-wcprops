@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/313962/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/producers
+END
+ConfirmProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/producers/ConfirmProducer.java
+END
+AddPollProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/producers/AddPollProducer.java
+END
+PollOptionProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/producers/PollOptionProducer.java
+END
+ResultsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/producers/ResultsProducer.java
+END
+PollOptionDeleteProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/producers/PollOptionDeleteProducer.java
+END
+PollToolProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/313962/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/producers/PollToolProducer.java
+END
+PollVoteProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/131819/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/producers/PollVoteProducer.java
+END
+PermissionsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/producers/PermissionsProducer.java
+END

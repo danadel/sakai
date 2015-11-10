@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/mgt
+END
+EntityReferenceUserType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/mgt/EntityReferenceUserType.java
+END
+ArtifactUserType.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/mgt/ArtifactUserType.java
+END
+AdditionalFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/mgt/AdditionalFinder.java
+END
+WorkflowEnabledManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/mgt/WorkflowEnabledManager.java
+END
+AdditionalXmlHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/mgt/AdditionalXmlHome.java
+END

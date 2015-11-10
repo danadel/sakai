@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<registration>
+	<tool id="sakai.sections" title="Section Info" description="For managing sections within a site.">
+		<category name="siteupv"/>
+		<category name="sitecfp"/>
+		<category name="sitemas"/>
+		<category name="siteentidad"/>
+		<category name="sitepatu"/>
+		<category name="course"/>
+		<category name="project"/>
+
+		<configuration name="help.id" value="sakai.sections" />
+	</tool>
+</registration>

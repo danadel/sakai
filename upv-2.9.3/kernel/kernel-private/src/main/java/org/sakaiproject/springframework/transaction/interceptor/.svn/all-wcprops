@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/transaction/interceptor
+END
+ConstructedTransactionProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/transaction/interceptor/ConstructedTransactionProxyFactoryBean.java
+END
+DynamicTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/transaction/interceptor/DynamicTargetSource.java
+END

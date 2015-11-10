@@ -1,0 +1,172 @@
+Index: samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/Question.java
+===================================================================
+--- samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/Question.java	(revisión: 321735)
++++ samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/Question.java	(copia de trabajo)
+@@ -24,7 +24,8 @@
+ 	private boolean hasDiscount;
+ 	private String questionTypeAsString;
+ 	private boolean randomize;
+-	
++	private boolean rationale;
++
+ 	public Question() {
+ 		this.questionNumber = 0;
+ 		this.questionPoints = "";
+@@ -141,5 +142,13 @@
+ 	public void setRandomize(boolean randomize) {
+ 		this.randomize = randomize;
+ 	}
++
++	public boolean isRationale() {
++		return rationale;
++	}
++
++	public void setRationale(boolean rationale) {
++		this.rationale = rationale;
++	}
+ 	
+ }
+Index: samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/samlite/impl/SamLiteServiceImpl.java
+===================================================================
+--- samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/samlite/impl/SamLiteServiceImpl.java	(revisión: 321735)
++++ samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/samlite/impl/SamLiteServiceImpl.java	(copia de trabajo)
+@@ -78,7 +78,11 @@
+ 	private Pattern discountPattern;
+ 	String realPatternString = "((\\+||\\-)?(\\d+((\\.|\\,)\\d+)?)((E|e)(\\-|\\+)?\\d+)?)";
+ 	private Pattern randomizePattern;
++	private Pattern rationalePattern;
+ 	
++	
++
++
+ 	public void init() {	
+ 		// Initialization		
+ 		startOfQuestionNumericPattern = Pattern.compile("^(\\d+\\.|\\)|\\]\\s*)", Pattern.CASE_INSENSITIVE);
+@@ -184,7 +188,12 @@
+ 		unnecessaryFalsePattern = Pattern.compile("^" + stFalse + "$");
+ 		String txtRandomize = rb.getString("randomize", "#randomize");
+ 		randomizePattern = Pattern.compile("^" + txtRandomize + "$", Pattern.CASE_INSENSITIVE);
+-		
++		String txtRationale = rb.getString("rationale", "#rationale");
++		rationalePattern = Pattern.compile("^" + txtRationale + "$", Pattern.CASE_INSENSITIVE);
++
++
++
++
+ 		QuestionGroup questionGroup = new QuestionGroup(name, description);
+ 		
+ 		String cleanData = data; 
+@@ -259,7 +268,8 @@
+ 		boolean isEmptyTrue = unnecessaryTruePattern.matcher(line).find();
+ 		boolean isEmptyFalse = unnecessaryFalsePattern.matcher(line).find();
+ 		boolean randomize = randomizePattern.matcher(line).find();
+-					
++		boolean rationale = rationalePattern.matcher(line).find();
++
+ 		if (isEndOfQuestion) {
+ 			// Do nothing, we just want to ignore this line
+ 		} else if (isAnswer) {
+@@ -311,7 +321,21 @@
+ 					question.getQuestionType() == Question.MULTIPLE_CHOICE_MULTIPLE_ANSWER_QUESTION) {
+ 				question.setRandomize(randomize);
+ 			}
+-		} else {
++
++
++		} else if (rationale) {
++			if (question.getQuestionType() == Question.MULTIPLE_CHOICE_QUESTION || 
++					question.getQuestionType() == Question.MULTIPLE_CHOICE_MULTIPLE_ANSWER_QUESTION || 
++					question.getQuestionType() == Question.TRUE_FALSE_QUESTION) {
++				question.setRationale(rationale);
++			}
++
++			
++		}
++
++
++
++		else {
+ 			// If we didn't match anything, then assume it's just part of the question text
+ 			question.append(line);
+ 		}
+@@ -658,6 +682,7 @@
+ 		
+ 		buildMetaDataField(qtiMetaData, "qmd_itemtype", "True False");
+ 		buildMetaDataField(qtiMetaData, "TEXT_FORMAT", "HTML");
++		buildMetaDataField(qtiMetaData, "hasRationale", Boolean.valueOf(question.isRationale()).toString());
+ 		
+ 		ItemrubricType itemRubric = item.addNewItemrubric();
+ 		itemRubric.setView(ItemrubricType.View.ALL);
+@@ -684,7 +709,7 @@
+ 		
+ 		buildMetaDataField(qtiMetaData, "qmd_itemtype", "Multiple Choice");
+ 		buildMetaDataField(qtiMetaData, "TEXT_FORMAT", "HTML");
+-		buildMetaDataField(qtiMetaData, "hasRationale", "False");
++		buildMetaDataField(qtiMetaData, "hasRationale", Boolean.valueOf(question.isRationale()).toString());
+ 		buildMetaDataField(qtiMetaData, ItemMetaDataIfc.RANDOMIZE, Boolean.valueOf(question.isRandomize()).toString());
+ 		
+ 		ItemrubricType itemRubric = item.addNewItemrubric();
+@@ -717,7 +742,7 @@
+ 		
+ 		buildMetaDataField(qtiMetaData, "qmd_itemtype", "Multiple Correct Answer");
+ 		buildMetaDataField(qtiMetaData, "TEXT_FORMAT", "HTML");
+-		buildMetaDataField(qtiMetaData, "hasRationale", "False");
++		buildMetaDataField(qtiMetaData, "hasRationale", Boolean.valueOf(question.isRationale()).toString());
+ 		buildMetaDataField(qtiMetaData, ItemMetaDataIfc.RANDOMIZE, Boolean.valueOf(question.isRandomize()).toString());
+ 		
+ 		ItemrubricType itemRubric = item.addNewItemrubric();
+Index: samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages.properties
+===================================================================
+--- samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages.properties	(revisión: 321735)
++++ samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages.properties	(copia de trabajo)
+@@ -6,3 +6,4 @@
+ false=False
+ discount=discount(s?)
+ randomize=\#randomize
++rationale=\#rationale
+Index: samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages_ca.properties
+===================================================================
+--- samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages_ca.properties	(revisión: 321735)
++++ samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages_ca.properties	(copia de trabajo)
+@@ -5,4 +5,5 @@
+ false=Fals
+ true=Veritat
+ discount=Descompte(s?)
+-randomize=\#aleatorizar
+\ No newline at end of file
++randomize=\#aleatorizar
++rationale=\#raonament
+\ No newline at end of file
+Index: samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages_es.properties
+===================================================================
+--- samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages_es.properties	(revisión: 321735)
++++ samigo/samlite-impl/src/java/org/sakaiproject/tool/assessment/bundle/SamLitePatternMessages_es.properties	(copia de trabajo)
+@@ -5,4 +5,5 @@
+ false=Falso
+ true=Verdadero
+ discount=Descuento(s?)
+-randomize=\#aleatorizar
+\ No newline at end of file
++randomize=\#aleatorizar
++rationale=\#razonamiento
+\ No newline at end of file
+Index: samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_es.properties
+===================================================================
+--- samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_es.properties	(revisión: 321735)
++++ samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_es.properties	(copia de trabajo)
+@@ -8,6 +8,7 @@
+ only_next=S\u00F3lo existe un bot\u00F3n de SIGUIENTE para contiuar.
+ add_more_answer_sects=A\u00F1adir m\u00E1s respuestas\:--
+ numbering=Numeraci\u00F3n
++is_retracted_url=Ya no se permite el env\u00EDo de este examen. Contacte con su profesor si tiene cualquier duda.
+ time_remaining=Tiempo restante\:
+ time_up=Tiempo finalizado
+ mutually_exclusive=Mutuamente Exclusivo \:
+@@ -21,6 +22,7 @@
+ dot=.
+ bg_image=BG Imagen
+ no_late_submission=La fecha de entrega para este examen ha pasado y no se permiten entregas m\u00E1s all\u00E1 de \u00E9sta. Por favor, consulte con su profesor si tiene cualquier duda. Pulse en "Volver" para volver a la p\u00E1gina de ex\u00E1menes.
++no_late_submission_url=Ha pasado la fecha de vencimiento para esta evaluaci\u00f3n y no se permiten env\u00edos m\u00e1s all\u00e1 de esa fecha. P\u00f3ngase en contacto con su instructor si tiene alguna pregunta.
+ upload_file=Subir un fichero
+ grading_options=Opciones de la Calificaci\u00F3n
+ alt_correct=Correcto

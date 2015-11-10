@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control
+END
+DeletePresentationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/DeletePresentationController.java
+END
+DeleteTemplateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/DeleteTemplateController.java
+END
+DeleteTemplateFileController.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/DeleteTemplateFileController.java
+END
+EditOptionsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/EditOptionsController.java
+END
+PublishTemplateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/PublishTemplateController.java
+END
+HidePresentationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/HidePresentationController.java
+END
+ImportTemplateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/ImportTemplateController.java
+END
+PresentationPropertyFileView.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/PresentationPropertyFileView.java
+END
+ListTemplateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/ListTemplateController.java
+END
+ListPresentationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/ListPresentationController.java
+END
+PresentationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/PresentationValidator.java
+END
+PreviewTemplateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/PreviewTemplateController.java
+END
+SelectLayoutController.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/SelectLayoutController.java
+END
+EditContentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/EditContentController.java
+END
+EditPresentationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/EditPresentationController.java
+END
+UserAgentComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/UserAgentComparator.java
+END
+EditTemplateFileController.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/EditTemplateFileController.java
+END
+AddLayoutController.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/AddLayoutController.java
+END
+AbstractCalloutController.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/AbstractCalloutController.java
+END
+PresentationPropertiesValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/PresentationPropertiesValidator.java
+END
+DeleteItemDefinitionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/DeleteItemDefinitionController.java
+END
+ReviewPresentationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/ReviewPresentationController.java
+END
+CommentListController.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/CommentListController.java
+END
+SharePresentationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/SharePresentationController.java
+END
+AbstractPresentationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/AbstractPresentationController.java
+END
+CreatePresentationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/CreatePresentationController.java
+END
+DeleteLayoutController.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/DeleteLayoutController.java
+END
+ViewPresentationControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/ViewPresentationControl.java
+END
+PublishLayoutController.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/PublishLayoutController.java
+END
+EditPresentationFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/EditPresentationFormController.java
+END
+CopyPresentationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/CopyPresentationController.java
+END
+CopyTemplateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/CopyTemplateController.java
+END
+InsertImageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/InsertImageController.java
+END
+ListLayoutController.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/ListLayoutController.java
+END
+AddCommentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/AddCommentController.java
+END
+NotifyViewersController.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/NotifyViewersController.java
+END
+EditItemDefinitionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/EditItemDefinitionController.java
+END
+UpdateCommentVisibilityController.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/UpdateCommentVisibilityController.java
+END
+UpdatePresentationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/UpdatePresentationController.java
+END
+SharePresentationMoreController.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/SharePresentationMoreController.java
+END
+PresentationComparators.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/PresentationComparators.java
+END
+TemplateBuilderController.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/TemplateBuilderController.java
+END
+AddTemplateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/AddTemplateController.java
+END
+DeleteCommentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/DeleteCommentController.java
+END
+ViewPresentationStatsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/presentation/tool/src/java/org/theospi/portfolio/presentation/control/ViewPresentationStatsController.java
+END

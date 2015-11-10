@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/model
+END
+ItemDefinitionMimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/model/ItemDefinitionMimeType.java
+END
+CommonFormBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/model/CommonFormBean.java
+END
+WizardMatrixConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/model/WizardMatrixConstants.java
+END
+DateBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/model/DateBean.java
+END
+EvaluationContentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/model/EvaluationContentWrapper.java
+END
+IdentifiableIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/model/IdentifiableIdGenerator.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/model/Node.java
+END
+SortableListObjectComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/model/SortableListObjectComparator.java
+END
+TechnicalMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/model/TechnicalMetadata.java
+END
+ObjectWithWorkflow.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/model/ObjectWithWorkflow.java
+END
+SortableListObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/model/SortableListObject.java
+END
+OspException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/api/src/java/org/theospi/portfolio/shared/model/OspException.java
+END

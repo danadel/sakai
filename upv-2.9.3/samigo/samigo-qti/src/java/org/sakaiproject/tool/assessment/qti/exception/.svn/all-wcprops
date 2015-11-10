@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/exception
+END
+FormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/exception/FormatException.java
+END
+RespondusMatchingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/exception/RespondusMatchingException.java
+END
+Iso8601FormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/exception/Iso8601FormatException.java
+END

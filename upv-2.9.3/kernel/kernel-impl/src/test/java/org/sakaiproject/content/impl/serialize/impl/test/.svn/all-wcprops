@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test
+END
+SaxSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/SaxSerializerTest.java
+END
+MockTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/MockTime.java
+END
+GMTDateformatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/GMTDateformatterTest.java
+END
+MockTimeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/MockTimeService.java
+END
+ProfileSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/ProfileSerializerTest.java
+END
+Type1BaseContentResourceSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/Type1BaseContentResourceSerializerTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/AllTests.java
+END
+ByteStorageConversionCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/ByteStorageConversionCheck.java
+END
+MockSerializableResourceAcccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/MockSerializableResourceAcccess.java
+END
+MySQLByteStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/MySQLByteStorage.java
+END
+Type1BaseContentCollectionSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/Type1BaseContentCollectionSerializerTest.java
+END
+MockSerializablePropertiesAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/MockSerializablePropertiesAccess.java
+END
+MockSerializableCollectionAcccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/MockSerializableCollectionAcccess.java
+END

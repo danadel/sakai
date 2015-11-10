@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130388/msub/upv.es/PoliformaT/upv-2.9.3/podcasts/podcasts-impl/impl/src/java/org/sakaiproject/component/app/podcasts
+END
+BasicPodfeedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130388/msub/upv.es/PoliformaT/upv-2.9.3/podcasts/podcasts-impl/impl/src/java/org/sakaiproject/component/app/podcasts/BasicPodfeedService.java
+END
+PodcastPermissionsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130388/msub/upv.es/PoliformaT/upv-2.9.3/podcasts/podcasts-impl/impl/src/java/org/sakaiproject/component/app/podcasts/PodcastPermissionsServiceImpl.java
+END
+PodcastServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130388/msub/upv.es/PoliformaT/upv-2.9.3/podcasts/podcasts-impl/impl/src/java/org/sakaiproject/component/app/podcasts/PodcastServiceImpl.java
+END
+PodcastComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130388/msub/upv.es/PoliformaT/upv-2.9.3/podcasts/podcasts-impl/impl/src/java/org/sakaiproject/component/app/podcasts/PodcastComparator.java
+END

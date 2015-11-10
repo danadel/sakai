@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/security/model
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/security/model/Permission.java
+END
+AuthZMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/security/model/AuthZMap.java
+END
+SimpleToolPermissionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/security/model/SimpleToolPermissionManager.java
+END
+PermissionsEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/security/model/PermissionsEdit.java
+END

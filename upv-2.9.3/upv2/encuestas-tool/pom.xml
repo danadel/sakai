@@ -1,0 +1,149 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+	<name>sakai-upv2-encuestas</name>
+	<groupId>org.sakaiproject</groupId>
+	<artifactId>sakai-upv2-encuestas</artifactId>
+		<version>${sakai.version}</version>
+	<organization>
+		<name>Sakai Project</name>
+	</organization>
+	<inceptionYear>2006</inceptionYear>
+
+	<!-- you must deploy your business and DAO API to shared or it will be 
+		inaccessible to your tool -->
+	<packaging>war</packaging>
+	
+    <!-- the base is parent -->
+    <parent>
+        <artifactId>sakai-upv2</artifactId>
+        <groupId>org.sakaiproject</groupId>
+		<version>${sakai.version}</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+	<dependencies>
+		<!-- our tool internal dependencies -->
+		<dependency>
+			<groupId>org.sakaiproject</groupId>
+			<artifactId>sakai-upv2-model-api</artifactId>
+			<version>${sakai.version}</version>
+			<scope>provided</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.sakaiproject</groupId>
+			<artifactId>sakai-upv2-logic-api</artifactId>
+			<version>${sakai.version}</version>
+			<scope>provided</scope>
+		</dependency>
+
+<!--  Other dependencies  -->
+		<dependency>
+        	<groupId>castor</groupId>
+            <artifactId>castor</artifactId>
+            <version>1.0</version>
+            <scope>provided</scope>
+        </dependency>
+
+		<dependency>
+			<groupId>org.sakaiproject.kernel</groupId>
+			<artifactId>sakai-kernel-api</artifactId>
+		</dependency>
+
+    <dependency>
+      <groupId>org.sakaiproject.kernel</groupId>
+      <artifactId>sakai-component-manager</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>org.sakaiproject.kernel</groupId>
+      <artifactId>sakai-kernel-util</artifactId>
+    </dependency>
+   
+		<dependency>
+			<groupId>cfp-sakai</groupId>
+			<artifactId>lib-cfp-sakai-encuesta</artifactId>
+			<version>1.1</version>			
+		</dependency>
+
+		<!-- we are running a webapp in tomcat so we need the servlet api -->
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+    </dependency>
+	
+	<!-- Sakai JSF dependencies -->
+  
+      <dependency>
+			<groupId>org.sakaiproject.jsf</groupId>
+			<artifactId>jsf-tool-sun</artifactId>
+			<version>${sakai.jsf.version}</version>
+			<type>pom</type>
+		</dependency>
+		
+		<dependency>
+         <groupId>org.sakaiproject.jsf</groupId>
+         <artifactId>myfaces-widgets-depend</artifactId>
+         <version>${sakai.jsf.version}</version>
+         <type>pom</type>
+      </dependency>
+	        
+		<!-- commons jars required for JSF -->
+		<dependency>
+			<groupId>commons-digester</groupId>
+			<artifactId>commons-digester</artifactId>
+			<version>1.6</version>
+		</dependency>
+
+		<dependency>
+			<groupId>commons-beanutils</groupId>
+			<artifactId>commons-beanutils</artifactId>
+			<version>1.7.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>commons-codec</groupId>
+			<artifactId>commons-codec</artifactId>
+			<version>1.3</version>
+		</dependency>
+
+		<dependency>
+			<groupId>commons-logging</groupId>
+			<artifactId>commons-logging</artifactId>
+			<version>1.0.4</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>xerces</groupId>
+			<artifactId>xercesImpl</artifactId>
+			<version>2.6.2</version>
+            <scope>provided</scope>
+		</dependency>
+		
+		<dependency>
+			<groupId>commons-lang</groupId>
+			<artifactId>commons-lang</artifactId>
+			<version>${sakai.commons.lang.version}</version>
+		</dependency>
+
+	</dependencies>
+
+	<build>
+		<sourceDirectory>src/java</sourceDirectory>
+		<resources>
+			<resource>
+				<directory>${basedir}/src/bundle</directory>
+				<includes>
+					<include>**/*.properties</include>
+				</includes>
+			</resource>
+			<resource>
+				<directory>${basedir}/src/java</directory>
+				<includes>
+					<include>**/*.xml</include>
+				</includes>
+			</resource>
+		</resources>
+	</build>
+
+</project>
+

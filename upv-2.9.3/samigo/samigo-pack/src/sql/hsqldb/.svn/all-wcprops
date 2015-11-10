@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-pack/src/sql/hsqldb
+END
+sakai_samigo_tables_v2_4.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-pack/src/sql/hsqldb/sakai_samigo_tables_v2_4.sql
+END
+sakai_samigo_post_schema_update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-pack/src/sql/hsqldb/sakai_samigo_post_schema_update.sql
+END
+sakai_samigo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-pack/src/sql/hsqldb/sakai_samigo.sql
+END
+sakai_samigo_tables_v2_1_2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-pack/src/sql/hsqldb/sakai_samigo_tables_v2_1_2.sql
+END
+sakai_samigo_tables_v2_2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-pack/src/sql/hsqldb/sakai_samigo_tables_v2_2.sql
+END
+sakai_samigo_tables_v2_3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-pack/src/sql/hsqldb/sakai_samigo_tables_v2_3.sql
+END

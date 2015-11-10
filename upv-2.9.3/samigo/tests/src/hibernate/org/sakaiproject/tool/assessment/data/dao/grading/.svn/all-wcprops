@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/hibernate/org/sakaiproject/tool/assessment/data/dao/grading
+END
+GradingData.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/hibernate/org/sakaiproject/tool/assessment/data/dao/grading/GradingData.hbm.xml
+END
+MediaData.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/hibernate/org/sakaiproject/tool/assessment/data/dao/grading/MediaData.hbm.xml
+END

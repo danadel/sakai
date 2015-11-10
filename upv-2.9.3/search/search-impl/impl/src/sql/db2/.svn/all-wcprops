@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/sql/db2
+END
+sakai_search_parallel.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/sql/db2/sakai_search_parallel.sql
+END
+sakai_search.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/sql/db2/sakai_search.sql
+END

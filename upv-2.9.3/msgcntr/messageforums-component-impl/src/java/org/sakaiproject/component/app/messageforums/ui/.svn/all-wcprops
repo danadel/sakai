@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/319977/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/ui
+END
+UIPermissionsManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/ui/UIPermissionsManagerImpl.java
+END
+DiscussionForumManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/319977/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/ui/DiscussionForumManagerImpl.java
+END
+PrivateMessageManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/132360/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/ui/PrivateMessageManagerImpl.java
+END

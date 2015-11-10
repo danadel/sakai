@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/318697/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp
+END
+ContentHosting.jws
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/306237/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/ContentHosting.jws
+END
+SakaiCopySiteContents.jws
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/132488/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/SakaiCopySiteContents.jws
+END
+SakaiGradebook.jws
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/318697/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/SakaiGradebook.jws
+END
+SakaiSigning.jws
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130366/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/SakaiSigning.jws
+END
+SakaiScriptUPV.jws
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/316178/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/SakaiScriptUPV.jws
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/130366/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/index.html
+END
+WSProfile.jws
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/132516/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/WSProfile.jws
+END
+Assignments.jws
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/130366/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/Assignments.jws
+END
+Portfolio.jws
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/130366/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/Portfolio.jws
+END
+SakaiScript.jws
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/130366/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/SakaiScript.jws
+END
+ShortenedUrl.jws
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130366/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/ShortenedUrl.jws
+END
+TestsAndQuizzes.jws
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130366/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/TestsAndQuizzes.jws
+END
+SakaiLogin.jws
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/130366/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/SakaiLogin.jws
+END
+SakaiUpvUtil.jws
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/132488/msub/upv.es/PoliformaT/upv-2.9.3/webservices/axis/src/webapp/SakaiUpvUtil.jws
+END

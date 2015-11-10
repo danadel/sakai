@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt
+END
+CloneableObjectHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/CloneableObjectHome.java
+END
+StructuredArtifactDefinitionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/StructuredArtifactDefinitionManager.java
+END
+IdManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/IdManager.java
+END
+AgentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/AgentManager.java
+END
+AdditionalFormConsumers.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/AdditionalFormConsumers.java
+END
+ReferenceHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/ReferenceHolder.java
+END
+HttpAccessBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/HttpAccessBase.java
+END
+ReadableObjectHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/ReadableObjectHome.java
+END
+AgentUserType.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/AgentUserType.java
+END
+PresentableObjectHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/PresentableObjectHome.java
+END
+ContentEntityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/ContentEntityUtil.java
+END
+ContentEntityWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/ContentEntityWrapper.java
+END
+MetaobjEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/MetaobjEntityManager.java
+END
+FieldValueWrapperFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/FieldValueWrapperFactory.java
+END
+WritableObjectHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/WritableObjectHome.java
+END
+ReferenceParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/ReferenceParser.java
+END
+PortalParamManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/PortalParamManager.java
+END
+StructuredArtifactValidationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/StructuredArtifactValidationService.java
+END
+FormConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/FormConsumer.java
+END
+StreamableObjectHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/StreamableObjectHome.java
+END
+StructuredArtifactDefinition.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/StructuredArtifactDefinition.hbm.xml
+END
+HomeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/shared/mgt/HomeFactory.java
+END

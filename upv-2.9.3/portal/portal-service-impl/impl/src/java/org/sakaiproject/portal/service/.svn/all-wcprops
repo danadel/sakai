@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service
+END
+EditorRegistryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/EditorRegistryImpl.java
+END
+SakaiPortletRegistryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/SakaiPortletRegistryListener.java
+END
+StoredStateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/StoredStateImpl.java
+END
+AliasingSiteAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/AliasingSiteAdvisor.java
+END
+PortalServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/PortalServiceImpl.java
+END
+SiteNeighbourhoodServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/SiteNeighbourhoodServiceImpl.java
+END
+PortalStringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/PortalStringUtil.java
+END
+PortletTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/PortletTool.java
+END
+SessionRequestHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/SessionRequestHolder.java
+END
+RecoveredServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130343/msub/upv.es/PoliformaT/upv-2.9.3/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/RecoveredServletRequest.java
+END

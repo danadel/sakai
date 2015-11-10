@@ -1,0 +1,86 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/web
+https://source.sakaiproject.org/svn
+
+
+
+2014-04-11T09:12:02.889740Z
+308072
+anueda@asic.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+news-api
+dir
+
+web-help
+dir
+
+web-api
+dir
+
+web-portlet
+dir
+
+news-tool
+dir
+
+web-tool
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:46:08.148250Z
+6b9f2e771e5940a363fa677a6504eb9b
+2013-08-22T14:19:54.766879Z
+128909
+matthew@longsight.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2427
+
+news-impl
+dir
+
+web-impl
+dir
+

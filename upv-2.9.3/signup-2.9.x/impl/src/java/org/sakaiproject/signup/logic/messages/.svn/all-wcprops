@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages
+END
+OrganizerPreAssignEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/OrganizerPreAssignEmail.java
+END
+AttendeeSignupEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/AttendeeSignupEmail.java
+END
+MoveAttendeeEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/MoveAttendeeEmail.java
+END
+EmailDeliverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/EmailDeliverer.java
+END
+SwapAttendeeEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/SwapAttendeeEmail.java
+END
+AttendeeCancellationOwnEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/AttendeeCancellationOwnEmail.java
+END
+CancellationEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/CancellationEmail.java
+END
+CancelMeetingEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/CancelMeetingEmail.java
+END
+AutoReminderEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/AutoReminderEmail.java
+END
+PromoteAttendeeEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/PromoteAttendeeEmail.java
+END
+SignupEmailBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/SignupEmailBase.java
+END
+ModifyMeetingEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/ModifyMeetingEmail.java
+END
+NewMeetingEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/NewMeetingEmail.java
+END
+AddAttendeeEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/AddAttendeeEmail.java
+END
+AttendeeSignupOwnEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/AttendeeSignupOwnEmail.java
+END
+AttendeeCancellationEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/impl/src/java/org/sakaiproject/signup/logic/messages/AttendeeCancellationEmail.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/portlet-util/src/java/org/sakaiproject/portlet/util
+END
+PortalUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/portlet-util/src/java/org/sakaiproject/portlet/util/PortalUser.java
+END
+SakaiPortletUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/portlet-util/src/java/org/sakaiproject/portlet/util/SakaiPortletUtil.java
+END
+PortletHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/portlet-util/src/java/org/sakaiproject/portlet/util/PortletHelper.java
+END
+JSPHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/portlet-util/src/java/org/sakaiproject/portlet/util/JSPHelper.java
+END
+SakaiSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/portlet-util/src/java/org/sakaiproject/portlet/util/SakaiSite.java
+END

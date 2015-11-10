@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/132354/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui
+END
+PrivateMessageDecoratedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/132354/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/PrivateMessageDecoratedBean.java
+END
+DiscussionAreaBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/DiscussionAreaBean.java
+END
+DiscussionForumBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/DiscussionForumBean.java
+END
+DecoratedAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/DecoratedAttachment.java
+END
+EmailNotificationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/EmailNotificationBean.java
+END
+PrivateForumDecoratedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/PrivateForumDecoratedBean.java
+END
+SiteGroupBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/SiteGroupBean.java
+END
+DiscussionTopicBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/DiscussionTopicBean.java
+END
+MessageForumSynopticBeanLite.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/MessageForumSynopticBeanLite.java
+END
+PrivateTopicDecoratedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/PrivateTopicDecoratedBean.java
+END
+MessageForumSynopticBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/MessageForumSynopticBean.java
+END
+DiscussionMessageBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/DiscussionMessageBean.java
+END
+MessageForumStatisticsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/MessageForumStatisticsBean.java
+END
+PermissionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/PermissionBean.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/qti
+END
+exportItem.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/qti/exportItem.jsp
+END
+importAssessment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/qti/importAssessment.jsp
+END
+chooseExportType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/qti/chooseExportType.jsp
+END
+importPool.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/qti/importPool.jsp
+END
+xmlDisplay.jsp.license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/qti/xmlDisplay.jsp.license.txt
+END
+xmlDisplay.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/qti/xmlDisplay.jsp
+END
+exportAssessment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/qti/exportAssessment.jsp
+END
+exportDenied.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp/jsf/qti/exportDenied.jsp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/impl
+END
+AdditionalHibernateMappingsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/impl/AdditionalHibernateMappingsImpl.java
+END
+ClassicLocalSessionFactoryBeanHibernate31.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/impl/ClassicLocalSessionFactoryBeanHibernate31.java
+END
+VendorHbmTransformerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/impl/VendorHbmTransformerImpl.java
+END

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <name>Sakai videoconference common</name>
+    <groupId>org.sakaiproject.videoconference</groupId>
+    <artifactId>videoconference-common</artifactId>
+        <version>${samoo.videoconference.version}</version>
+	
+    <organization>
+        <name>Sakai Project</name>
+        <url>http://sakaiproject.org/</url>
+    </organization>
+    <inceptionYear>2008</inceptionYear>
+    <description>Samoo videoconference common classes</description>
+    <packaging>jar</packaging>
+  <properties>
+        <deploy.target />
+    </properties>
+
+    <!-- the base is parent -->
+    <parent>
+        <groupId>org.sakaiproject.videoconference</groupId>
+        <artifactId>base</artifactId>
+        <version>${samoo.videoconference.version}</version>
+    </parent>
+	
+	<dependencies>
+	  
+		<!-- internal dependencies -->
+		<dependency>
+			<groupId>org.sakaiproject.videoconference</groupId>
+			<artifactId>videoconference-api</artifactId>
+			<version>${samoo.videoconference.version}</version>
+		</dependency>
+	  
+		<!-- Sakai dependencies -->
+    	<dependency>
+            <groupId>org.sakaiproject.kernel</groupId>
+            <artifactId>sakai-kernel-api</artifactId>
+        </dependency>
+		<dependency>
+      		<groupId>org.sakaiproject.kernel</groupId>
+      		<artifactId>sakai-component-manager</artifactId>
+   		</dependency>
+		<dependency>
+			<groupId>org.sakaiproject.calendar</groupId>
+			<artifactId>sakai-calendar-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.sakaiproject.announcement</groupId>
+			<artifactId>sakai-announcement-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.sakaiproject.message</groupId>
+			<artifactId>sakai-message-api</artifactId>
+		</dependency>
+		
+		<!-- Sakai JSF dependencies -->
+
+		<dependency>
+			<groupId>org.sakaiproject.jsf</groupId>
+			<artifactId>jsf-tool</artifactId>
+			<version>${sakai.jsf.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.sakaiproject.jsf</groupId>
+			<artifactId>jsf-spreadsheet</artifactId>
+			<version>${sakai.jsf.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.sakaiproject.jsf</groupId>
+			<artifactId>jsf-app</artifactId>
+			<version>${sakai.jsf.version}</version>
+			<exclusions>
+				<exclusion>
+					<groupId>jsf</groupId>
+					<artifactId>jsf-api</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+
+		<dependency>
+			<groupId>org.sakaiproject.jsf</groupId>
+			<artifactId>myfaces-widgets-depend</artifactId>
+			<version>${sakai.jsf.version}</version>
+			<type>pom</type>
+		</dependency>	
+	</dependencies>
+	
+	
+    <build>
+		<sourceDirectory>src/java</sourceDirectory>
+        <resources/>
+    </build>
+
+</project>

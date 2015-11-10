@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<registration>
+
+	<tool
+		id="sakai.messages"
+		title="Messages"
+		description="Send messages to individuals, groups and/or roles within a site. ">
+		<category name="course"/>
+		<category name="project"/>
+		<category name="sitecen"/>
+		<category name="siteupv"/>
+		<category name="sitecfp"/>
+		<category name="sitemas"/>
+		<category name="siteidentidad"/>	
+    <configuration name="groupAware" value="true" />
+
+	</tool>
+
+</registration>

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl
+END
+OpenURLServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/OpenURLServiceImpl.java
+END
+Format.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/Format.java
+END
+COinSTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/COinSTransport.java
+END
+InlineHttpTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/InlineHttpTransport.java
+END
+AbstractConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/AbstractConverter.java
+END
+Transport.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/Transport.java
+END
+KEVFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/KEVFormat.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/Utils.java
+END
+JournalConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/JournalConverter.java
+END
+GenericConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/GenericConverter.java
+END
+Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/Converter.java
+END
+ContextObjectEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/ContextObjectEntity.java
+END
+URLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/URLBuilder.java
+END
+ContextObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/ContextObject.java
+END
+BookConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/BookConverter.java
+END
+ByValueHttpTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/ByValueHttpTransport.java
+END
+RawContextObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/openurl/RawContextObject.java
+END

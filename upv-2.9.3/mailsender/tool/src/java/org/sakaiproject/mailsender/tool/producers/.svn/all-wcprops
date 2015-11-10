@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/tool/src/java/org/sakaiproject/mailsender/tool/producers
+END
+OptionsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/tool/src/java/org/sakaiproject/mailsender/tool/producers/OptionsProducer.java
+END
+PermissionsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/tool/src/java/org/sakaiproject/mailsender/tool/producers/PermissionsProducer.java
+END
+NavBarRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/tool/src/java/org/sakaiproject/mailsender/tool/producers/NavBarRenderer.java
+END
+ResultsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/tool/src/java/org/sakaiproject/mailsender/tool/producers/ResultsProducer.java
+END
+ComposeProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/tool/src/java/org/sakaiproject/mailsender/tool/producers/ComposeProducer.java
+END

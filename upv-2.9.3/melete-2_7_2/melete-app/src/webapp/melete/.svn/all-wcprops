@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/320249/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete
+END
+ContentLTIServerView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/ContentLTIServerView.jsp
+END
+delete_module.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/delete_module.jsp
+END
+module_post_steps.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/module_post_steps.jsp
+END
+ContentUploadView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/ContentUploadView.jsp
+END
+ContentLTIView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/ContentLTIView.jsp
+END
+fileNameCheck.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/fileNameCheck.jsp
+END
+modules_sort.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/modules_sort.jsp
+END
+view_navigate_mod.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/view_navigate_mod.jsp
+END
+editContentLinkView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/editContentLinkView.jsp
+END
+move_section.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/move_section.jsp
+END
+add_module.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/307023/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/add_module.jsp
+END
+lti_basic_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/lti_basic_edit.jsp
+END
+accesscheck.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/accesscheck.jsp
+END
+confirm_addmodulesection.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/confirm_addmodulesection.jsp
+END
+pref_editor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/pref_editor.jsp
+END
+view_section_student.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/320249/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/view_section_student.jsp
+END
+importexportmodules.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/importexportmodules.jsp
+END
+linkSections.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/linkSections.jsp
+END
+licenseform.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/licenseform.jsp
+END
+restore_modules.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/restore_modules.jsp
+END
+editContentLTIServerView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/editContentLTIServerView.jsp
+END
+title.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/title.jsp
+END
+lti_advanced_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/lti_advanced_edit.jsp
+END
+ContentLinkView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/ContentLinkView.jsp
+END
+edit_sec_resourcePropertiesPanel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/edit_sec_resourcePropertiesPanel.jsp
+END
+student_preference.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/student_preference.jsp
+END
+editContentLTIView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/editContentLTIView.jsp
+END
+view_module_student.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/view_module_student.jsp
+END
+editpreview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/313801/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/editpreview.jsp
+END
+view_navigate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/view_navigate.jsp
+END
+lti_basic.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/lti_basic.jsp
+END
+authnavbar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/authnavbar.jsp
+END
+topnavbar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/306311/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/topnavbar.jsp
+END
+license_results.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/license_results.jsp
+END
+addmodulesections.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/306981/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/addmodulesections.jsp
+END
+list_modules_student.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/list_modules_student.jsp
+END
+confirm_addmodule.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/confirm_addmodule.jsp
+END
+lti_advanced.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/lti_advanced.jsp
+END
+remotelinkbrowser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/remotelinkbrowser.jsp
+END
+editContentLinkServerView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/editContentLinkServerView.jsp
+END
+calendar.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/calendar.html
+END
+manage_content.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/manage_content.jsp
+END
+list_auth_modules.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/307023/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/list_auth_modules.jsp
+END
+edit_module.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/307023/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/edit_module.jsp
+END
+view_navigate_wn.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/view_navigate_wn.jsp
+END
+commonfilebrowser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/commonfilebrowser.jsp
+END
+license_info.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/license_info.jsp
+END
+save.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/save.jsp
+END
+view_section.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/320249/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/view_section.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/footer.jsp
+END
+author_preference.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/author_preference.jsp
+END
+print_module.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/313673/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/print_module.jsp
+END
+editmodulesections.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/306981/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/editmodulesections.jsp
+END
+list_resources.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/list_resources.jsp
+END
+editContentUploadServerView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/editContentUploadServerView.jsp
+END
+license_results_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/license_results_edit.jsp
+END
+delete_resource.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/delete_resource.jsp
+END
+ContentLinkServerView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/ContentLinkServerView.jsp
+END
+sec_resourcePropertiesPanel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/sec_resourcePropertiesPanel.jsp
+END
+view_whats_next.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/view_whats_next.jsp
+END
+FileUploadView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/FileUploadView.jsp
+END
+view_module.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/view_module.jsp
+END
+editContentUploadView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/editContentUploadView.jsp
+END
+contentSferyxEditor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/contentSferyxEditor.jsp
+END
+main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/main.jsp
+END
+confirm_modulepoststeps.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/confirm_modulepoststeps.jsp
+END
+licenses_explained.htm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/licenses_explained.htm
+END
+addpreview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/313801/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/addpreview.jsp
+END
+LinkUploadView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/LinkUploadView.jsp
+END
+sections_sort.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/sections_sort.jsp
+END
+remotefilebrowser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/remotefilebrowser.jsp
+END
+list_modules_inst.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/list_modules_inst.jsp
+END
+ContentUploadServerView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/ContentUploadServerView.jsp
+END
+modules_author_manage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/webapp/melete/modules_author_manage.jsp
+END

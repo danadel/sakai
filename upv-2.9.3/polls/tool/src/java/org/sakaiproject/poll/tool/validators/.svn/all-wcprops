@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/validators
+END
+VoteValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/validators/VoteValidator.java
+END
+OptionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130328/msub/upv.es/PoliformaT/upv-2.9.3/polls/tool/src/java/org/sakaiproject/poll/tool/validators/OptionValidator.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/306535/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/questionpool
+END
+QuestionPoolListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/131383/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/questionpool/QuestionPoolListener.java
+END
+ImportQuestionsToAuthoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/questionpool/ImportQuestionsToAuthoring.java
+END
+PoolSaveListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/306535/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/questionpool/PoolSaveListener.java
+END
+CancelImportToAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/questionpool/CancelImportToAssessmentListener.java
+END
+SortQuestionListListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/131698/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/questionpool/SortQuestionListListener.java
+END
+StartRemoveItemsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/questionpool/StartRemoveItemsListener.java
+END

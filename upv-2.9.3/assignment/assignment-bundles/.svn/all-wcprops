@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/321221/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-bundles
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-bundles/pom.xml
+END
+assignment_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-bundles/assignment_mn.properties
+END
+assignment_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-bundles/assignment_tr_TR.properties
+END
+permissions_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-bundles/permissions_mn.properties
+END
+permissions_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130338/msub/upv.es/PoliformaT/upv-2.9.3/assignment/assignment-bundles/permissions_tr_TR.properties
+END

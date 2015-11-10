@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/hibernate/org/sakaiproject/component/section
+END
+LearningContextImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/hibernate/org/sakaiproject/component/section/LearningContextImpl.hbm.xml
+END
+ParticipationRecordImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/hibernate/org/sakaiproject/component/section/ParticipationRecordImpl.hbm.xml
+END
+UserImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/standalone/src/hibernate/org/sakaiproject/component/section/UserImpl.hbm.xml
+END

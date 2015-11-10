@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-render-engine-impl/impl/src/java/org/sakaiproject/login/impl/velocity
+END
+VelocityLoginRenderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-render-engine-impl/impl/src/java/org/sakaiproject/login/impl/velocity/VelocityLoginRenderContext.java
+END
+VelocityLoginRenderEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-render-engine-impl/impl/src/java/org/sakaiproject/login/impl/velocity/VelocityLoginRenderEngine.java
+END
+WebappLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-render-engine-impl/impl/src/java/org/sakaiproject/login/impl/velocity/WebappLoader.java
+END
+LoginRenderEngineContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-render-engine-impl/impl/src/java/org/sakaiproject/login/impl/velocity/LoginRenderEngineContextListener.java
+END

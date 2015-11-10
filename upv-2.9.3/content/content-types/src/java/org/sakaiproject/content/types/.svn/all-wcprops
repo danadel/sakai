@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-types/src/java/org/sakaiproject/content/types
+END
+ContentTypeRegistryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-types/src/java/org/sakaiproject/content/types/ContentTypeRegistryBean.java
+END
+UrlResourceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-types/src/java/org/sakaiproject/content/types/UrlResourceType.java
+END
+FolderType.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-types/src/java/org/sakaiproject/content/types/FolderType.java
+END
+HtmlDocumentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-types/src/java/org/sakaiproject/content/types/HtmlDocumentType.java
+END
+TextDocumentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-types/src/java/org/sakaiproject/content/types/TextDocumentType.java
+END
+FileUploadType.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130376/msub/upv.es/PoliformaT/upv-2.9.3/content/content-types/src/java/org/sakaiproject/content/types/FileUploadType.java
+END

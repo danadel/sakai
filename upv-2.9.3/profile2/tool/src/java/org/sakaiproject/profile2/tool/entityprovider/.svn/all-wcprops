@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/entityprovider
+END
+ProfileEventsEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/entityprovider/ProfileEventsEntityProvider.java
+END
+ProfileLinkEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/entityprovider/ProfileLinkEntityProvider.java
+END
+ProfileMessagingEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/entityprovider/ProfileMessagingEntityProvider.java
+END
+ProfileEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/entityprovider/ProfileEntityProvider.java
+END
+ProfileStatusEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/entityprovider/ProfileStatusEntityProvider.java
+END

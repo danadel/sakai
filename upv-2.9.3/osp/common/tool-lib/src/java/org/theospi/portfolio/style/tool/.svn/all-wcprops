@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool-lib/src/java/org/theospi/portfolio/style/tool
+END
+AddStyleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool-lib/src/java/org/theospi/portfolio/style/tool/AddStyleController.java
+END
+ListStyleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool-lib/src/java/org/theospi/portfolio/style/tool/ListStyleController.java
+END
+SelectStyleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool-lib/src/java/org/theospi/portfolio/style/tool/SelectStyleController.java
+END
+StyleValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool-lib/src/java/org/theospi/portfolio/style/tool/StyleValidator.java
+END
+DeleteStyleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool-lib/src/java/org/theospi/portfolio/style/tool/DeleteStyleController.java
+END
+AbstractStyleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool-lib/src/java/org/theospi/portfolio/style/tool/AbstractStyleController.java
+END
+PublishStyleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/common/tool-lib/src/java/org/theospi/portfolio/style/tool/PublishStyleController.java
+END

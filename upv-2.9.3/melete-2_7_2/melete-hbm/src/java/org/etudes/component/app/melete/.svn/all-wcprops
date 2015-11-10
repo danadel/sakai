@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete
+END
+MeleteSitePreference.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/MeleteSitePreference.hbm.xml
+END
+MeleteResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/MeleteResource.java
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/Module.java
+END
+ModuleShdates.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/ModuleShdates.hbm.xml
+END
+CcLicense.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/CcLicense.java
+END
+Section.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/Section.hbm.xml
+END
+CourseModule.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/CourseModule.hbm.xml
+END
+SectionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/SectionBean.java
+END
+ViewSecBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/ViewSecBean.java
+END
+MeleteUserPreference.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/MeleteUserPreference.hbm.xml
+END
+MeleteSitePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/MeleteSitePreference.java
+END
+SectionResource.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/SectionResource.hbm.xml
+END
+ViewModBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/ViewModBean.java
+END
+ModuleShdates.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/ModuleShdates.java
+END
+MeleteLicense.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/MeleteLicense.hbm.xml
+END
+ModuleStudentPrivs.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/ModuleStudentPrivs.hbm.xml
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/Section.java
+END
+CourseModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/CourseModule.java
+END
+MeleteResource.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/MeleteResource.hbm.xml
+END
+ModuleDateBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/ModuleDateBean.java
+END
+Module.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/Module.hbm.xml
+END
+MeleteUserPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/MeleteUserPreference.java
+END
+ModuleDatePrivBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/ModuleDatePrivBean.java
+END
+CcLicense.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/CcLicense.hbm.xml
+END
+SectionResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/SectionResource.java
+END
+MeleteLicense.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/MeleteLicense.java
+END
+ModuleStudentPrivs.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-hbm/src/java/org/etudes/component/app/melete/ModuleStudentPrivs.java
+END

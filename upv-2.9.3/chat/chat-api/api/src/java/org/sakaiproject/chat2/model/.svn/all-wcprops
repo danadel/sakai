@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-api/api/src/java/org/sakaiproject/chat2/model
+END
+ChatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-api/api/src/java/org/sakaiproject/chat2/model/ChatMessage.java
+END
+RoomObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-api/api/src/java/org/sakaiproject/chat2/model/RoomObserver.java
+END
+ChatChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-api/api/src/java/org/sakaiproject/chat2/model/ChatChannel.java
+END
+ChatFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-api/api/src/java/org/sakaiproject/chat2/model/ChatFunctions.java
+END
+ChatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-api/api/src/java/org/sakaiproject/chat2/model/ChatManager.java
+END
+PresenceObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130373/msub/upv.es/PoliformaT/upv-2.9.3/chat/chat-api/api/src/java/org/sakaiproject/chat2/model/PresenceObserver.java
+END

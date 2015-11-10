@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130330/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-2.9.3/profile-component-shared
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130330/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-2.9.3/profile-component-shared/.svnignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130330/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-2.9.3/profile-component-shared/pom.xml
+END

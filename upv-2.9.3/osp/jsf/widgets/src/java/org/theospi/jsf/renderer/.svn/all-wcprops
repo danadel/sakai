@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer
+END
+FormLabelRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/FormLabelRenderer.java
+END
+SplitAreaRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/SplitAreaRenderer.java
+END
+XHeaderDrawerRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/XHeaderDrawerRenderer.java
+END
+TabRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/TabRenderer.java
+END
+ScrollableAreaRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/ScrollableAreaRenderer.java
+END
+WizardStepRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/WizardStepRenderer.java
+END
+TabActionAreaRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/TabActionAreaRenderer.java
+END
+TabAreaRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/TabAreaRenderer.java
+END
+WizardStepsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/WizardStepsRenderer.java
+END
+XmlDocumentRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/XmlDocumentRenderer.java
+END
+SplitSectionRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/SplitSectionRenderer.java
+END
+XHeaderRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/XHeaderRenderer.java
+END
+TestComponentRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/TestComponentRenderer.java
+END
+XHeaderTitleRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/jsf/widgets/src/java/org/theospi/jsf/renderer/XHeaderTitleRenderer.java
+END

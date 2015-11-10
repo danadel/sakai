@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/315974/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app-util/src/java/org/sakaiproject/tool/section/decorator
+END
+StudentSectionDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app-util/src/java/org/sakaiproject/tool/section/decorator/StudentSectionDecorator.java
+END
+EnrollmentDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/315974/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app-util/src/java/org/sakaiproject/tool/section/decorator/EnrollmentDecorator.java
+END
+SectionDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app-util/src/java/org/sakaiproject/tool/section/decorator/SectionDecorator.java
+END

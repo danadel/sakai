@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/hbm/src/ddl
+END
+hibernate-mssql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/hbm/src/ddl/hibernate-mssql.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/hbm/src/ddl/pom.xml
+END
+logins
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/hbm/src/ddl/logins
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/hbm/src/ddl/hibernate.cfg.xml
+END
+hibernate-derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/hbm/src/ddl/hibernate-derby.properties
+END
+hibernate-mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/hbm/src/ddl/hibernate-mysql.properties
+END
+hibernate-oracle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/hbm/src/ddl/hibernate-oracle.properties
+END
+hibernate-postgres.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/hbm/src/ddl/hibernate-postgres.properties
+END
+hibernate-db2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/hbm/src/ddl/hibernate-db2.properties
+END
+hibernate-hsqldb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130325/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/hbm/src/ddl/hibernate-hsqldb.properties
+END

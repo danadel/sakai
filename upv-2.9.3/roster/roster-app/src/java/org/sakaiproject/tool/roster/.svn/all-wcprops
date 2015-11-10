@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster
+END
+EnrolledParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/EnrolledParticipant.java
+END
+RosterOverview.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/RosterOverview.java
+END
+RosterGroupMembership.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/RosterGroupMembership.java
+END
+ServicesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/ServicesBean.java
+END
+SearchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/SearchFilter.java
+END
+RequestCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/RequestCache.java
+END
+FilteredParticipantListingBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/FilteredParticipantListingBean.java
+END
+StatusRequestCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/StatusRequestCache.java
+END
+RosterStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/RosterStatus.java
+END
+FilteredStatusListingBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/FilteredStatusListingBean.java
+END
+ParticipantImageServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/ParticipantImageServlet.java
+END
+BaseRosterPageBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/BaseRosterPageBean.java
+END
+RosterPictures.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/RosterPictures.java
+END
+RosterProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/RosterProfile.java
+END
+RosterPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/RosterPreferences.java
+END
+RosterPageBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130348/msub/upv.es/PoliformaT/upv-2.9.3/roster/roster-app/src/java/org/sakaiproject/tool/roster/RosterPageBean.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/shared
+END
+BackingBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/shared/BackingBean.java
+END
+MediaBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/shared/MediaBean.java
+END
+PersonBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/shared/PersonBean.java
+END
+SubBackingBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/shared/SubBackingBean.java
+END

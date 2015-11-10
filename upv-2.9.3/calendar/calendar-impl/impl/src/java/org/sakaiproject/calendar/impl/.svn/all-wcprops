@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/132551/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl
+END
+GenericCalendarImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/132551/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/GenericCalendarImporter.java
+END
+ExclusionSeqRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/ExclusionSeqRecurrenceRule.java
+END
+BaseExternalCalendarSubscriptionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/132551/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/BaseExternalCalendarSubscriptionService.java
+END
+MWFRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/MWFRecurrenceRule.java
+END
+MonthlyRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/MonthlyRecurrenceRule.java
+END
+DbCalendarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/DbCalendarService.java
+END
+TThRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/TThRecurrenceRule.java
+END
+WeeklyRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/WeeklyRecurrenceRule.java
+END
+DailyRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/DailyRecurrenceRule.java
+END
+YearlyRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/YearlyRecurrenceRule.java
+END
+SAK11204Fix.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/SAK11204Fix.java
+END
+ExclusionRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/ExclusionRecurrenceRule.java
+END
+RecurrenceRuleBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/RecurrenceRuleBase.java
+END
+RecurrenceInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/RecurrenceInstance.java
+END
+BaseCalendarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/BaseCalendarService.java
+END

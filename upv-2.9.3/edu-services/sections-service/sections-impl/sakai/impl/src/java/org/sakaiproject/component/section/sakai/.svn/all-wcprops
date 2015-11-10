@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/318026/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/impl/src/java/org/sakaiproject/component/section/sakai
+END
+SectionAwarenessImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/impl/src/java/org/sakaiproject/component/section/sakai/SectionAwarenessImpl.java
+END
+SectionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/318026/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/impl/src/java/org/sakaiproject/component/section/sakai/SectionManagerImpl.java
+END
+CourseSectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/318026/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/impl/src/java/org/sakaiproject/component/section/sakai/CourseSectionUtil.java
+END
+SectionCmMetadataSynchronizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/impl/src/java/org/sakaiproject/component/section/sakai/SectionCmMetadataSynchronizer.java
+END
+CourseManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/sections-service/sections-impl/sakai/impl/src/java/org/sakaiproject/component/section/sakai/CourseManagerImpl.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/131310/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/samlite
+END
+ParserListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/131310/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/samlite/ParserListener.java
+END
+NameListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/samlite/NameListener.java
+END
+QuestionPoolListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/samlite/QuestionPoolListener.java
+END
+AssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/samlite/AssessmentListener.java
+END

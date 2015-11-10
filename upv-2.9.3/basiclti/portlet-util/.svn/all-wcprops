@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/portlet-util
+END
+maven.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/portlet-util/maven.xml
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/portlet-util/.svnignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130367/msub/upv.es/PoliformaT/upv-2.9.3/basiclti/portlet-util/pom.xml
+END

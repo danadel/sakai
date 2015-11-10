@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/news-impl/impl/src/java/org/sakaiproject/news/impl
+END
+BasicNewsChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/news-impl/impl/src/java/org/sakaiproject/news/impl/BasicNewsChannel.java
+END
+BasicNewsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/news-impl/impl/src/java/org/sakaiproject/news/impl/BasicNewsItem.java
+END
+BasicNewsItemEnclosure.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/news-impl/impl/src/java/org/sakaiproject/news/impl/BasicNewsItemEnclosure.java
+END
+BasicNewsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130358/msub/upv.es/PoliformaT/upv-2.9.3/web/news-impl/impl/src/java/org/sakaiproject/news/impl/BasicNewsService.java
+END

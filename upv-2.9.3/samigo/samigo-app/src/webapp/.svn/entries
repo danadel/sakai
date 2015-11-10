@@ -1,0 +1,126 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/webapp
+https://source.sakaiproject.org/svn
+
+
+
+2015-10-23T08:19:41.431026Z
+321608
+anueda@asic.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+htmlarea
+dir
+
+templates
+dir
+
+META-INF
+dir
+
+crossdomain.xml
+file
+
+
+
+
+2015-11-09T08:48:21.788247Z
+12a538331d62e155c23a7ff23d2973eb
+2005-06-15T18:39:34.548182Z
+19
+lance@indiana.edu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+203
+
+jsf
+dir
+
+include
+dir
+
+html
+dir
+
+images
+dir
+
+WEB-INF
+dir
+
+css
+dir
+
+js
+dir
+
+title.jsp
+file
+
+
+
+
+2015-11-09T08:48:21.788247Z
+bd0e710ae391d86f73af0e6e1a43549d
+2005-07-13T04:55:37.974074Z
+580
+daisyf@stanford.edu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+586
+

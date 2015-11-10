@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs
+END
+Messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/Messages.properties
+END
+SpringConfigurableJobProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/SpringConfigurableJobProperty.java
+END
+ScheduledInvocationRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/ScheduledInvocationRunner.java
+END
+SpringInitialJobSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/SpringInitialJobSchedule.java
+END
+SpringJobBeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/SpringJobBeanWrapper.java
+END
+SpringConfigurableJobBeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/SpringConfigurableJobBeanWrapper.java
+END
+SakaiEventArchiveJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/SakaiEventArchiveJob.java
+END
+SpringStatefulJobBeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/SpringStatefulJobBeanWrapper.java
+END
+AbstractConfigurableJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130368/msub/upv.es/PoliformaT/upv-2.9.3/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/AbstractConfigurableJob.java
+END

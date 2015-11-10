@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/sql/mysql
+END
+sakai_search.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/sql/mysql/sakai_search.sql
+END
+SAK-9865.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/sql/mysql/SAK-9865.sql
+END
+sakai_search_parallel.sql
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/sql/mysql/sakai_search_parallel.sql
+END

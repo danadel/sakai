@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/restful
+END
+SignupEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/restful/SignupEvent.java
+END
+SignupSiteItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/restful/SignupSiteItem.java
+END
+SignupTargetSiteEventInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/restful/SignupTargetSiteEventInfo.java
+END
+SignupGroupItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/restful/SignupGroupItem.java
+END
+SignupParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/restful/SignupParticipant.java
+END
+SignupTimeslotItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/restful/SignupTimeslotItem.java
+END

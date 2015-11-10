@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/317886/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl
+END
+SiteServiceSqlMsSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/SiteServiceSqlMsSql.java
+END
+SiteServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/SiteServiceTest.java
+END
+BaseGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/317886/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/BaseGroup.java
+END
+SiteServiceSqlMySql.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/SiteServiceSqlMySql.java
+END
+SiteAliasCleanupNotificationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/SiteAliasCleanupNotificationAction.java
+END
+DbSiteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/313857/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/DbSiteService.java
+END
+SiteServiceSqlOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/SiteServiceSqlOracle.java
+END
+BaseSitePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/BaseSitePage.java
+END
+SiteServiceSqlHSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/SiteServiceSqlHSql.java
+END
+SiteServiceSqlDb2.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/SiteServiceSqlDb2.java
+END
+BaseSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/BaseSite.java
+END
+BaseToolConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/131401/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/BaseToolConfiguration.java
+END
+SiteServiceSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/SiteServiceSql.java
+END
+SiteServiceSqlDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/SiteServiceSqlDefault.java
+END
+SiteCacheImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/SiteCacheImpl.java
+END
+ResourceVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/ResourceVector.java
+END
+Identifiable.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/Identifiable.java
+END
+BaseSiteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/java/org/sakaiproject/site/impl/BaseSiteService.java
+END

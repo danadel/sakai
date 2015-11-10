@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/318538/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp
+END
+gradeOptions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/gradeOptions.jsp
+END
+noRole.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/noRole.jsp
+END
+spreadsheetListing.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/spreadsheetListing.jsp
+END
+spreadsheetImport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/spreadsheetImport.jsp
+END
+calculateCourseGrades.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/calculateCourseGrades.jsp
+END
+overview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/130850/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/overview.jsp
+END
+instructorView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/instructorView.jsp
+END
+courseGradeDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/132077/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/courseGradeDetails.jsp
+END
+spreadsheetPreview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/132077/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/spreadsheetPreview.jsp
+END
+hideShowColumns.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/hideShowColumns.jsp
+END
+spreadsheetUpload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/spreadsheetUpload.jsp
+END
+spreadsheetEntireGBVerify.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/132077/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/spreadsheetEntireGBVerify.jsp
+END
+editAssignment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/editAssignment.jsp
+END
+gradebookSetup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/gradebookSetup.jsp
+END
+assignmentDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/132077/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/assignmentDetails.jsp
+END
+roster.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/roster.jsp
+END
+spreadsheetUploadPreview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/spreadsheetUploadPreview.jsp
+END
+graderRules.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/graderRules.jsp
+END
+addAssignment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/addAssignment.jsp
+END
+studentView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/132044/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/studentView.jsp
+END
+spreadsheetEntireGBImport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/132045/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/spreadsheetEntireGBImport.jsp
+END
+spreadsheetRemove.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/spreadsheetRemove.jsp
+END
+removeAssignment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/webapp/removeAssignment.jsp
+END

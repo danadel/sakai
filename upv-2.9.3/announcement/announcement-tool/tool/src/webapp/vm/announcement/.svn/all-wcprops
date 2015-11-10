@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/131530/msub/upv.es/PoliformaT/upv-2.9.3/announcement/announcement-tool/tool/src/webapp/vm/announcement
+END
+chef_announcements-revise.vm
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130337/msub/upv.es/PoliformaT/upv-2.9.3/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-revise.vm
+END
+chef_announcements-merge.vm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130337/msub/upv.es/PoliformaT/upv-2.9.3/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-merge.vm
+END
+chef_announcements-metadata.vm
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130337/msub/upv.es/PoliformaT/upv-2.9.3/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-metadata.vm
+END
+chef_announcements-preview.vm
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130337/msub/upv.es/PoliformaT/upv-2.9.3/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-preview.vm
+END
+chef_announcements-customize.vm
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130337/msub/upv.es/PoliformaT/upv-2.9.3/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-customize.vm
+END
+chef_announcements-delete.vm
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130337/msub/upv.es/PoliformaT/upv-2.9.3/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-delete.vm
+END
+chef_announcements-reorder.vm
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/131530/msub/upv.es/PoliformaT/upv-2.9.3/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-reorder.vm
+END
+chef_announcements.vm
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130337/msub/upv.es/PoliformaT/upv-2.9.3/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements.vm
+END

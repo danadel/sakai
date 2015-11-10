@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/130372/msub/upv.es/PoliformaT/upv-2.9.3/authz/authz-tool/tool/src/webapp/vm/admin
+END
+chef_realms_list.vm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130372/msub/upv.es/PoliformaT/upv-2.9.3/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_list.vm
+END
+chef_realms_noaccess.vm
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130372/msub/upv.es/PoliformaT/upv-2.9.3/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_noaccess.vm
+END
+chef_realms_saveas.vm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130372/msub/upv.es/PoliformaT/upv-2.9.3/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_saveas.vm
+END
+chef_realms_edit_user.vm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130372/msub/upv.es/PoliformaT/upv-2.9.3/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_edit_user.vm
+END
+chef_realms_saveas_role.vm
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130372/msub/upv.es/PoliformaT/upv-2.9.3/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_saveas_role.vm
+END
+chef_realms_edit.vm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130372/msub/upv.es/PoliformaT/upv-2.9.3/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_edit.vm
+END
+chef_realms_edit_role.vm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130372/msub/upv.es/PoliformaT/upv-2.9.3/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_edit_role.vm
+END
+chef_realms_confirm_remove.vm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130372/msub/upv.es/PoliformaT/upv-2.9.3/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_confirm_remove.vm
+END

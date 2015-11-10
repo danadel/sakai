@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/pack/src/webapp/WEB-INF
+END
+coreDaoComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/pack/src/webapp/WEB-INF/coreDaoComponents.xml
+END
+messagingComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/pack/src/webapp/WEB-INF/messagingComponents.xml
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/pack/src/webapp/WEB-INF/components.xml
+END
+datamigrationComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/pack/src/webapp/WEB-INF/datamigrationComponents.xml
+END
+rwikiAdapterComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/pack/src/webapp/WEB-INF/rwikiAdapterComponents.xml
+END
+coreServiceComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-impl/pack/src/webapp/WEB-INF/coreServiceComponents.xml
+END

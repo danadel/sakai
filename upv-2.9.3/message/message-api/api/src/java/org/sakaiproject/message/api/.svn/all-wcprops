@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130342/msub/upv.es/PoliformaT/upv-2.9.3/message/message-api/api/src/java/org/sakaiproject/message/api
+END
+MessageEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130342/msub/upv.es/PoliformaT/upv-2.9.3/message/message-api/api/src/java/org/sakaiproject/message/api/MessageEdit.java
+END
+MessageChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130342/msub/upv.es/PoliformaT/upv-2.9.3/message/message-api/api/src/java/org/sakaiproject/message/api/MessageChannel.java
+END
+MessageHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130342/msub/upv.es/PoliformaT/upv-2.9.3/message/message-api/api/src/java/org/sakaiproject/message/api/MessageHeader.java
+END
+MessageChannelEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130342/msub/upv.es/PoliformaT/upv-2.9.3/message/message-api/api/src/java/org/sakaiproject/message/api/MessageChannelEdit.java
+END
+MessageHeaderEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130342/msub/upv.es/PoliformaT/upv-2.9.3/message/message-api/api/src/java/org/sakaiproject/message/api/MessageHeaderEdit.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130342/msub/upv.es/PoliformaT/upv-2.9.3/message/message-api/api/src/java/org/sakaiproject/message/api/Message.java
+END
+MessageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130342/msub/upv.es/PoliformaT/upv-2.9.3/message/message-api/api/src/java/org/sakaiproject/message/api/MessageService.java
+END

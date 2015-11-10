@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/util/src/java/uk/ac/cam/caret/sakai/rwiki/utils
+END
+DigestHtml.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/util/src/java/uk/ac/cam/caret/sakai/rwiki/utils/DigestHtml.java
+END
+SchemaNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/util/src/java/uk/ac/cam/caret/sakai/rwiki/utils/SchemaNames.java
+END
+UserDisplayHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/util/src/java/uk/ac/cam/caret/sakai/rwiki/utils/UserDisplayHelper.java
+END
+SimpleCoverage.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/util/src/java/uk/ac/cam/caret/sakai/rwiki/utils/SimpleCoverage.java
+END
+Digester.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/util/src/java/uk/ac/cam/caret/sakai/rwiki/utils/Digester.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/util/src/java/uk/ac/cam/caret/sakai/rwiki/utils/Messages.java
+END
+TimeLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/util/src/java/uk/ac/cam/caret/sakai/rwiki/utils/TimeLogger.java
+END
+DebugContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/util/src/java/uk/ac/cam/caret/sakai/rwiki/utils/DebugContentHandler.java
+END
+NameHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/util/src/java/uk/ac/cam/caret/sakai/rwiki/utils/NameHelper.java
+END
+XmlEscaper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/util/src/java/uk/ac/cam/caret/sakai/rwiki/utils/XmlEscaper.java
+END

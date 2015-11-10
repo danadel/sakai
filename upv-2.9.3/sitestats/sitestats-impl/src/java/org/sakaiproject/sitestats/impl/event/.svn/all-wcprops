@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/event
+END
+FileEventRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/event/FileEventRegistry.java
+END
+EntityBrokerEventRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/event/EntityBrokerEventRegistry.java
+END
+EventRegistryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/event/EventRegistryServiceImpl.java
+END
+EventUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/event/EventUtil.java
+END

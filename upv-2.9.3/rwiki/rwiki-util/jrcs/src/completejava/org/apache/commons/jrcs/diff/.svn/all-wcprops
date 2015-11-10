@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff
+END
+AddDelta.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/AddDelta.java
+END
+SimpleDiff.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/SimpleDiff.java
+END
+PatchFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/PatchFailedException.java
+END
+DiffException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/DiffException.java
+END
+Chunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/Chunk.java
+END
+Diff.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/Diff.java
+END
+Delta.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/Delta.java
+END
+DeleteDelta.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/DeleteDelta.java
+END
+DifferentiationFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/DifferentiationFailedException.java
+END
+Revision.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/Revision.java
+END
+RevisionVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/RevisionVisitor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/package.html
+END
+ChangeDelta.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/ChangeDelta.java
+END
+DiffAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/jrcs/src/completejava/org/apache/commons/jrcs/diff/DiffAlgorithm.java
+END

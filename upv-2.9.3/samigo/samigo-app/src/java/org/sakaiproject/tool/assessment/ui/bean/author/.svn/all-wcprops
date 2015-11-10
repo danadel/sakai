@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/321328/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author
+END
+ItemConfigBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/ItemConfigBean.java
+END
+PublishedAssessmentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/PublishedAssessmentBean.java
+END
+AssessmentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/320223/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/AssessmentBean.java
+END
+AttachmentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/AttachmentBean.java
+END
+PublishRepublishNotificationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/PublishRepublishNotificationBean.java
+END
+ItemBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/ItemBean.java
+END
+TemplateShareBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/131836/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/TemplateShareBean.java
+END
+AnswerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/AnswerBean.java
+END
+AuthorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/316693/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/AuthorBean.java
+END
+PublishedAssessmentBeanie.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/PublishedAssessmentBeanie.java
+END
+SectionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/133129/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/SectionBean.java
+END
+PublishedAssessmentSettingsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/321194/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/PublishedAssessmentSettingsBean.java
+END
+AssessmentSettingsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/321328/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/AssessmentSettingsBean.java
+END
+IndexBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/IndexBean.java
+END
+MatchItemBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/MatchItemBean.java
+END
+TemplateBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/131836/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/TemplateBean.java
+END
+MetaDataBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/MetaDataBean.java
+END
+DeleteConfirmBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/DeleteConfirmBean.java
+END
+ItemAuthorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/author/ItemAuthorBean.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/309756/msub/upv.es/PoliformaT/upv-2.9.3/kernel/component-manager/src/main/bundle/org/sakaiproject/config
+END
+toolOrder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/309756/msub/upv.es/PoliformaT/upv-2.9.3/kernel/component-manager/src/main/bundle/org/sakaiproject/config/toolOrder.xml
+END
+kernel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/component-manager/src/main/bundle/org/sakaiproject/config/kernel.properties
+END
+sakai-configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/component-manager/src/main/bundle/org/sakaiproject/config/sakai-configuration.xml
+END

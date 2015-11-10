@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/dataproviders
+END
+MessagesDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/dataproviders/MessagesDataProvider.java
+END
+RequestedFriendsDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/dataproviders/RequestedFriendsDataProvider.java
+END
+FriendsFeedDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/dataproviders/FriendsFeedDataProvider.java
+END
+WallItemDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/dataproviders/WallItemDataProvider.java
+END
+GalleryImageRandomizedDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/dataproviders/GalleryImageRandomizedDataProvider.java
+END
+MessageThreadsDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/dataproviders/MessageThreadsDataProvider.java
+END
+ConfirmedFriendsDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/dataproviders/ConfirmedFriendsDataProvider.java
+END
+GalleryImageDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130331/msub/upv.es/PoliformaT/upv-2.9.3/profile2/tool/src/java/org/sakaiproject/profile2/tool/dataproviders/GalleryImageDataProvider.java
+END

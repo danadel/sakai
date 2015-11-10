@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 525
+/jobscheduler/branches/SAK-13696/scheduler-component-shared/src/java/org/sakaiproject/conditions/job:80285-81928
+/jobscheduler/branches/SAK-18864/scheduler-component-shared/src/java/org/sakaiproject/conditions/job:81929-82102
+/jobscheduler/trunk/scheduler-component-shared/src/java/org/sakaiproject/conditions/job:102744,103259,105132,107648,107683-107714,110847,118276,120195,120197,120200-120201,120892,120896,121272,122341
+/kernel/branches/KNL-136/kernel-impl/src/main/java/org/sakaiproject/conditions/impl/job:61850-69292
+END

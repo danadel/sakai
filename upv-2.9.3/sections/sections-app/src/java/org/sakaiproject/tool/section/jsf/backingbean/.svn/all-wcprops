@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/132485/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean
+END
+StudentViewBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/StudentViewBean.java
+END
+SectionEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/SectionEditor.java
+END
+CourseDependentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/CourseDependentBean.java
+END
+OptionsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/132280/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/OptionsBean.java
+END
+LocalMeetingModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/LocalMeetingModel.java
+END
+CourseBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/CourseBean.java
+END
+AddSectionsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/132485/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/AddSectionsBean.java
+END
+PreferencesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/PreferencesBean.java
+END
+EditManagersBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/EditManagersBean.java
+END
+EditStudentSectionsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/EditStudentSectionsBean.java
+END
+OverviewBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/132483/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/OverviewBean.java
+END
+ConfigurationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/ConfigurationBean.java
+END
+NavMenuBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/NavMenuBean.java
+END
+LocalSectionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/LocalSectionModel.java
+END
+EditSectionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/EditSectionBean.java
+END
+FilteredSectionListingBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/FilteredSectionListingBean.java
+END
+RosterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/132405/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/RosterBean.java
+END
+EditStudentsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/EditStudentsBean.java
+END
+InitializableBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/jsf/backingbean/InitializableBean.java
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/sakai-pack/src/resources/mysql
+END
+sakai_gradebook_post_schemaupdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/gradebook-service/sakai-pack/src/resources/mysql/sakai_gradebook_post_schemaupdate.sql
+END

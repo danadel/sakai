@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/320249/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete
+END
+MeleteSiteAndUserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/320249/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/MeleteSiteAndUserInfo.java
+END
+AuthorPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/AuthorPreferencePage.java
+END
+SearchLibraryServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/SearchLibraryServlet.java
+END
+ViewModulesPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/ViewModulesPage.java
+END
+ModuleNextStepsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/ModuleNextStepsPage.java
+END
+ListModulesPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/ListModulesPage.java
+END
+MeleteDateComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/MeleteDateComparator.java
+END
+DeleteModulePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/DeleteModulePage.java
+END
+AddSectionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/AddSectionPage.java
+END
+MoveSectionsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/MoveSectionsPage.java
+END
+ManageModulesPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/ManageModulesPage.java
+END
+ViewSectionsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/ViewSectionsPage.java
+END
+AddResourcesPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/AddResourcesPage.java
+END
+NavPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/NavPage.java
+END
+StudentPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/StudentPreferencePage.java
+END
+ModulePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/ModulePage.java
+END
+EditModulePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/EditModulePage.java
+END
+AddModulePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/AddModulePage.java
+END
+FillFromSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/FillFromSource.java
+END
+RemoteBrowserFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/RemoteBrowserFile.java
+END
+PrintModulePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/PrintModulePage.java
+END
+SectionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/306642/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/SectionPage.java
+END
+ListResourcesPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/ListResourcesPage.java
+END
+ExportMeleteModules.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/ExportMeleteModules.java
+END
+DeleteResourcePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/DeleteResourcePage.java
+END
+EditSectionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/306642/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/EditSectionPage.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/Util.java
+END
+RemoteFilesListingNav.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/RemoteFilesListingNav.java
+END
+SortModuleSectionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/SortModuleSectionPage.java
+END
+LicensePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/LicensePage.java
+END
+ManageResourcesPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/ManageResourcesPage.java
+END
+ListAuthModulesPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/ListAuthModulesPage.java
+END
+ViewNextStepsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/317035/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-app/src/java/org/etudes/tool/melete/ViewNextStepsPage.java
+END

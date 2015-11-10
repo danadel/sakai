@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/utils/xml
+END
+ValidatedNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/utils/xml/ValidatedNode.java
+END
+NormalizationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/utils/xml/NormalizationException.java
+END
+SchemaNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/utils/xml/SchemaNode.java
+END
+ValueRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/utils/xml/ValueRange.java
+END
+ElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-api/api/src/java/org/sakaiproject/metaobj/utils/xml/ElementType.java
+END

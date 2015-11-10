@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/impl/src/ddl
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/impl/src/ddl/hibernate.cfg.xml
+END
+hibernate-derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/impl/src/ddl/hibernate-derby.properties
+END
+hibernate-mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/impl/src/ddl/hibernate-mysql.properties
+END
+hibernate-oracle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/impl/src/ddl/hibernate-oracle.properties
+END
+hibernate-postgres.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/impl/src/ddl/hibernate-postgres.properties
+END
+hibernate-db2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/impl/src/ddl/hibernate-db2.properties
+END
+hibernate-hsqldb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/impl/src/ddl/hibernate-hsqldb.properties
+END
+hibernate-mssql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/impl/src/ddl/hibernate-mssql.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/impl/src/ddl/pom.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130426/msub/upv.es/PoliformaT/upv-2.9.3/webasi-master/impl/src/ddl/readme.txt
+END

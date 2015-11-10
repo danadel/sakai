@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/132546/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui
+END
+PrefsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/PrefsBean.java
+END
+EventTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/132546/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/EventTypes.java
+END
+AttachmentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/AttachmentWrapper.java
+END
+MenuBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/MenuBean.java
+END
+Day.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/Day.java
+END
+CalendarBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/132546/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/CalendarBean.java
+END
+EventSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/EventSummary.java
+END
+MonthWeek.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130339/msub/upv.es/PoliformaT/upv-2.9.3/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/MonthWeek.java
+END

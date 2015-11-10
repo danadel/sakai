@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/conversion
+END
+CheckConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/conversion/CheckConnection.java
+END
+SchemaConversionDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/conversion/SchemaConversionDriver.java
+END
+SchemaConversionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/conversion/SchemaConversionHandler.java
+END
+SchemaConversionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/conversion/SchemaConversionException.java
+END
+UpgradeSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/conversion/UpgradeSchema.java
+END
+SchemaConversionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/conversion/SchemaConversionController.java
+END

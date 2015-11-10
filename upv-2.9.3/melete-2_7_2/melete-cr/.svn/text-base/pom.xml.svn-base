@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <artifactId>melete-base</artifactId>
+    <groupId>org.etudes</groupId>
+    <version>2.7.2</version>
+    <relativePath>../pom.xml</relativePath>
+  </parent>
+  <name>Etudes Melete Conditional Release</name>
+  <groupId>org.etudes</groupId>
+  <artifactId>etudes-melete-cr</artifactId>
+  <version>2.7.2</version>
+  <organization>
+    <name>Etudes</name>
+    <url>http://etudes.org/</url>
+  </organization>
+  <inceptionYear>2004</inceptionYear>
+  <packaging>jar</packaging>
+  <properties>
+    <deploy.target>shared</deploy.target>
+  </properties>
+  <dependencies>
+	<dependency>
+      <groupId>org.etudes</groupId>
+      <artifactId>etudes-melete-api</artifactId>
+      <version>2.7.2</version>
+    </dependency>
+    <dependency>
+      <groupId>org.sakaiproject.kernel</groupId>
+      <artifactId>sakai-kernel-api</artifactId>
+      <version>1.3.3</version>
+    </dependency>
+    <dependency>
+      <groupId>org.sakaiproject.kernel</groupId>
+      <artifactId>sakai-component-manager</artifactId>
+      <version>1.3.3</version>
+    </dependency>
+	<dependency>
+      <groupId>org.sakaiproject.kernel</groupId>
+      <artifactId>sakai-kernel-util</artifactId>
+	  <version>1.3.3</version>
+    </dependency>
+	<dependency>
+	  <groupId>org.sakaiproject.edu-services.gradebook</groupId>
+	  <artifactId>gradebook-service-api</artifactId>
+	</dependency>
+	<dependency>
+      <groupId>commons-logging</groupId>
+      <artifactId>commons-logging</artifactId>
+    </dependency>
+	<!--<dependency>
+      <groupId>jsf</groupId>
+      <artifactId>jsf-api</artifactId>
+      <version>1.1.01</version>
+    </dependency>-->
+	<dependency>
+      <groupId>org.sakaiproject.jsf</groupId>
+      <artifactId>jsf-app</artifactId>
+      <version>${sakai.jsf.version}</version>
+    </dependency>
+	<dependency> <!-- obtenido de content, para Rule y Predicate -->
+		<groupId>commons-collections</groupId>
+		<artifactId>commons-collections</artifactId>
+		<version>3.2.1</version>
+	</dependency>
+
+  </dependencies>
+  <build>
+    <resources/>
+    <sourceDirectory>src/java</sourceDirectory>
+  </build>
+  
+</project>

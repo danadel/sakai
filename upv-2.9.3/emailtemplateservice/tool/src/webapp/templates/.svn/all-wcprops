@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130362/msub/upv.es/PoliformaT/upv-2.9.3/emailtemplateservice/tool/src/webapp/templates
+END
+modify_email.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130362/msub/upv.es/PoliformaT/upv-2.9.3/emailtemplateservice/tool/src/webapp/templates/modify_email.html
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130362/msub/upv.es/PoliformaT/upv-2.9.3/emailtemplateservice/tool/src/webapp/templates/main.html
+END
+preview_email.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130362/msub/upv.es/PoliformaT/upv-2.9.3/emailtemplateservice/tool/src/webapp/templates/preview_email.html
+END

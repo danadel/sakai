@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/impl
+END
+SnowballAnalyzerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/impl/SnowballAnalyzerFactory.java
+END
+SegmentInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/impl/SegmentInfoImpl.java
+END
+SearchIndexStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/impl/SearchIndexStorage.java
+END
+SearchAnalyzerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/impl/SearchAnalyzerFactory.java
+END
+SegmentState.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/impl/SegmentState.java
+END
+FSIndexStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/impl/FSIndexStorage.java
+END
+BaseIndexStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/impl/BaseIndexStorage.java
+END
+ClusterFSIndexStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/impl/ClusterFSIndexStorage.java
+END
+JDBCClusterIndexStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/impl/JDBCClusterIndexStore.java
+END
+ClusterSegmentsStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/impl/ClusterSegmentsStorage.java
+END
+StandardAnalyzerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/impl/src/java/org/sakaiproject/search/index/impl/StandardAnalyzerFactory.java
+END

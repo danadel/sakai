@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/321441/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui
+END
+GraderRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/GraderRule.java
+END
+OverviewBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/OverviewBean.java
+END
+ConfigurationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/ConfigurationBean.java
+END
+CourseGradeDetailsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/CourseGradeDetailsBean.java
+END
+ViewByStudentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/ViewByStudentBean.java
+END
+SpreadsheetUploadBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/315677/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/SpreadsheetUploadBean.java
+END
+MessagingBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/MessagingBean.java
+END
+AssignmentGradeRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/AssignmentGradeRow.java
+END
+RosterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/132083/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/RosterBean.java
+END
+GradebookSetupBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/GradebookSetupBean.java
+END
+Paging.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/Paging.java
+END
+InitializableBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/InitializableBean.java
+END
+GradebookDependentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/318149/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/GradebookDependentBean.java
+END
+SpreadsheetRemoveBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/SpreadsheetRemoveBean.java
+END
+CourseGradesToSpreadsheetConverterDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/132046/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/CourseGradesToSpreadsheetConverterDefault.java
+END
+AuthorizationFilterConfigurationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/AuthorizationFilterConfigurationBean.java
+END
+FeedbackOptionsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/FeedbackOptionsBean.java
+END
+PreferencesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/PreferencesBean.java
+END
+BulkAssignmentDecoratedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/BulkAssignmentDecoratedBean.java
+END
+TestGradebookTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/TestGradebookTool.java
+END
+InstructorViewBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/306749/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/InstructorViewBean.java
+END
+AssignmentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/321441/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/AssignmentBean.java
+END
+GradebookFilePickerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/GradebookFilePickerServlet.java
+END
+CourseGradesToSpreadsheetCustomConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/CourseGradesToSpreadsheetCustomConverter.java
+END
+AssignmentDetailsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/306749/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/AssignmentDetailsBean.java
+END
+GraderRulesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/GraderRulesBean.java
+END
+EntryServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/EntryServlet.java
+END
+RoleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/RoleFilter.java
+END
+StudentViewBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/StudentViewBean.java
+END
+RemoveAssignmentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/RemoveAssignmentBean.java
+END
+EnrollmentTableBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/EnrollmentTableBean.java
+END
+GradebookBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/318149/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/GradebookBean.java
+END

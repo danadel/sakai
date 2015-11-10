@@ -1,0 +1,5 @@
+#Mon Oct 28 12:54:42 CET 2013
+embed_tag_contains_dangerous_content=Denna inb\u00E4ddade taggs attribut har farligt inneh\u00E5ll ({0}), attributet kommer att tas bort
+html_tag_is_not_allowed=HTML-taggen {0} \u00E4r inte till\u00E5ten i formaterad text.n
+unknown_error_markup=Ett ok\u00E4nt fel intr\u00E4ffade vid text-uppm\u00E4rkningen
+html_attribute_pattern_not_allowed=HTML-attributet {0} \u00E4r inte till\u00E5ten

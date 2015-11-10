@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/entityproviders
+END
+MySignupEventsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/entityproviders/MySignupEventsProvider.java
+END
+EventProcessHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/entityproviders/EventProcessHandler.java
+END
+SignupEventEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/entityproviders/SignupEventEntityProvider.java
+END
+SignupObjectConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/entityproviders/SignupObjectConverter.java
+END
+SignupRESTfulSessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/tool/src/java/org/sakaiproject/signup/tool/entityproviders/SignupRESTfulSessionManager.java
+END

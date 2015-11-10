@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/hibernate/org/sakaiproject/tool/assessment/data/dao/assessment
+END
+ItemData.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/hibernate/org/sakaiproject/tool/assessment/data/dao/assessment/ItemData.hbm.xml
+END
+PublishedItemData.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/hibernate/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedItemData.hbm.xml
+END
+AssessmentBase.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/hibernate/org/sakaiproject/tool/assessment/data/dao/assessment/AssessmentBase.hbm.xml
+END
+PublishedAssessment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/hibernate/org/sakaiproject/tool/assessment/data/dao/assessment/PublishedAssessment.hbm.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/316133/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/util
+END
+BeanFloatComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/util/BeanFloatComparator.java
+END
+BeanSortComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/131841/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/util/BeanSortComparator.java
+END
+AttachmentUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/316133/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/util/AttachmentUtil.java
+END
+SamigoEmailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/util/SamigoEmailService.java
+END
+BeanDateComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/util/BeanDateComparator.java
+END
+BeanIntegerComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/util/BeanIntegerComparator.java
+END
+BeanSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/util/BeanSort.java
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util
+END
+SingleStorageSqlMySql.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/SingleStorageSqlMySql.java
+END
+Blob.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/Blob.java
+END
+MultiSingleStorageSqlMsSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/MultiSingleStorageSqlMsSql.java
+END
+FlatStorageSqlDb2.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/FlatStorageSqlDb2.java
+END
+MultiSingleStorageSqlMySql.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/MultiSingleStorageSqlMySql.java
+END
+MultiSingleStorageSqlOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/MultiSingleStorageSqlOracle.java
+END
+MultiSingleStorageSqlHSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/MultiSingleStorageSqlHSql.java
+END
+DbSingleStorageReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/DbSingleStorageReader.java
+END
+FlatStorageSqlDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/FlatStorageSqlDefault.java
+END
+EntityReaderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/EntityReaderAdapter.java
+END
+DoubleStorageSqlDb2.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/DoubleStorageSqlDb2.java
+END
+SAXEntityReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/SAXEntityReader.java
+END
+FlatStorageSqlMsSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/FlatStorageSqlMsSql.java
+END
+SingleStorageSqlOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/SingleStorageSqlOracle.java
+END
+BaseDbBinarySingleStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/BaseDbBinarySingleStorage.java
+END
+BaseDbFlatStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/BaseDbFlatStorage.java
+END
+BaseDbDualSingleStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/BaseDbDualSingleStorage.java
+END
+SingleStorageSqlHSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/SingleStorageSqlHSql.java
+END
+SingleStorageSqlDb2.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/SingleStorageSqlDb2.java
+END
+DefaultEntityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/DefaultEntityHandler.java
+END
+BaseXmlFileStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/BaseXmlFileStorage.java
+END
+FlatStorageSqlOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/FlatStorageSqlOracle.java
+END
+FlatStorageSqlMySql.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/FlatStorageSqlMySql.java
+END
+FlatStorageSqlHSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/FlatStorageSqlHSql.java
+END
+DoubleStorageSqlDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/DoubleStorageSqlDefault.java
+END
+StorageUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/StorageUtils.java
+END
+MultiSingleStorageSqlDb2.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/MultiSingleStorageSqlDb2.java
+END
+SingleStorageSqlDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/SingleStorageSqlDefault.java
+END
+ByteStorageConversion.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/ByteStorageConversion.java
+END
+PathHashUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/PathHashUtil.java
+END
+DoubleStorageSqlMsSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/DoubleStorageSqlMsSql.java
+END
+BaseDbDoubleStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/BaseDbDoubleStorage.java
+END
+DoubleStorageSqlMySql.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/DoubleStorageSqlMySql.java
+END
+DoubleStorageSqlOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/DoubleStorageSqlOracle.java
+END
+SingleStorageSqlMsSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/SingleStorageSqlMsSql.java
+END
+MultiSingleStorageSqlDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/MultiSingleStorageSqlDefault.java
+END
+BaseDbSingleStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/BaseDbSingleStorage.java
+END
+DoubleStorageSqlHSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-storage-util/src/main/java/org/sakaiproject/util/DoubleStorageSqlHSql.java
+END

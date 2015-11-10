@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/318538/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf
+END
+DropScoresValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/DropScoresValidator.java
+END
+LetterGradeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/LetterGradeConverter.java
+END
+CourseGradeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/CourseGradeConverter.java
+END
+ClassAvgConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/ClassAvgConverter.java
+END
+AssignmentPointsConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/AssignmentPointsConverter.java
+END
+DivMessagesRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/DivMessagesRenderer.java
+END
+CategoryPointsConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/CategoryPointsConverter.java
+END
+CategoryItemValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/CategoryItemValidator.java
+END
+ScoreConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/ScoreConverter.java
+END
+PointsConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/PointsConverter.java
+END
+PercentageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/PercentageConverter.java
+END
+NontrailingDoubleConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/NontrailingDoubleConverter.java
+END
+FacesPhaseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/FacesPhaseListener.java
+END
+DivMessageRendererBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/DivMessageRendererBase.java
+END
+DropScoresConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/DropScoresConverter.java
+END
+HtmlSortHeaderRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/HtmlSortHeaderRenderer.java
+END
+ExternalAppNameConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130850/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/ExternalAppNameConverter.java
+END
+DivMessageRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/DivMessageRenderer.java
+END
+FacesUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/FacesUtil.java
+END
+PrecisePercentageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/PrecisePercentageConverter.java
+END
+AssignmentGradeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/AssignmentGradeValidator.java
+END
+ClassAvgConverterBasicDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/ui/src/java/org/sakaiproject/tool/gradebook/jsf/ClassAvgConverterBasicDisplay.java
+END

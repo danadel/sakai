@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/facade/sakai
+END
+AuthzSakaiImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/facade/sakai/AuthzSakaiImpl.java
+END
+AuthnSakaiImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/facade/sakai/AuthnSakaiImpl.java
+END
+ContextSakaiImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130350/msub/upv.es/PoliformaT/upv-2.9.3/sections/sections-app/src/java/org/sakaiproject/tool/section/facade/sakai/ContextSakaiImpl.java
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb
+END
+sakai_session.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_session.sql
+END
+sakai_notification.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_notification.sql
+END
+sakai_alias.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_alias.sql
+END
+sakai_content_2_1_0.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_content_2_1_0.sql
+END
+sakai_site_2_5_3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_site_2_5_3.sql
+END
+sakai_content_delete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_content_delete.sql
+END
+sakai_user_2_1_0.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_user_2_1_0.sql
+END
+sakai_realm.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_realm.sql
+END
+sakai_preferences.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_preferences.sql
+END
+sakai_content_registry.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_content_registry.sql
+END
+sakai_realm_2_4_0_001.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_realm_2_4_0_001.sql
+END
+sakai_site.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_site.sql
+END
+sakai_site_2_1_0_003.sql
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_site_2_1_0_003.sql
+END
+sakai_site_2_4_0_001.sql
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_site_2_4_0_001.sql
+END
+sakai_content.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_content.sql
+END
+sakai_locks.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_locks.sql
+END
+sakai_user_2_2_map.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_user_2_2_map.sql
+END
+sakai_user.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_user.sql
+END
+sakai_digest.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_digest.sql
+END
+sakai_site_group.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/131950/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_site_group.sql
+END
+sakai_event.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_event.sql
+END
+sakai_cluster.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_cluster.sql
+END
+sakai_user_2_1_0_004.sql
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/kernel-impl/src/main/sql/hsqldb/sakai_user_2_1_0_004.sql
+END

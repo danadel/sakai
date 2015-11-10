@@ -1,0 +1,48 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <artifactId>sakai-upv2</artifactId>
+        <groupId>org.sakaiproject</groupId>
+        <relativePath>../../pom.xml</relativePath>
+		<version>${sakai.version}</version>
+    </parent>
+    	<name>sakai-upv2-pack</name>
+	<groupId>org.sakaiproject</groupId>
+	<artifactId>sakai-upv2-pack</artifactId>
+		<version>${sakai.version}</version>
+
+	<!-- you must deploy your pack to components -->
+  <!-- Packaging -->
+  <packaging>sakai-component</packaging>
+  <properties>
+    <deploy.target>components</deploy.target>
+  </properties>
+
+	<!-- the components pack should include your dao and logic impl 
+		in the war bundle and the components.xml file 
+		(which is basically a spring-config file with a special name) -->
+	<dependencies>
+
+
+		<!-- Internal dependencies -->
+        <dependency>
+            <groupId>org.sakaiproject</groupId>
+            <artifactId>sakai-upv2-dao-impl</artifactId>
+		<version>${sakai.version}</version>
+        </dependency>
+
+        <dependency>
+			<groupId>org.sakaiproject</groupId>
+			<artifactId>generic-dao</artifactId>
+			<version>0.9.1</version>
+			<scope>provided</scope>
+        </dependency>
+
+	</dependencies>
+
+	<build>
+		<!-- Nothing to build here, 
+			Sakai copies everything in the WEB-INF directory to components for you -->
+	</build>
+
+</project>

@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 19
+.project
+.settings
+
+K 13
+svn:mergeinfo
+V 80
+/providers/branches/SAK-17222:82659
+/providers/trunk:102186,104895,105075,109333
+END

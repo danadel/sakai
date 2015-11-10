@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/pack/src/webapp/WEB-INF
+END
+contentAdapterComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/pack/src/webapp/WEB-INF/contentAdapterComponents.xml
+END
+coreSearchComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/pack/src/webapp/WEB-INF/coreSearchComponents.xml
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/pack/src/webapp/WEB-INF/components.xml
+END
+parallelIndexComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/pack/src/webapp/WEB-INF/parallelIndexComponents.xml
+END
+siteAdapterComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/130334/msub/upv.es/PoliformaT/upv-2.9.3/search/search-impl/pack/src/webapp/WEB-INF/siteAdapterComponents.xml
+END

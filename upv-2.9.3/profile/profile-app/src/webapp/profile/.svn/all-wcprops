@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/130329/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-app/src/webapp/profile
+END
+searchModule.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130329/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-app/src/webapp/profile/searchModule.jsp
+END
+profileCommonToolBar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130329/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-app/src/webapp/profile/profileCommonToolBar.jsp
+END
+main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130329/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-app/src/webapp/profile/main.jsp
+END
+displaySearchedProfile.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130329/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-app/src/webapp/profile/displaySearchedProfile.jsp
+END
+edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130329/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-app/src/webapp/profile/edit.jsp
+END
+noMatchFound.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130329/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-app/src/webapp/profile/noMatchFound.jsp
+END
+permissionException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130329/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-app/src/webapp/profile/permissionException.jsp
+END
+searchResults.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/130329/msub/upv.es/PoliformaT/upv-2.9.3/profile/profile-app/src/webapp/profile/searchResults.jsp
+END

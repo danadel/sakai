@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 80
+target
+m2-target
+.zip
+.classpath
+.project
+.settings
+org.eclipse.jdt.core.prefs
+
+
+END

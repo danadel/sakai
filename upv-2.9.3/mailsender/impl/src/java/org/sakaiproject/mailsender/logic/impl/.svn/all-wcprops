@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/impl/src/java/org/sakaiproject/mailsender/logic/impl
+END
+MailConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/impl/src/java/org/sakaiproject/mailsender/logic/impl/MailConstants.java
+END
+CachingComposeLogicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/impl/src/java/org/sakaiproject/mailsender/logic/impl/CachingComposeLogicImpl.java
+END
+ExternalLogicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/impl/src/java/org/sakaiproject/mailsender/logic/impl/ExternalLogicImpl.java
+END
+ComposeLogicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/impl/src/java/org/sakaiproject/mailsender/logic/impl/ComposeLogicImpl.java
+END
+ConfigLogicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130326/msub/upv.es/PoliformaT/upv-2.9.3/mailsender/impl/src/java/org/sakaiproject/mailsender/logic/impl/ConfigLogicImpl.java
+END

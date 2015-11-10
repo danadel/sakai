@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/beans
+END
+AddableResourceBundleViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/beans/AddableResourceBundleViewResolver.java
+END
+AddableSessionFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/beans/AddableSessionFactoryBean.java
+END
+AdditionalHibernateMappings.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/utils/mvc/impl/beans/AdditionalHibernateMappings.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro
+END
+TableMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/TableMacroTest.java
+END
+YipeeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/YipeeTest.java
+END
+ApiMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/ApiMacroTest.java
+END
+AsinMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/AsinMacroTest.java
+END
+RfcMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/RfcMacroTest.java
+END
+AllMacroTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/AllMacroTests.java
+END
+IsbnMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/IsbnMacroTest.java
+END
+FilePathMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/FilePathMacroTest.java
+END
+MacroTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/MacroTestSupport.java
+END
+LinkMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/LinkMacroTest.java
+END
+ApiDocMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/ApiDocMacroTest.java
+END
+ParamMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/ParamMacroTest.java
+END
+XrefMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/XrefMacroTest.java
+END
+MailToMacroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130349/msub/upv.es/PoliformaT/upv-2.9.3/rwiki/rwiki-util/radeox/src/java/org/radeox/test/macro/MailToMacroTest.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-api/api/src/java/org/sakaiproject/login/api
+END
+LoginCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-api/api/src/java/org/sakaiproject/login/api/LoginCredentials.java
+END
+Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-api/api/src/java/org/sakaiproject/login/api/Login.java
+END
+LoginService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-api/api/src/java/org/sakaiproject/login/api/LoginService.java
+END
+LoginRenderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-api/api/src/java/org/sakaiproject/login/api/LoginRenderContext.java
+END
+LoginRenderEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-api/api/src/java/org/sakaiproject/login/api/LoginRenderEngine.java
+END
+LoginAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-api/api/src/java/org/sakaiproject/login/api/LoginAdvisor.java
+END

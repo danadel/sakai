@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/job
+END
+ClassPathCMSyncJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/job/ClassPathCMSyncJob.java
+END
+sampleCMData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/job/sampleCMData.xml
+END
+CmSynchronizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/130361/msub/upv.es/PoliformaT/upv-2.9.3/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/job/CmSynchronizer.java
+END

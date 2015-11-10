@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic
+END
+SignupUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/SignupUser.java
+END
+Retry.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/Retry.java
+END
+SignupTrackingItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/SignupTrackingItem.java
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/Permission.java
+END
+SignupCacheService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/SignupCacheService.java
+END
+SakaiFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/SakaiFacade.java
+END
+SignupEventTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/SignupEventTypes.java
+END
+SignupCalendarHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/SignupCalendarHelper.java
+END
+SignupMeetingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/SignupMeetingService.java
+END
+SignupMessageTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/SignupMessageTypes.java
+END
+SignupEmailFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/SignupEmailFacade.java
+END
+SignupUserActionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130459/msub/upv.es/PoliformaT/upv-2.9.3/signup-2.9.x/api/src/java/org/sakaiproject/signup/logic/SignupUserActionException.java
+END

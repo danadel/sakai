@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/README
+END
+deletecoreprojects.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/deletecoreprojects.sh
+END
+masterpom.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/masterpom.patch
+END
+difftrunk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/difftrunk.sh
+END
+applypatches.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/applypatches.sh
+END
+allpoms
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/allpoms
+END
+pomscan.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/pomscan.sh
+END
+kernelpoms
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/kernelpoms
+END
+transformArtifacts.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/transformArtifacts.xsl
+END
+splitpatch.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/splitpatch.pl
+END
+cleanupPoms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/cleanupPoms.xml
+END
+pombuildpatch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/pombuildpatch.patch
+END
+branchcoreprojects.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/branchcoreprojects.sh
+END
+artifacttransform
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/artifacttransform
+END
+corekernelartifacts
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130414/msub/upv.es/PoliformaT/upv-2.9.3/kernel/conversion/corekernelartifacts
+END

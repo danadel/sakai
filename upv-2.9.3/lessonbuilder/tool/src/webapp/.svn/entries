@@ -1,0 +1,83 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3/lessonbuilder/tool/src/webapp
+https://source.sakaiproject.org/svn
+
+
+
+2014-12-01T11:06:44.137487Z
+315777
+vacercon@upvnet.upv.es
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+images
+dir
+
+removePage.jsp
+file
+
+
+
+
+2015-11-09T08:52:52.460241Z
+f2617f9056c1347fdf0862b440d7213b
+2013-05-16T16:49:11.598406Z
+124165
+hedrick@rutgers.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5262
+
+WEB-INF
+dir
+
+css
+dir
+
+content
+dir
+
+js
+dir
+
+templates
+dir
+
+tools
+dir
+

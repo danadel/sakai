@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/130850/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/sakai-tool/src/webapp/WEB-INF
+END
+faces-application.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/130850/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/sakai-tool/src/webapp/WEB-INF/faces-application.xml
+END
+spring-db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/sakai-tool/src/webapp/WEB-INF/spring-db.xml
+END
+spring-facades.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/sakai-tool/src/webapp/WEB-INF/spring-facades.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/sakai-tool/src/webapp/WEB-INF/applicationContext.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/sakai-tool/src/webapp/WEB-INF/web.xml
+END

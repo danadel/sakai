@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/131383/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/questionpool
+END
+QuestionPoolItemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/questionpool/QuestionPoolItemData.java
+END
+QuestionPoolData.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/131383/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/questionpool/QuestionPoolData.java
+END
+QuestionPoolAccessData.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/questionpool/QuestionPoolAccessData.java
+END
+QuestionPoolData.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/131383/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/questionpool/QuestionPoolData.hbm.xml
+END

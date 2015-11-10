@@ -1,0 +1,2027 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/320223/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle
+END
+EvaluationMessages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_ru.properties
+END
+AuthorFrontDoorMessages.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages.metaprops
+END
+CommonMessages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_pt_BR.properties
+END
+AuthorMessages.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages.metaprops
+END
+SamLite_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_ja.properties
+END
+AssessmentSettingsMessages_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_zh_TW.properties
+END
+TemplateMessages_nl.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_nl.metaprops
+END
+PrintMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/131871/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/PrintMessages_es.properties
+END
+AssessmentSettingsMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_fr_FR.properties
+END
+AssessmentSettingsMessages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_zh_CN.properties
+END
+GeneralMessages_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_zh_TW.properties
+END
+DeliveryMessages_en_AU.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_en_AU.properties
+END
+GeneralMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_fr_FR.properties
+END
+CommonMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/131275/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_ca.properties
+END
+AuthorImportExport_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_pt_BR.properties
+END
+GeneralMessages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_zh_CN.properties
+END
+SamLite_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_eu.properties
+END
+DeliveryMessages_en_ZA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_en_ZA.properties
+END
+AssessmentSettingsMessages_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_fr_CA.properties
+END
+SelectIndexMessages_zh_CN.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_zh_CN.metaprops
+END
+SelectIndexMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/131336/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages.properties
+END
+GeneralMessages_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_fr_CA.properties
+END
+AuthorMessages_es.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_es.metaprops
+END
+QuestionPoolMessages_fr_CA.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_fr_CA.metaprops
+END
+TemplateMessages_zh_CN.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_zh_CN.metaprops
+END
+QuestionPoolMessages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_tr_TR.properties
+END
+DeliveryMessages_ja.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_ja.metaprops
+END
+AssessmentSettingsMessages_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_pt_PT.properties
+END
+AuthorMessages_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_zh_TW.properties
+END
+SelectIndexMessages_en_AU.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_en_AU.properties
+END
+TemplateMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/131836/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_ca.properties
+END
+AssessmentSettingsMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_de.properties
+END
+AssessmentSettingsMessages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_sv.properties
+END
+SelectIndexMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_de.properties
+END
+SelectIndexMessages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_sv.properties
+END
+AuthorMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_fr_FR.properties
+END
+SelectIndexMessages_en_ZA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_en_ZA.properties
+END
+QuestionPoolMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_ar.properties
+END
+AuthorMessages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_zh_CN.properties
+END
+GeneralMessages_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_pt_PT.properties
+END
+GeneralMessages_nl.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_nl.metaprops
+END
+MainIndexMessages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_sv.properties
+END
+MainIndexMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_de.properties
+END
+AuthorMessages_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_fr_CA.properties
+END
+EvaluationMessages_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_pl_PL.properties
+END
+AuthorFrontDoorMessages_zh_CN.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_zh_CN.metaprops
+END
+CommonMessages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_ru.properties
+END
+PrintMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/131871/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/PrintMessages_ca.properties
+END
+SelectIndexMessages_ja.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_ja.metaprops
+END
+AssessmentSettingsMessages_fr_FR.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_fr_FR.metaprops
+END
+GeneralMessages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_nl.properties
+END
+AuthorFrontDoorMessages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_sv.properties
+END
+AuthorFrontDoorMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_de.properties
+END
+AuthorMessages_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_pt_PT.properties
+END
+QuestionPoolMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_ja.properties
+END
+DeliveryMessages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_nl.properties
+END
+MainIndexMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages.properties
+END
+EvaluationMessages_nl.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_nl.metaprops
+END
+TemplateMessages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_ru.properties
+END
+MainIndexMessages_fr_CA.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_fr_CA.metaprops
+END
+TemplateMessages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_tr_TR.properties
+END
+MainIndexMessages_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_zh_TW.properties
+END
+EvaluationMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_ar.properties
+END
+QuestionPoolMessages_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_eu.properties
+END
+MainIndexMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_fr_FR.properties
+END
+GeneralMessages.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages.metaprops
+END
+AssessmentSettingsMessages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_pt_BR.properties
+END
+MainIndexMessages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_zh_CN.properties
+END
+DeliveryMessages_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_zh_TW.properties
+END
+AuthorImportExport_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/305979/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_es.properties
+END
+AssessmentSettingsMessages_ja.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_ja.metaprops
+END
+AuthzPermissions.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthzPermissions.properties
+END
+DeliveryMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_fr_FR.properties
+END
+GeneralMessages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_pt_BR.properties
+END
+DeliveryMessages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_zh_CN.properties
+END
+GeneralMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/131244/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_es.properties
+END
+MainIndexMessages_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_fr_CA.properties
+END
+DeliveryMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/318456/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_es.properties
+END
+DeliveryMessages_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_fr_CA.properties
+END
+AuthorImportExport_fr_CA.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_fr_CA.metaprops
+END
+TemplateMessages_es.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_es.metaprops
+END
+EvaluationMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_ja.properties
+END
+SamLite_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_zh_TW.properties
+END
+SelectIndexMessages_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_zh_TW.properties
+END
+MainIndexMessages_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_pt_PT.properties
+END
+PrintMessages_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/PrintMessages_pl_PL.properties
+END
+AssessmentSettingsMessages.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages.metaprops
+END
+SamLite_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_fr_FR.properties
+END
+SelectIndexMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_fr_FR.properties
+END
+SelectIndexMessages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_zh_CN.properties
+END
+AuthorMessages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_pt_BR.properties
+END
+DeliveryMessages_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_pt_PT.properties
+END
+AuthorMessages_ja.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_ja.metaprops
+END
+AuthorMessages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_nl.properties
+END
+EvaluationMessages_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_eu.properties
+END
+SelectIndexMessages_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_fr_CA.properties
+END
+AuthorMessages_zh_CN.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_zh_CN.metaprops
+END
+SelectIndexMessages_fr_FR.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_fr_FR.metaprops
+END
+DeliveryMessages_ca.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_ca.metaprops
+END
+AssessmentSettingsMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages.properties
+END
+TemplateMessages_fr_FR.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_fr_FR.metaprops
+END
+AuthorImportExport_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/131275/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_ca.properties
+END
+CommonMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_ar.properties
+END
+SelectIndexMessages_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_pt_PT.properties
+END
+SamLite_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_de.properties
+END
+SamLite_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_sv.properties
+END
+GeneralMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/131275/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_ca.properties
+END
+EvaluationMessages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_tr_TR.properties
+END
+DeliveryMessages_zh_CN.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_zh_CN.metaprops
+END
+GeneralMessages_es.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_es.metaprops
+END
+AuthorFrontDoorMessages_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_pl_PL.properties
+END
+DeliveryMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/306140/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_ca.properties
+END
+SelectIndexMessages_ca.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_ca.metaprops
+END
+AuthorMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/320223/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_es.properties
+END
+AuthorFrontDoorMessages_fr_FR.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_fr_FR.metaprops
+END
+TemplateMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_ar.properties
+END
+MainIndexMessages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_pt_BR.properties
+END
+CommonMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_ja.properties
+END
+SamLite_fr_FR.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_fr_FR.metaprops
+END
+AuthorFrontDoorMessages_nl.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_nl.metaprops
+END
+GeneralMessages_en_GB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_en_GB.properties
+END
+DeliveryMessages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_pt_BR.properties
+END
+AuthzPermissions_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthzPermissions_zh_TW.properties
+END
+EvaluationMessages_es.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_es.metaprops
+END
+AuthzPermissions_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthzPermissions_fr_FR.properties
+END
+AuthorImportExport_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_ru.properties
+END
+CommonMessages_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_eu.properties
+END
+GeneralMessages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_ru.properties
+END
+TemplateMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_ja.properties
+END
+EvaluationMessages.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages.metaprops
+END
+AssessmentSettingsMessages_ca.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_ca.metaprops
+END
+CommonMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages.properties
+END
+DeliveryMessages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_ru.properties
+END
+SamLite_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_pt_BR.properties
+END
+SelectIndexMessages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_pt_BR.properties
+END
+TemplateMessages_ja.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_ja.metaprops
+END
+TemplateMessages_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_eu.properties
+END
+AuthorMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/320223/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_ca.properties
+END
+PrintMessages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/PrintMessages_tr_TR.properties
+END
+QuestionPoolMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_de.properties
+END
+QuestionPoolMessages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_sv.properties
+END
+QuestionPoolMessages_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_zh_TW.properties
+END
+CommonMessages_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_pl_PL.properties
+END
+AssessmentSettingsMessages_fr_CA.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_fr_CA.metaprops
+END
+QuestionPoolMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_fr_FR.properties
+END
+QuestionPoolMessages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_zh_CN.properties
+END
+AuthorMessages_ca.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_ca.metaprops
+END
+EventLogMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/131275/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EventLogMessages_ca.properties
+END
+QuestionPoolMessages_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_fr_CA.properties
+END
+AuthorMessages_fr_FR.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_fr_FR.metaprops
+END
+AssessmentSettingsMessages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_nl.properties
+END
+SelectIndexMessages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_nl.properties
+END
+MainIndexMessages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_nl.properties
+END
+GeneralMessages_ja.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_ja.metaprops
+END
+EvaluationMessages_zh_CN.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_zh_CN.metaprops
+END
+SamLite.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/318347/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite.properties
+END
+EvaluationMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/319043/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages.properties
+END
+QuestionPoolMessages_nl.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_nl.metaprops
+END
+AuthorMessages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_ru.properties
+END
+AuthorFrontDoorMessages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_tr_TR.properties
+END
+DeliveryMessages_en_GB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_en_GB.properties
+END
+EvaluationMessages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_sv.properties
+END
+EvaluationMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_de.properties
+END
+DeliveryMessages_fr_FR.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_fr_FR.metaprops
+END
+MainIndexMessages_nl.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_nl.metaprops
+END
+TemplateMessages_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_zh_TW.properties
+END
+AuthorFrontDoorMessages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_nl.properties
+END
+TemplateMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_fr_FR.properties
+END
+AuthorImportExport_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_ar.properties
+END
+TemplateMessages.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages.metaprops
+END
+TemplateMessages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_zh_CN.properties
+END
+AssessmentSettingsMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_es.properties
+END
+SelectIndexMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/317130/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_es.properties
+END
+EvaluationMessages_ja.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_ja.metaprops
+END
+GeneralMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_ar.properties
+END
+QuestionPoolMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/131824/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages.properties
+END
+SelectIndexMessages_en_GB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_en_GB.properties
+END
+MainIndexMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_es.properties
+END
+AuthorFrontDoorMessages_es.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_es.metaprops
+END
+DeliveryMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_ar.properties
+END
+TemplateMessages_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_fr_CA.properties
+END
+GeneralMessages_zh_CN.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_zh_CN.metaprops
+END
+DeliveryMessages_es_MX.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_es_MX.properties
+END
+SelectIndexMessages_fr_CA.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_fr_CA.metaprops
+END
+AuthorImportExport_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_ja.properties
+END
+TemplateMessages_fr_CA.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_fr_CA.metaprops
+END
+DeliveryMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/316179/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages.properties
+END
+AuthorFrontDoorMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/316695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_es.properties
+END
+GeneralMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_ja.properties
+END
+QuestionPoolMessages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_pt_BR.properties
+END
+TemplateMessages_ca.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_ca.metaprops
+END
+AssessmentSettingsMessages_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_pl_PL.properties
+END
+DeliveryMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_ja.properties
+END
+CommonMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_de.properties
+END
+CommonMessages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_sv.properties
+END
+AuthorImportExport_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_eu.properties
+END
+CommonMessages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_tr_TR.properties
+END
+SelectIndexMessages_es_MX.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_es_MX.properties
+END
+GeneralMessages_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_pl_PL.properties
+END
+GeneralMessages_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_eu.properties
+END
+AuthorFrontDoorMessages_fr_CA.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_fr_CA.metaprops
+END
+AssessmentSettingsMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_ca.properties
+END
+SelectIndexMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/131957/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_ca.properties
+END
+DeliveryMessages_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_eu.properties
+END
+MainIndexMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/131275/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_ca.properties
+END
+AuthorImportExport_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_tr_TR.properties
+END
+EvaluationMessages_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_zh_TW.properties
+END
+TemplateMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_de.properties
+END
+TemplateMessages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_sv.properties
+END
+AuthorMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_ar.properties
+END
+EvaluationMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_fr_FR.properties
+END
+AuthorMessages_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_pl_PL.properties
+END
+EvaluationMessages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_zh_CN.properties
+END
+GeneralMessages_ca.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_ca.metaprops
+END
+SamLite_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_nl.properties
+END
+AuthorFrontDoorMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/316695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages.properties
+END
+QuestionPoolMessages_zh_CN.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_zh_CN.metaprops
+END
+EvaluationMessages_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_fr_CA.properties
+END
+TemplateMessages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_pt_BR.properties
+END
+AuthorFrontDoorMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/316695/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_ca.properties
+END
+EvaluationMessages_fr_FR.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_fr_FR.metaprops
+END
+PrintMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/PrintMessages_de.properties
+END
+QuestionPoolMessages_es.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_es.metaprops
+END
+AuthorMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_ja.properties
+END
+AssessmentSettingsMessages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_ru.properties
+END
+AuthorImportExport_es.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_es.metaprops
+END
+GeneralMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages.properties
+END
+EvaluationMessages_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_pt_PT.properties
+END
+SelectIndexMessages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_ru.properties
+END
+MainIndexMessages_es.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_es.metaprops
+END
+MainIndexMessages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_ru.properties
+END
+AuthorImportExport.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport.metaprops
+END
+AuthorFrontDoorMessages_ja.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_ja.metaprops
+END
+Messages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/Messages_sv.properties
+END
+EvaluationMessages_ca.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_ca.metaprops
+END
+AuthorMessages_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_eu.properties
+END
+PrintMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/131871/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/PrintMessages.properties
+END
+SamLite_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/318347/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_es.properties
+END
+DeliveryMessages.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages.metaprops
+END
+MainIndexMessages_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_pl_PL.properties
+END
+AuthorFrontDoorMessages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_ru.properties
+END
+AuthzPermissions_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthzPermissions_sv.properties
+END
+GeneralMessages_fr_FR.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_fr_FR.metaprops
+END
+DeliveryMessages_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_pl_PL.properties
+END
+PrintMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/PrintMessages_fr_FR.properties
+END
+AuthorMessages_fr_CA.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_fr_CA.metaprops
+END
+MainIndexMessages_zh_CN.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_zh_CN.metaprops
+END
+AssessmentSettingsMessages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_tr_TR.properties
+END
+GeneralMessages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_tr_TR.properties
+END
+DeliveryMessages_nl.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_nl.metaprops
+END
+MainIndexMessages.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages.metaprops
+END
+QuestionPoolMessages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_nl.properties
+END
+DeliveryMessages_fr_CA.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_fr_CA.metaprops
+END
+SamLite_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_pl_PL.properties
+END
+SelectIndexMessages_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_pl_PL.properties
+END
+EvaluationMessages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_pt_BR.properties
+END
+AuthorImportExport_zh_CN.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_zh_CN.metaprops
+END
+AuthorImportExport.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport.properties
+END
+SamLite_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/318347/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_ca.properties
+END
+AuthorFrontDoorMessages_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_zh_TW.properties
+END
+AuthorMessages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_tr_TR.properties
+END
+AuthorFrontDoorMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_fr_FR.properties
+END
+SelectIndexMessages_nl.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_nl.metaprops
+END
+QuestionPoolMessages.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages.metaprops
+END
+AuthorImportExport_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_de.properties
+END
+AuthorImportExport_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_sv.properties
+END
+AuthorFrontDoorMessages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_zh_CN.properties
+END
+GeneralMessages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_sv.properties
+END
+GeneralMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_de.properties
+END
+AssessmentSettingsMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_ar.properties
+END
+QuestionPoolMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/131824/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_es.properties
+END
+AuthorFrontDoorMessages_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_fr_CA.properties
+END
+QuestionPoolMessages_ja.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_ja.metaprops
+END
+SelectIndexMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_ar.properties
+END
+DeliveryMessages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_sv.properties
+END
+DeliveryMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_de.properties
+END
+QuestionPoolMessages_fr_FR.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_fr_FR.metaprops
+END
+MainIndexMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_ar.properties
+END
+AuthorImportExport_ja.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_ja.metaprops
+END
+EvaluationMessages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_nl.properties
+END
+AuthorMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/320223/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages.properties
+END
+MainIndexMessages_ja.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_ja.metaprops
+END
+AuthorFrontDoorMessages_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_pt_PT.properties
+END
+TemplateMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/131836/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages.properties
+END
+SamLite_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_ru.properties
+END
+AssessmentSettingsMessages_nl.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_nl.metaprops
+END
+AssessmentSettingsMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_ja.properties
+END
+AuthorFrontDoorMessages_ca.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_ca.metaprops
+END
+SelectIndexMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_ja.properties
+END
+AuthorFrontDoorMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_ar.properties
+END
+MainIndexMessages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_tr_TR.properties
+END
+MainIndexMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_ja.properties
+END
+DeliveryMessages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_tr_TR.properties
+END
+EvaluationMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/319043/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_es.properties
+END
+AssessmentSettingsMessages_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_eu.properties
+END
+SelectIndexMessages_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_eu.properties
+END
+QuestionPoolMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/131824/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_ca.properties
+END
+MainIndexMessages_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_eu.properties
+END
+CommonMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_fr_FR.properties
+END
+MainIndexMessages_fr_FR.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_fr_FR.metaprops
+END
+AuthorFrontDoorMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_ja.properties
+END
+CommonMessages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_zh_CN.properties
+END
+AuthorMessages_nl.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_nl.metaprops
+END
+AuthorMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/308072/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_de.properties
+END
+AuthorMessages_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorMessages_sv.properties
+END
+EvaluationMessages_fr_CA.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_fr_CA.metaprops
+END
+SamLite_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SamLite_tr_TR.properties
+END
+SelectIndexMessages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_tr_TR.properties
+END
+CommonMessages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_nl.properties
+END
+CommonMessages_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_fr_CA.properties
+END
+AuthorImportExport_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_zh_TW.properties
+END
+GeneralMessages_en_AU.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_en_AU.properties
+END
+AuthorFrontDoorMessages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_pt_BR.properties
+END
+AuthorImportExport_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_fr_FR.properties
+END
+QuestionPoolMessages_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_pl_PL.properties
+END
+AuthorFrontDoorMessages_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorFrontDoorMessages_eu.properties
+END
+AuthorImportExport_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_zh_CN.properties
+END
+DeliveryMessages_es.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/DeliveryMessages_es.metaprops
+END
+GeneralMessages_en_ZA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_en_ZA.properties
+END
+CommonMessages_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_pt_PT.properties
+END
+AuthorImportExport_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_fr_CA.properties
+END
+AuthorImportExport_fr_FR.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_fr_FR.metaprops
+END
+TemplateMessages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_nl.properties
+END
+AssessmentSettingsMessages_zh_CN.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_zh_CN.metaprops
+END
+QuestionPoolMessages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_ru.properties
+END
+EvaluationMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/319043/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/EvaluationMessages_ca.properties
+END
+SelectIndexMessages_es.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages_es.metaprops
+END
+AuthorImportExport_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130903/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_pt_PT.properties
+END
+CommonMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/131275/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/CommonMessages_es.properties
+END
+QuestionPoolMessages_ca.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/QuestionPoolMessages_ca.metaprops
+END
+GeneralMessages_fr_CA.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/GeneralMessages_fr_CA.metaprops
+END
+SelectIndexMessages.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/SelectIndexMessages.metaprops
+END
+AuthorImportExport_ca.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AuthorImportExport_ca.metaprops
+END
+MainIndexMessages_ca.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/MainIndexMessages_ca.metaprops
+END
+TemplateMessages_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_pl_PL.properties
+END
+TemplateMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/131836/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/TemplateMessages_es.properties
+END
+AssessmentSettingsMessages_es.metaprops
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/bundle/AssessmentSettingsMessages_es.metaprops
+END

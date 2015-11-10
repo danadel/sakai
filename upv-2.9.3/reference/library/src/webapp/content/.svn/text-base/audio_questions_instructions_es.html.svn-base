@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Instrucciones de preguntas de tipo audio</title>
+</head>
+
+<body>
+<p><strong>CONFIGURACIÓN PARA GUARDAR SONIDOS DE AUDIO</strong><br />
+  Este tipo de pregunta permite al alumno grabar sonidos de  audio mediante un plugin de java. El plugin de java es una pequeña aplicación  de java que se ejecuta en la JVM (máquina virtual de java) del ordenador del  usuario. Por defecto, la JVM tiene unas políticas de seguridad que impiden  guardar archivos de sonido. Por ello es necesario que cambiemos esas políticas  de seguridad para permitir guardar sonidos de audio.<br />
+  Eso se puede hacer de dos maneras:</p>
+<ol>
+  <li>Firmando, mediante un certificado digital, el  archivo jar del plugin. Esta es la opción ideal, pero el problema es que, por  el momento, la UPV no dispone de un certificado digital.</li>
+  <li>Editar el fichero donde se guarda la política de  seguridad de la JVM. Esta es la opción que vamos a utilizar. Es necesario hacer  los siguientes pasos.</li>
+</ol>
+<p><strong>PASOS</strong></p>
+<p>En primer lugar, localizaremos el directorio donde se ha  instalado la JVM que utiliza el sistema operativo. Habitualmente, en los  sistemas Windows se suele encontrar en el directorio: <br />
+  <strong>C:\Archivos de programa\Java\jre6\lib\security</strong><br />
+  En segundo lugar pulsaremos el botón derecho del ratón  sobre el archivo "<strong>java.policy</strong>" y  seleccionaremos "<strong>Edit with Notepad++</strong>"  como mostramos en la figura 1.<br />
+  <strong><img width="567" height="425" src="audio_questions_poliformat1.jpg" alt="exam62.jpg" /></strong><strong> </strong><br />
+  <strong>Figura 1</strong><br />
+  Finalmente editaremos el archivo añadiendo al final de éste  las siguientes líneas de código (Vea figura 2):<br />
+  <strong>grant {</strong><br />
+  <strong>                permission  javax.sound.sampled.AudioPermission &quot;record&quot;;</strong><br />
+  <strong>                permission  java.io.FilePermission &quot;&lt;&lt;ALL FILES&gt;&gt;&quot;, &quot;read,  write&quot;;</strong><br />
+  <strong>                permission  java.util.PropertyPermission &quot;user.dir&quot;, &quot;read&quot;;</strong><br />
+  <strong>};</strong><br />
+  <img width="567" height="528" src="audio_questions_poliformat2.jpg" alt="exam63.jpg" /> <br />
+  <strong>Figura 2</strong></p>
+</body>
+</html>

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/util/api
+END
+SearchCancelException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/util/api/SearchCancelException.java
+END
+CQLSearchQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/util/api/CQLSearchQuery.java
+END
+SearchQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/util/api/SearchQuery.java
+END
+CQL2MetasearchCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/util/api/CQL2MetasearchCommand.java
+END
+InputStringParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/util/api/InputStringParser.java
+END
+SearchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/util/api/SearchException.java
+END
+OsidConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130374/msub/upv.es/PoliformaT/upv-2.9.3/citations/citations-api/api/src/java/org/sakaiproject/citation/util/api/OsidConfigurationException.java
+END

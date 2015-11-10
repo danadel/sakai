@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/standalone-app/src/test
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/standalone-app/src/test/hibernate.properties
+END
+spring-hib-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/standalone-app/src/test/spring-hib-test.xml
+END
+spring-service-with-grade-mappings-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/standalone-app/src/test/spring-service-with-grade-mappings-test.xml
+END
+spring-beans-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/standalone-app/src/test/spring-beans-test.xml
+END

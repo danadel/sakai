@@ -1,0 +1,314 @@
+10
+
+dir
+321735
+https://source.sakaiproject.org/svn/msub/upv.es/PoliformaT/upv-2.9.3
+https://source.sakaiproject.org/svn
+
+
+
+2015-11-06T12:46:57.464663Z
+321727
+anueda@asic.upv.es
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66ffb92e-73f9-0310-93c1-f5514f145a0a
+
+alias
+dir
+
+upv-videoapuntes-tool
+dir
+
+basiclti
+dir
+
+announcement
+dir
+
+syllabus
+dir
+
+velocity
+dir
+
+reference
+dir
+
+profile
+dir
+
+delegatedaccess
+dir
+
+search
+dir
+
+courier
+dir
+
+memory
+dir
+
+content-review
+dir
+
+lessonbuilder
+dir
+
+tool
+dir
+
+msgcntr
+dir
+
+roster
+dir
+
+chat
+dir
+
+help
+dir
+
+site-manage
+dir
+
+weblink
+dir
+
+authz
+dir
+
+gradebook
+dir
+
+warehouse
+dir
+
+emailtemplateservice
+dir
+
+config
+dir
+
+login
+dir
+
+calendar
+dir
+
+jobscheduler
+dir
+
+dav
+dir
+
+providers
+dir
+
+hierarchy
+dir
+
+user
+dir
+
+sakai-mock
+dir
+
+kernel
+dir
+
+archive
+dir
+
+signup-2.9.x
+dir
+
+entitybroker
+dir
+
+webservices
+dir
+
+corrector-dsic
+dir
+
+profile2
+dir
+
+sitestats
+dir
+
+mailarchive
+dir
+
+reset-pass
+dir
+
+webasi-public
+dir
+
+sections
+dir
+
+usermembership
+dir
+
+linktool
+dir
+
+citations
+dir
+
+access
+dir
+
+osp
+dir
+
+webasi-master
+dir
+
+site
+dir
+
+webconference
+dir
+
+postem
+dir
+
+textarea
+dir
+
+shortenedurl
+dir
+
+samigo
+dir
+
+upload-applet-upv
+dir
+
+mailsender
+dir
+
+message
+dir
+
+common
+dir
+
+polls
+dir
+
+lessonbuilder-10.4
+dir
+
+pom.xml
+file
+
+
+
+
+2015-11-09T08:52:54.312241Z
+e9107d967a348801dea74c11375ab6a9
+2015-10-29T13:52:44.745852Z
+321650
+rmengod@cc.upv.es
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7231
+
+master
+dir
+
+upv2
+dir
+
+deploy
+dir
+
+edu-services
+dir
+
+rights
+dir
+
+portal
+dir
+
+presence
+dir
+
+taggable
+dir
+
+webasi-biblio
+dir
+
+assignment
+dir
+
+content
+dir
+
+oauthupv
+dir
+
+web
+dir
+
+pack
+dir
+
+podcasts
+dir
+
+melete-2_7_2
+dir
+
+metaobj
+dir
+
+webasi-private
+dir
+
+jsf
+dir
+
+rwiki
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/util/comparator
+END
+ForumBySortIndexAscAndCreatedDateDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/util/comparator/ForumBySortIndexAscAndCreatedDateDesc.java
+END
+MessageByCreatedDateDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/util/comparator/MessageByCreatedDateDesc.java
+END
+AttachmentByCreatedDateDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/util/comparator/AttachmentByCreatedDateDesc.java
+END
+TopicBySortIndexAscAndCreatedDateDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/!svn/ver/130327/msub/upv.es/PoliformaT/upv-2.9.3/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/util/comparator/TopicBySortIndexAscAndCreatedDateDesc.java
+END

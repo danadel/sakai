@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-api/api/src/java/org/sakaiproject/login/exceptions
+END
+LoginCredentialsNotDefinedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-api/api/src/java/org/sakaiproject/login/exceptions/LoginCredentialsNotDefinedException.java
+END
+LoginPenaltyNotConfiguredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130381/msub/upv.es/PoliformaT/upv-2.9.3/login/login-api/api/src/java/org/sakaiproject/login/exceptions/LoginPenaltyNotConfiguredException.java
+END

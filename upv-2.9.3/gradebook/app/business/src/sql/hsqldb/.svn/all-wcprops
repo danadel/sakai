@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/business/src/sql/hsqldb
+END
+sakai_gradebook.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/business/src/sql/hsqldb/sakai_gradebook.sql
+END
+sakai_gradebook_2.0.1_to_2.1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/business/src/sql/hsqldb/sakai_gradebook_2.0.1_to_2.1.sql
+END
+sakai_gradebook_2.1.x_to_2.2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/business/src/sql/hsqldb/sakai_gradebook_2.1.x_to_2.2.sql
+END
+sakai_gradebook_2.2..x_to_2.3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/business/src/sql/hsqldb/sakai_gradebook_2.2..x_to_2.3.sql
+END
+sakai_gradebook_2.3.x_to_2.4.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/business/src/sql/hsqldb/sakai_gradebook_2.3.x_to_2.4.sql
+END
+sakai_gradebook_2.1_SAK-3187.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/130378/msub/upv.es/PoliformaT/upv-2.9.3/gradebook/app/business/src/sql/hsqldb/sakai_gradebook_2.1_SAK-3187.sql
+END

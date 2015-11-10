@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/318817/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-cr/src/java/org/etudes/tool/melete/conditionalrelease
+END
+AssignmentUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-cr/src/java/org/etudes/tool/melete/conditionalrelease/AssignmentUpdate.java
+END
+NullPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-cr/src/java/org/etudes/tool/melete/conditionalrelease/NullPredicate.java
+END
+BooleanExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-cr/src/java/org/etudes/tool/melete/conditionalrelease/BooleanExpression.java
+END
+BaseConditionServiceMel.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-cr/src/java/org/etudes/tool/melete/conditionalrelease/BaseConditionServiceMel.java
+END
+GradebookConditionsProviderMel.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-cr/src/java/org/etudes/tool/melete/conditionalrelease/GradebookConditionsProviderMel.java
+END
+AssignmentGrading.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130679/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-cr/src/java/org/etudes/tool/melete/conditionalrelease/AssignmentGrading.java
+END
+MeleteReleaseRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/318817/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-cr/src/java/org/etudes/tool/melete/conditionalrelease/MeleteReleaseRule.java
+END
+MeleteConditionsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/317907/msub/upv.es/PoliformaT/upv-2.9.3/melete-2_7_2/melete-cr/src/java/org/etudes/tool/melete/conditionalrelease/MeleteConditionsHelper.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/spring/org/sakaiproject/spring
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/spring/org/sakaiproject/spring/README.txt
+END
+applicationContext.xml.integrated
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/spring/org/sakaiproject/spring/applicationContext.xml.integrated
+END
+integrationContext.xml.integrated
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/spring/org/sakaiproject/spring/integrationContext.xml.integrated
+END
+applicationContext.xml.standalone
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/spring/org/sakaiproject/spring/applicationContext.xml.standalone
+END
+integrationContext.xml.standalone
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/spring/org/sakaiproject/spring/integrationContext.xml.standalone
+END
+BeanDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/tests/src/spring/org/sakaiproject/spring/BeanDefinitions.xml
+END

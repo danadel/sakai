@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/api/src/java/org/theospi/portfolio/help/model
+END
+HelpFunctionConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/api/src/java/org/theospi/portfolio/help/model/HelpFunctionConstants.java
+END
+GlossaryUploadForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/api/src/java/org/theospi/portfolio/help/model/GlossaryUploadForm.java
+END
+GlossaryBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/api/src/java/org/theospi/portfolio/help/model/GlossaryBase.java
+END
+Glossary.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/api/src/java/org/theospi/portfolio/help/model/Glossary.java
+END
+HelpManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/api/src/java/org/theospi/portfolio/help/model/HelpManager.java
+END
+GlossaryEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/api/src/java/org/theospi/portfolio/help/model/GlossaryEntry.java
+END
+GlossaryDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/130385/msub/upv.es/PoliformaT/upv-2.9.3/osp/glossary/api/src/java/org/theospi/portfolio/help/model/GlossaryDescription.java
+END

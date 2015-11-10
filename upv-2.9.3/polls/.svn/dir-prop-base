@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 31
+target,bin,.classpath,.project
+
+K 13
+svn:mergeinfo
+V 96
+/polls/trunk:103259,104263,108566,109505-109544,113262,113265,113497,114740,116832,116892,122162
+END

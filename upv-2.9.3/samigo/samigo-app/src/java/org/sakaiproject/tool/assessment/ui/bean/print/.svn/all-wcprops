@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/310227/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/print
+END
+PDFItemBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/print/PDFItemBean.java
+END
+PDFAssessmentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/310227/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/print/PDFAssessmentBean.java
+END
+PDFPartBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130333/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/print/PDFPartBean.java
+END
+SectionContentsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/310227/msub/upv.es/PoliformaT/upv-2.9.3/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/print/SectionContentsBean.java
+END

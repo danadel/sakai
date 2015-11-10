@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <!-- Sakai master pom is the parent -->
+    <parent>
+        <artifactId>master</artifactId>
+        <groupId>org.sakaiproject</groupId>
+        <version>2.9.3</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+    <name>Sakai Webasimaster</name>
+    <groupId>org.sakaiproject</groupId>
+    <artifactId>webasimaster</artifactId>
+    <organization>
+        <name>Sakai Project</name>
+        <url>http://sakaiproject.org/</url>
+    </organization>
+    <inceptionYear>2008</inceptionYear>
+    <packaging>pom</packaging>
+    <version>0.1</version><!--Webasimaster.version-->
+
+
+
+    <profiles>
+        <profile>
+            <id>full</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <modules>
+                <module>api</module>
+                <module>impl</module>
+                <module>pack</module>
+                <module>tool</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>tool</id>
+            <modules>
+                <module>tool</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>api</id>
+            <modules>
+                <module>api</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>ddl</id>
+            <modules>
+                <module>impl/src/ddl</module>
+            </modules>
+        </profile>
+    </profiles>
+
+    <!-- handles the management of all related dependencies -->
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.sakaiproject.webasimaster</groupId>
+                <artifactId>webasimaster-api</artifactId>
+                <version>0.1</version><!--Webasimaster.version-->
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.sakaiproject.webasimaster</groupId>
+                <artifactId>webasimaster-impl</artifactId>
+                <version>0.1</version><!--Webasimaster.version-->
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+</project>

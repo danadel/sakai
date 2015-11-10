@@ -1,0 +1,1450 @@
+/*NOTE:This file is linked to after the tool_base.css file inside of tools. It provides for skinning.*/
+/*many of the definitions below exist also in tool_base.css - the duplication allows for one instalation with many different looks sharing some common elements
+*/
+
+/*SECTION 1 GENERIC SELECTORS*/
+body{
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 80%;
+}	
+/*stub in tool_base.css - skinned here */
+
+hr.itemSeparator{
+	height: 1px;
+	border-color: #444;
+	border-style: solid;
+	border-width: 1px 0 0 0;
+}
+
+/*SECTION 2 LINKS*/
+#pda-portlet-menu a{
+color:#fff !important;background-color:transparent
+text-decoration:none;
+}
+
+#pda-portlet-menu a:hover{
+color:#fff !important;background-color:transparent
+text-decoration:underline;
+}
+
+
+a:link{color: #4b4b4b}
+
+a:visited{color:#000000}
+
+table.listHier td a:hover,
+table.listHier th a:hover{
+	color:#000000;
+	text-decoration: none;
+}
+
+/*a:hover{color:#000000 !important;background-color:transparent}
+
+a:focus{color:#000000 !important;background-color:transparent}*/
+
+
+/*links inside the calendar tool tables*/
+table.calendar td a:hover{
+	text-decoration: underline;
+}
+/*links inside the <th>  of the standard list table*/
+.listHier th a:link,.listHier th a:visited{
+
+	padding:0px 2px 0px 3px;margin:0 .5em;
+	font-weight: bolder;
+	color:black;
+}
+
+.listHier th a:hover{
+
+border:none;color:#000;padding:0px 2px 0px 3px;}
+
+
+/*some links are jscripted so the href is the same - cannot provide visited functionality - so make both the same*/
+/*see: list of assignments - the cells are classed with "specialLink" */ 
+.specialLink a:link,.specialLink a:visited{
+	color: #333;
+	text-decoration: none;
+}
+
+.specialLink a:hover{
+	color: #777;
+	text-decoration: underline;
+}
+/*links in resources - selected for move*/
+tr.selectedMove a:link,tr.selectedMove a:visited{
+	color: silver;
+}
+
+.recentItem{
+        padding:2px;
+        background: url(images/new_item_back.gif) top right no-repeat;
+        _display:inline-block;
+        _margin-left:-1.5em;
+        white-space: nowrap;
+}
+.recentItem a:link{
+        text-decoration: none !important;
+}
+
+/*links associated with an item in alist*/
+/*see links below announcement title in ann list*/
+.itemAction  a,.itemAction  a:link{
+	color: #4b4b4b;
+	padding: .2em .3em 1px 0;
+	white-space: nowrap;
+	border-bottom: none;
+}
+
+.itemAction  a:visited{
+	color: #4b4b4b;
+	text-decoration: none;
+	border-bottom: 1px solid #fff;
+}
+
+.itemAction  a:hover{
+	color: #4b4b4b; /*for ie*/
+	text-decoration: underline !important; 
+}
+
+html>body .itemAction  a:hover{
+	color: #4b4b4b;
+	text-decoration: none !important; /*for other browsers*/
+	border-bottom: 1px solid #4b4b4b;
+}
+
+/*certain links are highlighted in resources after a selection*/
+/*see "Paste copied here" after ccopying a selection in resources*/
+.itemAction a.highlightlink{
+	font-weight: bold;
+}
+/*links in resources - selected for move "deaden" the link*/
+tr.selectedMove .itemAction a:link,tr.selectedMove .itemAction a:visited{
+	color: silver;
+	text-decoration: none;
+	border-bottom: none;
+}
+
+
+/*where one is at in hierarchy - can be static or active links*/
+.breadCrumb {
+	font-size: 1.2em;
+}
+/*for accessib. some breadcrumbs have h3 children - format like normal text*/
+.breadCrumb h3,.breadCrumb h4,.breadCrumb h5, .breadCrumb h6{
+	font-size:85%
+}
+
+.breadCrumb a:link,.breadCrumb a:visited{
+	color: #35b;
+	text-decoration: none;
+}
+
+.breadCrumb a:hover{
+	color: #33f;
+	text-decoration: underline;
+}
+
+
+/*SECTION 3 CALENDAR SELECTORS*/
+/*recommend - decide your palette first - then substitute colors here*/
+table.calendar{
+	background-color: #F3F3F3;
+}
+
+table.calendar th{
+	background-color: #F3F3F3;
+	font-weight: normal;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+.bgActivity{
+	background-color: #F3F3F3;
+	border: 1px solid #4b4b4b;
+	text-align: right;
+}
+
+.bgWithoutActivity{
+	background-color: #fff;
+	border: 1px solid #bbb;
+	text-align: right;
+}
+
+.borderGrayYear{
+	background-color: #eee;
+	border: 1px solid #bbb;
+	text-align: right;
+}
+
+.borderGrayDayWeek{
+	border-bottom: none;
+	border-collapse: collapse;
+	border-left: 1px solid #bbb;
+	border-right: 1px solid #bbb;
+	border-top: 1px solid #bbb;
+}
+
+.borderGrayBackground{
+	background-color: #F3F3F3;
+	border-bottom: none;
+	border-left: 1px solid #bbb;
+	border-right: 1px solid #bbb;
+	border-top: 1px solid #bbb;
+}
+
+.borderGrayTodayBgCenter{
+	background-color: #F3F3F3;
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+	border-top: 1px solid #bbb;
+}
+
+.borderGrayTodayEmptyMiddleBottom{
+	background-color: white;
+	border: 1px solid #bbb;
+}
+
+.borderGrayTodayEmptyMiddleCenter{
+	background-color: white;
+	border-left: 1px solid #bbb;
+	border-right: 1px solid #bbb;
+	border-top: 1px solid #bbb;
+}
+
+.borderGrayTodayLeftBottom{
+	border-bottom: 1px solid #bbb;
+	border-left: 1px solid #000;
+	border-right: 1px solid #bbb;
+	border-top: 1px solid #bbb;
+}
+
+.borderGrayTodayLeftCenter{
+	border-left: 1px solid #000;
+	border-right: 1px solid #bbb;
+	border-top: 1px solid #bbb;
+}
+
+.borderGrayTodayMiddleCenter{
+	border-left: 1px solid #bbb;
+	border-right: 1px solid #bbb;
+	border-top: 1px solid #bbb;
+}
+
+.borderGrayTodayRightBottom{
+	border-bottom: 1px solid #bbb;
+	border-left: 1px solid #bbb;
+	border-right: 1px solid #000;
+	border-top: 1px solid #bbb;
+}
+
+.borderGrayTodayRightCenter{
+	border-left: 1px solid #bbb;
+	border-right: 1px solid #000;
+	border-top: 1px solid #bbb;
+}
+
+.borderOnlyLeftDay{
+	background-color: #F3F3F3;
+	border-left: 1px solid #bbb;
+}
+
+.borderOnlyLeft{
+	border-left: 1px solid #bbb;
+}
+
+.borderToday{
+	border: 1px solid #000;
+}
+
+.borderTodayCenter{
+	border-bottom: 1px solid #bbb;
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+	border-top: 1px solid #bbb;
+}
+
+.borderTodayTop{
+	border-bottom: 1px solid #bbb;
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+	border-top: 1px solid #000;
+}
+
+.borderTodayWithActivity{
+	background-color: #F3F3F3;
+	border: 1px solid #000;
+	text-align: right;
+}
+
+.borderTodayWithoutActivity{
+	background-color: #777;
+	border: 1px solid #000;
+	text-align: right;
+}
+.borderTodayWithoutActivity a{color:#fff}
+
+.borderTopLeft{
+	background-color: #F3F3F3;
+	border-left: 1px solid #bbb;
+	border-right: 1px solid  #bbb;
+	border-top: 1px solid #bbb;
+}
+
+.borderTopLeftWhite{
+	border-left: 1px solid #bbb;
+	border-right: 1px solid  #bbb;
+	border-top: 1px solid #bbb;
+}
+
+.borderWhiteYear{
+	background-color: #F3F3F3;
+	border: 1px solid #fff;
+	text-align: center;
+}
+
+.borderWhite{
+	border-bottom: none;
+	border-left: 1px solid #fff;
+	border-right: 1px solid #fff;
+	border-top: 1px solid #fff;
+}
+
+.borderGrayTodayCenter,.borderOnlyLeftTodayCenter{
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+	border-top: 1px solid #bbb;
+}
+
+.borderGrayTodayEmptyRightBottom,.borderGrayTodayEmptyRightCenter{
+	background-color: white;
+	border-left: 1px solid #bbb;
+	border-right: 1px solid #000;
+	border-top: 1px solid #bbb;
+}
+
+.borderGrayTodayMiddleBottom,.borderFullGray,.borderGrayMonth{
+	border: 1px solid #bbb;
+}
+
+.borderTodayBottom,.borderGrayTodayBottom,.borderOnlyLeftTodayBottom{
+	border-bottom: 1px solid #000;
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+	border-top: 1px solid #bbb;
+}
+
+table.calendar .event{
+	background-color: #F3F3F3;
+}
+
+.timeCells{
+	background:#eee
+}
+
+/*SECTION 4 TABULAR DATA*/
+
+/*skinned header of standard tab. data table*/
+.listHier th{
+	background-color: #ededed;
+	border: 1px solid #4b4b4b;
+}
+/*skinned cell of standard tab. data table*/
+.listHier td{
+	vertical-align: top;
+	padding: .4em;
+}
+
+/*lines - provides rules and hover effects on some tables*/
+table.lines{
+	border-collapse: collapse;
+}
+
+table.lines tr:hover{
+	background-color: #F3F3F3;
+}
+
+table.lines td{
+	border-bottom: 1px solid #bbb;
+	border-top: 1px solid #eee;
+}
+	
+/*some rows needed to be excluded from the rule and hover - see resources see other sites toggle*/
+table.lines tr.exclude:hover{
+	background: transparent;
+}
+
+/*substracts the rules from the lines class- mantain the hover*/
+table.nolines td{
+	border-bottom: 0px solid #bbb;
+	border-top: 0px solid #eee;
+}
+/*when an item has been copied - signal this*/
+/*see resources*/
+tr.selectedCopy{
+	background: #ffd;
+}
+
+tr.selectedCopy td{
+	border-top: 2px solid #bbb;
+	border-bottom: 2px solid #bbb;
+}
+/*when an item has been cut - signal this*/
+tr.selectedMove{
+	color: silver;
+	background: #eee;
+}
+
+tr.selectedMove td{
+	border-top: 2px dotted #bbb;
+	border-bottom: 2px dotted #bbb;
+}
+/*some rows need highlighting*/
+/*see announcement 3rd view option*/
+tr.highLightRow{
+	background:#ddd;
+}
+/*highlight a row representing an item that has been added*/
+tr.highLightAdded{
+	background:#afa;
+}
+
+tr.highLightRow:hover{
+	background:#ddd !important;
+}
+tr.lightHighLightRow{
+	background:#ffd;
+}	
+/*remove the arrow indicating rows (in resources after a selection, in discussion, etc)*/
+.lines td.selected img{
+	display: none;
+}
+
+/*when a row contained a searched for item has been found*/
+/*see: discussion*/
+tr.selectedFound{
+	background: #cff;
+}
+
+
+
+/*when a row contained a searched for item has been found*/
+
+/*see: discussion*/
+
+tr.selectedFound{
+	background: #cff;
+}
+/*a row that is being sorted - see resources in Sakai 2.3*/
+tr#selectedReorder{
+	color: #000;
+	background: #fe6;
+}
+
+tr#selectedReorder:hover{
+	color: #000 !important;
+	background: #fe6 !important;
+}
+tr#selectedReorder h4{
+	font-weight:bold;
+}
+
+tr td.arrowHere{
+	width: 14px
+}
+
+tr#selectedReorder td.arrowHere{
+/*	can give this an image if needed*/
+/*	background: url(images/arrowhere.gif) center .5em no-repeat*/
+}
+
+.moveUp, .moveDown{
+	width:14px;
+}
+.moveUp img, .moveDown img{
+	vertical-align: bottom;
+	padding-top:.5em;
+	width:13px
+}
+/*skinned info for disclosure toggle*/
+/*see: assignment*/
+.discTria{
+	background-color: #ddd;
+	font-family: Arial,Helvetica,sans-serif;
+}
+
+/*SECTION 6 HIERARCHY*/
+
+/*headers are used in many places for structuring things semantically - these are the plain headers - below there are others contextually defined*/
+h2{font-size:120%;color:#444;padding:.3em;font-weight:normal;margin:.5em -.3em;background-color:transparent !important}
+h3{font-size:95%;color:#333333;padding:.3em;font-weight:bolder;margin:.5em -.3em;background-color:transparent !important}
+h4{font-size: 12px;color: #333333;font-weight: bolder;padding-bottom:.1em;background-color:#F4F4F4;}
+h5{font-size: 95%;color: #00014A;font-weight: normal;margin: .5em 0;background-color: transparent;}
+h6{font-size: 95%;color: #181818;font-weight: normal;margin: .5em 0;background-color: transparent;}
+
+
+
+/*headers when they occur in a table*/
+/*want to make them look like normal text - but structure the content*/
+/*see: resources, any legacy list*/
+.listHier th h3,.listHier th h4,.listHier th h5,.listHier th h6,.listHier td h3,.listHier td h4,.listHier td h5,.listHier td h6{
+	margin: 0;
+	padding: 0;
+	color:#000;
+	font-size: 1em;
+	background: none;
+	font-weight: normal;
+	font-family: Arial,Helvetica,sans-serif !important;
+}
+
+/*SECTION 7 INPUTS*/
+/*see: create any item*/
+label{
+	color: #495069;
+	font-family: Arial,Helvetica,sans-serif;
+	font-weight: normal;
+	margin-top: .3em;
+}
+
+input[type="submit"], input[type="button"] {
+    background: #f6f6f5 !important;
+    background: -moz-linear-gradient(top, #f6f6f5 0%, #e0e0e0 93%, #e0e0e0 97%, #e9e9e9 100%) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f6f6f5), color-stop(93%,#e0e0e0), color-stop(97%,#e0e0e0), color-stop(100%,#e9e9e9)) !important;
+    background: -webkit-linear-gradient(top, #f6f6f5 0%,#e0e0e0 93%,#e0e0e0 97%,#e9e9e9 100%) !important;
+    background: -o-linear-gradient(top, #f6f6f5 0%,#e0e0e0 93%,#e0e0e0 97%,#e9e9e9 100%) !important;
+    background: -ms-linear-gradient(top, #f6f6f5 0%,#e0e0e0 93%,#e0e0e0 97%,#e9e9e9 100%) !important;
+    background: linear-gradient(top, #f6f6f5 0%,#e0e0e0 93%,#e0e0e0 97%,#e9e9e9 100%) !important;
+    border: 1px solid #E0E3E5 !important;
+    box-shadow: 0 1px 1px 0 #999999 !important;
+    color: #444 !important;
+    font-size: 11px !important;
+    font-weight: bold !important;
+    height: 24px !important;
+    margin-left: 0 !important;
+    text-shadow: 0 2px 3px #FFFFFF !important;
+    border-radius: 3px;
+    margin-right: 3px;
+}
+input[type="submit"]:hover, input[type="button"]:hover {
+    background: #fefefe !important;
+    background: -moz-linear-gradient(top, #fefefe 0%, #e9edf0 96%, #e2e5e7 100%) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefefe), color-stop(96%,#e9edf0), color-stop(100%,#e2e5e7)) !important;
+    background: -webkit-linear-gradient(top, #fefefe 0%,#e9edf0 96%,#e2e5e7 100%) !important;
+    background: -o-linear-gradient(top, #fefefe 0%,#e9edf0 96%,#e2e5e7 100%) !important;
+    background: -ms-linear-gradient(top, #fefefe 0%,#e9edf0 96%,#e2e5e7 100%) !important;
+    background: linear-gradient(top, #fefefe 0%,#e9edf0 96%,#e2e5e7 100%) !important;
+}
+input[type="submit"][disabled="disabled"], input[type="button"][disabled="disabled"], input[type="submit"][disabled="true"], input[type="submit"][class="disabled"], input[type="submit"][disabled="disabled"]:hover, input[type="submit"][disabled="true"]:hover {
+    background: #eeeeee !important;
+    background: -moz-linear-gradient(top, #eeeeee 0%, #eeeeee 100%) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#eeeeee)) !important;
+    background: -webkit-linear-gradient(top, #eeeeee 0%,#eeeeee 100%) !important;
+    background: -o-linear-gradient(top, #eeeeee 0%,#eeeeee 100%) !important;
+    background: -ms-linear-gradient(top, #eeeeee 0%,#eeeeee 100%) !important;
+    background: linear-gradient(top, #eeeeee 0%,#eeeeee 100%) !important;
+    box-shadow: 0 1px 1px 0 #fff !important;
+    color: #bbb !important;
+    border: 1px solid #E0E3E5 !important;
+    box-shadow: 0 1px 1px 0 #999999 !important;
+    font-size: 11px !important;
+    font-weight: bold !important;
+    height: 24px !important;
+    margin-left: 0 !important;
+    text-shadow: 0 2px 3px #FFFFFF !important;
+    border-radius: 3px;
+    margin-right: 3px;
+}
+input[type="checkbox"][disabled="disabled"], input[type="checkbox"][disabled="true"], input[type="checkbox"][class="disabled"], input[type="checkbox"][disabled="disabled"]:hover, input[type="checkbox"][disabled="true"]:hover {
+    background: #ccc !important;
+    border: 1px solid #E0E3E5 !important;
+    box-shadow: 0 1px 1px 0 #999999 !important;
+    border-radius: 3px;
+    margin-right: 3px;
+}
+.listNav input[type="submit"], .listNav input[type="button"] {
+    height: 20px !important
+}
+
+
+
+
+
+/*a required marker for a shorttext label/input pair*/
+.shorttext .reqStar{
+	color: #b11;
+	width: auto;
+	margin: 0 0 0 -1em;
+	font-weight: bold;
+	font-size: 1em;
+	padding: 0;
+}
+
+
+/*for alignment when an element need the same left-margin as the input of a shorttext label/input pair*/
+.labelindnt{
+	font-size: 1em;
+	margin: 0 0 0 17em !important;
+}
+
+.shorttext input{
+}
+
+.shorttext input:focus{
+	border: 1px solid #000;
+}
+
+textarea{
+	padding: .1em .3em;
+	border: 1px solid #bbb;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 100%;
+}
+
+textarea:focus{
+	border: 1px solid #000;
+}
+
+/* select element for actions on items in resources tool's list view */
+.actionmenu{
+	font-size: 85%;
+}
+
+/* optgroup element for actions on items in resources tool's list view */
+.actiongroup{
+	background-color: #fca;
+	padding: .3em 0em 0em 0em;
+}
+/*some forms need to be displayed inline*/
+.inlineForm{
+	margin: -14;
+	padding: 0;
+	display: inline;
+}
+/* option element for actions on items in resources tool's list view */
+.actionitem{
+	background-color: #F3F3F3;
+	padding: .3em;
+}
+
+
+/*SECTION 8 TOOLBAR*/
+/*see: any tool*/
+.navIntraTool{
+	padding:.3em;
+	margin: 0;
+	line-height: 1.5em;
+	text-align: left;
+	/*font-size: .9em;*/
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+
+/*ie does not understand font sizing well - so fix here with the star hack*/
+* html .navIntraTool{
+	font-size:.85em;
+}
+.navIntraTool:hover{
+/*color:#fff !important;*/
+}
+
+
+.navIntraTool li{
+	border: 1px dotted #323232;
+    border-radius: 2px 2px 2px 2px;
+    margin: 5px 5px 5px 5px !important;
+    padding: 0px 3px 0px 3px !important;
+	background: #323232;
+	color: #fff;
+	font-size:11px;
+	display:inline-block;
+}
+
+.navIntraTool li.inputItem{
+	border: 0px dotted #323232;
+    border-radius: 2px 2px 2px 2px;
+    margin: 5px 5px 5px 5px !important;
+    padding: 2px 3x 2px 3px !important;
+	background: #fff;
+	color: #fff;
+	font-size:11px;
+}
+
+.navIntraTool li:hover{
+	background:#323232;
+	color:#ccc ;
+}
+
+.navIntraTool li.inputItem:hover{
+	background:#fff !important;
+}
+
+.navIntraTool li.current{
+	background:#323232;
+	color:#ccc ;
+}
+
+
+.navIntraTool li span.current{
+/*border:none;color:#000;padding:0px 2px 0px 3px;border-bottom: 1px solid #444;*/
+color:#ccc !important; 
+background-color:bbb !important;
+}
+
+
+/*links for the generic toolbar  - inline-block is there to make IE behave
+see: http://www.quirksmode.org/bugreports/archives/2005/07/Wrapped_inlinenowrap_elements_lose_padding_left_in.html*/
+.navIntraTool a, .navIntraTool a:link {
+/* white-space: nowrap;*/
+	/*border-bottom:1px dashed;padding:0px 2px 0px 3px;margin:0 .5em;font-size: 11px*/
+	
+color: #fff;
+text-decoration:none;
+
+/*border: 1px dotted #323232;*/
+    border-radius: 2px 2px 2px 2px;
+	background: #323232;
+	font-size:11px;
+	display:inline-block;
+	padding: 0px 3px 0px 3px !important;
+
+
+}
+
+.navIntraTool a:visited{
+	/*color: #35b;
+	text-decoration: underline;*/
+	color: #fff;
+	text-decoration:none;
+	
+/*border: 1px dotted #323232;*/
+    border-radius: 2px 2px 2px 2px;
+	background: #323232;
+	font-size:11px;
+	display:inline-block;
+	padding: 0px 3px 0px 3px !important;
+}
+
+.navIntraTool a:hover{
+/*border:none;color:#000;padding:0px 2px 0px 3px;border-bottom:1px dashed #444;*/
+color:#ccc;
+background-color:transparent;
+
+/*border: 1px dotted #323232;*/
+    border-radius: 2px 2px 2px 2px;
+	background: #323232;
+	font-size:11px;
+	display:inline-block;
+		padding: 0px 3px 0px 3px !important;
+}
+
+.navIntraTool a:active{
+/*border:none;color:#000;padding:0px 2px 0px 3px;border-bottom: 1px solid #444;*/
+color:#ccc;
+/*background-color:transparent;*/
+
+/*border: 1px dotted #323232;*/
+    border-radius: 2px 2px 2px 2px;
+	background: #323232;
+	font-size:11px;
+	display:inline-block;
+		padding: 0px 3px 0px 3px !important;
+}
+
+
+
+
+/*
+.navIntraTool li span a{
+	
+}
+*/
+
+/*for tool bar items that have icons*/
+/*.navIntraTool li span a img{
+	vertical-align: bottom;
+}
+
+.navIntraTool li span a:hover{
+	color:#fff !important;
+}
+
+
+.navIntraTool li span, .navIntraTool li span.inactive{
+	border: none;
+	margin:0;
+}
+*/
+.navIntraTool li span.current{
+color:#ccc;
+background-color:transparent;
+
+/*border: 1px dotted #323232;*/
+    border-radius: 2px 2px 2px 2px;
+	background: #323232;
+	font-size:11px;
+	display:inline-block;
+		padding: 0px 3px 0px 3px !important;
+	
+}
+
+
+/*special style for the first item, namely no border-left*/
+
+.navIntraTool li.firstToolBarItem span{
+color:#fff;
+/*background-color:transparent;*/
+
+/*border: 1px dotted #323232;*/
+    border-radius: 2px 2px 2px 2px;
+	background: #323232;
+	font-size:11px;
+	display:inline-block;
+		padding: 0px 3px 0px 3px !important;
+
+   
+}
+
+.navIntraTool li.firstToolBarItem a span:hover{
+color:#ccc;
+/*background-color:transparent;*/
+
+/*border: 1px dotted #323232;*/
+    border-radius: 2px 2px 2px 2px;
+	background: #323232;
+	font-size:11px;
+	display:inline-block;
+		padding: 0px 3px 0px 3px !important;
+
+   
+}
+
+.navIntraTool li.firstToolBarItem span.current{
+color:#ccc;
+/*background-color:transparent;*/
+
+/*border: 1px dotted #323232;*/
+    border-radius: 2px 2px 2px 2px;
+	background: #323232;
+	font-size:11px;
+	display:inline-block;
+		padding: 0px 3px 0px 3px !important;
+
+}
+
+
+.navIntraTool .currentView {
+color:#ccc;
+/*background-color:transparent;*/
+
+/*border: 1px dotted #323232;*/
+    border-radius: 2px 2px 2px 2px;
+	background: #323232;
+	font-size:11px;
+	display:inline-block;
+		padding: 0px 3px 0px 3px !important;
+
+   
+}
+
+.navIntraTool .currentView:hover{
+color:#ccc;
+/*background-color:transparent;*/
+
+/*border: 1px dotted #323232;*/
+    border-radius: 2px 2px 2px 2px;
+	background: #323232;
+	font-size:11px;
+	display:inline-block;
+		padding: 0px 3px 0px 3px !important;
+
+   
+}
+
+.navIntraTool .currentView .current{
+color:#ccc;
+/*background-color:transparent;*/
+
+/*border: 1px dotted #323232;*/
+    border-radius: 2px 2px 2px 2px;
+	background: #323232;
+	font-size:11px;
+	display:inline-block;
+		padding: 0px 3px 0px 3px !important;
+
+}
+
+
+
+
+
+
+/*some toolbars have input type=text, and the next item (fieldSibling) is a submit link*/
+
+/*
+.navIntraTool li span.formItem,.navIntraTool li span.fieldSibling  {
+	border:none;
+	
+}
+.navIntraTool li span.fieldSibling {
+	border: none;
+}
+.navIntraTool li span.current{
+	border: none;
+	color:#fff;
+	background:#555;
+}
+
+.navIntraTool li span.inactive{
+	color:#777;
+}
+*/
+
+.navIntraTool .searchField{
+	font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+}
+
+.navIntraTool .searchField:focus{border-color:#000}
+/*some toolbars will have input buttons*/	
+/*see: resources as instructor*/
+.navIntraToolLink input{
+
+	padding: 0;
+	border: none;
+	background: transparent;
+}
+
+.navIntraToolLink input.disabled{
+	padding-bottom: 1px;
+	border-bottom: none;
+	background: transparent;
+}
+
+.navIntraToolLink input.enabled{
+	color: #35b;
+	border-bottom: 1px solid #35b;
+	background: transparent;
+}
+
+.navIntraToolLink input.enabled:hover{
+	color:#33f;
+	cursor: pointer;
+}
+
+.navIntraTool span.separator {
+	left: -.5em;
+	position: relative;
+}
+.navIntraTool span.inactive {
+	margin-right:1em;
+	white-space: nowrap;
+	display:inline-block
+}
+
+/*SECTION 9 MESSAGES*/
+/*see: create any item*/
+.instruction{
+	color: #495069;
+	font-size: 95%;
+}
+/*see: create a site*/
+.step{
+	font-size: 95%;
+	height: auto;
+}
+
+/*the generic required marker*/
+/*see: create any item*/
+.reqStar{
+	color: #b11;
+	width: auto;
+	margin-left: -1em;
+	font-weight: bold;
+	font-size: 1em;
+	padding: 0;
+	float: left;
+	border-top: 3px solid #fff;
+}
+/*the required marker for a longtext label/input pair*/
+/*see: create any item with a textarea*/
+.longtext .reqStar{
+	color: #b11;
+	font-size: 1.2em;
+	font-weight: normal;
+	padding: 0 0 0 .1em;
+	float: left;
+}
+/*when need to display the required marker inline as a part of a text*/
+/*see: create any item - instruction message about requireed fields*/
+.reqStarInline{
+	color: #b11;
+	font-size: 1.2em;
+	vertical-align: middle;
+	width: 1em;
+}
+
+/*inline blob used to indicate progress (see: upload a resource say)
+visibility gets toggled*/
+#submitnotif{
+	background: #fff url(../images/warn.gif) .3em .3em no-repeat;
+	border: 1px solid #b11;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	clear: none;
+	color: #b11;
+	font-size: small;
+	text-decoration: blink;
+	vertical-align: text-top;
+	margin: 0;
+	padding: 5px 5px 5px 25px;
+}
+/*SECTION 10 NAV  PANELS*/
+/*positioning etc., are defined in base - here just the skin info*/
+/*see any list with more than 20 items - announcements - for example*/
+.navPanel{
+	background-color:#fff
+}
+/*the default action in this control - keep in mind that anything you do to it (except to the font) will make 
+you loose the native buttonishness affordance of the os/browser */
+/*create any item - like an announcement*/
+.act .active {
+	color:#4b4b4b
+}
+.act .active[disabled="disabled"] {
+	color:gray
+}
+
+/*SECTION 10 DATA PANELS*/
+.highlightPanel
+{
+	border:1px solid #eee;
+}
+
+.infoPanel{
+	border: 1px solid #4b4b4b;
+}
+
+.infoPanelHead{
+	border: 1px solid #4b4b4b;
+	background: #4b4b4b;
+	color: #ffd;
+}
+/*see: topic content in discussion*/
+.hierItemBlock, .hierItemBlockWrapper{
+	padding: 0 .5em .5em .5em;
+	border: 1px solid silver;
+	margin-top: .5em;
+	margin-bottom: .5em;
+	width:auto;
+	background: #fff;
+}
+
+table.hierItemBlock td{
+	width:100%;
+}
+table.hierItemBlock td h4,table.hierItemBlock td h5,table.hierItemBlock td h6,
+.hierItemBlockChild h4,.hierItemBlockChild h5,.hierItemBlockChild h6{
+	display:inline;
+}
+
+.hierItemBlockWrapper {
+	background: #FFFFF1;
+	padding-top: 0.5em;
+}
+
+.hierItemBlock h4.textPanelHeader, .hierItemBlock h5.textPanelHeader, .hierItemBlock h6.textPanelHeader{
+	border-bottom: 1px solid silver;	
+	margin: 0 -.4em 1.0em -.4em;
+	padding:.5em;
+	background: #ffd !important;
+}
+
+.hierItemBlockChild{
+	margin:.5em 0;
+	margin-left:0.5em;
+	padding:.5em;
+	border-top:1px solid silver;
+}
+
+.hierItemBlockChild td{
+	padding:.3em;
+}
+
+/*SECTION 11 LAYOUT REQUIRED IN SPECIFIC TOOLS*/
+.chatListHeadWrapper{
+	padding:.2em;
+	margin-bottom: .5em;
+	border-bottom: 1px dotted silver;
+}
+
+#chatPresenceHeadWrapper, .chatPresenceHeadWrapper{
+	margin-bottom: .5em;
+	padding: 0 0  .2em .2em;
+	border-bottom: 1px dotted silver;
+}
+
+#chatListWrapper, .chatListWrapper{
+	width: 83%;
+	padding-bottom: .5em;
+	float: left;
+}
+
+.chatListMonitor {
+	height: 300px;
+	overflow-y: auto;
+	overflow-x: visible;
+}
+
+#chatPresenceWrapper, .chatPresenceWrapper{
+	width: 16%;
+	float: left;
+	border-left: 1px dotted silver;
+}
+
+#chatList, .chatList{
+	margin: 0;
+	padding-left: 1.2em;
+	list-style: none;
+	width: 96%;
+}
+
+#chatList li, .chatList li {
+	margin: .2em 0 0 2em;
+	padding: .2em 0;
+	text-indent: -3em;
+	line-height: 1.2em;
+}
+
+#chatList li .chatDate, .chatList li .chatDate {
+	font-size: .8em;
+}
+
+.discussionToolBarIframe{
+	height: 5em;
+	width: 100%;
+}
+
+#discussionLayoutTop-Bottom{
+	border-width: 1px 0 0 0;
+	border-style: solid;
+	border-color: silver;
+	clear: both;
+	width: 100%;
+}
+
+#discussionLayoutTop-Bottom .discussionListWrapper{
+	padding: 0;
+	vertical-align: top;
+}
+
+#discussionLayoutTop-Bottom .discussionItemWrapper{
+	padding: 0;
+	border-width: 1px 0 0 0;
+	border-style: solid;
+	border-color: silver;
+	vertical-align: top;
+}
+
+#discussionLayoutLeft-Right{
+	border-top: 1px solid silver;
+	clear: both;
+}
+
+#discussionLayoutLeft-Right .discussionListWrapper{
+	padding: 0;
+	width: 50%;
+	vertical-align: top;
+}
+
+#discussionLayoutLeft-Right .discussionItemWrapper{
+	padding: 0;
+	width: 50%;
+	vertical-align: top;
+/*	border-left: 1px solid orange;*/
+	padding-left:.2em
+}
+
+tr.selectedFound td{
+
+}
+
+
+.rosterImage{
+	border:1px solid #bbb;
+/* no height - so no distortion - adjust to a specific size if size known - otherwise leave as is
+height: 75px;*/
+	width:75px
+}
+
+.profileTable
+{
+	width:100%;
+
+	
+}
+.rosterImageCol{
+	width:80px;
+	vertical-align:top
+}
+
+.profileData
+{
+	padding-left:2em;
+	vertical-align:top
+}
+.profileData span{
+	display:block
+}
+.profileSearch
+{
+	width:40%;
+	text-align: right;
+	vertical-align:top;
+
+}
+.profileSearch table
+{
+	border:1px solid #fff
+}
+.profileSearch span
+{
+	text-align:left
+}
+.profileSearchResultsNav
+{
+float:right
+}
+.profileSearchResultsList
+{
+float:right;
+clear:both;
+text-align:right;
+margin-right:0;
+width:auto !important
+}
+.profileSearchResultsListSingle
+{
+	text-align:left
+}
+
+
+
+/*SECTION 12 TOOL TITLE SELECTORS and other PORTAL THINGS*/
+.portletTitle{
+	width: 100%;
+}
+
+.portletTitle .title img{
+	margin: 0;
+/*	vertical-align: text-bottom;*/
+	width: 18px;
+	height: 16px;
+}
+
+.portletTitle .title{
+	padding: 2px 4px 6px 4px;
+	height: 1em;
+	font-size: 120%;
+	float: left;
+	color: #000;
+}
+
+.portletTitle .title h2{
+	display: inline;
+	margin: 0 0 0 .2em;
+	padding: 0;
+	color: #CC0000;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+.portletTitle .title a{
+	background: url(images/reload.png) center left no-repeat;
+}
+
+.portletTitle .title a:hover{
+	background: url(images/reload_h.png) center left no-repeat;
+}
+
+.portletTitle .action{
+	padding: 2px 4px 6px 2px;
+	text-align: right;
+	vertical-align: middle;
+}
+
+.portletTitle .action img{
+	margin: 0;
+	vertical-align: text-bottom;
+	width: 16px !important;
+}
+
+.portletTitle .action a{
+	background: url(images/help.gif) center right no-repeat;
+}
+
+.portletTitle .action a:hover{
+	background: url(images/help_h.gif) center right no-repeat;
+}
+
+/*below for "presence in chat" functionality*/
+.presenceList{
+	font-size: .8em;
+	list-style: none;
+	margin: 0;
+	padding-left: .1em;
+	color: #7E7E7E;
+	background-color: #fff;
+	/*background-attachment: scroll;
+	background-image: url(images/img_present.gif);
+	background-position: bottom;
+	background-repeat: no-repeat;*/
+	border-bottom-width: 10px;
+	font-size: 11px;
+	font-weight: bold;
+	height: 120px;
+	
+}
+
+
+.presenceList li {
+	padding: 0 0 0 .7em;
+	margin-bottom: .2em;
+}
+
+/*see presense list when one member is in chat room*/
+.presenceList li.inChat {
+	background: url(images/chatpresicon.gif) -.1em center no-repeat;
+}
+
+/*some definitions overriding tool_base.css for the external xlogin screen*/
+.loginform label{
+	color: #000;
+}
+.login td.logo{
+	width: 16em;
+	background:#fff url(images/logo_inst.gif) 1em 1em no-repeat
+}
+/*temp work for mneme - will incorporate later to the rest 
+tables will be of various types according to their function and meaning - tableFlat, tableAction, tableHierarchical, tableItemSummary 
+right now "namespaced" for mneme only to avoid any possible conflicts*/
+.samSection .tableAction td {
+	vertical-align:middle
+}
+.samSection .tableAction td input{
+	margin: 0 5px 1px 1px;
+	vertical-align:top;
+}
+.samSection .tableAction td label{
+	border:1px solid #bbb;
+	padding:0 3px;
+	background: #ddd;
+}
+.samSection{
+	margin-left: 4em;
+	margin-right: 4em;
+	margin-top:2em;
+	margin-bottom:2em;
+}
+.samSectionHeader{
+	margin-left: -2em;
+	margin-right: -2em;
+}
+
+/* Make a list based css menu */
+
+
+ul.makeMenu, ul.makeMenu ul {
+  width: auto;
+  border: 1px solid #ddd;
+  background:#fff; 
+  padding: 3px;
+  padding-left: 6px;
+  margin-right: 3px;
+  cursor: default;
+  margin-left: 0px;
+	display:inline;
+	position: relative;
+	text-align: left;
+	white-space: nowrap;
+}
+ul.makeMenu:hover{
+	border:1px solid #666;
+}	
+.listHier ul.makeMenu img{
+	margin-right: 0;
+	vertical-align: middle;
+}
+
+ul.makeMenu li {
+  list-style-type: none;
+  margin: 0px;
+  position: relative;
+  color: #000000;
+ display:inline;
+}
+ul.makeMenu li > ul {
+  display: none;
+  position: absolute;
+  top: 4px;
+  left: 0;
+}
+ul.makeMenu li:hover, ul.makeMenu li.CSStoHighlight {
+   color:#ddd;
+}
+ul.makeMenu ul.CSStoShow {
+  display: block;
+
+}
+ul.makeMenu li:hover > ul {
+	display: block;
+  	width: 14em;
+	background-color:#ffffff;
+	background-image:none;
+	position:absolute;
+	border:1px solid #666;
+	margin-top:9px;
+ 	z-index:3
+	
+}
+ul.makeMenu li a { display: block; width: 90%; color: #7e7e7e;text-decoration:none;   padding:6px; 	white-space: normal; border-bottom:1px dashed; }
+
+ul.makeMenu li a:hover, ul.makeMenu li a.CSStoHighLink { color: #000;  border-bottom:1px dashed #444; background: #F3F3F3;  }
+ul.makeMenu li:hover > a { color: #000;}
+
+.makeMenu li ul li a {color: #7e7e7e;  font-size: 12px;  }
+
+.portletBody {
+width: 99%;
+}
+
+/*
+.navIntraTool a:link, .navIntraTool a, .chefToolBarWrap a:link, .chefToolBarWrap a, .chefToolBarWrapForm a, .chefToolBarWrapForm a:link {
+    background: none repeat scroll 0 0 #323232 !important;
+    border-bottom: 0px !important;
+    color: #fff !important;
+    font-size: 0.9em;
+    margin-right: 1em;
+    padding: 0 2px 0 3px;
+    text-decoration: none;
+}
+
+.navIntraTool a:hover, .chefToolBarWrap a:hover, .chefToolBarWrapForm a:hover {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-bottom: 0px !important;
+    border-image: none;
+    border-left: medium none;
+    border-right: medium none;
+    border-top: medium none;
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+.navIntraTool a:visited, .chefToolBarWrap a:visited, .chefToolBarWrapForm a:visited {
+    background: none repeat scroll 0 0 #323232 !important;
+    border-bottom: 0px !important;
+    color: #fff !important;
+    font-size: 0.9em;
+    padding: 0 2px 0 3px;
+    text-decoration: none;
+}
+*/

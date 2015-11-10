@@ -1,0 +1,14 @@
+##<!-- $Header: /cvs/sakai2/legacy/tools/src/webapp/vm/web/chef_iframe.vm,v 1.4 2005/05/15 17:05:28 gsilver.umich.edu Exp $ -->
+<div class="portletBody">
+<iframe 
+			width="100%"
+			id="wciframe"
+			style="width:100%;padding:0 !important; height:$height"
+			frameborder="0"
+			marginwidth="0"
+			marginheight="0"
+			scrolling="auto"
+			src="$!url">
+		</iframe>
+	</div>
+</div>

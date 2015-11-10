@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/http
+END
+EntityHttpServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/http/EntityHttpServletRequest.java
+END
+LazyResponseOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/http/LazyResponseOutputStream.java
+END
+URLData.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/http/URLData.java
+END
+EntityServletInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/http/EntityServletInputStream.java
+END
+EntityServletOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/http/EntityServletOutputStream.java
+END
+HttpRESTUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/http/HttpRESTUtils.java
+END
+HttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/http/HttpResponse.java
+END
+HttpClientWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/http/HttpClientWrapper.java
+END
+EntityHttpServletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/http/EntityHttpServletResponse.java
+END
+EasyX509TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/http/EasyX509TrustManager.java
+END
+LazyRequestInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/http/LazyRequestInputStream.java
+END
+EasySSLProtocolSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130363/msub/upv.es/PoliformaT/upv-2.9.3/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/http/EasySSLProtocolSocketFactory.java
+END

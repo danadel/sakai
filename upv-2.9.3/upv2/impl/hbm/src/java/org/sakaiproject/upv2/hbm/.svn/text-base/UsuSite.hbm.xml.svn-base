@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping default-cascade="none" default-lazy="false" package="org.sakaiproject.upv2.model">
+
+    <class name="org.sakaiproject.upv2.model.UsuSite" table="SAK_USUSITE">
+		<composite-id>
+			<key-property name="site_codigo" column="SITE_CODIGO" type="long" />
+			<key-property name="usu_userid" column="USU_USERID" type="string" />
+		</composite-id>	     
+
+		<property name="per_perfil" column="PER_PERFIL" type="string" not-null="true"/>		  
+	</class>
+	
+    <query name="findUsuSitesBySites">
+        <![CDATA[from org.sakaiproject.upv2.model.UsuSite as us where us_site_codigo=:site]]>
+    </query>	
+
+    <query name="findUsuSitesByUsu">
+        <![CDATA[from org.sakaiproject.upv2.model.UsuSite as us where us.usu_userid=:userid]]>
+    </query>	
+	
+</hibernate-mapping>

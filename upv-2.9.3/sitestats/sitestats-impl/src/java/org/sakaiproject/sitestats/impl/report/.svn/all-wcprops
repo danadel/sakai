@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/320048/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/report
+END
+ReportManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/320048/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/report/ReportManagerImpl.java
+END
+ReportDefEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/report/ReportDefEntityProducer.java
+END
+ReportDefEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130336/msub/upv.es/PoliformaT/upv-2.9.3/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/report/ReportDefEntityProvider.java
+END

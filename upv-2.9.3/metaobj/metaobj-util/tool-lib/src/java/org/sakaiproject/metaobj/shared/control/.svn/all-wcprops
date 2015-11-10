@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control
+END
+FormUsageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/FormUsageController.java
+END
+XmlControllerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/XmlControllerBase.java
+END
+FormCreateResourceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/FormCreateResourceHelper.java
+END
+ForwardView.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/ForwardView.java
+END
+FormViewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/FormViewController.java
+END
+XsltArtifactView.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/XsltArtifactView.java
+END
+AddStructuredArtifactDefinitionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/AddStructuredArtifactDefinitionController.java
+END
+HelperView.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/HelperView.java
+END
+DeleteStructuredArtifactDefinitionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/DeleteStructuredArtifactDefinitionController.java
+END
+EditXmlElementController.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/EditXmlElementController.java
+END
+XsltView.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/XsltView.java
+END
+PublishStructuredArtifactDefinitionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/PublishStructuredArtifactDefinitionController.java
+END
+SessionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/SessionListener.java
+END
+ImportStructuredArtifactDefinitionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/ImportStructuredArtifactDefinitionController.java
+END
+CheckForTimeout.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/CheckForTimeout.java
+END
+RedirectView.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/RedirectView.java
+END
+RefreshHomesController.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/RefreshHomesController.java
+END
+StructuredArtifactDefinitionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/StructuredArtifactDefinitionValidator.java
+END
+EditedArtifactStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/EditedArtifactStorage.java
+END
+EditStructuredArtifactDefinitionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/EditStructuredArtifactDefinitionController.java
+END
+XmlValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/XmlValidator.java
+END
+FormHelperController.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/FormHelperController.java
+END
+FormCreateHelperBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/FormCreateHelperBean.java
+END
+SiteHomeWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/SiteHomeWrapper.java
+END
+ListStructuredArtifactDefinitionsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/ListStructuredArtifactDefinitionsController.java
+END
+SakaiStyleSheetInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/SakaiStyleSheetInterceptor.java
+END
+ToolFinishedView.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/ToolFinishedView.java
+END
+AbstractStructuredArtifactDefinitionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/AbstractStructuredArtifactDefinitionController.java
+END
+TitleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/TitleController.java
+END
+SchemaBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/SchemaBean.java
+END
+AddXmlElementController.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/AddXmlElementController.java
+END
+StructuredArtifactValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/130384/msub/upv.es/PoliformaT/upv-2.9.3/metaobj/metaobj-util/tool-lib/src/java/org/sakaiproject/metaobj/shared/control/StructuredArtifactValidator.java
+END

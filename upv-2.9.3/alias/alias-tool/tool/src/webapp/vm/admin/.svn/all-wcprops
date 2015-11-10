@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/130370/msub/upv.es/PoliformaT/upv-2.9.3/alias/alias-tool/tool/src/webapp/vm/admin
+END
+chef_aliases_confirm_remove.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/130370/msub/upv.es/PoliformaT/upv-2.9.3/alias/alias-tool/tool/src/webapp/vm/admin/chef_aliases_confirm_remove.vm
+END
+chef_aliases_list.vm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130370/msub/upv.es/PoliformaT/upv-2.9.3/alias/alias-tool/tool/src/webapp/vm/admin/chef_aliases_list.vm
+END
+chef_aliases_noaccess.vm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/130370/msub/upv.es/PoliformaT/upv-2.9.3/alias/alias-tool/tool/src/webapp/vm/admin/chef_aliases_noaccess.vm
+END
+chef_aliases_edit.vm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/130370/msub/upv.es/PoliformaT/upv-2.9.3/alias/alias-tool/tool/src/webapp/vm/admin/chef_aliases_edit.vm
+END
