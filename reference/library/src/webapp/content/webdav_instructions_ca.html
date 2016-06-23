@@ -139,7 +139,7 @@
 		<div id="instr-windows8">
 			<h4>Configurar WebDAV per a Windows 8</h4>
 			<p>
-				<strong>Nota</strong>:  Ha d'haver almenys un objecte (fitxer, carpeta, etc.) als recursos de l'espai abans de començar la configuració. Aquesta configuració és necessària per a cada espai de PoliformaT si es vol usar el protocol WebDav per transferir fitxers de l'ordinador a l'espai o entre espais.
+				<strong>Nota</strong>:  Ha d'haver almenys un objecte (fitxer, carpeta, etc.) als recursos de l'espai abans de començar la configuració. Aquesta configuració és necessària per a cada espai de la plataforma si es vol usar el protocol WebDav per transferir fitxers de l'ordinador a l'espai o entre espais.
 			</p>
 			<ol>
 				<li>En primer lloc navegue al escriptori: després de iniciar sessió en Windows 8, clic en la icona Escriptori.
@@ -162,7 +162,7 @@
 			<div id="instr-windows7">
 			<h4>Configuraci&oacute; WebDAV per a Windows Vista/Windows 7</h4>
 
-				<p><strong>Nota 1</strong>: Ha d'haver almenys un objecte (fitxer, carpeta, etc.) als recursos de l'espai abans de comen&ccedil;ar la configuraci&oacute;. Aquesta configuraci&oacute; &eacute;s necess&agrave;ria per a cada espai de PoliformaT si es vol usar el protocol WebDav per transferir fitxers de l'ordinador a l'espai o entre espais.</p>
+				<p><strong>Nota 1</strong>: Ha d'haver almenys un objecte (fitxer, carpeta, etc.) als recursos de l'espai abans de comen&ccedil;ar la configuraci&oacute;. Aquesta configuraci&oacute; &eacute;s necess&agrave;ria per a cada espai de la plataforma si es vol usar el protocol WebDav per transferir fitxers de l'ordinador a l'espai o entre espais.</p>
 
 				<p><strong>Nota 2</strong>: Per usar WebDAV a <em>Windows Vista</em> &eacute;s necessari tenir instal&middot;lat Service Pack 2. Si no teniu Service Pack 2 instal&middot;lat, heu d'executar Windows Update fent clic sobre <strong>Inici &gt; Tots els programes &gt; Windows Update</strong>.</p>
 
@@ -171,22 +171,18 @@
                     <li>Desde la part superior de la finestra, feu clic sobre <strong>Connecta a una unitat de xarxa</strong>.</li>
 					<li>Seleccioneu una letra d'unitat lliure (i.e., Z) de la llista d'<em>Unitats</em>.</li>
                     <li>A l'apartat <em>Carpeta</em>, escriviu (podeu copiar i enganxar) la URL d'aquest espai que apareix al pas 1 i feu clic sobre <strong>Finalitza</strong>.</li>
-                    <li>A la finestra emergent, heu d'introduir l'usuari i la clau de PoliformaT i fer clic sobre <strong>Accepta</strong>. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A POLIFORMAT EN AQUEST USUARI.</font></li>
-					<li>A partir d'aquest moment podeu copiar i enganxar o arrossegar fitxers i carpetes des del vostre ordinador cap a la unitat nova. Els fitxers seran accesibles des de l'eina de recursos de l'espai dins de PoliformaT.</li>
+                    <li>A la finestra emergent, heu d'introduir l'usuari i la clau de la plataforma i fer clic sobre <strong>Accepta</strong>. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A LA PLATAFORMA EN AQUEST USUARI.</font></li>
+					<li>A partir d'aquest moment podeu copiar i enganxar o arrossegar fitxers i carpetes des del vostre ordinador cap a la unitat nova. Els fitxers seran accesibles des de l'eina de recursos de l'espai dins de la plataforma.</li>
 				</ol>
 			
 				<p>Quan el proc&eacute;s de configuraci&oacute; acabi, els recursos de l'espai apareixeran a una unitat dins de El meu PC o Equip, i es comportar&agrave; com qualsevol disc dur dins de Windows. </p>
 
 				<h5>M&egrave;tode alternatiu per configurar WebDAV a Windows Vista o Windows 7 usant Cyberduck</h4>
 
-				<p><strong>Nota:</strong>: Ha d'haver almenys un objecte (fitxer, carpeta, etc.) als recursos de l'espai abans de començar la configuració. Aquesta configuració és necessària per a cada espai de PoliformaT si es vol usar el protocol WebDav per transferir fitxers de l'ordinador a l'espai o entre espais. </p>
+				<p><strong>Nota:</strong>: Ha d'haver almenys un objecte (fitxer, carpeta, etc.) als recursos de l'espai abans de començar la configuració. Aquesta configuració és necessària per a cada espai de la plataforma si es vol usar el protocol WebDav per transferir fitxers de l'ordinador a l'espai o entre espais. </p>
 
 				<ol>
-					<li>Seguint les instruccions detallades <strong>al Pas 1</strong> de la opció <strong>transfereix múltiples fitxers</strong> localizarem l'enllaç que necessitem per a configurar la conexió, agafarem per a este exemple:
-						<ul>
-							<li><em>https://poliformat.upv.es/dav/GRA_12575_2013</em> (per a Recursos)</li>
-							<li><em>https://poliformat.upv.es/dav/group-user/GRA_12575_2013</em> (per a Espai Compartit)</li>
-						</ul>
+					<li>Seguint les instruccions detallades <strong>al Pas 1</strong> de la opció <strong>transfereix múltiples fitxers</strong> localizarem l'enllaç que necessitem per a configurar la conexió.
 					</li>
 					<li>Accediu a la web de Cyberduck: <a href="http://cyberduck.ch" target="_blank">http://cyberduck.ch</a></li>
 					<li>Feu clic sobre l'enllaç <strong>Descargar</strong></li>
@@ -194,19 +190,14 @@
 					<li>Obriu l'aplicació Cyberduck des de la carpeta Aplicacions.</li>
 					<li>Feu clic sobre el botó <strong>Nova Conexi&oacute;</strong>.</li>
 					<li>Seleccioneu WebDAV (HTTP/SSL)</li>
-					<li>Al camp <b>Servidor</b> escriviu: <b><span class="webDavHostName">https://poliformat.upv.es</span></b></li>
+					<li>Al camp <b>Servidor</b> escriviu: <b><span class="webDavHostName">hostname</span></b></li>
 					<li>Al camp <b>Port</b> escriviu: <span class="webDavPort">443</span></li>
-					<li>Introduiu el vostre usuari i la clau de PoliformaT. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A POLIFORMAT EN AQUEST USUARI PER A QUE WebDav TE FUNCIONE.</font></li>														
-					<li>Premeu <i>Mes opcions</i> i fiqueu en <b>Carpeta</b> el final del'adreça URL del pas 1. Segons l'exemple, una d'estes dos rutes:
-						<ul>
-							<li><em>dav/GRA_12575_2013</em> (per a Recursos)</li>
-							<li><em>dav/group-user/GRA_12575_2013</em> (per a Espai Compartit)</li>
-						</ul>
-					</li>
+					<li>Introduiu el vostre usuari i la clau de la plataforma. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A LA PLATAFORMA EN AQUEST USUARI PER A QUE WebDav TE FUNCIONE.</font></li>														
+					<li>Premeu <i>M&eacute;s opcions</i> i escriviu (o copieu i enganxeu) a <b>Cam&iacute;</b> el final de l'adre&ccedil;a URL del pas 1: <em><span class="webDavFolderUrlEncoded">dav/xxxx-xxxx-xxxx</span></em>.</li>
 					<li>Feu clic sobre el botó  <b>Connecta</b>.</li>
 				</ol>
 
-				<p>Ara apareixerà una finestra que representa els recursos que teniu a l'espai de PoliformaT. Podeu copiar i enganxar o arrossegar des de les vostres finestres del finder cap a aquesta nova finestra per transferir els fitxers a recursos de l'espai dins de PoliformaT.</p>
+				<p>Ara apareixerà una finestra que representa els recursos que teniu a l'espai de la plataforma. Podeu copiar i enganxar o arrossegar des de les vostres finestres del finder cap a aquesta nova finestra per transferir els fitxers a recursos de l'espai dins de la plataforma.</p>
 	
 			
 				<h5>M&egrave;tode alternatiu per configurar WebDAV a Windows Vista o Windows 7 usant AnyClient</h5>
@@ -219,9 +210,9 @@
 			  		<li>Executeu el fitxer <strong>install.exe</strong> i completeu l'assistent d'instal&middot;laci&oacute;.</li>
 			  		<li>Si la instal&middot;laci&oacute; no inicia autom&agrave;ticament el programa AnyClient, feu clic sobre <strong>Inici &gt; Tots els programes &gt; AnyClient &gt; AnyClient</strong> per executar AnyClient.</li>
 			  		<li>Feu clic sobre <strong>Connect</strong> a la part inferior esquerra.</li>
-			  		<li>Feu clic sobre <strong>New</strong> a la part inferior esquerra i poseu un nom de connexi&oacute; relacionat amb el vostre espai dins de PoliformaT (per exemple, <em>Recursos de Did&agrave;ctica de l'educaci&oacute;</em>) i feu clic sobre Next.</li>
+			  		<li>Feu clic sobre <strong>New</strong> a la part inferior esquerra i poseu un nom de connexi&oacute; relacionat amb el vostre espai dins de la plataforma (per exemple, <em>Recursos de Did&agrave;ctica de l'educaci&oacute;</em>) i feu clic sobre Next.</li>
 			  		<li>A l'apartat de <em>Host</em>, escriviu (o copieu o enganxeu) la URL d'aquest espai que apareix al pas 1 i feu clic a Finalitza.</li>
-					<li>Heu d'introduir el vostre usuari i clau de PoliformaT. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A POLIFORMAT EN AQUEST USUARI.</font></li>
+					<li>Heu d'introduir el vostre usuari i clau de la plataforma. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A LA PLATAFORMA EN AQUEST USUARI.</font></li>
 			  		<li>A l'apartat de <em>Connection type</em>, seleccioneu WebDAV.</li>
 			  		<li>Feu clic sobre <strong>Save</strong> a la part inferior de la finestra si voleu recordar les dades per futures connexions i feu clic a <strong>Connecta</strong>.</li>
 			  		<li>Una vegada obert el programa AnyClient, seleccionarem la carpeta on volem que s'ubiquen els documents descarregats.</li>
@@ -235,14 +226,14 @@
 			
 				<p><strong>Nota 1</strong>: Segons la versi&oacute; del seu sistema operatiu l'&uacute;s de Finder pot ser err&agrave;tic. Si us d&oacute;na problemes recomanem que useu <a href="#osx">Cyberduck</a>.
 
-				<p><strong>Nota 2</strong>: Ha d'haver almenys un objecte (fitxer, carpeta, etc.) a l'eina Recursos de l'espai abans de comen&ccedil;ar la configuraci&oacute;. Aquesta configuraci&oacute; &eacute;s necess&agrave;ria per a cada espai de PoliformaT si es vol usar el protocol WebDav per transferir fitxers del seu ordinador a l'espai o entre espais.</p>
+				<p><strong>Nota 2</strong>: Ha d'haver almenys un objecte (fitxer, carpeta, etc.) a l'eina Recursos de l'espai abans de comen&ccedil;ar la configuraci&oacute;. Aquesta configuraci&oacute; &eacute;s necess&agrave;ria per a cada espai de la plataforma si es vol usar el protocol WebDav per transferir fitxers del seu ordinador a l'espai o entre espais.</p>
 				
 				<ol>
 					<li>Des del men&uacute; de la part superior del Finder, seleccioneu <strong>Ves a &gt; Connectar-se al servidor</strong>.</li>
 					<li>Al camp <em>Adre&ccedil;a del servidor</em>, introdu&iuml;u (o copieu i enganxeu) l'adre&ccedil;a URL que apareix a la part superior d'aquesta p&agrave;gina.</li>
 					<li>Feu clic sobre el bot&oacute; <strong>+</strong> si voleu desar aquesta adre&ccedil;a URL per a accessos futurs.</li>
 					<li>Feu clic sobre <strong>Connecta</strong>.</li>
-					<li>Introduiu el vostre usuari de PoliformaT y la clau i feu clic sobre <strong>Connecta</strong>. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A POLIFORMAT EN AQUEST USUARI.</font></li>
+					<li>Introduiu el vostre usuari de la plataforma y la clau i feu clic sobre <strong>Connecta</strong>. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A LA PLATAFORMA EN AQUEST USUARI.</font></li>
 				</ol>
 
 				<p>Al Mac apareixer&agrave; una finestra que representa els recursos que teniu al vostre espai. Podeu copiar i enganxar o arrossegar des de les vostres finestres del finder cap a aquesta nova finestra per transferir els fitxers a l'eina recursos de l'espai. </p>
@@ -251,17 +242,34 @@
 
 			<div id="instr-linux">
 			<h4>Configuraci&oacute; WebDAV per a Linux (Gnome)</h4>
+			<ol>
+				<li>Anem a <b>Archivos &gt; Conectar con el servidor...</b></li>
+				<li>En <b>Direcci&oacute; de servidor</b> introdu&iuml;m la direcci&oacute;: <b><em><span class="webDavGnomeUrl">davs://xxxx/dav/xxxx</span></em></b></li>				
+				<li>Click al bot&oacute; <b>Conectar</b>.</li>
+				<li>Al conectar li apareixer&aacute; una finestra demanant la clau de la plataforma.</li>
+			</ol>
+			
+			<p>
+				Cuando el proceso de configuraci&oacute;n est&aacute; completo, la
+				carpeta de recursos del sitio aparecera en <b>Archivos</b>, y
+				actuar&aacute; como una carpeta normal dentro de Linux. Ahora podemos
+				copiar, pegar, arrastrar todo tipo de ficheros y carpetas de nuestro
+				ordenador a esta nueva carpeta.
+			</p>
+
+
+			<h4>Configuraci&oacute; WebDAV per a Linux (Gnome) versions anteriors</h4>
 				
 				<ol>
 					<li>Aneu a <b>Llocs &gt; Connecta't a un servidor...</b></li>
 					<li>Al desplegable <b>Tipus de servei</b> seleccioneu WebDav <span class="webDavService"></span>.</li>
-					<li>Al camp <b>Servidor</b> introdu&iuml;u (o copieu i enganxeu): <b><span class="webDavHostName">https://poliformat.upv.es</span></b>.</li>
-					<li>Al camp <b>Port</b> introdu&iuml;u (o copieu i enganxeu): <span class="webDavPort">443</span>.</li>
+					<li>Al camp <b>Servidor</b> introdu&iuml;u (o copieu i enganxeu): <b><span class="webDavHostName">hostname</span></b>.</li>
+					<li>Al camp <b>Port</b> introdu&iuml;u (o copieu i enganxeu): <span class="webDavPort">80</span>.</li>
 					<li>Al camp <b>Carpeta</b> introdu&iuml;u (o copieu i enganxeu) el final de l'adre&ccedil;a URL del pas 1: <em><span class="webDavFolderUrlEncoded">dav/xxxx-xxxx-xxxx</span></em></li>
 					<li>Marqueu l'opci&oacute; <b>Afegeix l'adre&ccedil;a d'inter&egrave;s</b></li>
-					<li>Al camp <b>Nom de l'adre&ccedil;a d'inter&egrave;s</b> introdu&iuml;u el nom de la carpeta que se crear&agrave; dins de Xarxa i que far&agrave; refer&egrave;ncia al vostre espai de PoliformaT (per exemple, <em>Recursos de Did&agrave;ctica de l'educaci&oacute;)</em> i feu clic a <strong>Seg&uuml;ent</strong>.</li>
+					<li>Al camp <b>Nom de l'adre&ccedil;a d'inter&egrave;s</b> introdu&iuml;u el nom de la carpeta que se crear&agrave; dins de Xarxa i que far&agrave; refer&egrave;ncia al vostre espai de la plataforma (per exemple, <em>Recursos de Did&agrave;ctica de l'educaci&oacute;)</em> i feu clic a <strong>Seg&uuml;ent</strong>.</li>
 					<li>Premeu el bot&oacute;n <b>Connecta</b>.</li>
-					<li>Al connectar apareixer&agrave; una finestra sol&middot;licitant la clau de PoliformaT.<font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A POLIFORMAT EN AQUEST USUARI.</font></li>			
+					<li>Al connectar apareixer&agrave; una finestra sol&middot;licitant la clau de la plataforma.<font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A LA PLATAFORMA EN AQUEST USUARI.</font></li>			
 				</ol>
 				
 				<p>Quan s'hagi completat el proc&eacute;s de configuraci&oacute;, la carpeta de recursos de l'espai apareixer&agrave; a <b>Llocs</b>, i actuar&agrave; com una carpeta normal dins de Linux. Podreu copiar, enganxar i arrossegar tot tipus de fitxers i carpetes del vostre ordinador cap a aquesta nova carpeta.</p>
@@ -273,14 +281,14 @@
 					<li>A la part esquerra, a <strong>Llocs</strong> seleccioneu <b>Xarxa</b>.</li>
 					<li>A continuaci&oacute; premeu <b>Afegeix una carpeta de xarxa</b>.</li>
 					<li>Marqueu <em>Carpeta Web (webdav)</em> i premeu <em>Seg&uuml;ent</em>.</li>
-					<li>Al camp <b>Nom</b> introdu&iuml;u el nom de la carpeta que es crear&agrave; dins de Xarxa i que far&agrave; refer&egrave;ncia al vostre espai de PoliformaT (per exemple, <em>Recursos de Did&agrave;ctica de l'educaci&oacute;)</em> i feu clic a <strong>Seg&uuml;ent</strong>.</li>
-					<li>Al camp <b>Usuari</b> introdu&iuml;u el vostre usuari de PoliformaT.</li>
-					<li>Al camp <b>Servidor</b> introdu&iuml;u (o copieu i enganxeu): <b><span class="webDavHostName">https://poliformat.upv.es</span></b>.</li>
+					<li>Al camp <b>Nom</b> introdu&iuml;u el nom de la carpeta que es crear&agrave; dins de Xarxa i que far&agrave; refer&egrave;ncia al vostre espai a la plataforma (per exemple, <em>Recursos de Did&agrave;ctica de l'educaci&oacute;)</em> i feu clic a <strong>Seg&uuml;ent</strong>.</li>
+					<li>Al camp <b>Usuari</b> introdu&iuml;u el vostre usuari a la plataforma.</li>
+					<li>Al camp <b>Servidor</b> introdu&iuml;u (o copieu i enganxeu): <b><span class="webDavHostName">hostname</span></b>.</li>
 					<li>Al camp <b>Carpeta</b> introdu&iuml;u (o copieu i enganxeu) el final de l'adre&ccedil;a URL del paso 1: <em><span class="webDavFolderUrlEncoded">dav/xxxx-xxxx-xxxx</span></em>.</li>
-					<li>Si l'adre&ccedil;a &eacute;s HTTPS marqueu l'opci&oacute; <b>Xifrada</b>, al fer-ho el port canviar&agrave; autom&agrave;ticament a <span class="webDavPort">443</span>.</li>
+					<li>Si l'adre&ccedil;a &eacute;s HTTPS marqueu l'opci&oacute; <b>Xifrada</b>, al fer-ho el port canviar&agrave; autom&agrave;ticament a <span class="webDavPort">80</span>.</li>
 					<li>Amb l'opci&oacute; <b>Crea una icona per a aquesta carpeta remota</b>, fareu que es desin totes les dades i no les haureu de tornar a introduir.</li>
 					<li>Premeu el bot&oacute; <b>Desa i connecta</b>.</li>	
-					<li>Al connectar apareixer&agrave; una finestra sol&middot;licitant la clau de PoliformaT. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A POLIFORMAT EN AQUEST USUARI.</font></li>				
+					<li>Al connectar apareixer&agrave; una finestra sol&middot;licitant la clau de la plataforma. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A LA PLATAFORMA EN AQUEST USUARI.</font></li>				
 				</ol>
 				
 				<p>Quan s'hagi completat el proc&eacute; de configuraci&oacute;, la carpeta de recursos de l'espai apareixer&agrave; a <b>Xarxa</b> dins del gestor de fitxers <em>(Dolphin)</em>, i funcionar&agrave; com una carpeta normal dins de Linux. Podreu copiar, enganxar i arrossegar tot tipus de fitxers i carpetes dels vostre ordinador a aquesta nova carpeta.</p>
@@ -291,7 +299,7 @@
 					<li>Obriu un terminal.</li>
 					<li>Escriviu la instrucci&oacute; <strong>cadaver <span class="webDavUrlEncoded">i com a opci&oacute; l'adre&ccedil;a URL del pas 1</span></strong>.</li>
 					<li>Pot ser que el programa us sol&middot;liciti que accepteu el certificat de la vostra instituci&oacute;.</li>
-					<li>Haureu d'autenticar-vos amb el vostre usuari i clau de PoliformaT. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A POLIFORMAT EN AQUEST USUARI.</font></li>
+					<li>Haureu d'autenticar-vos amb el vostre usuari i clau de la plataforma. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A LA PLATAFORMA EN AQUEST USUARI.</font></li>
 					<li>Podeu ara pujar i baixar documents usant la l&iacute;nia de comandes.</li>					
 				</ol>
 							
@@ -303,15 +311,15 @@
 		<div id="instr-other">
 	
 			<h4>Configuraci&oacute; per a Windows XP</h4>
-				<p><strong>Nota</strong>: Ha d'haver almenys un objecte (fitxer, carpeta, etc.) als recursos de l'espai abans de comen&ccedil;ar la configuraci&oacute;. Aquesta configuraci&oacute; &eacute;s necess&agrave;ria per a cada espai de PoliformaT si es vol usar el protocol WebDav per transferir fitxers de l'ordinador a l'espai o entre espais. </p>
+				<p><strong>Nota</strong>: Ha d'haver almenys un objecte (fitxer, carpeta, etc.) als recursos de l'espai abans de comen&ccedil;ar la configuraci&oacute;. Aquesta configuraci&oacute; &eacute;s necess&agrave;ria per a cada espai de la plataforma si es vol usar el protocol WebDav per transferir fitxers de l'ordinador a l'espai o entre espais. </p>
 				<ol>
 			  		<li>Feu clic dos cops sobre la icona <strong>Els meus llocs de xarxa</strong> a l'escriptori o feu clic a <strong>Inici &gt; Els meus llocs de xarxa</strong>.</li>
 			 	 	<li>Feu clic sobre <strong>Afegeix un lloc de xarxa</strong> al men&uacute; de l'esquerra.</li>
 			  		<li>Feu clic sobre <strong>Seg&uuml;ent</strong>.</li>
 			  		<li>Assegureu-vos que l'opci&oacute; <em>Escull una altra ubicaci&oacute; de xarxa</em> estigui seleccionada i feu clic sobre <strong>Seg&uuml;ent</strong>.</li>
 				  	<li>Al camp <em>Adre&ccedil;a de xarxa o Internet</em>, escriviu (podeu copiar i enganxar) la URL de l'espai que apareix al pas 1 i feu clic sobre <strong>Seg&uuml;ent</strong>.</li>
-				  	<li>Apareixer&agrave; una pantalla a on heu d'introduir l'usuari i la clau de PoliformaT i fer clic sobre <strong>Accepta</strong>. RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A POLIFORMAT EN AQUEST USUARI</li>
-			  		<li>Podeu afegir un nom per la carpeta que es crear&agrave; dins de Els meus llocs de xarxa que far&agrave; refer&egrave;ncia al vostre espai de PoliformaT (per exemple, <em>Recursos de Did&agrave;ctica de l'educaci&oacute;)</em> i feu clic sobre <strong>Seg&uuml;ent</strong>.</li>
+				  	<li>Apareixer&agrave; una pantalla a on heu d'introduir l'usuari i la clau de la plataforma i fer clic sobre <strong>Accepta</strong>. RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A LA PLATAFORMA EN AQUEST USUARI</li>
+			  		<li>Podeu afegir un nom per la carpeta que es crear&agrave; dins de Els meus llocs de xarxa que far&agrave; refer&egrave;ncia al vostre espai de la plataforma (per exemple, <em>Recursos de Did&agrave;ctica de l'educaci&oacute;)</em> i feu clic sobre <strong>Seg&uuml;ent</strong>.</li>
 					<li>Feu clic sobre <strong>Finalitza</strong> per completar la configuraci&oacute;.</li>
 				</ol>
 				<p>Quan el proc&eacute;s de configuraci&oacute; s'hagi completat, la carpeta de recursos de l'espai apareixer&agrave; a Els meus llocs de xarxa, i funcionar&agrave; com una carpeta normal dins de Windows. Ara podreu copiar, enganxar o arrossegar tot tipus de fitxers i carpetes del vostre ordinador a aquesta nova carpeta.</p>
@@ -319,7 +327,7 @@
 	
 			<h4>Configuraci&oacute; de WebDAV per a Mac usant Cyberduck</h4>
 
-				<p><strong>Nota:</strong>: Ha d'haver almenys un objecte (fitxer, carpeta, etc.) als recursos de l'espai abans de comen&ccedil;ar la configuraci&oacute;. Aquesta configuraci&oacute; &eacute;s necess&agrave;ria per a cada espai de PoliformaT si es vol usar el protocol WebDav per transferir fitxers de l'ordinador a l'espai o entre espais.</p>
+				<p><strong>Nota:</strong>: Ha d'haver almenys un objecte (fitxer, carpeta, etc.) als recursos de l'espai abans de comen&ccedil;ar la configuraci&oacute;. Aquesta configuraci&oacute; &eacute;s necess&agrave;ria per a cada espai de la plataforma si es vol usar el protocol WebDav per transferir fitxers de l'ordinador a l'espai o entre espais.</p>
 
 				<ol>
 					<li>Cal baixar el client WebDAV Cyberduck.
@@ -333,14 +341,14 @@
 					<li>Obriu l'aplicaci&oacute; Cyberduck des de la carpeta Aplicacions.</li>
 					<li>Feu clic sobre el bot&oacute; <strong>Nova connexi&oacute;</strong>.</li>
 					<li>Seleccioneu WebDAV<span class="webDavService"></span>.</li>
-					<li>Al camp <b>Servidor</b> escriviu (o copieu i enganxeu): <b><span class="webDavHostName">https://poliformat.upv.es</span></b>.</li>
-					<li>Al camp <b>Port</b> escriviu (o copieu i enganxeu): <span class="webDavPort">443</span>.</li>
-					<li>Introduiu el vostre usuari i la clau de PoliformaT. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A POLIFORMAT EN AQUEST USUARI.</font></li>														
+					<li>Al camp <b>Servidor</b> escriviu (o copieu i enganxeu): <b><span class="webDavHostName">hostname</span></b>.</li>
+					<li>Al camp <b>Port</b> escriviu (o copieu i enganxeu): <span class="webDavPort">80</span>.</li>
+					<li>Introduiu el vostre usuari i la clau de la plataforma. <font color="red">RECORDEU QUE HEU DE TINDRE OBERTA UNA SESIÓ AUTENTICADA A LA PLATAFORMA EN AQUEST USUARI.</font></li>														
 					<li>Premeu <i>M&eacute;s opcions</i> i escriviu (o copieu i enganxeu) a <b>Cam&iacute;</b> el final de l'adre&ccedil;a URL del pas 1: <em><span class="webDavFolderUrlEncoded">dav/xxxx-xxxx-xxxx</span></em>.</li>
 					<li>Feu clic sobre el bot&oacute; <b>Connecta</b>.</li>
 				</ol>
 
-				<p>Al Mac apareixer&agrave; una finestra que representa els recursos que teniu a l'espai de PoliformaT. Podeu copiar i enganxar o arrossegar des de les vostres finestres del finder cap a aquesta nova finestra per transferir els fitxers a recursos de l'espai dins de PoliformaT.</p>
+				<p>Al Mac apareixer&agrave; una finestra que representa els recursos que teniu a l'espai de la plataforma. Podeu copiar i enganxar o arrossegar des de les vostres finestres del finder cap a aquesta nova finestra per transferir els fitxers a recursos de l'espai dins de la plataforma.</p>
 		</div>
 
 		</div>
